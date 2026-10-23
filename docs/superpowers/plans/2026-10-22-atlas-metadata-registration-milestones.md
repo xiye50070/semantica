@@ -1618,3 +1618,10 @@ M1.2状态前向更新为`ROOT_ACCEPTED`，限原四项技术判据，真人最�
 后端原分支精确提交M1.1 ba545a88546701030b48f222b9c6d0489ce541ff（13路径）和M1.2 f6e43062dc845192064bf8cf3fd3db757eebb773（44路径）；前端原分支M1.1 229e09e75fd817e6ad52777f917b6348890630cf（13路径）和M1.2 0a82bc19364bb4ede8e3b5f56b4c9f1fe5520a2a（15路径）。两次push exit0，独立ls-remote逐一精确同最终HEAD。前端先前已授权的组件规范清理2d1af4ec随分支前进，不算M1.2路径。暂存与提交精确集、每项blob核对通过，工作树相关81源字节保持；更早Spaces和其它WIP未夹带。
 
 详[Git交付说明](../implementations/2026-10-23-atlas-registration-m1/m1-2-git-delivery.md)。文档将以origin/main e12eec40为父版本，在codex/atlas-registration-m1-docs精确交付55个公开文件；本地main315216c不动，不推送其额外347个既有提交，原始大档案/私有材料仍保本地。此时文档远端未完成，不冒全交付完成；完成后Root通知原Work进入M1.3，原序到M1.5及M2，每节点独验，真人最终PENDING。
+
+
+### 17.43 M1.2文档远端完成与M1.3放行（2026-10-23）
+
+M1.2已ROOT_ACCEPTED并完成精确代码及公开文档Git交付。文档提交4a3e0489ddb8df99eef9572ca6ff56538aedac92（55路径）实际push exit0，独立ls-remote精确相同，分支codex/atlas-registration-m1-docs；父e12eec40，未夹带本地main额外347个提交。本地main/真实index/工作文件不切换不重置。代码远端仍为§17.42两仓实际HEAD。当前段与Git说明的完成回执随后单独提交，不回填原准备截面。
+
+依最新真人“补齐两项后完成M1.2独验Git，通过后让原会话继续M1以及M2”，现在只放行同Work 01a1618d-a3be-7c91-96a7-74a0f95a979f的M1.3，原计划§5有限原生权限配置与实际生效验证。M1.4/1.5及M2仍按各前置独验门顺序推进，不并行预做；整个M1通过才M2。已确认身份、UUID、任务、版本、原生效果、失败与UNKNOWN继续复用，不重放M1.2维护/consumer或再制档案。实施者自行完成常规授权工作，Root主动读关键差额和原结果；仅新敏感扩权/破坏/业务选择/未解除审批请求最小具体决定。当前普通套餐余49%，只是放行时截面，后续仍实时核0%停线。真人最终PENDING，不冒USER_ACCEPTED。
