@@ -1,0 +1,14 @@
+{
+  "pid": 86412,
+  "createTime": 1792762920.00625,
+  "pgid": 86412,
+  "sid": 86412,
+  "at": "2026-10-23T13:42:00.007753+00:00",
+  "normalMainOnly": true,
+  "state": "NORMAL_RUNTIME_LISTENING_AFTER_PARENT_EXIT",
+  "startupGET": 5,
+  "startupNativeWrites": 0,
+  "previousStrictZeroGETExpectationFailedAndPreserved": true,
+  "rotationAlreadySucceededNoReplay": true,
+  "observedAt": "2026-10-23T13:43:24.342202+00:00"
+}

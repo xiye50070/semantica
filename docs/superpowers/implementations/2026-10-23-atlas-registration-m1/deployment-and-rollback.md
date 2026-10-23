@@ -1,0 +1,9 @@
+# M1.1 部署与回退说明（尚未执行）
+
+当前交付只完成源码与隔离H2验证。Atlas共享后端未部署、未重启，MySQL与DM8迁移均未在实际数据库执行；H2通过不能视为两种生产数据库已实测。
+
+部署顺序：先确认Atlas当前本地业务DataSource的实际数据库类型，审核并应用唯一对应迁移，再启用本次后端与前端。MySQL使用`/Users/wangmingzhang/atlas-cloud/sql/ontology/V20261023_30__ontology_project_preparation.sql`；DM8使用同目录`dm8/V20261023_30__ontology_project_preparation.sql`。两份不可混用或重复执行；迁移无IF NOT EXISTS，碰撞或任一步失败应停并核对实际状态，不自动重试或清理。它们仅增加四个本地表和索引，不创建IAM授权、OM资源或源业务数据。
+
+新旧共享的项目创建入口现在依赖ontology_project_create_request；必须先准备该表及其余三表再启动新后端。不能先换包后依靠首个创建请求补表。确认同一Atlas事务DataSource及增量schema后，再做部署验证；本节点未实施这些实际动作。
+
+回退：恢复已保留的旧应用包和对应前端版本，保留ontology_project_create_request、ontology_project_preparation、ontology_initialization_intent、ontology_preparation_audit全部数据，亦保留项目及原知识空间数据，不执行DROP/DELETE或回滚业务行。对创建ACK丢失或UNKNOWN意图，保留原key/body，只读核对；旧版本若不提供核对端点，应暂停该意图并待受控恢复，不能换key重建或重放未知创建。M1.1没有生产runner或原生副作用执行，回退不应启动任何后台任务。

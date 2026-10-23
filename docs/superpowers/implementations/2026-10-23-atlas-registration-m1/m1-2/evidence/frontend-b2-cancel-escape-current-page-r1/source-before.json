@@ -1,0 +1,97 @@
+{
+  "at": "2026-10-23T14:19:36.501554+00:00",
+  "work": "/private/tmp/atlas-m12-b2-cancel-escape-khfcvksp",
+  "productSources": [
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologyModelingAccessPage.tsx",
+      "sha256": "aa608c0d8322bdde3af575250d223dca1c5bef48fd1d367e64d847b857e25695",
+      "bytes": 66156
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/modelingProfileContinuationApi.ts",
+      "sha256": "7a7de0fe454f87167ad771051a08aac3f3dfb4c0c5452638f3a41bfdc7921e52",
+      "bytes": 11048
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/modelingAccessApi.ts",
+      "sha256": "98168d2ea68245546f2f8176a1d2e0e4555d32e52aa364db62037255ca41a8c6",
+      "bytes": 24896
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/modelingProvisionPreflightApi.ts",
+      "sha256": "2c54dbd84c43fba0e75b9a23e672c5b066a0e719835285b979777b034bc1f057",
+      "bytes": 9208
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/modelingProfileVerificationApi.ts",
+      "sha256": "626e5567fb02de2402dc9e1e290cde49f917656869c213785a87419714904bf0",
+      "bytes": 11099
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/modelingProfileVerificationResumeApi.ts",
+      "sha256": "32853bca1c581c89d839493366a98bbcbcda2e3b91d1a597ce1839e438718355",
+      "bytes": 11366
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/modelingConfirmedReadonlyEpisodeApi.ts",
+      "sha256": "84cd06efc1295ce43330afcc411dcede9a1e11f2821fbd476c45be934d7ee004",
+      "bytes": 11883
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/platform/useOwnedConfirm.ts",
+      "sha256": "fe0e9ad572fa8acf2e9f98477ac35b41b5f626adb90d9ed81cad71547046ff55",
+      "bytes": 622
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/infra/infraCommon.tsx",
+      "sha256": "e02e3ff33820568b44cce44fa6cb0b9d6fd1a354b931030b9d4e6d637899d287",
+      "bytes": 8015
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/platform/http.ts",
+      "sha256": "b4134ac25584cca407bee3c4b6a4392a0c594861f4909c452670786d67be19b6",
+      "bytes": 12176
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/shared/auth-session.ts",
+      "sha256": "593888a2b97347af5aca0aedd106052816201449a75305a845fcdc9d74d91960",
+      "bytes": 11970
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/ui/index.ts",
+      "sha256": "21a4514eb50b16da07283bf4b2d2f9e5de496b89073bfc4f9d89b75f65d9978d",
+      "bytes": 839
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/modelingAccess.css",
+      "sha256": "2387e418e2f628add23cbafaa0048668f86ab846e62aa8503b9e0b7de774e3cd",
+      "bytes": 4911
+    }
+  ],
+  "localInputs": [
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/frontend-b2-cancel-escape-current-page-r1/cancel-escape.test.tsx",
+      "sha256": "1287694c24226b88f76da736d5a9ab5b9875cb07d4e520b24766ea3766b3a04a",
+      "bytes": 10693
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/frontend-b2-cancel-escape-current-page-r1/setup.ts",
+      "sha256": "82d3a8b515d2a21196b03932ebd0135086a1f6a5c5cac49a6ba34e6a0d74db5d",
+      "bytes": 451
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/frontend-b2-cancel-escape-current-page-r1/vitest.config.ts",
+      "sha256": "4905bf22ccdef8f9dec14b2d30b5f96c2179c3a4aeab8bac4b882977f70eb13f",
+      "bytes": 750
+    }
+  ],
+  "currentPageDirectImport": true,
+  "productWrites": 0,
+  "realHTTP": 0,
+  "realBrowser": 0,
+  "testsPlanned": [
+    "click-cancel",
+    "Escape"
+  ],
+  "existingSuiteNotInvoked": true
+}

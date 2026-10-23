@@ -1,0 +1,10 @@
+{
+  "found" : 1,
+  "passed" : 1,
+  "failed" : 0,
+  "skipped" : 0,
+  "selectedMethod" : "authorizedExactScopeUnmappedPersonCannotStartEitherReadonlyConsumer",
+  "currentProductionClasses" : true,
+  "realHTTP" : 0,
+  "realSQL" : 0
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "method": "Network.requestWillBeSent",
+    "sequence": 16782,
+    "requestId": "3855.1664",
+    "url": "http://127.0.0.1:5188/admin-api/ontology/modeling-access/context?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+    "methodHTTP": "GET"
+  },
+  {
+    "method": "Network.responseReceived",
+    "sequence": 16785,
+    "requestId": "3855.1664",
+    "url": "http://127.0.0.1:5188/admin-api/ontology/modeling-access/context?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+    "status": 200
+  },
+  {
+    "method": "Network.requestWillBeSent",
+    "sequence": 16787,
+    "requestId": "3855.1665",
+    "url": "http://127.0.0.1:5188/admin-api/ontology/modeling-access?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6&accountId=104&instanceId=om-p1-isolated",
+    "methodHTTP": "GET"
+  },
+  {
+    "method": "Network.responseReceived",
+    "sequence": 16792,
+    "requestId": "3855.1665",
+    "url": "http://127.0.0.1:5188/admin-api/ontology/modeling-access?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6&accountId=104&instanceId=om-p1-isolated",
+    "status": 200
+  },
+  {
+    "method": "Network.requestWillBeSent",
+    "sequence": 16794,
+    "requestId": "3855.1666",
+    "url": "http://127.0.0.1:5188/admin-api/ontology/modeling-access/check",
+    "methodHTTP": "POST",
+    "postData": "{\"projectId\":\"3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6\",\"accountId\":\"104\",\"instanceId\":\"om-p1-isolated\",\"expectedVersion\":4,\"capabilities\":[\"MODEL_READBACK\"],\"mode\":\"READ_ONLY\"}"
+  },
+  {
+    "method": "Network.responseReceived",
+    "sequence": 16799,
+    "requestId": "3855.1666",
+    "url": "http://127.0.0.1:5188/admin-api/ontology/modeling-access/check",
+    "status": 200
+  },
+  {
+    "method": "Network.requestWillBeSent",
+    "sequence": 16804,
+    "requestId": "3855.1667",
+    "url": "http://127.0.0.1:5188/admin-api/ontology/context",
+    "methodHTTP": "GET"
+  }
+]

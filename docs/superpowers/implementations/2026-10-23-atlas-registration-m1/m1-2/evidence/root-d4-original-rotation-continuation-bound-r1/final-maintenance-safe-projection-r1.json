@@ -1,0 +1,125 @@
+{
+  "at": "2026-10-23T13:50:05.236433+00:00",
+  "state": "D4_ROTATION_AND_NEW_GENERATION_CONSUMERS_FINITE_CLOSEOUT",
+  "openingOperations": 16962,
+  "previousProjectionOperations": 16994,
+  "operations": 16999,
+  "used": {
+    "get": 16976,
+    "logout": 1,
+    "management_auth": 10,
+    "mutating": 23,
+    "object_writes": 6,
+    "ordinary_login": 6,
+    "password_rotate": 1,
+    "policy_create": 1,
+    "policy_sync": 0,
+    "profile_sync": 1,
+    "role_create": 1,
+    "team_create": 1,
+    "user_create": 1
+  },
+  "old16962OperationsObjectPrefixUnchanged": true,
+  "previous32ContinuationOperationsSafeProjectionUnchanged": true,
+  "denialCount": 4,
+  "denialsObjectEqual": true,
+  "preservedPinFiles": 15,
+  "preservedPinFilesExact": true,
+  "additionalConsumerRows": [
+    {
+      "sequence": 16995,
+      "category": "ordinary_login",
+      "route": "POST /api/v1/users/login",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16996,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16997,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16998,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16999,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    }
+  ],
+  "consumerNativeGET": 4,
+  "consumerOrdinaryLogin": 1,
+  "consumerResourceWrites": 0,
+  "inflight": 0,
+  "writesStopped": false,
+  "stopCode": null,
+  "protectedProcesses": [
+    {
+      "name": "Atlas",
+      "pid": 86412,
+      "createTime": 1792762920.00625,
+      "listeningPort": 48282,
+      "unchanged": true
+    },
+    {
+      "name": "Worker",
+      "pid": 83657,
+      "createTime": 1792706045.683841,
+      "listeningPort": 14985,
+      "unchanged": true
+    },
+    {
+      "name": "OM",
+      "pid": 57991,
+      "createTime": 1792687496.596849,
+      "listeningPort": 18585,
+      "unchanged": true
+    },
+    {
+      "name": "System",
+      "pid": 95809,
+      "createTime": 1791982742.072632,
+      "listeningPort": 48081,
+      "unchanged": true
+    },
+    {
+      "name": "Vite",
+      "pid": 3832,
+      "createTime": 1791319410.644957,
+      "listeningPort": 5188,
+      "unchanged": true
+    },
+    {
+      "name": "Proxy",
+      "pid": 84513,
+      "createTime": 1792762435.736511,
+      "listeningPort": 18587,
+      "unchanged": true
+    }
+  ],
+  "normalMainOnly": true,
+  "normalRuntimePGID": 86412,
+  "normalRuntimeSID": 86412,
+  "newJarSHA256": "d7e21d37bfe1f2ae1c99bdda566e6ce13c87d7a840e786e2bf043af8a42f2bd7",
+  "normalRuntimeReobservedAfterParentExit": true,
+  "sourceHTTP_SQL_DML_DDL_signals": 0,
+  "nativePasswordChangesTotal": 1,
+  "verificationLogoutTotal": 1,
+  "historicalNativeSessionsRevoked": "NOT_ASSERTED",
+  "sameProcessAllCaches": "NOT_ASSERTED"
+}

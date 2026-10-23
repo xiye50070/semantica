@@ -1,0 +1,206 @@
+{
+  "at": "2026-10-23T14:28:36.614747+00:00",
+  "state": "PREPARED_SINGLE_METHOD_NOT_RUN",
+  "repo": "/Users/wangmingzhang/atlas-cloud",
+  "sourceRoot": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source",
+  "artifact": {
+    "path": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/target/atlas-module-infra-server.jar",
+    "sha256": "d7e21d37bfe1f2ae1c99bdda566e6ce13c87d7a840e786e2bf043af8a42f2bd7",
+    "bytes": 178273113
+  },
+  "buildReceipt": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/modeling-rotation-full-build-candidate-r1/actual-root-r1/receipt.json",
+  "fixture": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessTest.java",
+  "schemas": [
+    "atlas-module-infra/atlas-module-infra-server/src/test/resources/ontology/p1-test-schema.sql",
+    "integrations/om-identity/sql/h2/V20261001_16__om_identity_control.sql",
+    "sql/ontology/V20261023_31__ontology_modeling_access.sql"
+  ],
+  "sources": [
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessContracts.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessContracts.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessContracts.java",
+      "sha256": "cca999f0ea56aa96da108fffded6e21db4e82c6c5b94ed48556abf559612016c",
+      "bytes": 5535,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessContracts.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessService.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessService.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessService.java",
+      "sha256": "20dce4ca0e5826f2e94119e04828eaacd10443023d37084e612ee6122f2648a3",
+      "bytes": 4509,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessService.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore.java",
+      "sha256": "e9517280dd8a31a07928da6ad5f870390c540c5d39de3adc5e06b37f0fd42d54",
+      "bytes": 82802,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingIdentityConsumer.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingIdentityConsumer.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingIdentityConsumer.java",
+      "sha256": "0df471ba34929f31b18005459856119d55dd1493f66dc438ea614220015aa9a8",
+      "bytes": 6311,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingIdentityConsumer.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyAuthorization.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyAuthorization.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyAuthorization.java",
+      "sha256": "ea60a0a55c219ba8f8fca7bf0afc08eb67b97af9b2222f572c9c8b40b3144b86",
+      "bytes": 3312,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyAuthorization.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyApiException.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyApiException.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyApiException.java",
+      "sha256": "cb15644cd51f0018b261f2dbf62f320f2a00995d477c18ef1d9722f35f00995e",
+      "bytes": 886,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyApiException.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyDomainAccess.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyDomainAccess.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyDomainAccess.java",
+      "sha256": "5597f1d69f52a4a682bcb4fbbb342974796dbe94e0f0d3becb3805950ed32c56",
+      "bytes": 6136,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyDomainAccess.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcAtlasOntologyAuthority.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcAtlasOntologyAuthority.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcAtlasOntologyAuthority.java",
+      "sha256": "f607fd7c412b7adf4c58270aa266d98e10163984d1c1210c243ef052f86d2ef3",
+      "bytes": 21609,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcAtlasOntologyAuthority.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyOmAccountAccess.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyOmAccountAccess.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyOmAccountAccess.java",
+      "sha256": "1c1c176916ca228af7d1ed8d9f2578f67e1b34297c4c38716b3ebea185376caf",
+      "bytes": 9678,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyOmAccountAccess.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmInstanceRegistry.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmInstanceRegistry.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmInstanceRegistry.java",
+      "sha256": "242928421e7cb40425e23ee27aa976b8f9f51f684de080ee5b7efdc305feb77f",
+      "bytes": 6088,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmInstanceRegistry.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmRestClient.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmRestClient.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmRestClient.java",
+      "sha256": "90df07794c42b5c2329ee63b48a8c06f8806cb0266b12928a13c6ba697c55dc5",
+      "bytes": 40917,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmRestClient.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmOrdinarySessionBroker.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmOrdinarySessionBroker.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmOrdinarySessionBroker.java",
+      "sha256": "4610a2f581ac5af3fdaaecb96d698a4cac939d0765085836a8ec83353f6c1819",
+      "bytes": 22044,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmOrdinarySessionBroker.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmUserCredentialStore.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmUserCredentialStore.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmUserCredentialStore.java",
+      "sha256": "8715ea3e3d7f3a209d47c5108330b28d957349018a07c2d484590de05174f7b7",
+      "bytes": 8158,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmUserCredentialStore.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/NativeOmIdentityClient.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/NativeOmIdentityClient.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/NativeOmIdentityClient.java",
+      "sha256": "f5c69c1941e13294780d3f8fbb4f405f8c7fa6c18c3767b6d3fdc66476492621",
+      "bytes": 48649,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/NativeOmIdentityClient.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-api/src/main/java/cn/iocoder/atlas/module/infra/api/omidentity/OmIdentityJdbcLedger.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-api/src/main/java/cn/iocoder/atlas/module/infra/api/omidentity/OmIdentityJdbcLedger.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-api/src/main/java/cn/iocoder/atlas/module/infra/api/omidentity/OmIdentityJdbcLedger.java",
+      "sha256": "8b07bcb07b5769e065c3eaae8d0d7c8d4a1564c6eb8e31c7814d7c355aba7666",
+      "bytes": 41360,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-api/src/main/java/cn/iocoder/atlas/module/infra/api/omidentity/OmIdentityJdbcLedger.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-api/src/main/java/cn/iocoder/atlas/module/infra/api/omidentity/OmIdentityContracts.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-api/src/main/java/cn/iocoder/atlas/module/infra/api/omidentity/OmIdentityContracts.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-api/src/main/java/cn/iocoder/atlas/module/infra/api/omidentity/OmIdentityContracts.java",
+      "sha256": "e0d34fc3a7ffc504b92fcdca6fa5e42dfd4a82c9171b5ea704352b70e4f3700e",
+      "bytes": 4689,
+      "production": true,
+      "mirror": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-api/src/main/java/cn/iocoder/atlas/module/infra/api/omidentity/OmIdentityContracts.java"
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessTest.java",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessTest.java",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessTest.java",
+      "sha256": "382200999532ffac532f03c9dea6150cbf3b19e261cf3f68eb8e8815d2b33261",
+      "bytes": 32790,
+      "production": false,
+      "mirror": null
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/test/resources/ontology/p1-test-schema.sql",
+      "repo": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/test/resources/ontology/p1-test-schema.sql",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/atlas-module-infra/atlas-module-infra-server/src/test/resources/ontology/p1-test-schema.sql",
+      "sha256": "60a4666d849bcc72cbd17a93cc860284bf05d0f91311ff15da8c55bb4d1e2098",
+      "bytes": 4780,
+      "production": false,
+      "mirror": null
+    },
+    {
+      "relativePath": "integrations/om-identity/sql/h2/V20261001_16__om_identity_control.sql",
+      "repo": "/Users/wangmingzhang/atlas-cloud/integrations/om-identity/sql/h2/V20261001_16__om_identity_control.sql",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/integrations/om-identity/sql/h2/V20261001_16__om_identity_control.sql",
+      "sha256": "ad4ff079e56d4807e0a28c8fe198e84de562a3fee7f350d7e0d360e7ba4eea04",
+      "bytes": 4378,
+      "production": false,
+      "mirror": null
+    },
+    {
+      "relativePath": "sql/ontology/V20261023_31__ontology_modeling_access.sql",
+      "repo": "/Users/wangmingzhang/atlas-cloud/sql/ontology/V20261023_31__ontology_modeling_access.sql",
+      "before": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d2-unmapped-consumer-current-r1/source-before/sql/ontology/V20261023_31__ontology_modeling_access.sql",
+      "sha256": "70f00234288441b8fc8c9cb91391efce149aa77928f3311e9871d6b1793b3859",
+      "bytes": 2432,
+      "production": false,
+      "mirror": null
+    }
+  ],
+  "testDependencyBinding": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/d4-original-rotation-once-runner-candidate-r4/classpath-binding.json",
+  "sourceCountBound": 16,
+  "executeByDefault": false,
+  "oldProductOverlayAllowed": false,
+  "realHTTP": 0,
+  "realSQL": 0
+}

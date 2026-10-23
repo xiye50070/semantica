@@ -1,0 +1,3 @@
+import {defineConfig} from 'vitest/config'
+import react from '@vitejs/plugin-react'
+export default defineConfig({root:"/private/tmp/atlas-m12-b2-cancel-escape-khfcvksp",cacheDir:"/private/tmp/atlas-m12-b2-cancel-escape-khfcvksp"+'/vite-cache',plugins:[react()],resolve:{dedupe:['react','react-dom','@tanstack/react-query']},server:{fs:{allow:["/private/tmp/atlas-m12-b2-cancel-escape-khfcvksp",'/Users/wangmingzhang/atlas-ui-admin-react',"/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/frontend-b2-cancel-escape-current-page-r1"]}},test:{environment:'jsdom',include:['cancel-escape.test.tsx'],setupFiles:['./setup.ts'],clearMocks:true,testTimeout:20000,maxWorkers:1,minWorkers:1}})

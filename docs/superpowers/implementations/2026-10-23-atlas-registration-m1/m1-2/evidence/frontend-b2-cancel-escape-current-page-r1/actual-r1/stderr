@@ -1,0 +1,14 @@
+stderr | cancel-escape.test.tsx > current real Page: 取消 closes the original-profile confirm without POST or pending/marker changes
+Warning: [antd: Modal] `autoFocusButton` is deprecated. Please use `focusable.autoFocusButton` instead.
+Not implemented: Window's getComputedStyle() method: with pseudo-elements
+
+stderr | cancel-escape.test.tsx > current real Page: 取消 closes the original-profile confirm without POST or pending/marker changes
+Warning: [antd: Modal] `autoFocusButton` is deprecated. Please use `focusable.autoFocusButton` instead.
+
+stderr | cancel-escape.test.tsx > current real Page: Escape closes the original-profile confirm without POST or pending/marker changes
+Warning: [antd: Modal] `autoFocusButton` is deprecated. Please use `focusable.autoFocusButton` instead.
+Not implemented: Window's getComputedStyle() method: with pseudo-elements
+
+stderr | cancel-escape.test.tsx > current real Page: Escape closes the original-profile confirm without POST or pending/marker changes
+Warning: [antd: Modal] `autoFocusButton` is deprecated. Please use `focusable.autoFocusButton` instead.
+

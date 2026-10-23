@@ -1,0 +1,1148 @@
+{
+  "at": "2026-10-23T11:31:47.614017+00:00",
+  "conclusion": "OBSERVED_SAME_TASK_EPISODE_SUCCEEDED_AND_TWO_READONLY_CONSUMERS_VERIFIED; NOT_USER_ACCEPTED_OR_WRITE_QUALIFIED",
+  "method": "Read existing local metadata ledger in RAM and whitelist-only source-cost log events; no native bodies/credentials/headers/raw log copied",
+  "sources": [
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/root-first-live-validation-r14-bound-r1/scope.json",
+      "sha256": "7ec5d06311d60afc6a8c8b20125327dba89d5bf0a38668940a308ed384a95aeb",
+      "bytes": 1430
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/root-first-live-validation-r14-bound-r1/actual-counts.json",
+      "sha256": "e56b641bc812cf12001143253133515cf57bef4e6d35dc6cfe9cbebc01673f5b",
+      "bytes": 1436
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/root-ui-native-intent-actual-r1/r14-episode-receipt.json",
+      "sha256": "c7fc37bd4ff093e8cae8f141be624d039ff9185eb17cd858d2fcdd473d58d4c6",
+      "bytes": 373
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/root-ui-native-intent-actual-r1/r14-terminal-task.json",
+      "sha256": "eb7ca8d0e19f4e370db4c16076f53b6778c5f01f654449776c02708ee8872b0e",
+      "bytes": 2506
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/root-ui-native-intent-actual-r1/r14-consumer-result.json",
+      "sha256": "313c85495dea593b21c7f6f11833070e68b3977982b6923087da8305e9373c0c",
+      "bytes": 2398
+    }
+  ],
+  "ledger": {
+    "pathReference": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/native-proxy-ledger-r1/state.json",
+    "observedSHA256": "14811c608f3aad674a92aafae4d892e2c7dc1ea67349a6c0fdd968ab039f9ff2",
+    "bytes": 3415249,
+    "old13939PrefixExactlyEqual": true,
+    "fourDenialsExactlyRetained": true,
+    "allCompleted": true,
+    "writesStopped": false,
+    "stopCode": null,
+    "finalOperations": 16956,
+    "finalUsed": {
+      "get": 16939,
+      "logout": 0,
+      "management_auth": 8,
+      "mutating": 17,
+      "object_writes": 5,
+      "ordinary_login": 4,
+      "password_rotate": 0,
+      "policy_create": 1,
+      "policy_sync": 0,
+      "profile_sync": 1,
+      "role_create": 1,
+      "team_create": 1,
+      "user_create": 1
+    }
+  },
+  "populations": {
+    "N": 156,
+    "PactualPerScan": 8,
+    "K": 30,
+    "AobservedPerTraversal": 34,
+    "typeTotals": {
+      "chart": 2,
+      "dashboard": 2,
+      "database": 7,
+      "databaseSchema": 7,
+      "glossary": 20,
+      "glossaryTerm": 55,
+      "storedProcedure": 2,
+      "table": 61
+    }
+  },
+  "segments": [
+    {
+      "firstSequence": 13952,
+      "lastSequence": 14661,
+      "HTTP": 710,
+      "GET": 710,
+      "auth": 0,
+      "firstReservedUTC": "2026-10-23T11:21:41.633044+00:00",
+      "lastCompletedUTC": "2026-10-23T11:22:49.569717+00:00",
+      "ledgerSpanSeconds": 67.9366729259491,
+      "sumReserveToCompleteSeconds": 18.42055892944336,
+      "routeCounts": {
+        "GET /api/v1/policies/resources": 1,
+        "GET /api/v1/metadata/chart/page": 2,
+        "GET /api/v1/metadata/chart/{observedId}": 12,
+        "GET /api/v1/metadata/dashboard/page": 2,
+        "GET /api/v1/metadata/dashboard/{observedId}": 12,
+        "GET /api/v1/metadata/database/page": 2,
+        "GET /api/v1/metadata/database/{observedId}": 28,
+        "GET /api/v1/metadata/databaseSchema/page": 2,
+        "GET /api/v1/metadata/databaseSchema/{observedId}": 28,
+        "GET /api/v1/metadata/glossary/page": 2,
+        "GET /api/v1/metadata/glossary/{observedId}": 84,
+        "GET /api/v1/metadata/glossaryTerm/page": 2,
+        "GET /api/v1/metadata/glossaryTerm/{observedId}": 226,
+        "GET /api/v1/metadata/storedProcedure/page": 2,
+        "GET /api/v1/metadata/storedProcedure/{observedId}": 12,
+        "GET /api/v1/metadata/table/page": 2,
+        "GET /api/v1/metadata/table/{observedId}": 250,
+        "GET /api/v1/users/{pinnedId}": 1,
+        "GET /api/v1/metadata/dashboardService/{observedId}": 2,
+        "GET /api/v1/databases/{controlledId}": 6,
+        "GET /api/v1/databaseServices/{controlledId}": 6,
+        "GET /api/v1/databaseSchemas/{controlledId}": 6,
+        "GET /api/v1/tables/{controlledId}": 20
+      },
+      "name": "BEFORE_MAIN",
+      "sourceCost": {
+        "loggedAt": "2026-10-23T11:22:49.787000+00:00",
+        "phase": "BEFORE_MUTATION",
+        "valid": true,
+        "wallNanos": 68242775208,
+        "stages": {
+          "INPUTS_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "INPUT_PIN_CHECK": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "FIXED_FILE_SHA": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "SCOPE_AUTHORITY": {
+            "count": 2272,
+            "nanos": 10574832940,
+            "failed": 0
+          },
+          "JOURNAL_CONTEXT": {
+            "count": 1136,
+            "nanos": 5813592524,
+            "failed": 0
+          },
+          "PHYSICAL_CURRENT": {
+            "count": 979,
+            "nanos": 15105162645,
+            "failed": 0
+          },
+          "HELPER_OPEN": {
+            "count": 1,
+            "nanos": 603379959,
+            "failed": 0
+          },
+          "NATIVE_CLASS_MEASUREMENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_FRAME": {
+            "count": 158,
+            "nanos": 1021421503,
+            "failed": 0
+          },
+          "STORED_JDBC_CONNECT": {
+            "count": 92,
+            "nanos": 643470124,
+            "failed": 0
+          },
+          "GUARD_TARGET_RANGE": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_REGISTERED_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_ORIGIN_COLUMNS": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_HTTP_GET": {
+            "count": 710,
+            "nanos": 46483649418,
+            "failed": 0
+          }
+        }
+      }
+    },
+    {
+      "firstSequence": 14662,
+      "lastSequence": 15471,
+      "HTTP": 810,
+      "GET": 810,
+      "auth": 0,
+      "firstReservedUTC": "2026-10-23T11:22:49.898222+00:00",
+      "lastCompletedUTC": "2026-10-23T11:24:06.864867+00:00",
+      "ledgerSpanSeconds": 76.96664500236511,
+      "sumReserveToCompleteSeconds": 22.15349268913269,
+      "routeCounts": {
+        "GET /api/v1/policies/resources": 3,
+        "GET /api/v1/metadata/chart/page": 2,
+        "GET /api/v1/metadata/chart/{observedId}": 18,
+        "GET /api/v1/metadata/dashboard/page": 2,
+        "GET /api/v1/metadata/dashboard/{observedId}": 18,
+        "GET /api/v1/metadata/database/page": 2,
+        "GET /api/v1/metadata/database/{observedId}": 28,
+        "GET /api/v1/metadata/databaseSchema/page": 2,
+        "GET /api/v1/metadata/databaseSchema/{observedId}": 28,
+        "GET /api/v1/metadata/glossary/page": 2,
+        "GET /api/v1/metadata/glossary/{observedId}": 90,
+        "GET /api/v1/metadata/glossaryTerm/page": 2,
+        "GET /api/v1/metadata/glossaryTerm/{observedId}": 235,
+        "GET /api/v1/metadata/storedProcedure/page": 2,
+        "GET /api/v1/metadata/storedProcedure/{observedId}": 18,
+        "GET /api/v1/metadata/table/page": 2,
+        "GET /api/v1/metadata/table/{observedId}": 259,
+        "GET /api/v1/databases/{controlledId}": 15,
+        "GET /api/v1/databaseSchemas/{controlledId}": 15,
+        "GET /api/v1/tables/{controlledId}": 50,
+        "GET /api/v1/policies/{pinnedId}": 3,
+        "GET /api/v1/users/{pinnedId}": 2,
+        "GET /api/v1/metadata/dashboardService/{observedId}": 2,
+        "GET /api/v1/databaseServices/{controlledId}": 6,
+        "GET /api/v1/roles/{pinnedId}": 2,
+        "GET /api/v1/teams/{pinnedId}": 2
+      },
+      "name": "AFTER_MAIN",
+      "sourceCost": {
+        "loggedAt": "2026-10-23T11:24:07.080000+00:00",
+        "phase": "AFTER_MUTATION",
+        "valid": true,
+        "wallNanos": 77253082042,
+        "stages": {
+          "INPUTS_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "INPUT_PIN_CHECK": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "FIXED_FILE_SHA": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "SCOPE_AUTHORITY": {
+            "count": 2272,
+            "nanos": 10326423812,
+            "failed": 0
+          },
+          "JOURNAL_CONTEXT": {
+            "count": 1136,
+            "nanos": 5885884645,
+            "failed": 0
+          },
+          "PHYSICAL_CURRENT": {
+            "count": 979,
+            "nanos": 15027637676,
+            "failed": 0
+          },
+          "HELPER_OPEN": {
+            "count": 1,
+            "nanos": 429816291,
+            "failed": 0
+          },
+          "NATIVE_CLASS_MEASUREMENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_FRAME": {
+            "count": 158,
+            "nanos": 813649877,
+            "failed": 0
+          },
+          "STORED_JDBC_CONNECT": {
+            "count": 92,
+            "nanos": 474466376,
+            "failed": 0
+          },
+          "GUARD_TARGET_RANGE": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_REGISTERED_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_ORIGIN_COLUMNS": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_HTTP_GET": {
+            "count": 810,
+            "nanos": 56200235464,
+            "failed": 0
+          }
+        }
+      }
+    },
+    {
+      "firstSequence": 15472,
+      "lastSequence": 16111,
+      "HTTP": 640,
+      "GET": 640,
+      "auth": 0,
+      "firstReservedUTC": "2026-10-23T11:24:07.262270+00:00",
+      "lastCompletedUTC": "2026-10-23T11:25:11.553958+00:00",
+      "ledgerSpanSeconds": 64.29168796539307,
+      "sumReserveToCompleteSeconds": 17.916143655776978,
+      "routeCounts": {
+        "GET /api/v1/metadata/chart/page": 2,
+        "GET /api/v1/metadata/chart/{observedId}": 8,
+        "GET /api/v1/metadata/dashboard/page": 2,
+        "GET /api/v1/metadata/dashboard/{observedId}": 8,
+        "GET /api/v1/metadata/database/page": 2,
+        "GET /api/v1/metadata/database/{observedId}": 28,
+        "GET /api/v1/metadata/databaseSchema/page": 2,
+        "GET /api/v1/metadata/databaseSchema/{observedId}": 28,
+        "GET /api/v1/metadata/glossary/page": 2,
+        "GET /api/v1/metadata/glossary/{observedId}": 80,
+        "GET /api/v1/metadata/glossaryTerm/page": 2,
+        "GET /api/v1/metadata/glossaryTerm/{observedId}": 220,
+        "GET /api/v1/metadata/storedProcedure/page": 2,
+        "GET /api/v1/metadata/storedProcedure/{observedId}": 8,
+        "GET /api/v1/metadata/table/page": 2,
+        "GET /api/v1/metadata/table/{observedId}": 244
+      },
+      "name": "VERIFIER_INITIAL_INVENTORY",
+      "sourceCost": {
+        "loggedAt": "2026-10-23T11:25:11.730000+00:00",
+        "phase": "VERIFICATION",
+        "valid": true,
+        "wallNanos": 64569127875,
+        "stages": {
+          "INPUTS_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "INPUT_PIN_CHECK": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "FIXED_FILE_SHA": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "SCOPE_AUTHORITY": {
+            "count": 1974,
+            "nanos": 8965254942,
+            "failed": 0
+          },
+          "JOURNAL_CONTEXT": {
+            "count": 987,
+            "nanos": 5126353018,
+            "failed": 0
+          },
+          "PHYSICAL_CURRENT": {
+            "count": 979,
+            "nanos": 14848561644,
+            "failed": 0
+          },
+          "HELPER_OPEN": {
+            "count": 1,
+            "nanos": 435875459,
+            "failed": 0
+          },
+          "NATIVE_CLASS_MEASUREMENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_FRAME": {
+            "count": 158,
+            "nanos": 894393957,
+            "failed": 0
+          },
+          "STORED_JDBC_CONNECT": {
+            "count": 92,
+            "nanos": 473572581,
+            "failed": 0
+          },
+          "GUARD_TARGET_RANGE": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_REGISTERED_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_ORIGIN_COLUMNS": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_HTTP_GET": {
+            "count": 640,
+            "nanos": 46070233106,
+            "failed": 0
+          }
+        }
+      }
+    },
+    {
+      "firstSequence": 16112,
+      "lastSequence": 16210,
+      "HTTP": 99,
+      "GET": 99,
+      "auth": 0,
+      "firstReservedUTC": "2026-10-23T11:25:11.820543+00:00",
+      "lastCompletedUTC": "2026-10-23T11:25:22.439392+00:00",
+      "ledgerSpanSeconds": 10.618849039077759,
+      "sumReserveToCompleteSeconds": 2.81782603263855,
+      "routeCounts": {
+        "GET /api/v1/metadata/chart/{observedId}": 4,
+        "GET /api/v1/metadata/dashboardService/{observedId}": 2,
+        "GET /api/v1/metadata/dashboard/{observedId}": 4,
+        "GET /api/v1/databases/{controlledId}": 6,
+        "GET /api/v1/databaseServices/{controlledId}": 6,
+        "GET /api/v1/databaseSchemas/{controlledId}": 6,
+        "GET /api/v1/metadata/glossary/{observedId}": 4,
+        "GET /api/v1/metadata/glossaryTerm/{observedId}": 6,
+        "GET /api/v1/metadata/storedProcedure/{observedId}": 4,
+        "GET /api/v1/tables/{controlledId}": 20,
+        "GET /api/v1/metadata/table/{observedId}": 6,
+        "GET /api/v1/policies/resources": 1,
+        "GET /api/v1/permissions/chart/{scopeId}": 2,
+        "GET /api/v1/permissions/dashboard/{scopeId}": 2,
+        "GET /api/v1/permissions/database/{scopeId}": 3,
+        "GET /api/v1/permissions/databaseSchema/{scopeId}": 3,
+        "GET /api/v1/permissions/glossary/{scopeId}": 2,
+        "GET /api/v1/permissions/glossaryTerm/{scopeId}": 3,
+        "GET /api/v1/permissions/storedProcedure/{scopeId}": 2,
+        "GET /api/v1/permissions/table/{scopeId}": 13
+      },
+      "name": "VERIFIER_PERMISSION",
+      "sourceCost": {
+        "loggedAt": "2026-10-23T11:25:22.521000+00:00",
+        "phase": "VERIFICATION",
+        "valid": true,
+        "wallNanos": 10750537834,
+        "stages": {
+          "INPUTS_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "INPUT_PIN_CHECK": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "FIXED_FILE_SHA": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "SCOPE_AUTHORITY": {
+            "count": 418,
+            "nanos": 1820165181,
+            "failed": 0
+          },
+          "JOURNAL_CONTEXT": {
+            "count": 209,
+            "nanos": 1050186042,
+            "failed": 0
+          },
+          "PHYSICAL_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "HELPER_OPEN": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_CLASS_MEASUREMENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_FRAME": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "STORED_JDBC_CONNECT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_TARGET_RANGE": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_REGISTERED_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_ORIGIN_COLUMNS": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_HTTP_GET": {
+            "count": 99,
+            "nanos": 7178153706,
+            "failed": 0
+          }
+        }
+      }
+    },
+    {
+      "firstSequence": 16212,
+      "lastSequence": 16242,
+      "HTTP": 31,
+      "GET": 31,
+      "auth": 0,
+      "firstReservedUTC": "2026-10-23T11:25:23.027116+00:00",
+      "lastCompletedUTC": "2026-10-23T11:25:26.551726+00:00",
+      "ledgerSpanSeconds": 3.5246100425720215,
+      "sumReserveToCompleteSeconds": 0.8659980297088623,
+      "routeCounts": {
+        "GET /api/v1/users/loggedInUser": 1,
+        "GET /api/v1/chart/{scopeId}/ordinary": 2,
+        "GET /api/v1/dashboard/{scopeId}/ordinary": 2,
+        "GET /api/v1/database/{scopeId}/ordinary": 3,
+        "GET /api/v1/databaseSchema/{scopeId}/ordinary": 3,
+        "GET /api/v1/glossary/{scopeId}/ordinary": 2,
+        "GET /api/v1/glossaryTerm/{scopeId}/ordinary": 3,
+        "GET /api/v1/storedProcedure/{scopeId}/ordinary": 2,
+        "GET /api/v1/table/{scopeId}/ordinary": 13
+      },
+      "name": "VERIFIER_ORDINARY_GET",
+      "sourceCost": {
+        "loggedAt": "2026-10-23T11:25:26.648000+00:00",
+        "phase": "VERIFICATION",
+        "valid": true,
+        "wallNanos": 3675778584,
+        "stages": {
+          "INPUTS_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "INPUT_PIN_CHECK": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "FIXED_FILE_SHA": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "SCOPE_AUTHORITY": {
+            "count": 132,
+            "nanos": 533382285,
+            "failed": 0
+          },
+          "JOURNAL_CONTEXT": {
+            "count": 66,
+            "nanos": 326008374,
+            "failed": 0
+          },
+          "PHYSICAL_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "HELPER_OPEN": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_CLASS_MEASUREMENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_FRAME": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "STORED_JDBC_CONNECT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_TARGET_RANGE": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_REGISTERED_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_ORIGIN_COLUMNS": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_HTTP_GET": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          }
+        }
+      }
+    },
+    {
+      "firstSequence": 16243,
+      "lastSequence": 16882,
+      "HTTP": 640,
+      "GET": 640,
+      "auth": 0,
+      "firstReservedUTC": "2026-10-23T11:25:26.823269+00:00",
+      "lastCompletedUTC": "2026-10-23T11:26:33.202366+00:00",
+      "ledgerSpanSeconds": 66.3790967464447,
+      "sumReserveToCompleteSeconds": 18.665862798690796,
+      "routeCounts": {
+        "GET /api/v1/metadata/chart/page": 2,
+        "GET /api/v1/metadata/chart/{observedId}": 8,
+        "GET /api/v1/metadata/dashboard/page": 2,
+        "GET /api/v1/metadata/dashboard/{observedId}": 8,
+        "GET /api/v1/metadata/database/page": 2,
+        "GET /api/v1/metadata/database/{observedId}": 28,
+        "GET /api/v1/metadata/databaseSchema/page": 2,
+        "GET /api/v1/metadata/databaseSchema/{observedId}": 28,
+        "GET /api/v1/metadata/glossary/page": 2,
+        "GET /api/v1/metadata/glossary/{observedId}": 80,
+        "GET /api/v1/metadata/glossaryTerm/page": 2,
+        "GET /api/v1/metadata/glossaryTerm/{observedId}": 220,
+        "GET /api/v1/metadata/storedProcedure/page": 2,
+        "GET /api/v1/metadata/storedProcedure/{observedId}": 8,
+        "GET /api/v1/metadata/table/page": 2,
+        "GET /api/v1/metadata/table/{observedId}": 244
+      },
+      "name": "VERIFIER_FINAL_INVENTORY",
+      "sourceCost": {
+        "loggedAt": "2026-10-23T11:26:33.382000+00:00",
+        "phase": "VERIFICATION",
+        "valid": true,
+        "wallNanos": 66664434375,
+        "stages": {
+          "INPUTS_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "INPUT_PIN_CHECK": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "FIXED_FILE_SHA": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "SCOPE_AUTHORITY": {
+            "count": 1974,
+            "nanos": 9009235857,
+            "failed": 0
+          },
+          "JOURNAL_CONTEXT": {
+            "count": 987,
+            "nanos": 5144253538,
+            "failed": 0
+          },
+          "PHYSICAL_CURRENT": {
+            "count": 979,
+            "nanos": 14937608016,
+            "failed": 0
+          },
+          "HELPER_OPEN": {
+            "count": 1,
+            "nanos": 396959333,
+            "failed": 0
+          },
+          "NATIVE_CLASS_MEASUREMENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_FRAME": {
+            "count": 158,
+            "nanos": 767865167,
+            "failed": 0
+          },
+          "STORED_JDBC_CONNECT": {
+            "count": 92,
+            "nanos": 465097790,
+            "failed": 0
+          },
+          "GUARD_TARGET_RANGE": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_REGISTERED_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_ORIGIN_COLUMNS": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_HTTP_GET": {
+            "count": 640,
+            "nanos": 48222451293,
+            "failed": 0
+          }
+        }
+      }
+    },
+    {
+      "firstSequence": 16883,
+      "lastSequence": 16950,
+      "HTTP": 68,
+      "GET": 68,
+      "auth": 0,
+      "firstReservedUTC": "2026-10-23T11:26:33.471733+00:00",
+      "lastCompletedUTC": "2026-10-23T11:26:40.536090+00:00",
+      "ledgerSpanSeconds": 7.064357042312622,
+      "sumReserveToCompleteSeconds": 1.9825108051300049,
+      "routeCounts": {
+        "GET /api/v1/metadata/chart/{observedId}": 4,
+        "GET /api/v1/metadata/dashboardService/{observedId}": 2,
+        "GET /api/v1/metadata/dashboard/{observedId}": 4,
+        "GET /api/v1/databases/{controlledId}": 6,
+        "GET /api/v1/databaseServices/{controlledId}": 6,
+        "GET /api/v1/databaseSchemas/{controlledId}": 6,
+        "GET /api/v1/metadata/glossary/{observedId}": 4,
+        "GET /api/v1/metadata/glossaryTerm/{observedId}": 6,
+        "GET /api/v1/metadata/storedProcedure/{observedId}": 4,
+        "GET /api/v1/tables/{controlledId}": 20,
+        "GET /api/v1/metadata/table/{observedId}": 6
+      },
+      "name": "VERIFIER_FINAL_PARENTS",
+      "sourceCost": {
+        "loggedAt": "2026-10-23T11:26:40.680000+00:00",
+        "phase": "VERIFICATION",
+        "valid": true,
+        "wallNanos": 7259017792,
+        "stages": {
+          "INPUTS_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "INPUT_PIN_CHECK": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "FIXED_FILE_SHA": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "SCOPE_AUTHORITY": {
+            "count": 290,
+            "nanos": 1263197333,
+            "failed": 0
+          },
+          "JOURNAL_CONTEXT": {
+            "count": 145,
+            "nanos": 738794995,
+            "failed": 0
+          },
+          "PHYSICAL_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "HELPER_OPEN": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_CLASS_MEASUREMENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_FRAME": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "STORED_JDBC_CONNECT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_TARGET_RANGE": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_REGISTERED_CURRENT": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "GUARD_ORIGIN_COLUMNS": {
+            "count": 0,
+            "nanos": 0,
+            "failed": 0
+          },
+          "NATIVE_HTTP_GET": {
+            "count": 68,
+            "nanos": 5105788043,
+            "failed": 0
+          }
+        }
+      }
+    }
+  ],
+  "scans": [
+    {
+      "phase": "BEFORE_MAIN",
+      "firstSequence": 13953,
+      "lastSequence": 14272,
+      "pages": 8,
+      "beforeAfterEntityGET": 312,
+      "GET": 320
+    },
+    {
+      "phase": "BEFORE_MAIN",
+      "firstSequence": 14342,
+      "lastSequence": 14661,
+      "pages": 8,
+      "beforeAfterEntityGET": 312,
+      "GET": 320
+    },
+    {
+      "phase": "AFTER_MAIN",
+      "firstSequence": 14663,
+      "lastSequence": 14982,
+      "pages": 8,
+      "beforeAfterEntityGET": 312,
+      "GET": 320
+    },
+    {
+      "phase": "AFTER_MAIN",
+      "firstSequence": 15152,
+      "lastSequence": 15471,
+      "pages": 8,
+      "beforeAfterEntityGET": 312,
+      "GET": 320
+    },
+    {
+      "phase": "VERIFIER_INITIAL_INVENTORY",
+      "firstSequence": 15472,
+      "lastSequence": 15791,
+      "pages": 8,
+      "beforeAfterEntityGET": 312,
+      "GET": 320
+    },
+    {
+      "phase": "VERIFIER_INITIAL_INVENTORY",
+      "firstSequence": 15792,
+      "lastSequence": 16111,
+      "pages": 8,
+      "beforeAfterEntityGET": 312,
+      "GET": 320
+    },
+    {
+      "phase": "VERIFIER_FINAL_INVENTORY",
+      "firstSequence": 16243,
+      "lastSequence": 16562,
+      "pages": 8,
+      "beforeAfterEntityGET": 312,
+      "GET": 320
+    },
+    {
+      "phase": "VERIFIER_FINAL_INVENTORY",
+      "firstSequence": 16563,
+      "lastSequence": 16882,
+      "pages": 8,
+      "beforeAfterEntityGET": 312,
+      "GET": 320
+    }
+  ],
+  "wholeWorkflowOnly": {
+    "firstSequence": 13952,
+    "lastSequence": 16951,
+    "HTTP": 3000,
+    "GET": 2999,
+    "auth": 1,
+    "firstReservedUTC": "2026-10-23T11:21:41.633044+00:00",
+    "lastCompletedUTC": "2026-10-23T11:26:40.794028+00:00",
+    "ledgerSpanSeconds": 299.16098403930664,
+    "sumReserveToCompleteSeconds": 83.15627574920654,
+    "routeCounts": {
+      "GET /api/v1/policies/resources": 5,
+      "GET /api/v1/metadata/chart/page": 8,
+      "GET /api/v1/metadata/chart/{observedId}": 54,
+      "GET /api/v1/metadata/dashboard/page": 8,
+      "GET /api/v1/metadata/dashboard/{observedId}": 54,
+      "GET /api/v1/metadata/database/page": 8,
+      "GET /api/v1/metadata/database/{observedId}": 112,
+      "GET /api/v1/metadata/databaseSchema/page": 8,
+      "GET /api/v1/metadata/databaseSchema/{observedId}": 112,
+      "GET /api/v1/metadata/glossary/page": 8,
+      "GET /api/v1/metadata/glossary/{observedId}": 342,
+      "GET /api/v1/metadata/glossaryTerm/page": 8,
+      "GET /api/v1/metadata/glossaryTerm/{observedId}": 913,
+      "GET /api/v1/metadata/storedProcedure/page": 8,
+      "GET /api/v1/metadata/storedProcedure/{observedId}": 54,
+      "GET /api/v1/metadata/table/page": 8,
+      "GET /api/v1/metadata/table/{observedId}": 1009,
+      "GET /api/v1/users/{pinnedId}": 4,
+      "GET /api/v1/metadata/dashboardService/{observedId}": 8,
+      "GET /api/v1/databases/{controlledId}": 33,
+      "GET /api/v1/databaseServices/{controlledId}": 24,
+      "GET /api/v1/databaseSchemas/{controlledId}": 33,
+      "GET /api/v1/tables/{controlledId}": 110,
+      "GET /api/v1/policies/{pinnedId}": 3,
+      "GET /api/v1/roles/{pinnedId}": 2,
+      "GET /api/v1/teams/{pinnedId}": 2,
+      "GET /api/v1/permissions/chart/{scopeId}": 2,
+      "GET /api/v1/permissions/dashboard/{scopeId}": 2,
+      "GET /api/v1/permissions/database/{scopeId}": 3,
+      "GET /api/v1/permissions/databaseSchema/{scopeId}": 3,
+      "GET /api/v1/permissions/glossary/{scopeId}": 2,
+      "GET /api/v1/permissions/glossaryTerm/{scopeId}": 3,
+      "GET /api/v1/permissions/storedProcedure/{scopeId}": 2,
+      "GET /api/v1/permissions/table/{scopeId}": 13,
+      "POST /api/v1/users/login": 1,
+      "GET /api/v1/users/loggedInUser": 1,
+      "GET /api/v1/chart/{scopeId}/ordinary": 2,
+      "GET /api/v1/dashboard/{scopeId}/ordinary": 2,
+      "GET /api/v1/database/{scopeId}/ordinary": 3,
+      "GET /api/v1/databaseSchema/{scopeId}/ordinary": 3,
+      "GET /api/v1/glossary/{scopeId}/ordinary": 2,
+      "GET /api/v1/glossaryTerm/{scopeId}/ordinary": 3,
+      "GET /api/v1/storedProcedure/{scopeId}/ordinary": 2,
+      "GET /api/v1/table/{scopeId}/ordinary": 13
+    }
+  },
+  "UIQualificationReadSeparate": {
+    "firstSequence": 13950,
+    "lastSequence": 13951,
+    "HTTP": 2,
+    "GET": 2,
+    "auth": 0,
+    "firstReservedUTC": "2026-10-23T11:20:15.074685+00:00",
+    "lastCompletedUTC": "2026-10-23T11:21:41.151764+00:00",
+    "ledgerSpanSeconds": 86.07707905769348,
+    "sumReserveToCompleteSeconds": 0.21427321434020996,
+    "routeCounts": {
+      "GET /api/v1/users/{pinnedId}": 2
+    }
+  },
+  "managementRefreshSelfEightCountSeparate": {
+    "firstSequence": 13940,
+    "lastSequence": 13949,
+    "HTTP": 10,
+    "GET": 9,
+    "auth": 1,
+    "firstReservedUTC": "2026-10-23T11:18:43.498727+00:00",
+    "lastCompletedUTC": "2026-10-23T11:19:10.764673+00:00",
+    "ledgerSpanSeconds": 27.26594614982605,
+    "sumReserveToCompleteSeconds": 0.543764591217041,
+    "routeCounts": {
+      "POST /api/v1/users/refresh": 1,
+      "GET /api/v1/users/loggedInUser": 1,
+      "GET /api/v1/metadata/chart/page": 1,
+      "GET /api/v1/metadata/dashboard/page": 1,
+      "GET /api/v1/metadata/database/page": 1,
+      "GET /api/v1/metadata/databaseSchema/page": 1,
+      "GET /api/v1/metadata/glossary/page": 1,
+      "GET /api/v1/metadata/glossaryTerm/page": 1,
+      "GET /api/v1/metadata/storedProcedure/page": 1,
+      "GET /api/v1/metadata/table/page": 1
+    }
+  },
+  "consumerSeparate": {
+    "firstSequence": 16952,
+    "lastSequence": 16956,
+    "HTTP": 5,
+    "GET": 4,
+    "auth": 1,
+    "firstReservedUTC": "2026-10-23T11:27:45.950672+00:00",
+    "lastCompletedUTC": "2026-10-23T11:27:47.062987+00:00",
+    "ledgerSpanSeconds": 1.1123151779174805,
+    "sumReserveToCompleteSeconds": 0.6132018566131592,
+    "routeCounts": {
+      "POST /api/v1/users/login": 1,
+      "GET /api/v1/users/loggedInUser": 4
+    }
+  },
+  "terminalGETOutsideSourceScope": {
+    "firstSequence": 16951,
+    "lastSequence": 16951,
+    "HTTP": 1,
+    "GET": 1,
+    "auth": 0,
+    "firstReservedUTC": "2026-10-23T11:26:40.758057+00:00",
+    "lastCompletedUTC": "2026-10-23T11:26:40.794028+00:00",
+    "ledgerSpanSeconds": 0.03597116470336914,
+    "sumReserveToCompleteSeconds": 0.03597116470336914,
+    "routeCounts": {
+      "GET /api/v1/users/{pinnedId}": 1
+    }
+  },
+  "ordinaryLoginOutsideReadScope": {
+    "firstSequence": 16211,
+    "lastSequence": 16211,
+    "HTTP": 1,
+    "GET": 0,
+    "auth": 1,
+    "firstReservedUTC": "2026-10-23T11:25:22.602052+00:00",
+    "lastCompletedUTC": "2026-10-23T11:25:22.899964+00:00",
+    "ledgerSpanSeconds": 0.2979116439819336,
+    "sumReserveToCompleteSeconds": 0.2979116439819336,
+    "routeCounts": {
+      "POST /api/v1/users/login": 1
+    }
+  },
+  "cuts": {
+    "beforeR14": {
+      "operations": 13939,
+      "get": 13925,
+      "management_auth": 7,
+      "mutating": 14,
+      "ordinary_login": 2
+    },
+    "beforeUI": {
+      "operations": 13949,
+      "get": 13934,
+      "management_auth": 8,
+      "mutating": 15,
+      "ordinary_login": 2
+    },
+    "episodeTerminal": {
+      "operations": 16951,
+      "get": 16935,
+      "management_auth": 8,
+      "mutating": 16,
+      "ordinary_login": 3
+    },
+    "afterConsumer": {
+      "operations": 16956,
+      "get": 16939,
+      "management_auth": 8,
+      "mutating": 17,
+      "ordinary_login": 4
+    },
+    "allObjectProfileCounts": [
+      5,
+      1
+    ]
+  },
+  "sourceCost": {
+    "logReference": "/private/tmp/atlas-b27-deployment-r0-20261002/infra-b27-application.log",
+    "eventPrefix": "ATLAS_NATIVE_SOURCE_COST/1",
+    "windowFilterUTC": "2026-10-23T11:17:29Z",
+    "mainObservations": 2,
+    "originalVerifierObservationsRetained": 5,
+    "all7ValidAllStageFailureZero": true,
+    "sumScopeWallSeconds": 298.41475371,
+    "instrumentedManagementTransportSeconds": 209.26051103,
+    "instrumentedManagementTransportCount": 2967,
+    "SOURCE_SCOPEFailureDiagnostics": []
+  },
+  "terminal": {
+    "state": "SUCCEEDED",
+    "taskState": "SUCCEEDED",
+    "managedSyncState": "IN_SYNC",
+    "sameNativeUUID": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+    "bindingVersion": 5,
+    "credentialEpoch": 1,
+    "configurationVersion": 1,
+    "all15QualificationsNotVerified": true,
+    "priorFiveACKBoundary": "Existing full50/5ACK source evidence and exact same task; this reviewer did not issue newDB query; no new object/profile write"
+  },
+  "consumer": {
+    "inspectionId": "413600b9-5f07-4a32-9a08-a0398feef54b",
+    "checks": [
+      {
+        "consumer": "MODEL_CLIENT",
+        "state": "VERIFIED",
+        "configurationVersion": 1,
+        "bindingVersion": 5,
+        "credentialEpoch": 1,
+        "nativeUserId": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+        "observedAt": "2026-10-23T11:27:46.670070Z",
+        "evidenceRef": "413600b9-5f07-4a32-9a08-a0398feef54b",
+        "reason": ""
+      },
+      {
+        "consumer": "WORKER",
+        "state": "VERIFIED",
+        "configurationVersion": 1,
+        "bindingVersion": 5,
+        "credentialEpoch": 1,
+        "nativeUserId": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+        "observedAt": "2026-10-23T11:27:47.194059Z",
+        "evidenceRef": "413600b9-5f07-4a32-9a08-a0398feef54b",
+        "reason": ""
+      }
+    ],
+    "all15WriteQualificationsNotVerified": true
+  },
+  "timingLimits": [
+    "NATIVE_HTTP_GET is the management transport call from Atlas through local proxy to OM and back, not pure OM upstream time. Ordinary31GET are visible in ledger but that source-cost counter reports0 for their scope. Terminal management GET is outside all7 source traces.",
+    "Proxy reserve timestamp precedes reserve full-state persistence; complete timestamp follows upstream body read but precedes completion persistence. Sum reserve→complete includes reserve IO and excludes pre-capacity and completionIO.",
+    "Source cost stages are nested inclusive metrics; do not sum all stage nanos as a component partition.",
+    "Pure OM processing, individual proxy serialization/fsync, local guards and scheduling cannot be independently recovered from current metrics.",
+    "Ledger normalized routes do not retain per-operation UUID/query; scan counts prove exact ordered route/total structure but do not alone prove every historical body/version equal. Production fences remain responsible.",
+    "Old complete7044GET is a synthetic baseline; previous real R12 stopped during fourth observation. Do not call modeled old total observed completion."
+  ],
+  "reviewerActions": {
+    "HTTP": 0,
+    "SQL": 0,
+    "browser": 0,
+    "signals": 0,
+    "service": 0,
+    "tests": 0,
+    "newWindowOrPermit": 0,
+    "privateWrites": 0,
+    "rawNativeOrCredentialCopied": false
+  }
+}

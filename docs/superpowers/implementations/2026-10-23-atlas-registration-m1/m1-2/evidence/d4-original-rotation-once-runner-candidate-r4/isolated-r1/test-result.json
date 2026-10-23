@@ -1,0 +1,35 @@
+{
+  "failed" : 0,
+  "realDatabase" : "H2 only",
+  "cases" : [ {
+    "name" : "once-success-same-input-ack",
+    "state" : "PASS"
+  }, {
+    "name" : "current-authority-denied-before-effect",
+    "state" : "PASS"
+  }, {
+    "name" : "concurrent-once-claim",
+    "state" : "PASS"
+  }, {
+    "name" : "lost-password-ack-no-replay",
+    "state" : "PASS"
+  }, {
+    "name" : "crash-claim-and-after-real-dispatch-permanent",
+    "state" : "PASS"
+  }, {
+    "name" : "second-preflight-fails-stop",
+    "state" : "PASS"
+  }, {
+    "name" : "numeric-other-manual-and-livelease-rejected",
+    "state" : "PASS"
+  }, {
+    "name" : "finish-failure-keeps-ack",
+    "state" : "PASS"
+  }, {
+    "name" : "bootstrap-pending-before-context",
+    "state" : "PASS"
+  } ],
+  "passed" : 9,
+  "realPrivateWrites" : 0,
+  "realHTTP" : 0
+}

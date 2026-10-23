@@ -1,0 +1,417 @@
+{
+  "observedAt": "2026-10-23T13:28:33.416693+00:00",
+  "artifact": {
+    "path": "/private/tmp/atlas-m12-full-runtime-build-r14-modeling-rotation-integration-031d91d18c/source/atlas-module-infra/atlas-module-infra-server/target/atlas-module-infra-server.jar",
+    "sha256": "d7e21d37bfe1f2ae1c99bdda566e6ce13c87d7a840e786e2bf043af8a42f2bd7",
+    "bytes": 178273113
+  },
+  "buildExitCode": 0,
+  "sourceManifestCount": 2627,
+  "acceptedManifestPathsExact": true,
+  "onlyThreeChanged": [
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore.java",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal.java",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore.java"
+  ],
+  "all2627CurrentBuildSourceHashesMatch": true,
+  "threeSources": [
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore.java",
+      "manifest": {
+        "sha256": "e9517280dd8a31a07928da6ad5f870390c540c5d39de3adc5e06b37f0fd42d54",
+        "bytes": 82802
+      },
+      "buildSourceMatches": true,
+      "installedMatches": true
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal.java",
+      "manifest": {
+        "sha256": "d0629bb6076440858cfc0e9a83a7fb8dd1fef2ba5fb408624af1962daa65516d",
+        "bytes": 49591
+      },
+      "buildSourceMatches": true,
+      "installedMatches": true
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore.java",
+      "manifest": {
+        "sha256": "020f0665e62512dbca27229d92aaf811ce846dfe61755613d137ee1666437c54",
+        "bytes": 102616
+      },
+      "buildSourceMatches": true,
+      "installedMatches": true
+    }
+  ],
+  "noSourceOrProtectedDriftInActualReceipt": true,
+  "bootClassCountForChangedThree": 56,
+  "changedSourceClasses": [
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$ProfileCapture.class",
+      "sha256": "3b687f11d3446b1e2dcbb914cf6892a924b73d8cb6f81ed4ddd6d1ec6306694c",
+      "bytes": 1853,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$9.class",
+      "sha256": "ff42dfecffb5cf119a3abc3dc5f9545034a16293d24e60d848e690e60cf8e14c",
+      "bytes": 660,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$10.class",
+      "sha256": "f0b1e2d6d3fcc4287ec097006eeb08c4a7d108caf73bae284c40cdfd305836fa",
+      "bytes": 1714,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$ContinuationCurrent.class",
+      "sha256": "e31a7674ac0749d4cbcf5513f6ab0ce1363601d82ecc8062fcc9d116228be38d",
+      "bytes": 3059,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$LegacyPresence.class",
+      "sha256": "5b1e84288d603eb376d02e9116fa1b58cda2ea9e14312436b3df129de248a479",
+      "bytes": 749,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$8.class",
+      "sha256": "5f8ca4383305ff670b2317e84366503e2e757908631155a061c6af2aedf4acd7",
+      "bytes": 647,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$ScopeRow.class",
+      "sha256": "66f43b00215d5479b49eb7a794b71c3f4b7b8b4bfcf5ab2d4e8f67b6fc6311c4",
+      "bytes": 1632,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal$Work.class",
+      "sha256": "5fedc246f7f3a8a6cb01cba40a5882536a84507a980db194383e15a6448b3144",
+      "bytes": 1224,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal$2.class",
+      "sha256": "ef7c1c6751d45cf4c91fc9c62dd5fde274a99d2fe67b7a0db3e00566216876e0",
+      "bytes": 5086,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$21.class",
+      "sha256": "17c83c9ef046a50c70884197b4d1911077f3a87a2eb1c500fbc208d1e675376b",
+      "bytes": 3919,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$23.class",
+      "sha256": "1f5e9e588cc255fcedbdcfbfd85a1a15a1181b15f9d76a277c86d8735f36d846",
+      "bytes": 1101,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$2.class",
+      "sha256": "984de1c41d05f60ff4e4861ab386a24a90c9b4361aee3ecf9c2142d8ef224107",
+      "bytes": 2310,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$6.class",
+      "sha256": "c5c3e585fc3f95c44339957f2a713463483abe652ff328d474e88c3911ea633a",
+      "bytes": 914,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal$4.class",
+      "sha256": "b3ffded13b0057c6bbef954eee63de812d3a165a6ce4fd2f7416e3b5fa51cda4",
+      "bytes": 4240,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$ReceiptApplier.class",
+      "sha256": "bfb8b1a7b97817ac24891dec81abf4363678a36bce1129f36f5e84357b12ed84",
+      "bytes": 1267,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal$6.class",
+      "sha256": "0e5ac708022979b839ae9e66475c6aa740237735e1da16958170fa7ca1076592",
+      "bytes": 1114,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$18.class",
+      "sha256": "f27bb820f7058054ef01447ae603ba89d43e2f4020afb5d014883a386e5c8a2c",
+      "bytes": 3128,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$4.class",
+      "sha256": "b4aad7b2b02a8dd9e34be730c61a700fdf568a429c76873ddc4ccf1c18e789e3",
+      "bytes": 2665,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$22.class",
+      "sha256": "8fdeffc6641992ecb524a7f03a48f77d89d5b6ee6c44565eecd8c38401c9e1f8",
+      "bytes": 649,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal$1.class",
+      "sha256": "4df95d284069b15b864f5f4fa15003d0f1a1a149830e6f5a39a648fa7f30d67a",
+      "bytes": 6009,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$Locked.class",
+      "sha256": "9db02b223775d85f7b9ab3928e25a89ba826f297912cd4791f16b389f8253f33",
+      "bytes": 2308,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$3.class",
+      "sha256": "e0341adda4967566bc1317439d733bee05941ac0686a4f265729d8a12936d9b4",
+      "bytes": 2322,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal$Instance.class",
+      "sha256": "f9f53f64fd14bc55e28c7b61c85680b8ad43cbf00f83b9839dba9a8f842972b5",
+      "bytes": 4475,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal$OwnershipReference.class",
+      "sha256": "e0f7a120ea7d61c2acf5906c5bbf2f1db276d5fa8f23754e0e9e8e4e9643b1cf",
+      "bytes": 1744,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$1.class",
+      "sha256": "57c8c7addba0642235eabda66a169348b583bf3b90bd2d0e26a87b7e5aa3b66b",
+      "bytes": 2754,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$20.class",
+      "sha256": "6d3eed2a358200d8b79e30a252f9d96fe49ed16958d2d98e6c055af0a81b5bea",
+      "bytes": 5122,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal$3.class",
+      "sha256": "aca3c8c84fdcf0ee8308ec946f95ed99b7f8e803f04d74aa48e1174852fc65ba",
+      "bytes": 6283,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$19.class",
+      "sha256": "d740dfd0a7b8f0f4ff82655924628797e064743892b3776abad13c977f55c8b0",
+      "bytes": 4553,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$DispatchGuard.class",
+      "sha256": "6d60ea5d5dba18b234500c985f79511abb1a7a87cb55edee5786b8e4e1e1d87a",
+      "bytes": 2330,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$5.class",
+      "sha256": "8f5b3667880e4a3e5946e34cbef9fe876cc8919f3c65c3c30bb3e2306b5fdc92",
+      "bytes": 914,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$7.class",
+      "sha256": "b4a8cd3a1b6693cc55637ae057ada1475c6e31ce7522280d57dc826f12e0f55a",
+      "bytes": 914,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal$5.class",
+      "sha256": "e67f9b26b2cc0c7a0fd054391d5cce08ab94fb93770582aec0f73cb45921bfae",
+      "bytes": 1114,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$17.class",
+      "sha256": "5454f7e08d69dc9e8ce96c2e61fe0229656bd9a17fbb567891766ce2e9ef63c1",
+      "bytes": 7521,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$9.class",
+      "sha256": "3408b5b400748520d229e024e2a325be9ab86f1ba456c46fab4bc77eab3f755b",
+      "bytes": 1015,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$15.class",
+      "sha256": "7dfa5b7c7b81d3791b1ccce79411b3f412b5e79ad89ec2e18d564e19db9c4a1e",
+      "bytes": 4528,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal.class",
+      "sha256": "b3360e6df035591f9c59319262e653eda48ac614e296f4a135a2582370b0c34e",
+      "bytes": 71592,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$11.class",
+      "sha256": "eb5ba36353e627c748ced402d5a44af31f902796fc03e8fb5354810bdfa4283d",
+      "bytes": 1114,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$13.class",
+      "sha256": "ae125a61c32ff80616709238f7b3e139853ce6159fc09362413d7341ada2f4bd",
+      "bytes": 5293,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$8.class",
+      "sha256": "aa2486c9399a4ab47442441684aec8497a1cc40eb014bd357df3e8ab0a97637c",
+      "bytes": 2271,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$14.class",
+      "sha256": "d42e8fef831bb8445d66b0534722e75373301cc320df8dc0aa7c1f58ac261adc",
+      "bytes": 5500,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$16.class",
+      "sha256": "9635c754169e3643b265a4137b530fdb0e15a1756f0a4a559ecdb9d4faebe227",
+      "bytes": 4685,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$12.class",
+      "sha256": "d2e752af857f2809c9ddab72c67554fc2606a82cb1e762785bebd8f1a2debf99",
+      "bytes": 1051,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore$10.class",
+      "sha256": "400eb079b169f946d5f774aa85ae52936bc8e1bd8cd0ae8b510198791e181ff1",
+      "bytes": 1132,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore.class",
+      "sha256": "bc9c5c7c2a941af967e61eb13a04c61e42c84ec2fde5e15ce375abb622106a00",
+      "bytes": 92140,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$Managed.class",
+      "sha256": "7d1ae44c50d2e926e29569cd75a3ae367a4a458e4deee16e927cc1d56fd224ab",
+      "bytes": 3355,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$2.class",
+      "sha256": "f0ab3365f82c8e7a36211261424fb26d9214ab374df72a3a2917ae2527f060a5",
+      "bytes": 4044,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$6.class",
+      "sha256": "d69af5d0bc9645937376d18e4134d21d497261b848c6804ad7e1436fb20d4d3a",
+      "bytes": 1642,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$Inspection.class",
+      "sha256": "9bb0f7144986624ffac697ff50ba25e58e8a65831f8c590b6a4b1dea888f2946",
+      "bytes": 2826,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$LedgerAction.class",
+      "sha256": "93c31839ed015afc916ea03de044af5fbd83c3f0f566c83a74b4e3c8f2bd5e17",
+      "bytes": 677,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$4.class",
+      "sha256": "6a52d82247a032209750a7f99290186a980a06c423e477e0782030a9166d323b",
+      "bytes": 4135,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$3.class",
+      "sha256": "eb63b1a79a96d8a146ad7eb03f443f28c8c0ee9e20ef99b0ddf547913d73f223",
+      "bytes": 4111,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$Current.class",
+      "sha256": "dacaf54f0dafa7d9110124ac6b32e0261eacbc3a568a1380331a6fa53f369f54",
+      "bytes": 4617,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$1.class",
+      "sha256": "26d02a6266cfa120466dd9e23f5caec5a9871356b2d2641a09f17159a4c07c6b",
+      "bytes": 3490,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore.class",
+      "sha256": "7e7f8a87cddfbb72a455ab1ffa156f5e28c838c29b95a69825fb2e03ed2e6c02",
+      "bytes": 115393,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$5.class",
+      "sha256": "d3dedd278d5dcacb95e2742c6bd4664efee67253d97a3389c4bb9ede47db1552",
+      "bytes": 4462,
+      "targetExact": true
+    },
+    {
+      "name": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore$7.class",
+      "sha256": "d3a111de054a6775f08c7d4510e82cfb9d02b989d16de7f59dfbb98bce4f5132",
+      "bytes": 645,
+      "targetExact": true
+    }
+  ],
+  "mainAttributes": {
+    "Main-Class": "org.springframework.boot.loader.launch.JarLauncher",
+    "Start-Class": "cn.iocoder.atlas.module.infra.InfraServerApplication",
+    "Spring-Boot-Classes": "BOOT-INF/classes/",
+    "Spring-Boot-Lib": "BOOT-INF/lib/"
+  },
+  "infraMainUnchanged": true,
+  "bootLoaderClassesUnchanged": 99,
+  "standaloneSDKSourceExact": {
+    "path": "/Users/wangmingzhang/atlas-cloud/integrations/om-identity/native/NativeTagSourceSemantics.java",
+    "sha256": "405e3e78be6f65d20d77580dd8ddc3352a884c471bb00079214bba73b7e8cb9d",
+    "bytes": 37880
+  },
+  "logsExact": {
+    "stdout": {
+      "sha256": "f0d420610a2543a82ffd00c80512a22f40155b354101bd313c39cf99f6023d00",
+      "bytes": 42857
+    },
+    "stderr": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  },
+  "buildSuccessLine": [
+    "[INFO] BUILD SUCCESS"
+  ],
+  "reviewerBuildOrTestsRun": false,
+  "HTTP": 0,
+  "SQL": 0,
+  "privateCredentialReads": 0,
+  "serviceActions": 0
+}

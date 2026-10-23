@@ -1,0 +1,13 @@
+
+ RUN  v3.2.7 /private/tmp/atlas-m12-b2-cancel-escape-khfcvksp
+
+ ✓ cancel-escape.test.tsx (2 tests) 987ms
+   ✓ current real Page: 取消 closes the original-profile confirm without POST or pending/marker changes  617ms
+   ✓ current real Page: Escape closes the original-profile confirm without POST or pending/marker changes  369ms
+
+ Test Files  1 passed (1)
+      Tests  2 passed (2)
+   Start at  22:20:37
+   Duration  3.44s (transform 210ms, setup 119ms, collect 1.74s, tests 987ms, environment 417ms, prepare 38ms)
+
+JSON report written to /Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-2/evidence/frontend-b2-cancel-escape-current-page-r1/actual-r1/results.json

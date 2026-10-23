@@ -1,0 +1,283 @@
+{
+  "at": "2026-10-23T13:43:24.342202+00:00",
+  "openingOperations": 16962,
+  "operations": 16994,
+  "prefixOperationsUnchanged": true,
+  "prefixDenialsUnchanged": true,
+  "openingUsed": {
+    "get": 16944,
+    "logout": 0,
+    "management_auth": 9,
+    "mutating": 18,
+    "object_writes": 5,
+    "ordinary_login": 4,
+    "password_rotate": 0,
+    "policy_create": 1,
+    "policy_sync": 0,
+    "profile_sync": 1,
+    "role_create": 1,
+    "team_create": 1,
+    "user_create": 1
+  },
+  "used": {
+    "get": 16972,
+    "logout": 1,
+    "management_auth": 10,
+    "mutating": 22,
+    "object_writes": 6,
+    "ordinary_login": 5,
+    "password_rotate": 1,
+    "policy_create": 1,
+    "policy_sync": 0,
+    "profile_sync": 1,
+    "role_create": 1,
+    "team_create": 1,
+    "user_create": 1
+  },
+  "additionalRows": [
+    {
+      "sequence": 16963,
+      "category": "management_auth",
+      "route": "POST /api/v1/users/refresh",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16964,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16965,
+      "category": "get",
+      "route": "GET /api/v1/system/version",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16966,
+      "category": "get",
+      "route": "GET /api/v1/system/config/auth",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16967,
+      "category": "get",
+      "route": "GET /api/v1/system/security/config",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16968,
+      "category": "get",
+      "route": "GET /api/v1/system/settings/emailConfiguration",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16969,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16970,
+      "category": "get",
+      "route": "GET /api/v1/system/config/auth",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16971,
+      "category": "get",
+      "route": "GET /api/v1/system/security/config",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16972,
+      "category": "get",
+      "route": "GET /api/v1/system/settings/emailConfiguration",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16973,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16974,
+      "category": "get",
+      "route": "GET /api/v1/users/{pinnedId}",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16975,
+      "category": "get",
+      "route": "GET /api/v1/system/config/auth",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16976,
+      "category": "get",
+      "route": "GET /api/v1/system/security/config",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16977,
+      "category": "get",
+      "route": "GET /api/v1/system/settings/emailConfiguration",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16978,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16979,
+      "category": "get",
+      "route": "GET /api/v1/users/{pinnedId}",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16980,
+      "category": "get",
+      "route": "GET /api/v1/system/config/auth",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16981,
+      "category": "get",
+      "route": "GET /api/v1/system/security/config",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16982,
+      "category": "get",
+      "route": "GET /api/v1/system/settings/emailConfiguration",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16983,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16984,
+      "category": "get",
+      "route": "GET /api/v1/users/{pinnedId}",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16985,
+      "category": "password_rotate",
+      "route": "PUT /api/v1/users/changePassword",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16986,
+      "category": "ordinary_login",
+      "route": "POST /api/v1/users/login",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16987,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16988,
+      "category": "logout",
+      "route": "POST /api/v1/users/logout",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16989,
+      "category": "get",
+      "route": "GET /api/v1/users/{pinnedId}",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16990,
+      "category": "get",
+      "route": "GET /api/v1/system/version",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16991,
+      "category": "get",
+      "route": "GET /api/v1/system/config/auth",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16992,
+      "category": "get",
+      "route": "GET /api/v1/system/security/config",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16993,
+      "category": "get",
+      "route": "GET /api/v1/system/settings/emailConfiguration",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    },
+    {
+      "sequence": 16994,
+      "category": "get",
+      "route": "GET /api/v1/users/loggedInUser",
+      "state": "HTTP_COMPLETED",
+      "status": 200
+    }
+  ],
+  "inflight": 0,
+  "writesStopped": false,
+  "stopCode": null,
+  "passwordPUTOnce": true,
+  "rotationLoginOnce": true,
+  "verificationLogoutOnce": true,
+  "firstRuntimeStartupReadOnlyOperations": 5,
+  "rotationOperations": 20,
+  "normalRuntimeStartupReadOnlyOperations": 5,
+  "nativeCreatesProfilePolicyDuringContinuation": 0,
+  "requestBodiesTokensAndCredentialFingerprintsPersisted": false,
+  "normalRuntime": {
+    "pid": 86412,
+    "createTime": 1792762920.00625,
+    "pgid": 86412,
+    "sid": 86412,
+    "at": "2026-10-23T13:42:00.007753+00:00",
+    "normalMainOnly": true
+  },
+  "normalRuntimeObservedAliveAfterParentToolExit": true
+}
