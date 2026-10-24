@@ -1,0 +1,3 @@
+12:37:37.381 [main] INFO org.hibernate.validator.internal.util.Version -- HV000001: Hibernate Validator 8.0.3.Final
+PASS om403WriteRetainsDispatchAndNeverFallsBackOrReplays
+PASS onlyViewBasicReadSuccessNeverQualifiesReviewerWrite

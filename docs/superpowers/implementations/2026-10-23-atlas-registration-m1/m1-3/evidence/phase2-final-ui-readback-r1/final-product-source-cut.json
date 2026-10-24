@@ -1,0 +1,215 @@
+{
+  "at": "2026-10-24T04:39:39.720147+00:00",
+  "state": "SOURCE_CUT_FOR_SUPERVISOR_REVIEW_NOT_ROOT_ACCEPTED",
+  "registeredProductPaths": [
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingAccessStore.java",
+      "sha256": "cff0706b0c1e9928e667971a117df6e4ccdd07ba04d54ca22c0049ee0bac72ce",
+      "bytes": 84212
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyModelingPermissionStore.java",
+      "sha256": "cfcaa1c755ed7207b0472a551cbd25003b405769148991fa2c8820793445ebd3",
+      "bytes": 95343
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessConfiguration.java",
+      "sha256": "a31284210b282757c0001e2c0d6e07a044de29fdf34258564374ab676d14195b",
+      "bytes": 4299
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingAccessExceptionAdvice.java",
+      "sha256": "db4d8b1c7e10b95b9214f17ee2e4489fe0c5b2775d4160da92dea72717cf31b4",
+      "bytes": 1672
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingIdentityConsumer.java",
+      "sha256": "68b36f6afb3df3bcbaf807df81c681cc1ccc209ed55157f4eb826109c6afe48a",
+      "bytes": 7823
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingPermissionCompiler.java",
+      "sha256": "bf45e32bd8e7040f9c66d19067577b9c03b206263719413a42225a7f2983b420",
+      "bytes": 3558
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingPermissionConfiguration.java",
+      "sha256": "080965122a496c1e1be4b2fae46c8b7cf23c728bb27ea93579a96d796f805250",
+      "bytes": 3269
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingPermissionContracts.java",
+      "sha256": "da3f1daa8ca080b582062386b7b9f70a8bf2649ed30073db62f310d79ce596b9",
+      "bytes": 4548
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingPermissionController.java",
+      "sha256": "0e98d7830119222a0851d751eb4010990ec9f58618a78804f56b23045812de03",
+      "bytes": 6439
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingPermissionService.java",
+      "sha256": "5c4415433475bac244788e0024a340781c9a2c52162b04a3a4b660650ed22d81",
+      "bytes": 1581
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingQualificationDispatcher.java",
+      "sha256": "7a0514ac75d430fbbb924df18b904c994fae84adb7e191e578b22381df2aef99",
+      "bytes": 1119
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyOmIdentityRuntimeConfiguration.java",
+      "sha256": "035c962aef79762b5304e7392d66e33c65abcc1fda011523b70991c1349223bd",
+      "bytes": 9019
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmInstanceRegistry.java",
+      "sha256": "596eb0f3540afb27689668a0142bfdd89309b604fa84bf971df8491891bd8a76",
+      "bytes": 6894
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityReceiptApplier.java",
+      "sha256": "7db0a81b23e13e73694a68113c2a19f76631b32baca7c78725fc75cfc094260e",
+      "bytes": 12238
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityTaskStore.java",
+      "sha256": "77cab7a187a1713ca0bbdddcb678ec16a797d93064f3d4995fb22f4aafb73219",
+      "bytes": 109260
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/JdbcOmIdentityNativeJournal.java",
+      "sha256": "6014a8b07cbf17e0f88f6ffc486166a56688be175e0fc71ce0cc456a88344aa3",
+      "bytes": 50330
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmIdentityModelingPolicyContinuation.java",
+      "sha256": "33264808d74075f909cc5b98294b613719bb1a601968e8b90fd7e6c68a778ce3",
+      "bytes": 22774
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmIdentityNativeWorkflow.java",
+      "sha256": "11f81faac910550b25cb003139964039d3980571fb04fd811aca77e2431b1ed6",
+      "bytes": 184806
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmIdentityTaskProcessor.java",
+      "sha256": "f3c58473c2ce9e5b97065268553fc4ec4e200ef142eaf7e445c0924db81499a8",
+      "bytes": 30505
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmIdentityBackgroundExecutor.java",
+      "sha256": "da5912dbe96b53567b3c3eecd3c0d2fd9bc37fade118ae69189d6cc61a4618ab",
+      "bytes": 15796
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "sql/ontology/V20261023_32__ontology_modeling_permissions.sql",
+      "sha256": "2734cda3fef91882769baac92e36cd716fd1695c348305a48b0643dda87d70df",
+      "bytes": 1564
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "sql/ontology/dm8/V20261023_32__ontology_modeling_permissions.sql",
+      "sha256": "3e39474ee8be51b1c30add87a18664f06c1d8c50db00d99f2fd1f84152fa4667",
+      "bytes": 1424
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingQualificationNativeAdapter.java",
+      "sha256": "52f9f1bdd54da2227bb35ffb8dc875f1d2be1a48595bbbf2a6444dd62b7d660d",
+      "bytes": 25030
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmRestClient.java",
+      "sha256": "3e637927d56bb94ba05a136933e322cc7df5112984ab4728c7ff473fcd7b61ee",
+      "bytes": 47905
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingPolicyNativeSync.java",
+      "sha256": "8f3538248ac5374a4a372c7975592d33a68a7522f03adb9a17f8410b64aac6b5",
+      "bytes": 22005
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/NativeOmIdentityClient.java",
+      "sha256": "9ce7c202c363a4b0877653a1ee2c87e02d817e31f970d36a3d7f11e7f5999652",
+      "bytes": 53812
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/NativeOmModelingPermissionPlan.java",
+      "sha256": "909e73627d33839b256cb35862007faaaf36ad5b00e73a176cba28507497f42b",
+      "bytes": 18429
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/OntologyModelingAccessPage.tsx",
+      "sha256": "5bb90c1885503c1ad0071ae49bfe77279065abe28c10bdb7798e401d0fa3dd6b",
+      "bytes": 68524
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/ModelingOperationAccessPanel.tsx",
+      "sha256": "a4529b1485078c0236aa6167d2d3bc025061ede6d23851eeb85139ab79f84723",
+      "bytes": 23927
+    },
+    {
+      "repository": "/Users/wangmingzhang/atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/modelingOperationAccessApi.ts",
+      "sha256": "cd4c4bb21f38caf12832bbf471a16c2bdeb3ca7815112fe49ec5f09dffc47619",
+      "bytes": 29875
+    }
+  ],
+  "cloudProductPaths": 27,
+  "reactProductPaths": 3,
+  "cloudAllFinalBuildInputs": 2640,
+  "cloudAllFinalBuildInputsCurrentExact": true,
+  "reactAllFinalBuildInputs": 1032,
+  "reactAllFinalBuildInputsCurrentExact": true,
+  "nativeRuntimeOverride": {
+    "source": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/native-derived-empty-artifact-prepared-r1/source/openmetadata-service/src/main/java/org/openmetadata/service/ontology/OntologyConditionalApplyService.java",
+      "sha256": "c2b46a17707c827cae488bf3b5694243bde285f7333ff0cfc4b27e2a434d8675",
+      "bytes": 38354
+    },
+    "artifact": {
+      "path": "/private/tmp/atlas-m13-native-derived-empty-artifact-r1/openmetadata-derived-empty-override.jar",
+      "sha256": "581045e2b30c45811076d2c552d7db329c1ee5d014a10b2928b75cd763d86d94",
+      "bytes": 906468
+    },
+    "sixRecompiledFortyThreeKept": true,
+    "mainNativeCheckoutEditedByThisWork": false,
+    "boundary": "Source and reproducible single-source override are retained in evidence; deployed CP0 only. Not full Native reactor or main-checkout integration."
+  },
+  "heads": {
+    "/Users/wangmingzhang/Env/semantica": "315216c6808c99542ac912a0a2f26bef7b988346",
+    "/Users/wangmingzhang/atlas-cloud": "f6e43062dc845192064bf8cf3fd3db757eebb773",
+    "/Users/wangmingzhang/atlas-ui-admin-react": "0a82bc19364bb4ede8e3b5f56b4c9f1fe5520a2a"
+  },
+  "unrelatedWIPExcluded": true,
+  "GitDelivery": "PENDING_SUPERVISOR",
+  "UserAcceptance": "PENDING"
+}

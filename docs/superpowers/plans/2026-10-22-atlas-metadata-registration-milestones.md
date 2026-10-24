@@ -1625,3 +1625,327 @@ M1.2状态前向更新为`ROOT_ACCEPTED`，限原四项技术判据，真人最�
 M1.2已ROOT_ACCEPTED并完成精确代码及公开文档Git交付。文档提交4a3e0489ddb8df99eef9572ca6ff56538aedac92（55路径）实际push exit0，独立ls-remote精确相同，分支codex/atlas-registration-m1-docs；父e12eec40，未夹带本地main额外347个提交。本地main/真实index/工作文件不切换不重置。代码远端仍为§17.42两仓实际HEAD。当前段与Git说明的完成回执随后单独提交，不回填原准备截面。
 
 依最新真人“补齐两项后完成M1.2独验Git，通过后让原会话继续M1以及M2”，现在只放行同Work 01a1618d-a3be-7c91-96a7-74a0f95a979f的M1.3，原计划§5有限原生权限配置与实际生效验证。M1.4/1.5及M2仍按各前置独验门顺序推进，不并行预做；整个M1通过才M2。已确认身份、UUID、任务、版本、原生效果、失败与UNKNOWN继续复用，不重放M1.2维护/consumer或再制档案。实施者自行完成常规授权工作，Root主动读关键差额和原结果；仅新敏感扩权/破坏/业务选择/未解除审批请求最小具体决定。当前普通套餐余49%，只是放行时截面，后续仍实时核0%停线。真人最终PENDING，不冒USER_ACCEPTED。
+
+
+### 17.44 M1.3 实际开工与最小实现边界（2026-10-23）
+
+M1.3当前`IN_PROGRESS`，仅原§5操作权限配置、撤销和逐项实际资格；M1.4/1.5与M2仍`NOT_GO`，真人最终`PENDING`。原Work连续实施，不新建用户会话。开工前实核后端HEAD f6e43062dc845192064bf8cf3fd3db757eebb773、前端HEAD 0a82bc19364bb4ede8e3b5f56b4c9f1fe5520a2a；本地Semantica main315216c6808c99542ac912a0a2f26bef7b988346不切换，公开文档远端完成回执d6bf25bd3760831b7da0da313b56dd475da74f82保留。15:11:49Z开工登记时仍只做E候选，尚无本节点产品安装、构建、SQL、服务或原生请求。
+
+本节点功能限定四项：当前人员/批准实例/项目下的精确操作选择与完整增减影响；独立原生策略同步及未知原意图核对；明确确认后使用对应普通OM_USER的有限隔离写验证；逐项当前资格与撤权/范围/凭据变化后的派发及返回重核。配置、同步、实际资格分开。复用104/S6、原binding081dc4a9、native UUID2d0540a5及开工cut config4/b7/cred2，不重开户/轮换或重跑已充分M1.2维护、consumer、6/9回归与完整build。旧原生账16999及旧scope已到期事实保持；本节点实际原生动作须另有当时有效且有限的执行条件，不能借旧窗续发。
+
+已落地合同在`../implementations/2026-10-23-atlas-registration-m1/m1-3/backend-contract-r1.md`，前端设计在同目录`frontend-design-r1.md`。前端候选范围为现Page挂载/局部编辑互斥与dirty切换、新ModelingOperationAccessPanel、新modelingOperationAccessApi；保持Aham8 pc浅色/current React AntD、旧15项NOT_VERIFIED parser及共享hook。后台候选为独立modeling权限编译器、原合同/Store/Service/Controller与SYNC_PERMISSIONS实际接合、真正registry/factory派发返回围栏及必要SQL32权限/资格耐久槽；精确源码清单随实际候选前向锁定，尚不把待实现路径冒作已改。不得放宽旧READ编译器、以管理身份代模型写或假造UUID-tag隔离；原生类型级Create及无tags类型粒度按源码披露，不能安全隔离的模式拒绝。
+
+本轮FIRST及开工前实时普通周套餐用52%/余48%，ordinary可用、spend未达、limitType空；不用点数/reset/换账号key。后续主要批次重核，任一适用余0%或不能确认普通可用即安全停止。源码、隔离样例、真实调用和真人验收继续分别记录，本节不声明资格通过或Root验收。
+
+
+### 17.45 M1.3 精确产品范围、有限接合与前端实际构建（2026-10-24）
+
+本节追加实际时刻2026-10-23T16:04:19.161386+00:00。仍`M1.3 IN_PROGRESS`，M1.4/1.5与M2 `NOT_GO`，真人最终`PENDING`。精确产品范围前向锁为后台24（12旧12新，含SQL32两数据库版本源码）、前端3（1旧2新），全路径见[清单](../implementations/2026-10-23-atlas-registration-m1/m1-3/implementation-paths-r1.md)。后台24 before/candidate/after见E13/backend-installed-build-r1/preparation.json（7835a379…）；未包括其它空间WIP，不把SQL源码复制冒已执行迁移。后续按此单应用并只作一次必要完整构建，无新常规许可门。
+
+前端三个已复核候选已实际应用：15:57:54Z至15:58:19Z完整production gate、tsc --noEmit、Vite build均exit0，完整源码输入安装后/构建后相等；其它输入不变。原>750KB提示保留。E13/frontend-installed-build-r1/receipt.json为实际，不回填原候选“未安装”截面；尚非浏览器像素、真实接口或用户验收。
+
+后台有限接合保原失败：首9/9之后更强检查实际10/12，USER身份桥接缺口已修；真实processor例因fixture误用旧5参无owner构造而停PREFLIGHT，改为生产6参后1/1。新complete谓词晚期AuthorityChanged捕获已闭，finite-sixth真实4/4含撤权/取消/epoch三个子项与USER只读/原operator失权历史。最终tenant→binding→task锁序前向后，finite-seventh仅ACK撤权与真实finish两例2/2。真实Processor/Journal/Applier保旧UUID/cred/identity sync/applied事实，受管策略IN_SYNC不伪造15项资格；Bean依赖和秘密回执拒绝有先前具名有限证据。独审报告E13/independent-review-r1/modeling-policy-completion-r1/review.md仅本地H2+受控Observation，非原生效果。
+
+原生资格适配层已按有限普通身份客户端、精确预留/父/ACK UUID、单次租约和strong conditional readSet接合；HTTP事实摘要先存后解析/当前权限消费，revoke不抹已知ACK，不重复创建。PolicySync r2补旧批准投影hash门，第三值漂移零写；现有Role策略数组完整保留。纯编译、local fake writer/HttpServer与React fixture的分时成功按原cut保，不冒同最终cut全矩阵；metadata/axiom等未实测能力保留未验，不为15项全绿扩范围。
+
+当前普通周套餐用56%/余44%，ordinary可用/spend未达；只套餐，禁credits/reset/换账号key。尚无M1.3真实SQL/认证/原生HTTP/服务切换；旧16999账及已到期scope保留。必要新proxy typed面仅E准备，真实plan/目标、同窗口累计预算与独占arm未绑定前拒绝写。
+
+
+### 17.46 M1.3 实际构建、SQL32及浏览器边界（2026-10-24）
+
+后台24项已按§17.45清单实际应用，完整2639输入安装后与构建后相同；16:04:25Z至16:04:42Z Maven package exit0，测试被显式跳过，不能代替具名有限回归。JAR 234a397f…/178425151B尚未部署。前端原3项完整build之后，隔离浏览器发现取消配置的真实回焦缺口；唯一Panel补提交后回焦票据/当前owner检查，Page/API不变。修后16:16:33Z至16:16:58Z production gate、完整tsc和Vite均exit0。浏览器首轮USER390通过、ADMIN两宽失败；修后ADMIN1440/390通过，runner递归收集了历史spec副本额外两例，保留实际4/4，不冒新四类覆盖。390首张截图为打开动画prepare帧，原录像随后完整弹窗可见，不增改产品掩盖采帧。全部为5297隔离mock，确认写POST为0，不是真实OM资格。
+
+16:17:37Z至16:17:38Z SQL32在原本地DM/原schema顺序创建两张新表，DDL2、无旧表/业务行修改；Root独立目录比对30列、两PK、一UQ、两CHECK与安装SQL一致，时间戳小数精度未单采。16:26:55Z另一次有界只读3SELECT核得S6实际space UUID1447855d-bf9e-41d7-a9b3-ed641290d6a7、projectVersion1、config4、b7/cred2/desiredRev2、原native UUID保持，当前相关与全局可派发/运行/livelease为0。全局2条历史UNKNOWN单列保留，不销项、不重放。相关原件位于E13/sql32-apply-r1、current-cut-readonly-r1与frontend-cancel-focus-installed-build-r1。
+
+部署前接线复核另发现真实exact初派入口匿名Store未转发新增modelingPolicyComplete，纯Processor回归未覆盖该入口；新策略可能同步完成却被判MANUAL。只准备原OmIdentityBackgroundExecutor这一处转发及真实Dispatcher入口有限回归；此必要旧源使后台候选清单前向25项（13旧12新），不扩M1.4功能，不以旧24构建冒修后构建。修复独验和最终完整构建之前不切换服务。
+
+新proxy/同账handoff及普通Atlas换包仍准备态，未启动新窗口、认证或原生HTTP，旧16999条账和到期窗口保持。handoff模板中业务标签S6已指出须绑定实际space UUID，并补七字段实时普通额度检查，待独审。受管策略授权与有限资格为两个独占门；只有实际预览和当前范围明确后才放行，不能由旧104项目USER授权推导模型写权限。M1.3仍IN_PROGRESS，M1.4/1.5和M2 NOT_GO，真人PENDING。
+
+
+### 17.47 M1.3 派发接线已装、新窗口与同身份认证实际（2026-10-24）
+
+必要后台第25路径见implementation-paths-r2.md：唯一OmIdentityBackgroundExecutor匿名Store转发modelingPolicyComplete，Root整逆等原Git；两H2经真实confirm→ready队列→公共Dispatcher→Background入口均通过（16:31:19–21Z），正常SUCCEEDED保原身份事实/15NOT_VERIFIED，晚期撤权MANUAL保ACK。16:34:46–16:35:03Z单源已实际安装后，完整2639输入新r2目录Maven package exit0，前后相同、原WIP保持。新Jar1337d42d…/178425215B；旧234a构建仍留原，不当修后产物。
+
+E-only binder初尝试因旧配置binding/owned仍null被M13_EXACT_TUPLE_REQUIRED拒绝，未输出bound目录/未真实动作。新handoff-r3/binder-r2仅允许null或原同ID→同账固定UUID+四原创建ACK；原配置/账不改，finite严格UUID门不减。两个修订经原1+2有限模型及独审后，16:41:30Z前向准备新scope9f900983-088c-4549-baae-adc38c5ea323，截止17:26:30Z。Root亲读所有literal绑定并独立整逆。实际接收器单次交接完成，新PID26032/create1792773740.522357，原16999前缀、4denial、owned4及9auth历史保留，两个写arm仍关，无业务HTTP。
+
+同M1管理员随后仅一次refresh+self两调用均200，原两引用备份后顺序CAS读回；累计ops17001、GET16977、auth11、mut24、object6，所有新M13资源写计数0。Root16:44:23Z直接核完整16999前缀、原history/UUID/denial及pair/token一致，未输出凭据/指纹。新窗口最多104追加GET、10具名资源写、auth1、ordinarylogin2；这是最大允许量，不是已执行数，真实策略/资格仍各待具体服务端计划和确认。
+
+普通Atlas换包首准备在保护进程检查因全局psutil连接扫描PermissionError停止；无actual目录、无SQL、无TERM/Popen，旧86412仍运行。新最小控制器改用七个固定端口lsof读取，不放宽任务/lease/SQL或窗口条件，尚待实际。不是自动审批拒绝。M1.3仍IN_PROGRESS、M1.4/1.5和M2 NOT_GO、真人PENDING。最新普通周余36%，不使用点数/reset/换身份。
+
+
+### 17.48 M1.3 普通运行时已切换、原权限确认部分生效后停止（2026-10-24）
+
+普通Atlas换包最小r2实际于16:45:51Z完成，旧86412单次TERM退出，新27145/create1792773943.740809以原96参数、单-jar运行1337d42d…/178425215B；三扫描关闭及四生命周期开关保持。唯一切换前SELECT核相关可派发/运行/livelease为0，原全局两历史UNKNOWN保持；新启动只5GET，未重放业务。原r1全局连接枚举PermissionError仍留原，不当产品失败或成功切换。原件E13/normal-atlas-cutover-candidate-r2/actual-m13-normal-atlas-cutover-r2及root-m13-bound-r1/root-runtime-actual-readback.json。
+
+当前104/S6实际预览为11项建模操作、同project/space/binding/native UUID、config4/b7/cred2及四个未创建的隔离目标。用户明确批准call_66b45e72ddfa47c398a2b9090b03f469后，浏览器只提交一次原operationKey b51205c2-3d98-4417-96c0-80ca89594d49；intent3ab0c8fb-9670-474a-9cf3-c2e0889bdbfd、taskdc499999-61ae-41c9-9074-50bbea48fe7c保持。确认受理正常把本地bindingVersion推进8/desiredRevision3；这不代表原生授权成功。
+
+原生seq17012创建Policy返回201，UUID3d489870-574a-49f0-b3f4-d39f10a1ed25，PARSED回执和NATIVE_STEP_CONFIRM已耐久保存。seq17014向原Role追加引用上游400、客户端502；无Role成功ACK，task UNKNOWN/MODELING_POLICY_SYNC_UNAVAILABLE，代理writesStopped/UPSTREAM_OR_ACK_UNKNOWN保持。实际累计17014ops，GET16988/auth11/ordinary6/mut26/object8；本节点PolicyCreate1/RoleAttach1，其余原生资格计数0，qualification arm未开。不能把整体UNKNOWN写成无效果，也不因静态推断400而清门、重发、再建策略或删除。两次固定诊断SELECT分别17:00:45Z与17:03:13Z，只读原task和journal：create201→attach DISPATCH无CONFIRM→FINISH UNKNOWN，累计2/2用完，无新增HTTP/SQL写。原件E13/live-policy-result-diagnostic-r1与native-policy-first-readback-r1。
+
+前端核对原操作另暴露当前b8与旧prop b7严格parser比较，真实UNKNOWN尚未展示便被拒；只准备保原key/UUID/epoch、fresh当前身份的最小读链修复，不删strict门。页面“更新身份”源码虽仅GET refetch，自动审批仍拒绝该点击，认为身份变更副作用未被证实排除；该精确UI分支已停并待用户最小明确授权，不借重载/API/换执行者绕过。其它离线源码诊断继续。原生Role refs CAS兼容性正在按实际OM链独读，尚无原始400异常正文，未据此推断角色未变。
+
+原目标预留17:03:58Z和原权限计划17:04:23Z已过期，均不自动续约/新建；原45分钟proxy窗口本身也不赋予UNKNOWN后的续写权。M1.3仍IN_PROGRESS，M1.4/1.5与M2 NOT_GO，真人PENDING。当前普通周套餐用67%/余33%，ordinary可用、spend未达、limitType空；不用点数/reset/换账号key。
+
+
+### 17.49 M1.3 Role CAS修复已落码并构建，原任务续接仍待受控处理（2026-10-24）
+
+本节实际追加17:23 UTC；仍M1.3 IN_PROGRESS、未ROOT_ACCEPTED/未本节点Git，M1.4/1.5及M2 NOT_GO，真人最终PENDING。当前Cloud/React/Semantica HEAD仍为f6e43062…/0a82bc19…/315216c6…，不动既有WIP/原index，不以本地修复冒远端交付。
+
+已按实际OM链独读：RoleResource GET addHref给每条policy引用补href，PATCH EntityRepository get(null)经RoleRepository/DAO组装的refs不含href，实际JsonUtils整体test /policies不会去嵌套href。当前Client错误地把完整GET数组用于test，存在确定的协议兼容缺口；实际400原始异常正文未保留，不能据静态核验证明本次Role无效果或清UNKNOWN。Role CAS实际为JSON Patch test /version/name/description/policies，没有If-Match HTTP header；不与资格apply的strong conditional机制混淆。
+
+唯一NativeOmIdentityClient修复去每个ref顶层href用于旧数组test和append，其他所有字段、原集合、顺序、版本/名称/描述与fresh GET漂移门保持。原a9c01338…/52178B→16ce50ca…/52710B，Root整逆及patch再生精确；实际OM JsonUtils/JSON-P本地旧baseline无并发失败，新候选3方法（含5类并发差额）通过，fake transport而非真实请求。17:17:06–17:17:24Z该1源已实际安装后离线完整Maven package exit0，2639源前后/当前/独立stage全同、三个旧空间WIP保护同，stderr0；测试被明确skip，不能代有限回归。新Jar c5b315eb167d1aa4ca866231cebb2c55cb264d0755fd12e83fa1a9838bfeb164/178425367B未部署。17:19:28Z精确PID/createTime只读核Atlas27145仍原1337d42d单jar/96参数，proxy26032、OM57991、Vite3832保持；无服务动作/新HTTP或SQL。原件E13/native-role-reference-cas-repair-r1与backend-native-role-cas-installed-build-r3。普通quota保存器曾JSON布尔误用Python而在open前NameError停止，后用json.loads前向保存，不是产品/审批失败。
+
+前端两源E候选API6156a908…/31975B、Panel1973f211…/24709B：context→fresh access→独立fresh PermissionView→原key by-key→末次access，最多5个Atlas GET、0native/POST。原strict parser/存储schema与写/取消/焦点处理保持，当前UUID/config/cred/owner/session严格、bindingVersion来自真实fresh access且不倒退，by-key与独立view整组相符，旧key/intent/task不新造；即使初load因b7/b8拒绝，pending区仍可核原任务。读回不更新Page写基准；UNKNOWN不能释放key或开放新写。Root完整patch正逆/全原API逆回亲核；生产Page/Axios隔离actual-r2 8/8，actual-r3仅必要两方法2/2（7过滤），合9唯一方法分时成功，limited tsc0，不冒最终单cut全套或完整前端build。首r1 7/8仅网络错误展示文案fixture预期差异，保原后修fixture，产品候选未变。两前端源尚未安装，避免当前live HMR触发仍被拒的读UI分支。原件E13/permission-original-readback-candidate-r1。
+
+接收器helper同时存在旧含href观察hash拒新规范payload的问题，E-only修复83bc7b78…/42612B只增policyPatchHash供Role前缀/CAS比较，原raw policies hash及全部预算/latch保持，旧观察缺新hash必须fresh GET，不回退放宽。Root整逆/AST和实际fixture亲读：finite-r2唯一受影响角色方法通过，缺CAS/foreign refs/多policy/nested href/旧观察等反例零reserve/零connect；首r1共享fixture字典KeyError保原，修成与Java一致的两份deepCopy后过。该helper未安装/未重绑定proxy SHA，未来接用必须具名前向绑定，不能拿此候选直接恢复旧账。原件E13/native-role-reference-helper-cas-repair-r1。
+
+当前产品无适用于已Policy201+ATTACH DISPATCH任务的同task补attach入口：通用undispatched/before-write/current/legacy recovery均不符合原任务资格，不能借用。E13/partial-policy-recovery-source-review-r1仅给最小专用续接建议：原UUID/key/全部201与UNKNOWN永久保留，先独立读Policy/Role/User；已关联只读终核，未关联且当前全部权限与完整CAS基线一致才有一次附加原Policy的受控动作。9GET+最多1Role PATCH只是源码估算，不是新预算或执行授权；未实现/未恢复/未提交。原reservation/permission plan已到期，proxy原窗截止17:26:30Z且latch继续停止，不能借剩余额度重发或新建Policy。资格11项仍无真实写验证，四未选项也不冒通过。
+
+“更新身份”只读点击的自动审批拒绝仍未解除：原normal UI已两次拒绝，理由是认为可能变更身份状态；最小明确授权问题已发，未换按钮、重载、API、执行者或HMR绕过。当前截图保原key在root-m13-bound-r1/human-policy-authorization-r1/permission-original-read-stale-ui.png。独立离线修复/验证已完成，不把此UI阻断当所有技术工作的理由。最新普通周套餐用68%/余32%，ordinary可用/spend未达/limitType空；不用点数/reset/账号key。
+
+角色说明：§17.48–49及其E内root-source/actual报告中的“Root亲核”是本Work5主代理对协作候选的实现侧复核，不代监督Root/Leader5的独立里程碑验收；监督者仍须另读关键原件并决定ROOT_ACCEPTED/Git，当前未发生。
+
+
+### 17.50 M1.3 原部分生效任务的必要离线续接范围（2026-10-24）
+
+监督Root/Leader5在本次真实UI拒绝后明确授权独立必要离线工作：只为原task/intent/key、Policy201+ATTACH未知准备最小专用续接及受影响安全回归，不借旧离线授权重试被拒“更新身份”，不恢复native latch、延窗/认证或按源码估算直接续写。监督Root另已亲读并接受未变RoleCAS/helper、前端有限候选及新c5完整构建的具名技术结论，不重跑这些充分检查；不代M1.3整体ROOT_ACCEPTED/Git。
+
+产品当前确无可用旧恢复入口。本次E候选约定为窄server-only typed Permit及runOnce；同tenant→binding→task锁内一次耐久REQUEST/CLAIM，新attempt/epoch但原task/key/旧ACK/失败永保。generic claim永久识别此任务已消费marker，不能由crash或DISPATCH覆盖checkpoint再次派发；无Bean自动调度、HTTP/UI、SQL新表或通用恢复平台。Permit绑定当前权限交集及原immutable/cut/UUID/cred/compiledhash，并保存有序原Role CAS前像，真实旧builder序列化dispatchHash须精确匹配原ATTACH Step哈希，不把fresh Role当旧前态。已精确关联则只读终核并标原请求执行NOT_PROVEN；未关联且原完整CAS前态一致才有未来最多一次新的专用attach-step，旧ATTACH DISPATCH/RAW502及CREATE201不覆盖。成功沿真实policyApplied/current→modelingPolicyComplete→finish/Applier；晚失权保真实ACK而拒成功应用，15项资格不因此通过。
+
+精确候选5文件：新OmIdentityModelingPolicyContinuation、既有TaskStore、NativeSync、NativeClient与NativeJournal。后者虽原仓既有，却不在原25项内；阶段范围正确前向27=14旧13新、前端3不变，见implementation-paths-r3.md。NativeJournal新增范围前态d0629bb6…/49591B逐字等当前HEAD；此登记没有产品安装、服务/真实HTTP/SQL或原生恢复。回归只新缺口：真实H2/TaskStore/NativeJournal/finish，fake仅transport；已关联只读、未关联完整CAS一次append、并发重复/各crash不二派、晚失权保ACK。不重M1.2/旧充分finite。M1.3仍IN_PROGRESS，M1.4/1.5与M2 NOT_GO、真人PENDING；FIRST普通周余32%，仅套餐。
+
+
+### 17.51 M1.3 专用续接五源及新缺口隔离回归已完成（2026-10-24）
+
+§17.50授权的必要离线候选现已固定，仍为E-only、未安装/部署/恢复真实任务。policy-attach-continuation-candidate-r1/source-first-read-cut.json五源自首cut到最后回归均未改：Helper33264808…/22774B、Sync8f353824…/22005B、TaskStore77cab7a1…/109260B、Journal6014a8b0…/50330B、Client9ce7c202…/53812B。manifest55dc787d…/4885B、完整forward.patch34b59b25…/41892B；阶段后台27=14旧13新/前端3不变。Work5主代理已亲读完整新Helper、四源完整差额及五个测试方法，自己将五文件patch逐hunk整正反重建精确，20个manifest实际引用与9输入快照/当前产品前后均核闭，见root-m13-bound-r1/policy-continuation-work5-readback-r1.json（a6baecb4…/6162B）。这与非作者peer报告6a072188…/4942B均是Work5实现侧复核，不代上级Root验收。
+
+原始准入只接受同task/intent/key的CREATE PARSED201+CONFIRM、ATTACH RAW502+DISPATCH且无原CONFIRM/applied/newSTEP，真实INTENT_SYNC_PERMISSIONS及原epoch审计的tenant/account/instance/initiator/authority/desired等逐字段归属固定。旧Role JSON保有序字节，legacy dispatchHash必须精确等旧ATTACH hash；不把freshRole当旧证据。REQUEST/CLAIM均在新epoch，原锁事务CAS领取，永久CLAIM独立于checkpoint防generic/initial/专用重领。Journal仅允许新专用ATTACH step，旧201、UNKNOWN、完整审计及回执不改。已关联只读终检；缺关联且完整旧CAS投影吻合才最多1次append原Policy。结果明确CURRENT_STATE_OBSERVED与原请求执行NOT_PROVEN。当前权限/lease/取消/epoch门仍在，收到ACK后撤权可保新ACK/CONFIRM，却不应用成功；正常Applier允许bVersion+1，保旧身份appliedRevision/hash/UUID/cred和15资格NOT_VERIFIED。
+
+真实新五方法在17:42:38.152018Z至17:42:42.045995Z离线执行，javac0/test0=5/5，compile/test stderr均0：已关联0新PATCH；缺关联最多1新CAS、同IDs语义字段漂移拒；坏preimage/foreignPolicy拒且双连接竞争仅1claim；claim或dispatch后crash/lease过期不二派；200ACK后撤权保事实但MANUAL/appliedHash空。旧audit完整16列逐id保持。另17:43:30.652713Z至17:43:33.753011Z仅原已关联1方法增加bVersion+1和同permit再次false断言后1/1，不计第6种用例。最初fixture漏desiredHash导致0/5、第二轮DecimalNode/DoubleNode导致2/5，以及第三轮仅余3方法3/3均保原；产品五源未因fixture失败修改。共同旧前缀断言由payload增强16列后才重本次新五方法，不重M1.2或旧finite。
+
+纯legacy builder另以真实修复前Client a9c013…独立编译、内存Transport捕获fullhref请求hash，与新纯builder精确等；嵌套key顺序、去href及同ID语义字段变化各使hash不同。17:43:43Z至17:43:45Z四命令全0，见candidate-r1/pure-builder/actual-r1。它只证明合成字节合同；无href H2全链不冒真实旧fullhref重演，仍未取得匹配本次原49bde…hash的真实有序Role前态，也不以此断言原400定因或原ATTACH无效果。
+
+直接源码成本已关联6管理GET/0新PATCH，缺关联7管理GET/最多1Role PATCH；Policy create/update、认证/身份凭据写、资格资源写均0。此为静态方法成本，不含startup/认证续期/诊断，不是执行预算。记录运行有真实内存H2 SQL（语句数未统计），真实外部HTTP/数据库/服务/浏览器/产品安装0；未做此候选完整应用build。原真实task/UUID/Policy201、17014同账和latch、已到期window保持，仍缺运行Permit、真实旧Role前态、新鲜当前授权与Root同账有限scope；不得由离线PASS清latch、重confirm/新key、续期或切换服务。原“更新身份”只读UI自动审批拒绝分支仍停，未用HMR/API/替代执行绕过。
+
+M1.3继续IN_PROGRESS，上级Root节点验收/Git与真实资格均未完成；M1.4/1.5及M2 NOT_GO、真人PENDING。17:49:19Z最新普通套餐used0/余100、ordinary可用/spend未达/limitType空，resetAt1793382135与上轮不同；只记录当前窗口，不推断原因，本轮未使用credits/reset/账号key。
+
+
+### 17.52 M1.3 五源实际安装、离线完整package及旧Role材料缺口（2026-10-24）
+
+监督Root/Leader5已独立亲读§17.51完整五源及原有限结果并确认未发现阻塞，只授权精确五源安装、一次必要后端离线package及既有本地旧Role原件搜索，不代M1.3整体验收、不放行现场续接。Work5本轮按既有r3机制准备backend-policy-continuation-installed-build-r1；脚本f081cedd…/6640B、prep4a302671…/651359B，主代理与非作者均完整读必要差额。父2639实际输入逐字保持，4旧+1新源after精确等首冻candidate，3其他WIP保护独列；无新增名录框架。普通99%保存于18:06:31Z，脚本起始、每笔写前与package前均核同7字段fresh证明；不是每笔另调额度API。
+
+正常审批执行成功：18:07:00.898922Z安装意图，五源逐笔CAS/fsync/readback，最后receipt18:07:00.903906Z，18:07:01.121262Z整体source-installed=2640。四原源完整备份，新Helper原路径不存在，5写非共同原子且无自动重试/回退；全部实际receipt保留。18:07:01.121669Z至18:07:17.919466Z仅一次Maven offline package exit0（-pl infra-server -am、JDK21、显式-Dmaven.test.skip=true）；完整stdout41717B/02329ae0…、stderr0B。构建只证明编译/package，未重跑既充分finite。新Jar58c18837e513e17449bb9aec65b7c0bccb667173ee2d7509d87a752e04af0107/178442773B，路径/private/tmp/atlas-m13-policy-continuation-full-build-r1/source/atlas-module-infra/atlas-module-infra-server/target/atlas-module-infra-server.jar，未部署、无服务切包/启动continuation/Bean/runner。真实HTTP/SQL/调度/前端安装和HMR均0。
+
+主代理随后独立核当前原仓/隔离stage2640全SHA、相对before恰五差额、五receipt/四旧备份、三WIP、stdoutstderr与Jar及新Helper class；无差额。见同目录work5-actual-readback.json ebd3b5f5…/4526B。此为实现侧实际读回，不代上级Root独立节点验收。没有Git提交或放行M1.4/1.5/M2。
+
+本地旧Role定点搜索已完成：仅E13限定171个既有runtime/policy/role/native/journal/actual/result/readback JSON/log/txt及原私有ledger、精确proxy child.log/runtime process.log；未扩大到数据库/现场请求/凭据文件。seq17013 Role GET200只存状态/时间、id/version/policyIds与name/description/policies摘要；helper.observe与receiver原实现均未耐久保存完整Role DTO/PATCH数组。完整有序原Role前态或PATCH原文未找到，只有3个已知安全投影命中，不能由摘要/IDs/version推出refs完整字段或JSON顺序。故未运行针对原49bde…hash的builder比较，没有可报告的私有preimage路径。原state67b9a26a…/3437909B与Work5读回时逐字相同，17014旧账/writesStopped/UPSTREAM_OR_ACK_UNKNOWN保持。搜索报告root-m13-bound-r1/role-original-preimage-local-search-r1.json 14f46f73…/5412B，私有正文未复制到E，不拿freshRole或fixture补历史。新运行Permit因此尚不可生成；原过期窗口不续、累计预算不清、原Policy201/task/intent/key/UNKNOWN不改，不重confirm/新Policy/新key或重发。
+
+对§17.50–51及原sealed候选/说明中的测试措辞作唯一账前向校准：最终5/5，加已关联同一方法必要补测1/1，仍5 unique；旧third为3/3成功，不是失败。确有真实H2 prepare→confirm→Processor/TaskStore/Guard/Journal/Applier链，但初始identity/credential/binding、旧Role/Team ACK和catalog也为fixture，不能说只有transport是fake。crash验证是耐久状态、时钟推进和实例重建模拟，不是OS崩溃/断电实验。受测AuthorityChanged与受控UNKNOWN路径可MANUAL保ACK；非AuthorityChanged的完成阶段/存储异常可能保留RUNNING与永久CLAIM，不能统称所有失败必落MANUAL；源码仍无自动重放入口。原sealed actual、candidate manifest/README/report未回填。
+
+原“更新身份”自动审批拒绝分支继续停止，未以API/shell/其他按钮/重载/HMR或替代执行者绕过，也未要求离线用户现在操作电脑。现场续接的具体剩余阻塞是缺匹配旧hash的完整历史前态，以及未获新current资格/有限执行scope；这些不能由本次离线构建代替。M1.3仍IN_PROGRESS，上级Root验收/Git/真实资格及真人PENDING保持，后续里程碑NOT_GO。末普通周用1%/余99%，ordinary可用/spend未达/limitType空，仅套餐，无credits/reset/账号key动作。
+
+监督Root有限独核补记（2026-10-23 18:24轮）：已官方亲读原exec-75564299-f4e3-4608-921b-ffa61c3fe424 completed/exit0/17796ms及完整结果，个人核五份当前源=候选=实际receipt、四旧备份/一新路径、三保护与原stdout/stderr；20模块package全部SUCCESS，明确skiptests。非作者只读复核一致，未重跑测试或全树hash。此结论只接受本次五源实际安装和离线构建，不代M1.3整节点或部署/现场成功。Root另亲读有界旧Role搜索报告及实际helper/proxy持久化路径：它们只保存摘要和操作元数据；本次限定本地来源未找到完整有序Role/PATCH，不能扩大成所有来源绝不存在，也不能从摘要补造历史前态。该次已授权离线补修已完成，原Work当前空闲；现场分支保持停止，等待足以解除实际审批/历史前态缺口的新授权或实证。监督继续，但不为等待新增恢复框架、重复构建/验证或提前启动M1.4。最终真人仍PENDING。
+
+
+### 17.53 M1.3 真人返回后原UI只读核对恢复（2026-10-24）
+
+真人在原Work新指示“继续吧”；监督Root另官方亲读该userMessage并正常确认它是旧拒绝后的新直接指示，只恢复原已说明只读核对范围，不证明历史前态或许可盲目重发。Work沿原CUA/同Chrome正常审批，既有用户Atlas页点“更新身份”成功，映射版本7→8、凭据版本2/原native UUID保持，原生同步仍结果待核对。随后正常点“核对原操作”，页面明确“已只读核对原操作；未重新提交”“结果待核对”“保留原策略意图；不重放未知写”，原key b51205c2-3d98-4417-96c0-80ca89594d49保持。当前15资格全部未验证。原call拒绝/旧UNKNOWN留原，本次只读分支已通过正常审批，不能继续把旧拒绝冒永久阻塞。
+
+当前UI原任务读回原件root-m13-bound-r1/identity-read-resumed-20261024-r1.{json,ax.txt,png}；安全结果json428cc4fd…/1457B。旧agent标签已不存在，另一同浏览器现存tab在focusEmulation等待超时且未操作；实际用现存用户tab979676260完成，未新开/重载/换浏览器/接口绕过。最初旧页面操作权限显示“请求地址不存在”，正常更新身份后消失并显示权限版本1/原11项期望及原key，无任何代码修复。没有另行量测API内部SQL或后台请求数量，不把UI只读写成服务端SQL0。
+
+五源安装/既有finite及58c18837…离线完整package充分复用，不重建；未切换运行包或启动续接。原Role/Policy现场关联状态仍不能从Atlas UNKNOWN推断，完整历史前态缺口不因本次UI核对解除。下一步先定点核现有同账停写机制能否只对原Role/Policy/User做各一次管理GET：不沿用过期window、不清writesStopped、不改累计预算或打开写arm；同身份会话若过期也先核具体必要范围，不盲目现场调用。若取得真实新完整对象，只能如实说明与旧ATTACH hash的关系，不把fresh/fixture冒旧原件。当前仅只读方案分析，尚无新native请求、认证/SQL命令或latch/scope修改，尚未运行真实hash比较。M1.3继续IN_PROGRESS，M1.4及以后NOT_GO、Root节点验收/Git/真人PENDING。FIRST普通周用3%/余97%，ordinary可用，仅套餐。
+
+
+### 17.54 M1.3 当前态五调用读回的最小保护已准备（2026-10-24）
+
+§17.53只读UI已正常恢复，原同步仍UNKNOWN；后续没有重试授权。当前读资格已定点确认：原proxy的GET本来允许writesStopped=true，但旧窗口已过期；manager access也于2026-10-23 17:42:53Z过期，refresh有效性未知。Role/Policy读取还会先加载已过期旧arm，旧管理认证auth11也已到cap。因此原接收器不能原样直接核OM现态，不能悄悄续旧窗/清latch/删旧arm。原bucket three-object-readonly-readiness-r1.json给出具体最小成本：同M1管理会话仅一次refresh+self GET，再原Role/Policy/User各1GET，合1AUTH+4GET；若全成功累计才是17019ops/16992GET/auth12/mut27，当前这些数尚未发生。没有新的普通登录、账号104轮换或资源写。
+
+只为这五调用准备E13/current-state-readonly-candidate-r2：receiver4005dd1d…/117284B，control ed478173…/22693B，运行bindings全部None，未生成新窗口或写私有配置。exact分支在旧m13_arms前分流；一次耐久槽按refresh→self→Role→Policy→User固定顺序，重复/外来refresh、未知读和全部资源写均在reserve/connect前拒绝。原17014前缀、modelingM13全对象、pending、旧arm与业务writesStopped/UPSTREAM_OR_ACK_UNKNOWN保持，只新增独立安全读回状态。收到响应后跳旧finite/profile/inventory observer，不能覆盖旧角色摘要。源复用原a436 helper与inventory字节，不接用无关83bc修复，不重旧finite/五源/package。
+
+Work5首审发现首r1漏基础origin/config门且auth ACK仅RAM；首r1源码与当时3方法PASS保历史，不当最终充分。r2最小前向6551B已闭：receiver自身钉schema/execute/1-104-instance及完整scope/ownedpins/canonical hash/旧稳定配置、127.0.0.1:18587→18585、整型caps。refresh无论成功/异常先在原P下专属0700目录以0600独占/fsync/readback保存RAW body/status，公开只安全文件/字节/status/seq，不公开凭据或其指纹，再parse与same-manager self；后续对象GET前两原管理引用须等新pair。所有新完整对象也只私有留原bytes，不能再仅留摘要。失败锁本次读回，旧业务stopCode不覆盖；不二次认证或续发后继。
+
+01:51:13Z至01:51:15Z三个新有限方法exit0/3OK（unittest1.508秒），5个输入首末相同。正例严格五次计数与原fixture前缀/latch/pending保持，RAW私有逐byte；反例涵盖foreign/重复refresh、malformed200 authACK保全后self0、两引用不等、资源写/ordinary login与wrong origin/schema/target拒绝且0connect。transport、manager pair、整套ledger均为隔离fixture，H2/真实认证/现场HTTP均未执行。未绑定control的早门仅证明pending拒绝，不代真实FD/PID交接；实际同身份续期/self/引用CAS尚未验证。非作者与Work5主代理均亲读r2完整关键差额/3方法/actual，主代理另核whole diff再生、旧两helper字节与全部5输入，见root-m13-bound-r1/current-readonly-probe-work5-review-r2.json16f95b7c…/1959B。主代理读本地原账仍67b9a26a…/3437909B、17014/原latch不变；无新native调用、SQL命令、认证、进程信号或私有/账修改。
+
+下一步具体准入为监督Root核这份五调用范围、必要auth11→12和未绑定control，再具名前向绑定新有效只读scope后正常审批一次真实读回；不是重复已完成的授权写。新证据须如实称当前读回：只有保新JSON序列/字段的直接候选，或原Policy唯一出现时去该一ref并仅用独立旧记录version0.1验证，且最终纯legacy dispatchHash精确等旧49bde…，才可称“由新读回重建并与旧请求hash吻合的候选字节前像”；三旧摘要只辅助，不能冒当时保存的原件/原请求已执行。任何字段/order/href或hash不等就拒，不猜值或把旧version回写。真实比较和Permit尚未执行/生成，源仍阻盲目续写。M1.3 IN_PROGRESS，Root节点验收/Git、11项现场资格及真人PENDING，M1.4以后NOT_GO。末普通周用4%/余96%，ordinary可用，仅套餐。
+
+
+### 17.55 M1.3 当前态真实读回及原请求前像见证已完成（2026-10-24）
+
+本节前向补§17.54的prepared截面，不改旧失败。02:10:28Z同M1管理员一次refresh/self、原Role/Policy/User各一次GET全部200；新proxy17624/create1792807737.545612的交接本身0HTTP。真实累计17019ops/16992GET/auth12/ordinary6/mut27/object8；原17014操作前缀、modelingM13全对象/旧pending/arms/owned UUID与业务writesStopped/UPSTREAM_OR_ACK_UNKNOWN逐项保持。两原管理引用先备份后顺序CAS并读回等新pair，非两文件原子事务；原件只在P下0700目录/0600文件，公开结果不含凭据或其指纹。见E13/current-state-readonly-bound-r1/actual-five-call-safe.json（cc04b21e…/3168B）。该次资源写0，没有重建Policy或重放原授权。
+
+当前Role0.1仅原quarantine引用，没有新Policy；新Policy0.1确实存在，16规则的canonical Sync投影等已确认201对应编译策略；当前普通User0.3非admin/bot，原Role/Team精确单例集合保持。当前态不是旧PATCH因果证明。实际58c Client纯内存计算由该当前完整Role直接重建、无删ref/改version/排序，legacy dispatchHash精确等原49bde352…；候选字节前像eead8efd…，不能称当时已保存的Role原件。原件legacy-preimage-proof-r1/actual.json。
+
+同actual58c Client只用内存transport生成新修正五op JSON-P CAS，保版本/name/description/policies test和单次add；新body语义hash512dd6a7…、actual dispatchHashe3554baf…，原49bde历史hash不混用为新PATCH。首safe summary因integer-only OntologyCanonicalJson拒0.1而失败，私有body已成功耐久保存；后只从既有bytes补安全summary，未再次mock send或真实请求。旧错误与原UNKNOWN留原。
+
+原十一项权限确认的同任务一次续接正在接线：旧Policy201复用，最多一个新Role append，不创建新身份/key/确认，完成后15资格仍NOT_VERIFIED，M1.3不因此ROOT_ACCEPTED。Role专属门首r1未定义positive导致有限正例失败，已保留；r2唯一修正后真实3方法exit0/3OK（4.174秒），覆盖13call/1PATCH、已关联11GET/0PATCH、完整CAS反例和ACK异常不二派，均mock transport+隔离真实fsync账，无现场HTTP。接下来同原服务受控运行实际58c和唯一外置once入口；主产品不再重复build或旧H2。M1.4及以后仍NOT_GO，节点Root/Git和最终人工PENDING。普通周套餐本轮用7%/余93%，仅ordinary，无credits/reset/换账号。
+
+
+### 17.56 M1.3 原权限任务一次续接真实完成，资格验证继续（2026-10-24）
+
+当前只接受原十一项权限同步的这一段实际结果，M1.3整体仍IN_PROGRESS。新scope8977dbc4-28b1-4552-a421-c0baee40d386（02:34:10Z→02:49:10Z）由原已批准104/S6任务必要技术步骤具名前向绑定；同manager当前access到03:10:27Z，无新增认证。Gate/handoff原函数整AST和两helper字节保持，scope只13calls=启动5GET+续接7GET/1PATCH。正常审批交接旧17624→新23378/create1792809273.404656成功，原账17019完整前缀/modelingM13旧pending/业务latch与全部旧计数保留，仅新具名RoleContinuation槽0；交接0HTTP。
+
+02:34:59Z原Atlas27145单TERM退出后，新23572/create1792809299.857637实际运行58c18837…完整Jar+唯一外置M13OriginalPolicyAttachOnceBootstrap新FQN（classcbcbf687…/21199B），原96参数只替换单jar启动块成99，三扫描关/四生命周期开关、管理token文件引用及其余参数保持。唯一新的运行切换前只读SELECT确认原UNKNOWN/a1e1/d3/b8cred2无lease、continuation REQUEST/CLAIM均0，以及其余active/lease/qualification为0；保identity历史1/global2，不重旧2/2诊断。新启动5GET成功，controller02:35:07Z记录监听；其callbackRowsObserved0只是当时截面，明确未代业务完成。其他OM/System/Worker/Vite服务均原PID/create，未重启。
+
+随后真实callback日志同原task claimed=true；13call均200，seq17029唯一规范化Role PATCH返回200，Role0.1→0.2；后续独立Policy/Role/User各GET200确认原quarantine和新Policy两个引用均在，Policy仍原0.1/原201 UUID，普通User0.3非admin/bot且原Role/Team保持。累计17032ops/17004GET/auth12/ordinary6/mut28/object9，新cat m13_role_attach_continuation=1；旧m13_role_attach=1和seq17014 UNKNOWN全字节留原，不冒旧PATCH已执行/成功，不重建身份、Policy或operationKey。全部RAW ACK和对象仍只私有保存；安全实际proof E13/role-attach-activation-bound-r1/actual-role-continuation-safe.json。
+
+同原Chrome现有Atlas页正常“更新身份”后映射版本9/cred2、原生同步已同步；再正常“核对原操作”显示原key已完成、已只读核对/未重新提交、受管策略当前投影已确认。实际AX/截图同bound目录original-task-completed.{ax.txt,png}。这只证明受管策略同步完成，15项资格仍全部NOT_VERIFIED。下一步复用现有十一项写资格链及原批准隔离目标，不再同步此Policy；旧预留/计划已过期且Role scope已消费，先按当前cut准备合法资格范围，普通人员调用仍必须原OM_USER，不管理员/reader fallback。节点Root/Git与最终真人PENDING，M1.4及以后NOT_GO。
+
+
+### 17.57 M1.3 普通身份十一项资格实际推进七项，强态读回保护拒收后停止（2026-10-24）
+
+原权限同步§17.56完成事实保持，不重做。正常UI释放已完成卡后，原11操作/4已保存目标可复用，不需再次reserve或编辑Policy；过期旧plan不复活。02:41:07Z唯一qualifications/prepare真实生成plan1a05f1d5-d90f-4c96-96f8-0b01bd7f7cf5、hash96415747…、b9/cred2/config4/perm1，截止02:56:07Z、blockedReasons空，11步骤真实受支持且reviewer最后。通过同CUA支持CDP只读保存该原浏览器response body/已有permission读回，与DOM15勾选及11步骤一致；0额外API/不抓React私有state。一次调试响应URL输出误混入认证请求地址，已停止宽URL输出并改精确目标path筛选；E证据只收计划/权限/原run body，不保存认证地址/凭据或指纹。
+
+新qualification-only范围470eea40-705c-4ab2-b9f1-7b9c74fcad22（02:45:44Z→02:56:07Z）只42GET+8隔离资源写+最多ordinary login1，management auth/Policy/Role/identity/rotation写全禁。当前cut9与真实plan/hash/4targets及已完成Role证明绑定。receiver71094234…/148536B新增分支沿原finite payload/父对象/ACK/CAS/opaque strong token/lease/reviewer-last守卫，只换独立资格前提；旧helper两份逐byte不动。3新有限方法02:42:25–30Z exit0/3OK，为fake transport/内存durability recorder，不冒新文件系统或Atlas真实权限验证；首fixture denial全数组误断言的1PASS2FAIL保历史，前向仅改保旧denial前缀断言。主及非作者均亲读新分支与实际51call模型，未重跑旧成功矩阵。
+
+02:46:03Z正常同fd交接旧23378→新27344/create1792809963.235099完成，原Role scope已13/13消费且无inflight，不机械等其到期；旧17032完整前缀/modelingM13/五读scope/Role完成scope/全used/业务latch原位保，仅新资格namespace。交接0HTTP；实际arm2f4954e7…/4608B先在CopiedLedger内用真实boundGate纯验证，再02:46:13Z独占0600/fsync/readback安装新arm，live state逐byte不改，0派发。此时42/8/1只是上限。
+
+随后原CUA owned默认取消确认中仅点一次执行写验证；原key5c2cd808-d335-41ac-8116-3abb70a59dba、run08a268d3-1118-48f5-9e20-7aa0e8967549耐久受理。真实使用原104普通OM_USER，login1/self本人检查逐调用，无manager/reader fallback。Gbc616300-c357-49b8-bcd6-5be0f57758b8、T73baf489-acac-4dc0-8c75-d2cbe669a952、R5ec18b61-d204-47a5-bb57-d74ace2c340b、Cd98f7d53-67fe-4672-9414-2746fe2ef302四次创建均201，术语描述更新及lease各200。前7步骤与资格矩阵均VERIFIED，原ACK/RAW完整私有保；取得lease60秒后未续期。
+
+seq17067第一个C conditional-state GET原生200，但proxy.observe阶段拒收，行READ_FAILED/status200，新scope UPSTREAM_OR_ACK_UNKNOWN停止；未到apply/reviewer（两计数0）。原run经唯一只读by-key为UNKNOWN/MODELING_QUALIFICATION_UNAVAILABLE，第8步DISPATCHED，后三步NOT_STARTED；不重confirm/换key/重做7步。实际累计17067ops/17032GET/auth12/ordinary7/mut35/object15，6资源写ACK明确，不冒无效果。strong GET body因该分支仅capture写ACK未留原，具体拒收谓词尚未实证；静态额外跨DTO hash一致门只是候选原因。正在限定新的只读诊断（self+C强态各一次）获取真实新截面，不能冒原17067原件或借诊断重放写。M1.3仍IN_PROGRESS，节点Root/Git/最终真人PENDING、M1.4以后NOT_GO。资格已验证行“尚无本项操作验证证据”fallback呈现矛盾亦已记录，最小文案候选待处理，不改资格事实。
+
+
+### 17.58 M1.3 两GET真实诊断定位派生空字段合同差额，保持原run未知（2026-10-24）
+
+02:55:18Z独立只读scopebb77fc96-a2cc-4fb3-ac5e-1e069c829bee已完成：原104既有普通token仅RAM复用，self/C conditional-state各一次200，无新认证/资源写/lease/apply/旧run重入。原27344正常单TERM交接到29004/create1792810511.940319，samefd/PID先耐久再GO保；交接0HTTP。实际17069ops/17034GET/auth12/ordinary7/mut35/object15，原17067前缀、原roleUNKNOWN、qualificationUNKNOWN/strongpending及7已验记录和全部命名空间逐项保持。新raw6723B/9932bebd…仅在P/m13-strong-diagnostic-bb77fc96-a2cc-4fb3-ac5e-1e069c829bee/strong.response.raw.json；两个响应RAW/status均先私有fsync再parse，公开只安全元数据。原件strong-state-two-read-diagnostic-bound-r1/actual-two-read-safe.json。新raw是新截面，不是丢失的17067原回包，不能回填旧行。
+
+新强态四顶层/expectedState四键及readSet四UUID均合同一致，C0.1/T0.2。对原helper以旧17067时钟作纯内存兼容重算（不是现场执行/恢复）首拒绝码M13_STRONG_SELECTED_PAYLOAD：强态内持久op.term有children=[]而snapshot.term缺失，snapshot.term有exact4key零votes而op.term缺失；其余完整可比值相等。旧Ccreate17061 ACK的op.term与新strong.op.term整对象同；此前普通GET17059正文未留，不能拿C ACK/17049 PATCH ACK冒它或改旧hash。即使归一两空字段，跨REST旧整DTO hash门仍不等，需按协议替换为语义版本锚，不能伪补旧观测。
+
+实际58c Adapter纯Java检查同样以QUALIFICATION_SELECTED_MODEL_VERSION_OR_SCOPE_DRIFT拒该新raw；Native apply.payloadComparable也保children/votes，不能仅删proxy旧hash便开apply。repository按fields装/清这两个派生字段、strong snapshot从DAO raw+有限hydrate构造有源码依据；schema只有类型/default并无显式readOnly注解，不冒schema明文保证。最小E候选为三方比较仅兼容missing↔严格children[]或exact{upVotes:int0,downVotes:int0,upVoters:[],downVoters:[]}；显式null/bool/float0/非空children/投票/额外键及所有其他可写或未知0/false字段原值保留。原UUID/版本/owner/parent/readSet/opaque token/lease/CAS守卫保，实体/数据库/原JSON不改。
+
+proxy helper071f70b0…只新增strong_comparable并改observe_strong，旧comparable不动；用term与C对原fresh REST version双锚替跨DTO整hash，normalized op↔snapshot仍完整比较；receiver34f8273f…补strong RAW/status先存再parse。必要分时有限结果为首真实新DTO+12非法反例方法PASS，以及修正两处夹具错误后raw-before-parse方法单独PASS，不冒首轮2/2；原失败与源首末stable留原。SDK/Native两源最小normalizer候选E13/strong-state-derived-empty-comparison-candidate-r1尚待其纯回归，产品源/实际服务均未更新，不以候选解除原UNKNOWN。
+
+另一处现场P2呈现已闭：VERIFIED行无reason时仍显示“尚无证据”，仅Panel一个fallback分支改为“本项操作已实际验证；各项证据独立记录。”，未验证/UNKNOWN和所有API/parser/样式/回调原样。03:01:14–37Z正常CAS安装后完整pnpm build（模式门+完整tsc+Vite）exit0，1032输入前后仅该89B差额，其余同，未重跑业务矩阵；浏览器HMR后7行文案实际变化，原key/7VERIFIED/4未通过保持。原件qualification-matrix-verified-copy-candidate-r1/actual-install-build-r1及AX/PNG。首准备稿OLD校验字面长度误填，前置修正断言/缺quota使首次执行均在目标写前停止；旧稿保留，r2只换实际6c807732…完整SHA后成功，不能当产品失败或审批拒绝。
+
+原run仅READ_ORIGINAL且旧lease已过期；现有API不支持直接执行剩余4项，UNKNOWN还阻止同身份新confirm。resolvedObjects虽能读旧4创建UUID，新run缺typed ACK也不能凭对象映射冒继续。任何后继若必要，至少须精确来源已确认typed ACK/当前cut+fresh lease，不重复4create/term更新，不重放原未知步骤、不改旧状态；当前只准备真实合同最小修复和离线验证，不擅造通用恢复框架。M1.3仍IN_PROGRESS，Root节点/Git/最终真人PENDING，M1.4以后NOT_GO；最新普通周用11%/余89%，ordinary仅套餐可用。
+
+
+### 17.59 M1.3 三方比较最小候选离线已通过，准备实际修复包（2026-10-24）
+
+主代理亲读SDK/Native完整forward及proxy helper差额、来源证据和各actual，非作者独立差额/结果核闭。SDK Adapter候选c7701e71…/24542B、Native ConditionalApplyService候选c2b46a17…/38354B只各新增同名严格default normalizer并在原比较方法调用一次；scope/权限/实体/payload/readSet签名/lease/CAS代码不动。Native来源是原M0 atomic-cas隔离工作源992b2d42…，不是擅改原工作源或所有vendor repo；旧M0 source/artifact保留。新ObjectNode helper只移除严格children空array和exact4key整型零票，null/unknown/bool/float0/非空及其它值不删。该“保留”只针对新增normalizer，不把现有POJO反序列化丢失presence/未知值的边界冒已全链覆盖。
+
+候选SDK/Native及harness纯编译各exit0；两层分别六类纯比较实际均exit0且inputsStable，涵盖真实later9932快照positive及非空children/非零votes/额外key/float0/false/缺key/null/unknown与UUID/version/owner/name/opaque差异反例。候选SDK overlay后完整原validateSnapshot对新快照实际PASSED；原58c class59f76315…明确REJECTED保原。harness旧ACTUAL_58C文字标签保留，result前向明确实际加载候选ccbb9e3b…，不能冒部署58c通过。所有原件strong-state-derived-empty-comparison-candidate-r1/result.json与finite-r1/full-sdk-validator-r1。没有启动App/Bean、HTTP/SQL或任何原run恢复。
+
+当前进入可审修复包准备：仅既有SDK Adapter一源在原27后台路径内的正常安装与一次必要完整backend package；Native依赖仅先准备独立构建产物和当前57991实际代码来源/切换事实，保原服务/旧包，不在未具体绑定时重启共享OM。proxy071f/34f仍只E候选，当前29004仅两读已消费，旧Q强态失败/所有7资格与6资源ACK仍原样。下一现场范围必须把Native比较修复、Atlas切包和必要认证/启动只读数钉具体包与窗口，不能误用原已消费scope。
+
+原UNKNOWN无现成剩余4项继续API，且lease已过期；后续最小校验至少需要fresh lease加剩余4项。正在只做一页原来源/权限/去重/实际预算分析，未实现通用恢复框架/新API或新confirm，没有清旧UNKNOWN/换key绕旧门/重7步。该非例行后继边界须以具体方案裁定，不以离线比较PASS当现场恢复许可。当前M1.3继续IN_PROGRESS、节点Root/Git与真人PENDING，M1.4以后NOT_GO。
+
+### 17.60 M1.3 单源修复实际安装与两个构建产物已完成，准备受控运行切换（2026-10-24）
+
+03:10即时普通周套餐用12%/余88%，ordinary可用、spend未触达/limit为空；只用套餐。主及非作者完整亲读SDK f65918ea…/6626B单源安装器与Native2c3eecb9…/4516B构建器，均正常执行，无审批拒绝。SDK保原2640输入及3个无关WIP，既有Adapter唯一92b133e9…→c7701e71…，旧bytes独占备份/写意图/fsync/readback和前后完整输入核验成功。03:10:19–35Z独立/tmp一次完整offline Maven package exit0，tests明确skip、不冒又跑旧纯回归；sourceDrift/protectedDrift均空。新完整jar6d69ca4f…/178443105B，内置Adapter class b00f4aeb…/29027B含新normalizer，主代理另按实际jar字节核验。原件backend-derived-empty-sdk-installed-build-r1/receipt.json与derived-empty-built-main-readback-r1.json。
+
+Native依据57991实际616项classpath来源，仅在新/tmp用c2b46a17…单源javac，03:10:22–23Z exit0。生成6个同族class，43个其它override class逐字保留，独立49class jar581045e2…/906468B；旧release49class和M0工作源保持。此为真实部署依赖下单源编译，不冒完整Native reactor build或现场验收。原件native-derived-empty-artifact-prepared-r1/receipt.json。两个执行均0HTTP/0SQL/0服务动作，Atlas23572与OM57991此时仍旧运行版本，不以产物存在冒切包完成。
+
+正在把Atlas仅换新jar且不再次消费已claimed Bootstrap、OM仅替classpath第0项且其余615项原样的具体切换绑定成卡；须保真实PID/create/原CLI及可回退旧包。原qualification UNKNOWN/7VERIFIED/6资源ACK/expired lease/旧proxy latch原样，不恢复原plan或用新key绕confirm门。剩余最小5步标准Adapter本体17GET+3写，若保新proxy fresh T/C双锚须额外两detail及各self，总21GET；startup/auth另列，不混为已执行。现有UNKNOWN/typed父收据缺口仍须具体最小续接方案，未实现通用恢复框架或新run。M1.3整体仍IN_PROGRESS，M1.4以后NOT_GO，Root/Git及真人PENDING。
+
+### 17.61 M1.3 Native实际基线闭合并受控切换，原账全字节保持（2026-10-24）
+
+监督Root新亲读原run DTO、两读actual、比较差额及两个构建回执，明确继续当前最小运行切换和同批原资源持久续接，无需逐步技术许可；保原UNKNOWN、7证据、6写ACK，不重建/重放/新key绕门，不预做M1.4。Work5据此继续，未跨会话回复或新增人工审批门。
+
+切换前另定位新旧Native class体积差异：同616CP/相同javac选项编原992b源，6类javap -p -c -s全等；只加-g后6/6逐SHA/bytes精确复现实际CP0旧部署，包括主class02bbde0e…/38649B。差异确为debug元数据，不是从旧M0源回退其它修复。原件native-derived-empty-origin-proof-r1/debug-exact-origin-proof.json（8c417b0d…/2831B）。主及非作者完整读该proof及r1→r2必要差额；Native controller r2 e820c987…/12943B只把pending origin门接真实state/allSixByteEqual/六类基准，其余控制函数字节保持。
+
+03:15:28Z普通余87%后固定ready/decision及30秒quiescence：原17069 ops无在途状态、Q明确stopped/原strong pending保持，当前proxy与Atlas等5保护PID/create已核。正常审批单次运行r2，原57991单TERM退出、未KILL/未自动重试；03:15:46Z新33558/create1792811746.216388启动，实际11参数仅classpath第0换581045e2…49class jar，其余615项及CLI保持、旧配置/旧包未改。controller返回NEW_NATIVE_LISTENING_HEALTH_NOT_TESTED；其at是启动身份时间，不冒精确监听完成时刻。原件native-derived-empty-switch-candidate-r2/result.json与私有durable term/launch/new-process。
+
+03:16:10Z另一次只读admin /healthcheck GET200，OpenMetadataServerHealthCheck/database/deadlocks均true；这是健康检查而非建模验收。控制器显式0HTTP/0SQL；服务初始化及健康探针内部SQL未量测，不能把整个重启称0SQL。03:16:20Z主另核旧PIDgone、新PIDcreate/615CP及5保护进程不变，原ledger a4683340…整字节保持，原UNKNOWN/7VERIFIED/六资源ACK未变；没有业务资源API或写重放。health-once.json、main-actual-readback.json留原。
+
+Atlas23572仍原58c；为减少重复重启，等待既有Store/Adapter最小专用五步持久续接候选及必要H2后一次最终package/切包，不现在先切中间6d69。限定无新HTTP恢复API，原run row/journal保持、同原资源/typed父来源、oldlease不seed、确定phase永久once、每send当前权限与parent proof；正在候选开发，尚未真实子run或新认证。M1.3继续IN_PROGRESS、Root/Git与真人PENDING，后续NOT_GO。
+
+### 17.62 M1.3 专用余下五步候选已实现，有限回归与最后一次接线在途（2026-10-24）
+
+两既有产品源候选已落qualification-remaining-five-continuation-candidate-r1：Store首07b4215b…/80323B与Adapter52f9f1bd…/25030B，主完整读26106B forward并独立整文逆换/再生patch精确等5554ca38…和本轮已安装c7701e71…前态，原件qualification-remaining-first-source-main-readback-r1.json。不是新增通用恢复HTTP API：仅internal requestRemainingFive(parentRunId,expectedParentHash)，原parent16列（含原JSON字符串与时间/版本）全hash锁定，严格11步中7VERIFIED/第8只读DISPATCHED/后3未开始及完整typed receipt集合；旧过期lease检查但不导入。父7项资格/收据不改，所需5个已确认父事实仅以sourceKind/sourceRun/step/hash/evidence引用。child ID复用原server plan ID1a05…、phase key固定派生原key，不新建原生UUID或由新key绕门；父与固定phase唯一，旧parent row/journal保持UNKNOWN。
+
+子记录沿原READY claim/每次admitted/authorize/current/dispatch/ACK/complete/finish链，统一parent-first锁序，每次重核parent全hash、完整当前cut/权限交集/同targets、typed父来源及五步精确集合；只初始化此5步并重新真实取得lease，不导旧lease。已有ACK保留路径不加新当前权限门，晚失权不得填资格成功或续发；crash/UNKNOWN不重领。child-only MODEL_VALIDATE先走原qualified client读fresh T/C双锚，再原strong/validate，普通本人校验及条件apply/readSet/opaque/CAS不减。normal noQualificationInFlight未改，未来普通新qualification仍会被旧UNKNOWN阻挡，此次不扩为通用解除机制。
+
+首候选纯javac因两个Target方法引用与wildcard重名失败，源未安装；首cut/失败保留。revision-r2仅修全限定名并加强child snapshot/receipt/step精确形状，Store b46faedb…/81475B、Adapter保持52f9；主已读全部前向差额。必要真实H2/当前Authority/Store链回归在途，尚不能称通过。无产品新安装/child SQL/native API或原run重入。
+
+最终接线采用新E-only RemainingFive onceBootstrap同Application Context→专用Store→原dispatcher，不加载已消费旧policy Bootstrap。为避免callback在半成品scope中失败，最终receiver须同一窗口预绑auth2→startup5→child21GET/3资源写/最多ordinary login1，全部准备完后才续管理会话/启动Atlas。原17069/get17034/mut35/object15/auth12/ordinary7累计保持；含一次管理refresh/self及startup后总有限上限17101/get17061/mut40/object18/auth13/ordinary8，不能漏计管理认证或借30000总额。当前manager已过期；只准备同admin一次refresh+self/原两ref CAS，不执行认证或fallback。
+
+Atlas r3/r4/r5 pending控制稿、固定idle一SELECT reader仅编译（无查库）及Auth+startup候选正在必要独复核；所有final jar/FQN/父proof/child scope均仍pending，启动前硬拒。主另准备两既有源的offline final package pending器ba30cacb…，待实际H2及最终源才绑定，一次必要构建，不复跑旧矩阵。M1.3仍IN_PROGRESS，Root/Git与真人PENDING；M1.4以后NOT_GO。
+
+### 17.63 M1.3 专用两源有限回归及实际最终package完成，现场父proof/合并scope仍待绑定（2026-10-24）
+
+必要H2分时实际闭合五unique方法：isolated-r2真实compile0，前4PASS（5步成功、并发once/可控失败、parent/cut漂移零派发、晚失权ACK保且不绿），其第5真实失败定位到existing childID若被foreign普通SUCCEEDED记录占用会因checkRemaining普通路径早return而错误返回。修复前未安装/无现场效果，旧失败原件保留；revision-r3只在existing分支先强制continuation及确定phase key，再完整checkRemaining，Store最终b7c2e735…/81630B、Adapter52f9f1bd…/25030B保持。isolated-r4只原第5负例PASS，r5成功链及合法existing重复request/execute false零追加PASS；不冒单轮5/5。r6另只原并发/crash方法必要补测：模拟未捕获LinkageError保RUNNING、重建不能领、deadline后只UNKNOWN/不再派发；不是OS crash实验。Bootstrap默认false真实在Spring/配置/JDBC前拒。原件manifest-final-r2.json/model-results-forward.json/model-results-crash-forward.json及各actual均保。
+
+H2用真实Store/本地事务/claim/StepGuard/journal/finish及Adapter.plan；IAM、compiler和QualificationPort均fixture，不冒真实Adapter.execute/Broker/nativeE2E，原test类“only transport fake”注释过窄以该actual边界前向澄清。主完整读两源首forward及r2/r3全部差额、完整新测试与actual；非作者独立核最终源/10pins/实际分时结果无新增确定阻断，均属Work5实现侧复核，不代监督Root整节点验收。
+
+03:28:36Z即时普通周用15%/余85%，only套餐。主把已审f659机制前向为两既有源：prep bbf6cf0d…/648165B、installer5922a213…/6697B，2640 before=上一实际安装map，3WIP均同、源码路径总数不变；正常审批单次安装成功，旧两源exclusive备份/逐笔quota/intent/fsync/readback留原。03:28:42.546167–58.626984Z独立/tmp一次完整offline Maven package exit0（明确skiptests），source/protectedDrift空；新jar abe983ae…/178450139B，Store class cee80ccd…/118602B、Adapter f59ebe81…/29195B，productJar不含E外置Bootstrap。03:29:23Z主另核全2640/current/3WIP与实际Jar/class字节均同。原件backend-remaining-five-installed-build-prepared-r1/receipt.json、main-actual-readback.json。此次0HTTP/0真实SQL/0服务动作，Atlas仍23572原58c，Native33558新比较补丁健康事实保持；原7资格/UNKNOWN/六写ACK未改。
+
+现场最后准备为：独立固定parent16列只读proof（不能拿公开UI DTO冒完整父hash）、另一次idle单SELECT、同admin一次refresh+self及两ref CAS、启动5GET、新child21GET/3写/ordinarylogin≤1合并有限scope及单次E-only Bootstrap。两SELECT分列，不混称一个。Auth+startup首候选0c49a531…已有必要两模型方法通过（fake HTTP、原durable raw保存/同临时目录CAS），thin2方法亦通过；初夹具邮箱/临时目录别名失败保留，不代现场权限。新的child receiver仍在必要实现/有限检查，全部实际新认证/SQL/代理交接/Atlas切换/子run均尚未执行；不以中间auth proof启动callback。最终M1.3仍IN_PROGRESS，Root/Git及真人PENDING，后续里程碑NOT_GO。
+
+### 17.64 M1.3 父证据与首次五步真实续接；新lease确认后只读URI门误拒，原失败保留（2026-10-24）
+
+03:34:22Z正常审批固定原08一次SELECT16列，最终ABE Store静态hash得到c45fc2ac…，原7VERIFIED/第8DISPATCHED/后3NOT_STARTED、UNKNOWN原JSON字符和JDBC Timestamp真实保存P/m13-remaining-parent-proof-20261024-r1，公开safe-proof3deb4ed7…/2871B不含原JSON。主另由私有ISO时间导出独立canonical重现完整16列hash，生成真实16字段parent-bound-semantic-proof-r1.json97f43206…/1514B，源/Role13/历史arm/投影与原Q89000f22…真实原件绑定，不拿UI/H2补历史；scope/parentCut是父事实，不代当前IAM。
+
+Receiver首R2 d031的复用qualified只白名单而未绑定既有Role/Policy证据，以及parentProof仅物理hash未核语义，两项由主亲读明确反馈；R3 3b37ff69…前向显式核真实Role13/原Policy canonical/旧11cap arm，并核parent16语义与b7c/52f两Java物理源。旧guards属新历史证据复用，不冒全原样；旧source/结果保。必要receiver3/thin2/handoff2有限方法分组0及真实97f/91e公开proof正例、matching metadata错kind/parent/user反例均过，fake HTTP/owned temp不代真实授权。主及非作者读全部新差额，literal binder真实生成1d7989b0…/192996 receiver、db3135f5…/24491 controller、2ceefb23…/14312 thin；主将三个整文件逆回已审候选精确，仅2binding/12control/BINDING常量变。新窗711f42ac-d4fd-4004-bec0-c7db1498c28e，03:45:27→04:15:27Z、scope77a4e0f9…，同原账3.5MB不换账。
+
+03:46:02Z正常同FD交接29004→40137/create1792813562.796911，17069/get17034/auth12/ordinary7/mut35/object15及全部旧namespace/latch/原Qpending保，交接0HTTP。03:47:32Z正常同admin唯一refresh+self200，原manager-current-session-r2.json/management-token分别备份/CAS/fsync/readback，expires04:47:32Z，非联合原子；auth13/mut36/get17035/ops17071，0权限/身份或资源写。原旧M0共享引用未动，raw认证只P，公开proof无token/指纹。
+
+新E-only Bootstrap24336e37…/4101B→class8ebea9eb…/6626B仅5String与EXECUTE字面绑定（沿原源码联合声明），真实最终包类/271libs纯编译0、外置单FQN无产品覆盖。03:49:43Z第一idle SELECT全idle/原Policy SUCCEEDED+claim1/原08UNKNOWN1均符，但主沿用了续接前identity历史UNKNOWN1，实际原Policy已完成后该计数0；controller在TERM前以OLD_HISTORY_OR_CONSUMED_CALLBACK_CHANGED拒，旧23572/无launch/无新业务均原样。该真实只读失败保留；具名r2仅据已读实际把历史预期1→0，代码/包/窗/写预算不改，并做必要fresh idle SELECT。全轮此时parent1+两次idle=3个明确SELECT，不混成1，不抹第一次失败。
+
+03:51:00Z正常单TERM/单Popen后41298/create1792813860.518624运行ABE+新RemainingFiveOnceBootstrap，原99仅换5项loader、其余3VM+91app及env RAM原样，5保护进程保持。03:51:08Z监听+startup5均200，controller明确child结果未接受；旧policy callback0。afterCommit dispatcher抢先claim，Bootstrap printed claimed=false不能解释为未执行。实际原104普通登录1/本人self200，新lease seq17079原生200且Store VERIFIED；下一本人self seq17080 200。之后fresh Term只读在新Gate raw URI exact-next门前置拒，0该资源请求forward/0该请求reserve，apply/reviewer仍0；新scope stopped CHILD_EXACT_NEXT_REQUEST/pendingNone，不能复活或重派。累计17080/get17042/auth13/ordinary8/mut38/object16，newlease1，原08/七资格/六原ACK及新lease ACK均保。没有达到原11资格完成。
+
+实际最终ABE Adapter.execute+OmRestClient在owned fakeHTTP捕获了部署真实URI：fields逗号编码%2C，而新Gate原raw字符串路径期待逗号。三请求真实SDK MODEL_VALIDATE离线VERIFIED（token/IAM/StepGuard/fakeHTTP明确为替身，不冒Broker/nativeE2E），定位为本次隔离Gate误拒，非OM接口失败；原child.log为空，不能冒其中有原拒绝URI日志。只query parse_qsl严格同键值、raw path仍exact的Gate窄修69339b05…/191494，以该真实三URI及重复/额外/路径编码等反例实际1/1过，旧R3不改。
+
+04:03:22Z再固定1a05唯一只读SELECT16列，真实state=REQUIRES_OPERATOR（不是第二个UNKNOWN），rowVersion7/hash91a5691e…；恰LEASE VERIFIED、余4NOT_STARTED且无hash/ACK，新lease已过期，原rootHashc45仍在。私有raw14,793B、公开proof同remaining-five-child-proof-reader-r1，0DML/DDL/native。全轮明确SELECT至此4次。后续只准备Store专用phase2 internal append：双旧row/hash全保、仅此exact1+4/无未决派发/旧lease过期、固定3984…ID及phasekey、原typed五事实复用/两旧lease不导入；不加HTTP API/DDL/调度恢复框架、不用新key绕阻止、不可第三回圈。新scope拟warm manager只读self1（不再refresh/CAS）+startup5+child21GET/3资源写/login≤1，总31，当前基准上限17111/get17069/auth13/ordinary9/mut42/object19；尚未激活或新业务调用。M1.3保持IN_PROGRESS，Root/Git/真人PENDING，后续NOT_GO。
+
+Root 03:09 轮有限独核（历史构建截面）：亲读原 run `08a268d3-1118-48f5-9e20-7aa0e8967549` DTO、两读诊断安全投影、两份完整比较差额及官方有限检查/上述构建原结果；另一个非作者只读复核未发现阻塞。SDK/OM 只归一精确空派生值；Python 的旧 REST 全 DTO hash 锚实际替换为当前 Term/ChangeSet 版本锚及完整规范化 op↔snapshot 比较，不能称旧 hash 检查未变。诊断来自后来快照，不是原 17067 正文；ObjectNode 反例不外推 typed DTO 来源保留；有限检查不代修后真实 apply、权限并发或整节点验收。原 7 项 VERIFIED、六个写 ACK 与 UNKNOWN 保留，当时两个新产物构建成功未被当作切换或续接成功。Root 未运行产品、测试、HTTP、SQL或服务，未放行 M1.4；已正常向原 Work 送有限结论，常规技术工作无需再设 Root 许可前门。
+
+Root 04:09 轮有限独核：亲读首次真实切换结果、17080完整公开安全投影、首子91a5691e…的16列公开proof、r4 Store完整16,043B差额、query/receiver关键差额、H2分时原stdout、SDK12条实际生成请求的离线结果、9c1d3804…package官方原结果与完整Reactor尾，以及d6ff新窗handoff/warm self原回执。两位有界非作者分别独核双父Store/fixture与query/receiver/wire，无新增阻塞，均完成。首子确为REQUIRES_OPERATOR且仅lease VERIFIED/余四未派发；原root UNKNOWN保留。Store仅固化denial hash，未转发事实结合4ed5…真实投影和receiver绑定证明。H2为3 unique分时闭合；receiver三方法分时、另query一方法及公开proof语义一方法，fake HTTP/fixture不代实际Broker/native，SDK五步VERIFIED不冒现场。当前产品Store单源SHA/bytes与候选/安装回执一致；04:09:29–45二十模块offline package0且skiptests，2640/保护差额为空。实际proxy46868、04:13:51同manager self200/refresh0/原两引用写0，17081/get17043/auth13/ordinary8/mut38/object16，旧前缀/latch保留；该截面第二子业务0，不外推尚待Atlas切换及新实际结果。原Work按授权继续，无逐步Root许可前门；Root未产品执行/重跑检查/整节点接受/Git，M1.4仍NOT_GO。
+
+
+### 17.65 M1.3 双父专用续接修复实际打包与新代理只读核验（2026-10-24）
+
+原08 UNKNOWN/7VERIFIED与第一child1a05 REQUIRES_OPERATOR/Lease VERIFIED原16列及JSON均保留；原记录、ACK、预算不归零。本次必要第二子记录固定3984bdb5-6d2e-3935-ba43-b019a92027f6，只能复用原typed五事实，两个旧lease不导入，双父锁/全hash/当前权限重核；无HTTP恢复API、DDL、通用重试或第三循环。最终Store cfcaa1c7…/95343相对b7c仅专用append和必要路由；Adapter52f9原样。3个unique H2方法分时通过，final r4额外parent-cut检查只补跑受影响方法；IAM/QualificationPort fixture不代真实授权。非作者源审无阻塞。
+
+04:09:29→04:09:45Z实际一源安装及完整offline Maven package0（tests skipped，有限H2另列），2640来源及3无关WIP保护零差额；新jar9c1d38043f6e94bcff8811d65c9d8c5101a5c7d1b5f943938969a1980fd0a682/178454175，尚非切换结论。既有ABE Adapter+OmRestClient真12请求的离线原件包含9GET/3写、真实URI/JSON/If-Match，完整经新Gate31call模型通过；回复/权限为fixture。真实b9a51e37双16列出处wrapper直接进入静态接收校验及3语义反例通过，非现场业务通过。
+
+phase2 scope31ae4e29…具名窗d6ffdebb-2de3-4b92-81e3-e286be69b3c8：04:13:15→04:33:15Z，总最多31call=warm manager self1+startup5+child21GET/3资源写/login≤1；累计最高17111/get17069/auth13/login9/mut42/object19。旧711停止不复活。主亲读新增receiver差额、handoff差额、完整warm客户端/binder/Bootstrap；三bound执行源整文逆回候选，只有已列常量变。
+
+正常审批actual同FD交接40137→46868/create1792815223.495529，原17080完整前缀/全部45个旧非变更顶层字段、旧denial/pending/latch/计数完整保留，交接0HTTP。04:13:51Z现有同manager self一次GET200，未refresh/未改pair/token、expiry04:47:32Z；累计17081/get17043/auth13/login8/mut38/object16。实际proof与主整投影读回见remaining-five-phase2-bound-r1；早先selected-key诊断包括可选缺名，另forward全45字段精确比较补正，不冒两边None的选名校验为完整核验。Atlas仍41298/ABE，Native33558不重启；正在绑定新外置phase2 Bootstrap和实际切换卡。尚无第二child业务请求或五项成功结论。M1.3仍IN_PROGRESS，监督Root/Git与真人PENDING，M1.4以后NOT_GO。
+
+
+### 17.66 M1.3 新包真实启动五读完成，E-only回调准入时限安排过紧，业务未派发（2026-10-24）
+
+主正常审批执行atlas-remaining-five-phase2-runtime-candidate-r1/cutover_once.py，当前普通20%用/余80%。04:18:09Z新48503/create1792815489.005128运行同9c1新包及外置Phase2Bootstrap；单TERM/单Popen，原5保护进程不变。一次fresh idle SELECT0活动，原history identity0/global2/inspection0/qualification1、原Policy SUCCEEDED/claim1、08UNKNOWN、first REQUIRES_OPERATOR均符；全轮明确SELECT累计5，0DML/DDL。实际startup5 GET均原生200，累计17086/get17048/auth13/login8/mut38/object16；Gate phase2 child completed[]/loginfalse/pendingNone/stoppedfalse，3新资源计数全0。
+
+Controller正确返回CHILD_RESULT_NOT_ACCEPTED（不是五项业务成功）。实际日志只有CALLBACK_STOPPED/IllegalStateException，没有异常栈或阶段，不能把class-only行冒完整cause；另安全读回SpringStarted本地12:18:15.884，已晚于bound READY_NOT_AFTER04:18:15.000，callback首行ready(true)在任何Store访问前，因此代码与实际时间足以说明该准入门会拒收。主先warm再等待prepared卡，导致时限安排过紧，保原失败/代码/卡/账，不当Native业务失败或回执UNKNOWN。尚未对DB断言3984是否存在，后继唯一idle SELECT会明确校固定ID未创建；不以Native0调用替DB证明。
+
+必要技术收口限定同phase2固定3984，不第三child/新key或重放旧对象：E-only Launcher把5min准入期限只用于main真正启动，已准入callback由原execution window到期及现有Store/Broker/双父门控制，并补安全阶段日志；产品Store/Jar9c1不改。现JVM无已提供的启动五读跨Context复用机制，拟新增一次具名exact startup5只读重核，原d6ff窗仍04:33:15截止、旧warm6/17086/所有namespace不重置，资源3写/login≤1预算不变，额外只有5GET，上限17116/get17074/auth13/login9/mut42/object19；完成5条真实200含同manager self后才允许原phase2 child。
+
+seq17086 self真实completedAt1792815495.0208662（04:18:15.020866）、原raw1383B会作为历史出处；不把其observedAt重写为当前。管理身份仅做这5条只读启动检查，不授业务权限；预TERM核当前pair/token与有效期覆盖窗口，新的实际startup-self决定当前manager是否有效，失败即停0业务，不再为5min诊断证明额外refresh/self/CAS或循环重启。所有业务仍走104 OM_USER及每send/complete的原现权检查。这是现有授权内必要技术修正，尚未新增现场动作，不另设Root或用户常规许可门。M1.3仍IN_PROGRESS，监督Root/Git与真人PENDING，后续NOT_GO。
+
+
+### 17.67 M1.3 同UUID余下五项真实成功与Atlas十五项矩阵读回（2026-10-24）
+
+必要E-only准入修正ecb24706…/5457，main仍ready(true)，两处callback改ready(false)，原execution截止/Store/Broker/双父守卫不变；新阶段日志仅固定stage/class/安全code，原defaultfalse与7pending保留。三纯时钟模型属于模型，不代现场。独立单Main编译04:25:48→49Z 0、class9490bc30…/8433，未重打业务包或修改Store9c1。新增startup-recheck receiver5d9f…/232365与原12真SDK wire的唯一新compound1/1过；前两夹具FD初始化失败发生Gate前，原件保，生产源不改。主亲读全部必要diff及binder，bound仅1sourcebinding/12control字面量、整文逆回候选。
+
+新只读scopef8273a55…仍同d6ff截止04:33:15、不改config字节或各资源写限。正常审批同FD交接46868→50370/create1792815978.492293，原17086、warm6、child未消费槽及全旧账保，0HTTP。04:27:19Z再一次fresh idle SELECT明确固定3984 ID/phasekey COUNT0、全idle且历史0/2/0/1不变；正常单TERM/单Popen48503→50635/create1792816039.994064，仍9c1 JAR，只换外置classes，五保护进程不变。startup重核17087–17091全部真200，Gate最后self实核同manager后才让child；无refresh/引用改写/第三child，原manager证明时间04:18:15.020866仅历史，未伪写当前。
+
+实际固定3984子任务由原Store/afterCommit dispatcher耐久claim，Bootstrap claimed=false只是另路已claim，不是无执行。17092原104登录200、十二次本人self200；十二条业务请求全部200：新lease17094、Term17096/C17098/strong17100、apply强态17102、唯一apply17104、C17106/Term17108/模型读回17110、G17112/唯一reviewer PATCH17114/读回17116。累计17116/get17074/auth13/login9/mut42/object19，三个phase2资源category各1，newStartup5+child25共30实HTTP全200。没有重建四对象或重放旧Term更新；两旧lease不导入。
+
+主亲读真实正文：原C d98f…由DRAFT0.1到APPLIED0.2，原operation e58db5cb-a862-31e6-819d-9e5b65219459 processed/applied=1/1、failed0，appliedBy为104原生普通人员name；T73ba…到0.3，描述精确为既定conditional apply marker；Gbc61…到0.2且reviewer仅该原生人员2d05…，该PATCH在apply读回之后，不能反过来冒策略授写因果。
+
+04:28:44Z终末一次只读SELECT三个原行：08仍UNKNOWN/7VERIFIED/六资源ACK/hashc45，1a05仍REQUIRES_OPERATOR/LeaseVERIFIED/hash91a，3984 SUCCEEDED/5VERIFIED/5typedACK/rowVersion23/hash06af1893…；两旧行完整16列hash和原snapshot/journal字符串保持。主独立Python canonical再次重现三hash，无额外SQL。全轮明确SELECT累计7（parent1、firstfailedidle1、freshfirstidle1、firstchild1、phase2idle1、restartidle1、terminal1），0DML/DDL；不混作一个查询。
+
+Atlas现有tab正常点击“更新操作资格”，15行实际DOM为11VERIFIED+4NOT_VERIFIED（AXIOM/METADATA_CREATE/READ/CONSTRAINT_UPDATE未选保留）；原写验证区域仍保原key/UNKNOWN历史，不重发。两原PNG分别top/bottom，不把单图冒全部15同屏。原件phase2-final-ui-readback-r1/{matrix-visible-dom.txt,operations-11-verified.png,operations-verified-bottom.png,main-native-terminal-ui-proof.json,main-native-semantic-body-readback.json}，terminal原件见remaining-five-phase2-terminal-reader-r1。原所有既有非变更顶层投影及17086完整操作前缀精确保持。
+
+额度证据前向澄清：最后切换输入误沿用上一真实截面21/79并把observedAt写成文件创建时，紧邻官方实时实际22/78且ordinarytrue/spendfalse/limitnull；原输入/命令保留，不重跑，独立quota-observation-forward-correction记录此证据标签差额与真正即时可用性。后续普通额度均直接解析工具结果，不用手写假设。本次不是0额度越线或资源重试。
+
+正向11项真实证据与页面读回已闭合；仍在完成原五类拒绝/动态失效的具名有限证据对照。真实OM403与onlyViewBasic写拒未找到既有具名绿例，拟仅补真实客户端/Store接合的有限隔离合同（明确fake HTTP/Native权限fixture，不能冒真实OM权限反例）。不会为此移除真实Policy/换身份或绕旧UNKNOWN再开现场run。M1.3保持IN_PROGRESS_ACCEPTANCE_REMAINDER，监督Root整节点独验/Git及真人PENDING，M1.4以后NOT_GO。
+
+
+### 17.68 M1.3 有限拒绝缺项补齐，交监督Root独验（2026-10-24）
+
+本节点开发与必要有限技术检查、104/S6正向真实11项和页面读回已具备独验条件：Work状态READY_FOR_ROOT_REVIEW；里程碑总体仍IN_PROGRESS，Root接受/Git/真人PENDING，M1.4未放行。交接见 implementations/2026-10-23-atlas-registration-m1/m1-3/root-review-handoff-r1.md（操作入口、4类验收分层、构建/源/失败/回退边界），不是第二进度账或另起大归档。
+
+最后两项拒绝缺口只补2个新方法：qualification-write-denial-finite-r1/isolated-final-r1实际04:37:35.527→38.039 compile0/test0、2/2PASS，10个产品源前后同、真实9c1主类与JAR一致，sourcepath空/仅4个test源码，无产品overlay/不重旧suite。主亲读完整新类、前向断言差额/runner/实际stdout与result，另非作者独读无新问题。真实Store→Adapter→Registry.qualifiedClient→Consumer→Broker→SDK；H2 IAM/身份/已同步policy与既有G、合成JWT/NativeClient登录self transport及ownedHTTP权限响应明确为fixture。om403方法业务POST1/actual ordinary bearer=true/status403/dispatch1/ACK0、管理fallback0、原key executeOnce再派false；ViewBasic方法已有G由fixture批准（本普通人0create），GET200两次只使TARGET_READ绿，Reviewer PATCH403仍DISPATCHED/矩阵NOT_VERIFIED，普通self3、管理fallback0、无二次PATCH。两个验证操作保守UNKNOWN，不冒DENIED、真实OM policy/403/仅ViewBasic角色或真实撤销恢复已验。首组漏/api的fixture断言失败保留，修确切URI后通过；随后补硬actual status/bearer断言，最终两项源9d9928e1…/14618。
+
+其余三拒绝及动态撤权/代际/晚ACK/同键不二派复用具名原cut：backend finite-first的callerAndTargetCurrentAuthorityScopeAndReservationAreReal、finite-sixth的ordinarySelfReadsConfiguredMatrixWithoutManagementOrNativeCalls，NativeFinite的targetOrParentMismatchIsZeroHttp，最终phase2 H2的doubleParentCurrentCutAndNonExactPhase1NeverSend、collisionOtherInflightAndLateLossKeepKnownAck。旧Native finite-r3原actual明确8 methods；不沿早先口头12外推计数。均按原分时source/fixture层级引用，不冒最终cut单次全矩阵或现场拒权；未为补绿移真实Role、轮换或绕旧UNKNOWN开现场run。
+
+final-product-source-cut.json逐当前后台2640输入和前端1032输入全字节同各自最终成功构建，精确产品30路径=后台27/前端3，原3后台及空间/导航等无关WIP排除；Native仅已记录c2b E源码/49类CP0覆盖交付，不冒主Native checkout变更或完整reactor。旧原件/index/失败不回填，不force-add第三方依赖JAR，不创建新任务/用户会话，无Root跨会话outbound。所有本轮有界子代理已交结果，无在途现场动作。
+
+最后实时普通额度04:41:52Z used23/余77，ordinarytrue/spendfalse/limitnull，直接解析官方工具并另存final-ordinary-quota.json；未credits/reset/换账号key。窗口04:33:15已结束且17116/17074等上限已用完，后续不借该窗派请求、不重启或重放one-shot。当前普通允许不等于M1.4放行，仍按既定监督Root独验及精确Git交付顺序续接；真人最终验收始终PENDING。
+
+### 17.69 M1.3 Root有限技术接受，精确Git交付中（2026-10-24）
+
+04:47 UTC，Root亲读新增启动差额、官方实际切换/终末/语义结果、原生安全投影、完整15行DOM与上下两PNG、两项新拒绝用例完整源差额及final stdout/actual。三个有界非作者分别核启动边界、正向终态及原四项验收覆盖，均无未了阻塞；Root未接管产品执行或重跑充分检查。结论 **M1.3 ROOT_ACCEPTED（104/S6/om-p1-isolated有限技术范围）**，完整分层见[Root验收报告](../implementations/2026-10-23-atlas-registration-m1/m1-3-root-acceptance.md)。原11项真实验证闭合，4项未选保持NOT_VERIFIED；拒绝/动态失效按原卡允许的具名有限证据接受，OM403/ViewBasic为当前产品链加fixture响应，不冒真实OM规则或现场撤权。原08 UNKNOWN、首子REQUIRES_OPERATOR及两旧16列hash保留；3984实际SUCCEEDED，三资源写各一次、累计17116，旧截止不续。额度22/78只按Work校正来源陈述，Root本轮实际直接检查23/77可用，不冒亲读历史工具正文。
+
+本节点产品30路径及精选公开文档正在精确Git交付，远端核同前M1.4仍NOT_GO；真人最终PENDING。无关WIP、本地Semantica main及347旧提交不动；Native仅交付已验单源覆盖兼容层级，不冒完整Native发布。

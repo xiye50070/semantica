@@ -1,0 +1,201 @@
+{
+  "at": "2026-10-24T04:30:37.971211+00:00",
+  "state": "ACTUAL_FIVE_SUCCEEDED_AND_UI_ELEVEN_VERIFIED_WITH_BOTH_PARENTS_EXACT",
+  "rows": {
+    "08a268d3-1118-48f5-9e20-7aa0e8967549": {
+      "physical16HashExact": true,
+      "state": "UNKNOWN",
+      "rowVersion": 32,
+      "rowHash": "sha256:c45fc2ac265a3d3d68b63359924c09e79dbde21ebfe50c965d141d282be8c9b7",
+      "verifiedStepCount": 7,
+      "knownACKCount": 7
+    },
+    "1a05f1d5-d90f-4c96-96f8-0b01bd7f7cf5": {
+      "physical16HashExact": true,
+      "state": "REQUIRES_OPERATOR",
+      "rowVersion": 7,
+      "rowHash": "sha256:91a5691e8682bf8bd4b6768fc10d98cfd72cde705e9ce9252acab674a7343421",
+      "verifiedStepCount": 1,
+      "knownACKCount": 1
+    },
+    "3984bdb5-6d2e-3935-ba43-b019a92027f6": {
+      "physical16HashExact": true,
+      "state": "SUCCEEDED",
+      "rowVersion": 23,
+      "rowHash": "sha256:06af18939e53bf0483d31b0857ab6e862da6eea27d3ee76907646b97d3201846",
+      "verifiedStepCount": 5,
+      "knownACKCount": 5
+    }
+  },
+  "original08UnknownKept": true,
+  "first1a05RequiresOperatorKept": true,
+  "allOtherExistingTopLevelStateExact": true,
+  "old17086FullOperationPrefixExact": true,
+  "newNativeCalls": 30,
+  "newStartupReads": 5,
+  "childNativeCalls": 25,
+  "childSelfReads": 12,
+  "childBusinessRequests": 12,
+  "newResourceWrites": 3,
+  "all30HTTP200": true,
+  "used": {
+    "get": 17074,
+    "logout": 1,
+    "m13_apply": 0,
+    "m13_changeset_create": 1,
+    "m13_glossary_create": 1,
+    "m13_lease_acquire": 1,
+    "m13_phase2_apply": 1,
+    "m13_phase2_lease": 1,
+    "m13_phase2_reviewer": 1,
+    "m13_policy_create": 1,
+    "m13_policy_update": 0,
+    "m13_relationship_create": 1,
+    "m13_remaining_apply": 0,
+    "m13_remaining_lease": 1,
+    "m13_remaining_reviewer": 0,
+    "m13_reviewer_update": 0,
+    "m13_role_attach": 1,
+    "m13_role_attach_continuation": 1,
+    "m13_term_create": 1,
+    "m13_term_update": 1,
+    "management_auth": 13,
+    "mutating": 42,
+    "object_writes": 19,
+    "ordinary_login": 9,
+    "password_rotate": 1,
+    "policy_create": 1,
+    "policy_sync": 0,
+    "profile_sync": 1,
+    "role_create": 1,
+    "team_create": 1,
+    "user_create": 1
+  },
+  "businessReceipts": [
+    {
+      "stage": "lease",
+      "sequence": 17094,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-lease-17094.response.raw.json",
+      "sha256": "952b4073459c592b77d2405496754d660f0a78ae3d5f7b7e80001cf6986fba97",
+      "bytes": 515,
+      "newSessionId": "cbc5e817-bbb8-3f0f-8d70-9279e99a3691",
+      "resourceId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+      "leaseVersion": null
+    },
+    {
+      "stage": "validate-term",
+      "sequence": 17096,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-validate-term-17096.response.raw.json",
+      "sha256": "23866e056b6012ec76d22c9abe39b694a88c44edb5bf1cbe4b36c971b1dc38f6",
+      "bytes": 2380
+    },
+    {
+      "stage": "validate-changeset",
+      "sequence": 17098,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-validate-changeset-17098.response.raw.json",
+      "sha256": "543e5af87e2785a04593cab5a47c092924725d0cdff6bde74639bfbc8496f170",
+      "bytes": 3844
+    },
+    {
+      "stage": "validate-strong",
+      "sequence": 17100,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-validate-strong-17100.response.raw.json",
+      "sha256": "f7c1c3b519beced863bd3cad6e89c032a7b373c93aa157a4ebb7c890df4150cd",
+      "bytes": 6723
+    },
+    {
+      "stage": "apply-strong",
+      "sequence": 17102,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-apply-strong-17102.response.raw.json",
+      "sha256": "f7c1c3b519beced863bd3cad6e89c032a7b373c93aa157a4ebb7c890df4150cd",
+      "bytes": 6723
+    },
+    {
+      "stage": "apply",
+      "sequence": 17104,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-apply-17104.response.raw.json",
+      "sha256": "375f4d3d767c8e1ff411efcaf6fd13bf80d8d0cf1ff8bb98bbe0e704d0af08e2",
+      "bytes": 6511
+    },
+    {
+      "stage": "apply-changeset",
+      "sequence": 17106,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-apply-changeset-17106.response.raw.json",
+      "sha256": "61832206a79b06c67c8ba22be561edf1437f02029311e5cf6284aa5bcee31500",
+      "bytes": 6592,
+      "nativeId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+      "version": 0.2
+    },
+    {
+      "stage": "apply-term",
+      "sequence": 17108,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-apply-term-17108.response.raw.json",
+      "sha256": "08837770a7cf2cb8db5c8c4e1144de178f7055f7ad0a30a7f11056602ed1d024",
+      "bytes": 2444,
+      "nativeId": "73baf489-acac-4dc0-8c75-d2cbe669a952",
+      "version": 0.3
+    },
+    {
+      "stage": "model-readback",
+      "sequence": 17110,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-model-readback-17110.response.raw.json",
+      "sha256": "61832206a79b06c67c8ba22be561edf1437f02029311e5cf6284aa5bcee31500",
+      "bytes": 6592,
+      "nativeId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+      "version": 0.2
+    },
+    {
+      "stage": "reviewer-before",
+      "sequence": 17112,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-reviewer-before-17112.response.raw.json",
+      "sha256": "d3e1c5d1777b410403cc7772ccd36a7ecf0d4748245a462385fa06580b8c4175",
+      "bytes": 1186
+    },
+    {
+      "stage": "reviewer",
+      "sequence": 17114,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-reviewer-17114.response.raw.json",
+      "sha256": "65e75b8bcc6d7bbd0e6f247be44ddca14f90da9974d64a2617f3835e84f4f7af",
+      "bytes": 2552
+    },
+    {
+      "stage": "reviewer-after",
+      "sequence": 17116,
+      "status": 200,
+      "capturePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-d6ffdebb-2de3-4b92-81e3-e286be69b3c8/child-reviewer-after-17116.response.raw.json",
+      "sha256": "3444c7b2b5060efe9c1a1c0ecd57836bf08754cb1b83bc0d76a2ff3c178535ca",
+      "bytes": 2455,
+      "nativeId": "bc616300-c357-49b8-bcd6-5be0f57758b8",
+      "version": 0.2
+    }
+  ],
+  "UI": {
+    "realButton": "更新操作资格",
+    "verified": 11,
+    "notVerified": 4,
+    "oldOriginalOperationStillShownAsUnknown": true,
+    "source": "existing live tab 979676260 visible DOM table; screenshots split top/bottom, neither image alone claims all15 rows"
+  },
+  "SQL": {
+    "thisTerminalSELECT": 1,
+    "thisTurnExplicitSELECTsIncludingBothPreflights": 7,
+    "DDL": 0,
+    "DML": 0
+  },
+  "noThirdChild": true,
+  "noReplayedCreatesOrTermUpdate": true,
+  "M1_3": "IN_PROGRESS_ACCEPTANCE_REMAINDER",
+  "RootAcceptance": "PENDING",
+  "UserAcceptance": "PENDING"
+}

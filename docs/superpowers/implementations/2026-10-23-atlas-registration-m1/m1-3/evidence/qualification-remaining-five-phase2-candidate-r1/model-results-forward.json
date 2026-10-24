@@ -1,0 +1,78 @@
+{
+  "state": "THREE_UNIQUE_FINITE_METHODS_PLUS_TWO_AFFECTED_FORWARDS_PASS",
+  "results": [
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/qualification-remaining-five-phase2-candidate-r1/isolated-r1/actual.json",
+      "commands": [
+        {
+          "phase": "compile",
+          "exitCode": 0,
+          "startedAt": "2026-10-24T04:00:44.589763+00:00",
+          "completedAt": "2026-10-24T04:00:45.955713+00:00"
+        },
+        {
+          "phase": "test",
+          "exitCode": 0,
+          "startedAt": "2026-10-24T04:00:45.956290+00:00",
+          "completedAt": "2026-10-24T04:00:48.196538+00:00"
+        }
+      ],
+      "passedMethods": [
+        "twoParentsFiveOwnStepsAndPermanentOnceSucceed",
+        "doubleParentCurrentCutAndNonExactPhase1NeverSend",
+        "collisionOtherInflightAndLateLossKeepKnownAck"
+      ],
+      "inputsStable": true,
+      "productsStable": true
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/qualification-remaining-five-phase2-candidate-r1/isolated-r2/actual.json",
+      "commands": [
+        {
+          "phase": "compile",
+          "exitCode": 0,
+          "startedAt": "2026-10-24T04:02:04.775836+00:00",
+          "completedAt": "2026-10-24T04:02:06.232867+00:00"
+        },
+        {
+          "phase": "test",
+          "exitCode": 0,
+          "startedAt": "2026-10-24T04:02:06.233346+00:00",
+          "completedAt": "2026-10-24T04:02:07.712365+00:00"
+        }
+      ],
+      "passedMethods": [
+        "twoParentsFiveOwnStepsAndPermanentOnceSucceed"
+      ],
+      "inputsStable": true,
+      "productsStable": true
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/qualification-remaining-five-phase2-candidate-r1/isolated-r3/actual.json",
+      "commands": [
+        {
+          "phase": "compile",
+          "exitCode": 0,
+          "startedAt": "2026-10-24T04:03:00.316119+00:00",
+          "completedAt": "2026-10-24T04:03:01.668967+00:00"
+        },
+        {
+          "phase": "test",
+          "exitCode": 0,
+          "startedAt": "2026-10-24T04:03:01.669398+00:00",
+          "completedAt": "2026-10-24T04:03:03.052850+00:00"
+        }
+      ],
+      "passedMethods": [
+        "doubleParentCurrentCutAndNonExactPhase1NeverSend"
+      ],
+      "inputsStable": true,
+      "productsStable": true
+    }
+  ],
+  "sources": "Final Store cfcaa1c7; original r3 64427 first3 methods, r4 only first snapshot cut line then affected method2 run; Adapter52f9 unchanged.",
+  "boundaries": "IAM and QualificationPort fixtures; real in-memory H2 prepare/confirm/claim/journal/finish. Separate actual SDK URI capture is offline/fake, not full Broker integration or native E2E.",
+  "realHTTP": 0,
+  "realDatabaseSQL": 0,
+  "productWrites": 0
+}

@@ -1,0 +1,16 @@
+# Two bounded M1.3 write-denial cases
+
+Only two new methods run. No product files change; no deployed Atlas/OM/proxy endpoint, DM connection, live identity, policy, qualification run, or service is touched.
+
+The final actual run is `isolated-final-r1/actual.json`: compile 0, test 0, 2/2 PASS, inputs stable, ten current product source files unchanged. `input-map.json` binds the installed 9c1 JAR, its physical current product classes and the four test sources. Javac compiles two old fixtures and the two new test/runner classes only; `-sourcepath ''` prevents product source overlay.
+
+The exercised chain is the actual Store prepare/confirm/executeOnce/step journal → actual QualificationNativeAdapter → actual OmInstanceRegistry.qualifiedClient → actual ModelingIdentityConsumer → actual OrdinarySessionBroker/temp credential store → actual OmRestClient → owned ephemeral loopback fake HTTP. The Broker's NativeOmIdentityClient ordinary transport is an in-memory fixture for login/current-user; its management transport is a counted tripwire. Current IAM, starting identity/binding/credential epoch, prior applied policy, and the approved existing G are H2 fixtures. The JWT signature and native replies are synthetic; this is not real OM authorization acceptance or native policy-cause proof.
+
+- `om403WriteRetainsDispatchAndNeverFallsBackOrReplays`: Atlas current admission allows the selected CREATE. The matching ordinary bearer reaches one POST and receives fake HTTP403. One durable dispatch, zero accepted step ACK, UNKNOWN and no write VERIFIED; duplicate execute returns false with no second request. One ordinary login/current-user check; management calls zero.
+- `onlyViewBasicReadSuccessNeverQualifiesReviewerWrite`: the fake server implements GET200 for one independently approved existing G and denies writes403; G is never created by this principal. TARGET_READ completes VERIFIED. The reviewer's complete-baseline GET200 is followed by exactly one PATCH403; reviewer stays DISPATCHED/NOT_VERIFIED and every other write remains unverified. Two business GET, one denied PATCH, one ordinary login, three native current-user checks; management zero. It does not run OM RuleEvaluator or claim actual ViewBasic-rule semantics.
+
+`method-results.json` and `test.stdout` preserve the actual results. Each method asserts all business statuses and bearer equality (403 cannot be caused by a wrong token), counts dispatches and ACKs, and checks no inspection/second send. The two cases do not retry a live UNKNOWN or modify any of the three real qualification rows.
+
+Earlier evidence remains: `isolated-first-r1` failed because the fixture omitted the SDK's real `/api` prefix; the original source is retained under diagnostics. `isolated-second-r1` passed; final only adds status/ordinary-bearer hard assertions and clarifies that DM SQL is zero while H2 SQL is exercised. No old test suite is rerun.
+
+Reviewable source: the two files under tests; exact all-new-file diff: `new-tests.forward.patch`. Runtime argv/actual start/end and stdout/stderr are under each isolated directory. `run-isolated.py --run <new-exclusive-label>` is E-only; it does not start Spring or invoke a deployed service.

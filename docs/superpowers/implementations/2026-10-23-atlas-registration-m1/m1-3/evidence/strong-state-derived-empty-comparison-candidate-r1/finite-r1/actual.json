@@ -1,0 +1,52 @@
+{
+  "commands": [
+    {
+      "name": "compile-sdk",
+      "startedAt": "2026-10-24T03:02:38.855361+00:00",
+      "completedAt": "2026-10-24T03:02:39.897166+00:00",
+      "exitCode": 0,
+      "argvRef": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/finite-r1/compile-sdk-argv.json"
+    },
+    {
+      "name": "compile-native",
+      "startedAt": "2026-10-24T03:02:39.898015+00:00",
+      "completedAt": "2026-10-24T03:02:41.345974+00:00",
+      "exitCode": 0,
+      "argvRef": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/finite-r1/compile-native-argv.json"
+    },
+    {
+      "name": "compile-harness",
+      "startedAt": "2026-10-24T03:02:41.346661+00:00",
+      "completedAt": "2026-10-24T03:02:42.051301+00:00",
+      "exitCode": 0,
+      "argvRef": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/finite-r1/compile-harness-argv.json"
+    },
+    {
+      "name": "sdk-six",
+      "startedAt": "2026-10-24T03:02:42.051824+00:00",
+      "completedAt": "2026-10-24T03:02:42.255535+00:00",
+      "exitCode": 0,
+      "argvRef": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/finite-r1/sdk-six-argv.json"
+    },
+    {
+      "name": "native-six",
+      "startedAt": "2026-10-24T03:02:42.256442+00:00",
+      "completedAt": "2026-10-24T03:02:42.745612+00:00",
+      "exitCode": 0,
+      "argvRef": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/finite-r1/native-six-argv.json"
+    }
+  ],
+  "exitCode": 0,
+  "inputSHA256": {
+    "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingQualificationNativeAdapter.java": "c7701e710a194c5412803e168ac685a185a46595bdecb8a34cd6ca9e023a3da4",
+    "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/source/openmetadata-service/src/main/java/org/openmetadata/service/ontology/OntologyConditionalApplyService.java": "c2b46a17707c827cae488bf3b5694243bde285f7333ff0cfc4b27e2a434d8675",
+    "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/DerivedEmptyComparisonFinite.java": "49fa12ae01565434f3aa79386de5d43751e5bfa30d58fc670cf1e770584d1a1a"
+  },
+  "inputsStable": true,
+  "sourceOnlyTwoProducts": true,
+  "HTTP": 0,
+  "SQL": 0,
+  "AppOrBeanStarted": false,
+  "runReentry": false,
+  "productWrites": 0
+}

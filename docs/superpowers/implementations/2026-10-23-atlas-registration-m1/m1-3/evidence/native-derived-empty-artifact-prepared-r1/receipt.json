@@ -1,0 +1,55 @@
+{
+  "startedAt": "2026-10-24T03:10:22.066020+00:00",
+  "completedAt": "2026-10-24T03:10:23.233917+00:00",
+  "exitCode": 0,
+  "classesDirectory": "/private/tmp/atlas-m13-native-derived-empty-artifact-r1/classes",
+  "artifact": {
+    "path": "/private/tmp/atlas-m13-native-derived-empty-artifact-r1/openmetadata-derived-empty-override.jar",
+    "sha256": "581045e2b30c45811076d2c552d7db329c1ee5d014a10b2928b75cd763d86d94",
+    "bytes": 906468
+  },
+  "classCount": 49,
+  "compiledClassFamily": {
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$ApplyRequest.class": {
+      "sha256": "70b7aca79f06f8074a4645fda48d2f512211b04bd77fb55c1d281789fd2fdd1f",
+      "bytes": 2125
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$ExpectedState.class": {
+      "sha256": "94382d2b2aa681552f86829f9664963755d750f6d89a48f80b4e2a0bbcf94c9e",
+      "bytes": 2545
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$Locked.class": {
+      "sha256": "fc0c5123b9788528ca54bf85866b77c3dc3d4fe1bf4a573515f1f5798ef10ae0",
+      "bytes": 17514
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$StateResponse.class": {
+      "sha256": "697baff9ab25fffda52cc1af5ee7dbfb43690f6b807fa9772237b135d49519e4",
+      "bytes": 3079
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$TargetToken.class": {
+      "sha256": "816115d82e0bef2ad778600755967d4438a5610ceb1db46b7a27e6adcbbffb49",
+      "bytes": 1790
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService.class": {
+      "sha256": "6421078f9511730a84a31ddef9c0d290b78337cc406ba08ab202cf95dee19013",
+      "bytes": 34491
+    }
+  },
+  "changedClasses": [
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$ApplyRequest.class",
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$ExpectedState.class",
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$Locked.class",
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$StateResponse.class",
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$TargetToken.class",
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService.class"
+  ],
+  "unchangedOtherClasses": 43,
+  "originalClassesUnchanged": true,
+  "oldSourceUnchanged": true,
+  "HTTP": 0,
+  "SQL": 0,
+  "serviceActions": 0,
+  "tests": "Prior pure checks reused; no tests rerun",
+  "switchExecuted": false,
+  "limitations": "Single-source javac against current deployed runtime CP; not full Native reactor build or live compatibility/acceptance."
+}

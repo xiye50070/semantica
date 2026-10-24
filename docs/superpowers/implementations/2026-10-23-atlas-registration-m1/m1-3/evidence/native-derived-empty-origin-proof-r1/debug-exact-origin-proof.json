@@ -1,0 +1,88 @@
+{
+  "state": "BEFORE_SOURCE_REPRODUCES_ALL_SIX_DEPLOYED_CLASSES",
+  "startedAt": "2026-10-24T03:12:50.904007+00:00",
+  "completedAt": "2026-10-24T03:12:51.820010+00:00",
+  "compileExit": 0,
+  "onlyDifferenceFromCandidateCompilerOptions": [
+    "-g"
+  ],
+  "allSixByteEqual": true,
+  "classes": [
+    {
+      "class": "org/openmetadata/service/ontology/OntologyConditionalApplyService$ApplyRequest.class",
+      "compiled": {
+        "sha256": "b4921c321b1e76474ca882341ef6fcae83612c962710e57626cee00f775189d2",
+        "bytes": 2399
+      },
+      "deployed": {
+        "sha256": "b4921c321b1e76474ca882341ef6fcae83612c962710e57626cee00f775189d2",
+        "bytes": 2399
+      },
+      "sameBytes": true
+    },
+    {
+      "class": "org/openmetadata/service/ontology/OntologyConditionalApplyService$ExpectedState.class",
+      "compiled": {
+        "sha256": "8c888ed14f96fec5b878d73ce9a98d84048580db3166170e94f4de36899a9058",
+        "bytes": 2919
+      },
+      "deployed": {
+        "sha256": "8c888ed14f96fec5b878d73ce9a98d84048580db3166170e94f4de36899a9058",
+        "bytes": 2919
+      },
+      "sameBytes": true
+    },
+    {
+      "class": "org/openmetadata/service/ontology/OntologyConditionalApplyService$Locked.class",
+      "compiled": {
+        "sha256": "e3e4f6f011f5a55eb79a0727290e4528390d73a3aa4c2775b5506a823dab2406",
+        "bytes": 20267
+      },
+      "deployed": {
+        "sha256": "e3e4f6f011f5a55eb79a0727290e4528390d73a3aa4c2775b5506a823dab2406",
+        "bytes": 20267
+      },
+      "sameBytes": true
+    },
+    {
+      "class": "org/openmetadata/service/ontology/OntologyConditionalApplyService$StateResponse.class",
+      "compiled": {
+        "sha256": "284354d916c391a2d53965e587f2546b3111781a35f293b3182bebf1c6601235",
+        "bytes": 3463
+      },
+      "deployed": {
+        "sha256": "284354d916c391a2d53965e587f2546b3111781a35f293b3182bebf1c6601235",
+        "bytes": 3463
+      },
+      "sameBytes": true
+    },
+    {
+      "class": "org/openmetadata/service/ontology/OntologyConditionalApplyService$TargetToken.class",
+      "compiled": {
+        "sha256": "c58da03f073d38b7c85ed24b4fa3903ad7c7e8aefb552ca15d16ec60d10cb279",
+        "bytes": 2091
+      },
+      "deployed": {
+        "sha256": "c58da03f073d38b7c85ed24b4fa3903ad7c7e8aefb552ca15d16ec60d10cb279",
+        "bytes": 2091
+      },
+      "sameBytes": true
+    },
+    {
+      "class": "org/openmetadata/service/ontology/OntologyConditionalApplyService.class",
+      "compiled": {
+        "sha256": "02bbde0e9a4bbce39ed9d2205b2bee8fd11491c6cda49efdbe2041561e4bb2f8",
+        "bytes": 38649
+      },
+      "deployed": {
+        "sha256": "02bbde0e9a4bbce39ed9d2205b2bee8fd11491c6cda49efdbe2041561e4bb2f8",
+        "bytes": 38649
+      },
+      "sameBytes": true
+    }
+  ],
+  "HTTP": 0,
+  "SQL": 0,
+  "App": 0,
+  "serviceActions": 0
+}

@@ -1,0 +1,1 @@
+{"runReentry":false,"newSnapshotNotOriginal17067":true,"HTTP":0,"checks":{"realNewSnapshotExactEmptyPositive":true,"nonemptyChildrenReject":true,"nonzeroVotesAndVoterListsReject":true,"extraKeyFloatBooleanPartialVotesReject":true,"explicitNullAndUnknownZeroFalseReject":true,"uuidVersionOwnerNameAndOpaqueFieldsReject":true},"SQL":0,"mode":"sdk","categories":6}

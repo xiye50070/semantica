@@ -1,0 +1,231 @@
+{
+  "state": "PREPARED_ONLY_BUILD_NOT_EXECUTED",
+  "candidate": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/native-derived-empty-artifact-prepared-r1/source/openmetadata-service/src/main/java/org/openmetadata/service/ontology/OntologyConditionalApplyService.java",
+    "sha256": "c2b46a17707c827cae488bf3b5694243bde285f7333ff0cfc4b27e2a434d8675",
+    "bytes": 38354
+  },
+  "oldSource": {
+    "path": "/private/tmp/atlas-registration-m0-atomic-cas-isolated-r1-20261022/work/openmetadata-service/src/main/java/org/openmetadata/service/ontology/OntologyConditionalApplyService.java",
+    "sha256": "992b2d425fc828d654089af375816fdd855d60695a9b732891a092eae3b8340a",
+    "bytes": 37300
+  },
+  "runtimeCodeOrigin": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/native-derived-empty-artifact-prepared-r1/runtime-code-origin.json",
+    "sha256": "4ff33b65f53f29e4951943f6527f97f069f3e4885fa7f283243fd115b6b04a91",
+    "bytes": 11308
+  },
+  "classpath": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/native-derived-empty-artifact-prepared-r1/build-classpath.json",
+    "sha256": "b5973b97404654f98d7a52403ec025cbc4e2b471409f0e7de1c426ee7c7ade5c",
+    "bytes": 73703
+  },
+  "originalOverrideRoot": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/deployment/releases/om-m0-atomic-strong-r1-20261022/classes",
+  "originalOverrideClasses": {
+    "org/openmetadata/schema/api/data/ApplyOntologyChangeSetConditional.class": {
+      "sha256": "3bddd1008588dfef4b5b973ac71f2682b314d9d2d1a3574c85297eb722fcf863",
+      "bytes": 4104
+    },
+    "org/openmetadata/schema/api/data/OntologyConditionalStateResponse.class": {
+      "sha256": "0d40ac95bccf4c2943f8fe6832eeae7bac5c8245927d8261a85785c150421aff",
+      "bytes": 6475
+    },
+    "org/openmetadata/schema/type/OntologyConditionalState$SchemaVersion.class": {
+      "sha256": "6e96d87bccbd1f1639a1a679cfab675aa0f5456c38a4f5872062f10e775e8b2a",
+      "bytes": 3075
+    },
+    "org/openmetadata/schema/type/OntologyConditionalState.class": {
+      "sha256": "67648fa329f676b253d1578bda25272504d83c11095cc4766b49cf77fa72d2df",
+      "bytes": 5929
+    },
+    "org/openmetadata/schema/type/ReadSet$EntityType.class": {
+      "sha256": "3e8b2e837e999c3223b4f4334c70aee7b69f9e9b0508138ee24b7c1de8a0991e",
+      "bytes": 2743
+    },
+    "org/openmetadata/schema/type/ReadSet.class": {
+      "sha256": "f636d439b782c2c455505d0aee1f560d79110af68e977074fd808416b037ea88",
+      "bytes": 4292
+    },
+    "org/openmetadata/service/jdbi3/CollectionDAO$AssetDAO.class": {
+      "sha256": "b941701fc7febfac09f4db6c524902f802c1b992a29eda179f7753a956c144dd",
+      "bytes": 2649
+    },
+    "org/openmetadata/service/jdbi3/CollectionDAO$IntakeFormDAO.class": {
+      "sha256": "1e7043ee21b78afa19153b213b09c6997e7e7b66b6b5da21b2c5819a6f68564a",
+      "bytes": 1800
+    },
+    "org/openmetadata/service/jdbi3/CollectionDAO.class": {
+      "sha256": "7221d3b23b1502e0dbfbb87a0e063983465a3c0dca18dc0d844a33af37bd62b8",
+      "bytes": 2889
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$1.class": {
+      "sha256": "e3272a84b6e1e9354c6daf771c2c0a1325a6d031a7035c5673a9bc190cbfe619",
+      "bytes": 1078
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$2.class": {
+      "sha256": "1ad5fe5384566ac84e5cdfed5ecfdab3888e0cebf8601105d47e0731f2fb4618",
+      "bytes": 1046
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$CacheInvalidationKey.class": {
+      "sha256": "16d6729981003292b35a12b25eadd119ee042659d44f500d3c3b3d915517d4ac",
+      "bytes": 1238
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$ColumnEntityUpdater$ColumnLineageChanges.class": {
+      "sha256": "600a37008ff07e32537cb47feabe51e7dcb9caff170e40c91612445da5da622e",
+      "bytes": 3227
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$ColumnEntityUpdater.class": {
+      "sha256": "3abe06f1b4e784d4cb279c2c47766a7a2edd5d9ccdd4da4c645c4ad97fafdb03",
+      "bytes": 13790
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$ConditionalStorageImage.class": {
+      "sha256": "23c0f35f7fc1ec547095bcf4d950f3035fe3f735e2778458076b149ca6285b79",
+      "bytes": 1886
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$DeferralScope.class": {
+      "sha256": "064e2c36513bd41b1c4816284e2a48052a34a562caee8a79673bd31bf13e7ee2",
+      "bytes": 5180
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$DeleteLifecycle.class": {
+      "sha256": "5230597395352632676326aa37c9ecfbfc9cd6769bc0feccbb43dcf38b0b677d",
+      "bytes": 1146
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$DeleteLifecycleGroup.class": {
+      "sha256": "eff762644fcbbc4819dccfd2a8e6f9df029baff72898f28edc6e4c2d8d264956",
+      "bytes": 1900
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$EntityHistoryWithOffset.class": {
+      "sha256": "502c03598fb17d662ca359c4010a10321651a0c1a811f5760411b03d276c2713",
+      "bytes": 1970
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$EntityLoaderWithId.class": {
+      "sha256": "c664becae3c237e98b7074c77e1cfa408d41dcc342a4d9c08ac5339af5efdaa2",
+      "bytes": 7210
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$EntityLoaderWithName.class": {
+      "sha256": "c0e8d2af69f7d2cfce1e81ba4ee561ed6acaca9a47714b12d3cc32d4d2c5369d",
+      "bytes": 8229
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$EntityUpdater$UpdaterSnapshot.class": {
+      "sha256": "61715ad3a6805c58b3e8ae04b3f4829405dd59bb46737687ad41174399134758",
+      "bytes": 1408
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$EntityUpdater.class": {
+      "sha256": "8159cc0a1621fcaa5ddb889ffa4f5c15f953b5efdeed4a983a3d16f6fa125007",
+      "bytes": 77428
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$HistoryPage.class": {
+      "sha256": "7d6e7753eda19715f31aa044341befc056a7557a6a8f51979743b8da15bab4e3",
+      "bytes": 3441
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$LoaderRaceException.class": {
+      "sha256": "8ccf028d05212f50d9f27b36bec73681fc15759558eede0e27f9d5ffa23f4417",
+      "bytes": 574
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$Operation.class": {
+      "sha256": "d11467f8547cd6d94a7360f8b95d4ffd89a4a093c896bc3a9d50af00ffe1c692",
+      "bytes": 1732
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository$StoredEntityJson.class": {
+      "sha256": "e177258600888f4eb42d7de3e5999cc0dcd3dfcf1b16376c239b10d75d18f862",
+      "bytes": 1856
+    },
+    "org/openmetadata/service/jdbi3/EntityRepository.class": {
+      "sha256": "6d2e1c151f9782343a62d6d6fd885064346a2e13c872a0c4e7896ae2c8f921e9",
+      "bytes": 410176
+    },
+    "org/openmetadata/service/jdbi3/GlossaryTermRepository$GlossaryTermUpdater.class": {
+      "sha256": "234bc3f55d8737de439e463531faa749cc701aa407c10b0d1e1c7fcc46fc4322",
+      "bytes": 25068
+    },
+    "org/openmetadata/service/jdbi3/GlossaryTermRepository$GraphLimits.class": {
+      "sha256": "6846ff14a1ff36dd53f827aadc7e5fd691a7ddc5acebe2b3fc318c247ef61fb0",
+      "bytes": 2233
+    },
+    "org/openmetadata/service/jdbi3/GlossaryTermRepository$OntologyDataGraphLimits.class": {
+      "sha256": "e8f5850a9b96feb962332aa3a03f28e77292786e64fda009d051b777b6d3e8e6",
+      "bytes": 2028
+    },
+    "org/openmetadata/service/jdbi3/GlossaryTermRepository$OntologyDataGraphRequest.class": {
+      "sha256": "aa664e92cf1a1efe38d5ca7ca6b5cef62f24f0ca1819b3115e107dd7fbea55b0",
+      "bytes": 2657
+    },
+    "org/openmetadata/service/jdbi3/GlossaryTermRepository$RelationGraphAccumulator.class": {
+      "sha256": "33003f4a3937452f25c5b3403ae005ab70913f13b0788ca7bcb857094291b3ac",
+      "bytes": 6584
+    },
+    "org/openmetadata/service/jdbi3/GlossaryTermRepository.class": {
+      "sha256": "55f4bd77bf5edb55663b9c8b74af4c1bb3839d75ff3f88c5812873d651f4df08",
+      "bytes": 143068
+    },
+    "org/openmetadata/service/jdbi3/OntologyChangeSetRepository$1.class": {
+      "sha256": "a9ff3aa3470ed323ee42ff3bfcc893074221a2e917155adff514e847e7ff4510",
+      "bytes": 1037
+    },
+    "org/openmetadata/service/jdbi3/OntologyChangeSetRepository$OntologyChangeSetUpdater.class": {
+      "sha256": "056abf6ec89e9b2b985bd74f6f116f02ca2307b9e0c4f4542e8fbca8e43ce311",
+      "bytes": 2927
+    },
+    "org/openmetadata/service/jdbi3/OntologyChangeSetRepository.class": {
+      "sha256": "44084bf07c6be3889f5cf28595873355046a36631116ed70f9c2b2aa74593548",
+      "bytes": 18076
+    },
+    "org/openmetadata/service/jdbi3/OntologyConditionalStateDAO$RelationRow.class": {
+      "sha256": "94e9d95db5c47ffbc88d06e35cebeb6b5ff96c89009fbe9a3b889e6d311b6362",
+      "bytes": 3491
+    },
+    "org/openmetadata/service/jdbi3/OntologyConditionalStateDAO$Scope.class": {
+      "sha256": "12656bf9082d0bb0c6e372e1ce58cd4a67f2041f7aa6fc2df6952900b6f240c9",
+      "bytes": 1882
+    },
+    "org/openmetadata/service/jdbi3/OntologyConditionalStateDAO.class": {
+      "sha256": "0fd6cf6c53df517ea4c15665c65d2967139591abd2b1ecebb6905700adc157eb",
+      "bytes": 15963
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$ApplyRequest.class": {
+      "sha256": "b4921c321b1e76474ca882341ef6fcae83612c962710e57626cee00f775189d2",
+      "bytes": 2399
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$ExpectedState.class": {
+      "sha256": "8c888ed14f96fec5b878d73ce9a98d84048580db3166170e94f4de36899a9058",
+      "bytes": 2919
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$Locked.class": {
+      "sha256": "e3e4f6f011f5a55eb79a0727290e4528390d73a3aa4c2775b5506a823dab2406",
+      "bytes": 20267
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$StateResponse.class": {
+      "sha256": "284354d916c391a2d53965e587f2546b3111781a35f293b3182bebf1c6601235",
+      "bytes": 3463
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService$TargetToken.class": {
+      "sha256": "c58da03f073d38b7c85ed24b4fa3903ad7c7e8aefb552ca15d16ec60d10cb279",
+      "bytes": 2091
+    },
+    "org/openmetadata/service/ontology/OntologyConditionalApplyService.class": {
+      "sha256": "02bbde0e9a4bbce39ed9d2205b2bee8fd11491c6cda49efdbe2041561e4bb2f8",
+      "bytes": 38649
+    },
+    "org/openmetadata/service/ontology/RelationshipTypeResolver.class": {
+      "sha256": "2e41cf414b8c68ac3c013e2780545db64fdb7a1de883447827b2c0cce6ac201b",
+      "bytes": 8537
+    },
+    "org/openmetadata/service/resources/ontology/OntologyChangeSetResource$OntologyChangeSetList.class": {
+      "sha256": "2a0bf53c24abc098011a2ecfa8f3c7ac3a3085df1c187986e8bd4fc262a003b3",
+      "bytes": 727
+    },
+    "org/openmetadata/service/resources/ontology/OntologyChangeSetResource.class": {
+      "sha256": "f67d824c060f365e64ba626f95f89f6c24212fdfaa88e293a27819e31b605a3c",
+      "bytes": 21451
+    }
+  },
+  "stage": "/private/tmp/atlas-m13-native-derived-empty-artifact-r1",
+  "classFamilyPrefix": "org/openmetadata/service/ontology/OntologyConditionalApplyService",
+  "expectedClassFamilyCount": 6,
+  "jdk": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home",
+  "noOldArtifactOrScratchWrite": true,
+  "noServiceAction": true,
+  "noHTTP": true,
+  "noSQL": true,
+  "switchBoundary": "Future separately approved process switch may replace only actual classpath index0 with new classes directory; all other classpath entries, resources, VM/app args unchanged. No controller/signal/launch is supplied here. Old M0 release/work retained."
+}

@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-24T04:32:31.490647+00:00",
+  "changeSetId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+  "changeSetState": "APPLIED",
+  "changeSetVersion": 0.2,
+  "application": {
+    "operationsProcessed": 1,
+    "operationsApplied": 1,
+    "operationsFailed": 0,
+    "originalOperationId": "e58db5cb-a862-31e6-819d-9e5b65219459",
+    "entityId": "73baf489-acac-4dc0-8c75-d2cbe669a952",
+    "appliedBy": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb"
+  },
+  "termVersion": 0.3,
+  "termDescriptionExact": true,
+  "glossaryId": "bc616300-c357-49b8-bcd6-5be0f57758b8",
+  "glossaryVersion": 0.2,
+  "reviewerIds": [
+    "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26"
+  ],
+  "reviewerUpdateAfterApplyReadback": true,
+  "noNativeCallsByThisProof": true
+}

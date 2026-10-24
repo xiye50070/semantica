@@ -1,0 +1,275 @@
+{
+  "kind": "M13_REMAINING_PHASE2_TERMINAL_THREE_ROW_PROOF",
+  "queryStartedAt": "2026-10-24T04:28:44.638354Z",
+  "completedAt": "2026-10-24T04:28:44.712130Z",
+  "explicitSelects": 1,
+  "rowCount": 3,
+  "physicalColumnsPerRow": 16,
+  "DDL": 0,
+  "DML": 0,
+  "HTTP": 0,
+  "App": 0,
+  "rows": {
+    "08a268d3-1118-48f5-9e20-7aa0e8967549": {
+      "runId": "08a268d3-1118-48f5-9e20-7aa0e8967549",
+      "state": "UNKNOWN",
+      "rowVersion": 32,
+      "rowHash": "sha256:c45fc2ac265a3d3d68b63359924c09e79dbde21ebfe50c965d141d282be8c9b7",
+      "steps": [
+        {
+          "stepId": "qualify-target-create",
+          "capability": "TARGET_CREATE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:ed863a3575ed65afc46ee421773a4e71dfcbbb56537be3bc7640f55364568830",
+          "nativeId": "bc616300-c357-49b8-bcd6-5be0f57758b8",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 201
+        },
+        {
+          "stepId": "qualify-target-read",
+          "capability": "TARGET_READ",
+          "state": "VERIFIED",
+          "requestHash": "sha256:6ed9b71ccbff178a7d92d91152f7b78cc8183c77bd50a508dc71f43ff07ae608",
+          "nativeId": "bc616300-c357-49b8-bcd6-5be0f57758b8",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 200
+        },
+        {
+          "stepId": "qualify-term-create",
+          "capability": "TERM_CREATE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:334fb0669113a4730bd7627d6bbeb13030cf17088393805ba5515716f1006fde",
+          "nativeId": "73baf489-acac-4dc0-8c75-d2cbe669a952",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 201
+        },
+        {
+          "stepId": "qualify-term-update",
+          "capability": "TERM_UPDATE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:38433bcbb861312b1a9d9420a11d0e068d0b11cd2a56a539b982c8634914986d",
+          "nativeId": "73baf489-acac-4dc0-8c75-d2cbe669a952",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 200
+        },
+        {
+          "stepId": "qualify-relationship-type-write",
+          "capability": "RELATIONSHIP_TYPE_WRITE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:7ee3a837d6fd04ca714e69c262f015a6a7d72ef374b2b151ceb75d9b04002111",
+          "nativeId": "5ec18b61-d204-47a5-bb57-d74ace2c340b",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 201
+        },
+        {
+          "stepId": "qualify-changeset-create",
+          "capability": "CHANGESET_CREATE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:368fbba0d5b9dd01c9f991870e6c1453629d0fd13baff2d63f586d22ef285789",
+          "nativeId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 201
+        },
+        {
+          "stepId": "qualify-lease-acquire",
+          "capability": "LEASE_ACQUIRE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:5cd883bf9f04eb7c436f79b954b546008b01fb5997d56d76ee616bc988eaa6a1",
+          "nativeId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 200
+        },
+        {
+          "stepId": "qualify-model-validate",
+          "capability": "MODEL_VALIDATE",
+          "state": "DISPATCHED",
+          "requestHash": "sha256:47d7f84453a2168b6c5874ffa3324dbca5e1449c733d09a80a2b7bde07137b7e",
+          "nativeId": null,
+          "ackPresent": false,
+          "ackIdentityMatches": false,
+          "status": null
+        },
+        {
+          "stepId": "qualify-changeset-apply",
+          "capability": "CHANGESET_APPLY",
+          "state": "NOT_STARTED",
+          "requestHash": null,
+          "nativeId": null,
+          "ackPresent": false,
+          "ackIdentityMatches": false,
+          "status": null
+        },
+        {
+          "stepId": "qualify-model-readback",
+          "capability": "MODEL_READBACK",
+          "state": "NOT_STARTED",
+          "requestHash": null,
+          "nativeId": null,
+          "ackPresent": false,
+          "ackIdentityMatches": false,
+          "status": null
+        },
+        {
+          "stepId": "qualify-reviewer-update",
+          "capability": "REVIEWER_UPDATE",
+          "state": "NOT_STARTED",
+          "requestHash": null,
+          "nativeId": null,
+          "ackPresent": false,
+          "ackIdentityMatches": false,
+          "status": null
+        }
+      ],
+      "knownACKCount": 7,
+      "knownResourceACKCount": 6,
+      "verifiedStepCount": 7,
+      "ownedFourUUIDsMatch": true,
+      "rawPrivatePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-terminal-20261024-r1/08a268d3-1118-48f5-9e20-7aa0e8967549-16-column-row.private.json",
+      "rawBytes": 15678,
+      "snapshotAndJournalStringsPreserved": true
+    },
+    "1a05f1d5-d90f-4c96-96f8-0b01bd7f7cf5": {
+      "runId": "1a05f1d5-d90f-4c96-96f8-0b01bd7f7cf5",
+      "state": "REQUIRES_OPERATOR",
+      "rowVersion": 7,
+      "rowHash": "sha256:91a5691e8682bf8bd4b6768fc10d98cfd72cde705e9ce9252acab674a7343421",
+      "steps": [
+        {
+          "stepId": "qualify-lease-acquire",
+          "capability": "LEASE_ACQUIRE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:51e7453a1395e214b3a8246914518d10ceec303f241a7bc0c108aae7e4155631",
+          "nativeId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 200
+        },
+        {
+          "stepId": "qualify-model-validate",
+          "capability": "MODEL_VALIDATE",
+          "state": "NOT_STARTED",
+          "requestHash": null,
+          "nativeId": null,
+          "ackPresent": false,
+          "ackIdentityMatches": false,
+          "status": null
+        },
+        {
+          "stepId": "qualify-changeset-apply",
+          "capability": "CHANGESET_APPLY",
+          "state": "NOT_STARTED",
+          "requestHash": null,
+          "nativeId": null,
+          "ackPresent": false,
+          "ackIdentityMatches": false,
+          "status": null
+        },
+        {
+          "stepId": "qualify-model-readback",
+          "capability": "MODEL_READBACK",
+          "state": "NOT_STARTED",
+          "requestHash": null,
+          "nativeId": null,
+          "ackPresent": false,
+          "ackIdentityMatches": false,
+          "status": null
+        },
+        {
+          "stepId": "qualify-reviewer-update",
+          "capability": "REVIEWER_UPDATE",
+          "state": "NOT_STARTED",
+          "requestHash": null,
+          "nativeId": null,
+          "ackPresent": false,
+          "ackIdentityMatches": false,
+          "status": null
+        }
+      ],
+      "knownACKCount": 1,
+      "knownResourceACKCount": 1,
+      "verifiedStepCount": 1,
+      "ownedFourUUIDsMatch": true,
+      "rawPrivatePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-terminal-20261024-r1/1a05f1d5-d90f-4c96-96f8-0b01bd7f7cf5-16-column-row.private.json",
+      "rawBytes": 14793,
+      "snapshotAndJournalStringsPreserved": true
+    },
+    "3984bdb5-6d2e-3935-ba43-b019a92027f6": {
+      "runId": "3984bdb5-6d2e-3935-ba43-b019a92027f6",
+      "state": "SUCCEEDED",
+      "rowVersion": 23,
+      "rowHash": "sha256:06af18939e53bf0483d31b0857ab6e862da6eea27d3ee76907646b97d3201846",
+      "steps": [
+        {
+          "stepId": "qualify-lease-acquire",
+          "capability": "LEASE_ACQUIRE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:49ec6f0c02200ed587a242a68d5aeb79e74599d7592466e32dd28f9514fd5a54",
+          "nativeId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 200
+        },
+        {
+          "stepId": "qualify-model-validate",
+          "capability": "MODEL_VALIDATE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:47d7f84453a2168b6c5874ffa3324dbca5e1449c733d09a80a2b7bde07137b7e",
+          "nativeId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 200
+        },
+        {
+          "stepId": "qualify-changeset-apply",
+          "capability": "CHANGESET_APPLY",
+          "state": "VERIFIED",
+          "requestHash": "sha256:88701df4e7b91fe1cf738ab1caa3f9eb274109c777f396e5deabfabef30b36b1",
+          "nativeId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 200
+        },
+        {
+          "stepId": "qualify-model-readback",
+          "capability": "MODEL_READBACK",
+          "state": "VERIFIED",
+          "requestHash": "sha256:c242e7ad616a71a0d9f14a670bdf379b91d3eab69f490beb3e860a487439c078",
+          "nativeId": "d98f7d53-67fe-4672-9414-2746fe2ef302",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 200
+        },
+        {
+          "stepId": "qualify-reviewer-update",
+          "capability": "REVIEWER_UPDATE",
+          "state": "VERIFIED",
+          "requestHash": "sha256:b205f91583c9bdceb54e9a6cce3c5aa210de114aec037bca55e504e26a94e087",
+          "nativeId": "bc616300-c357-49b8-bcd6-5be0f57758b8",
+          "ackPresent": true,
+          "ackIdentityMatches": true,
+          "status": 200
+        }
+      ],
+      "knownACKCount": 5,
+      "knownResourceACKCount": 3,
+      "verifiedStepCount": 5,
+      "ownedFourUUIDsMatch": true,
+      "rawPrivatePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-phase2-terminal-20261024-r1/3984bdb5-6d2e-3935-ba43-b019a92027f6-16-column-row.private.json",
+      "rawBytes": 18298,
+      "snapshotAndJournalStringsPreserved": true,
+      "phase2OriginMatches": true,
+      "childSucceeded": true,
+      "observedTerminal": true
+    }
+  },
+  "originalHashExactlyPreserved": true,
+  "firstHashExactlyPreserved": true,
+  "storeClassSHA256": "f863b7ff6a3815061d81e3f769bdb258d0f31a4df30775378a4512c28de7ac34"
+}

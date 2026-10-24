@@ -1,0 +1,55 @@
+--- before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingQualificationNativeAdapter.java
++++ source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingQualificationNativeAdapter.java
+@@ -164,9 +164,22 @@
+     private static JsonNode descriptionComparable(JsonNode term){
+         if(!(term instanceof ObjectNode object))throw invalid("QUALIFICATION_SELECTED_TERM_OBJECT_REQUIRED");ObjectNode value=object.deepCopy();
+         value.remove(List.of("description","href","changeDescription","incrementalChangeDescription","changeSummary"));
++        normalizeEmptyDerivedReadFields(value);
+         for(String field:List.of("owners","reviewers","glossary","parent"))removeRefHrefs(value.get(field));
+         JsonNode related=value.get("relatedTerms");if(related!=null&&related.isArray())for(JsonNode row:related){removeRefHrefs(row.get("term"));removeRefHrefs(row.get("relationshipType"));}
+         return value;
++    }
++    /** Only absent versus the exact empty read-derived representation is comparable.
++     * Explicit null, nonempty children, every vote and unknown fields remain substantive differences. */
++    private static void normalizeEmptyDerivedReadFields(ObjectNode value){
++        JsonNode children=value.get("children");
++        if(children!=null&&children.isArray()&&children.isEmpty())value.remove("children");
++        JsonNode votes=value.get("votes");
++        if(votes!=null&&votes.isObject()&&votes.size()==4&&votes.has("upVotes")&&votes.has("downVotes")&&votes.has("upVoters")&&votes.has("downVoters")
++                &&votes.path("upVotes").isIntegralNumber()&&votes.path("upVotes").bigIntegerValue().signum()==0
++                &&votes.path("downVotes").isIntegralNumber()&&votes.path("downVotes").bigIntegerValue().signum()==0
++                &&votes.path("upVoters").isArray()&&votes.path("upVoters").isEmpty()
++                &&votes.path("downVoters").isArray()&&votes.path("downVoters").isEmpty())value.remove("votes");
+     }
+     private static void removeRefHrefs(JsonNode value){if(value instanceof ObjectNode object)object.remove("href");else if(value!=null&&value.isArray())for(JsonNode ref:value)if(ref instanceof ObjectNode object)object.remove("href");}
+     private static UUID uuid(String value){try{UUID id=UUID.fromString(value);if(!id.toString().equals(value))throw invalid("QUALIFICATION_CANONICAL_UUID_REQUIRED");return id;}catch(RuntimeException invalid){throw invalid("QUALIFICATION_CANONICAL_UUID_REQUIRED");}}
+--- before/openmetadata-service/src/main/java/org/openmetadata/service/ontology/OntologyConditionalApplyService.java
++++ source/openmetadata-service/src/main/java/org/openmetadata/service/ontology/OntologyConditionalApplyService.java
+@@ -480,6 +480,7 @@
+             "changeDescription",
+             "incrementalChangeDescription",
+             "changeSummary"));
++    normalizeEmptyDerivedReadFields(node);
+     for (String field : List.of("owners", "reviewers", "glossary", "parent"))
+       removeRefHrefs(node.get(field));
+     JsonNode related = node.get("relatedTerms");
+@@ -489,6 +490,19 @@
+         removeRefHrefs(row.get("relationshipType"));
+       }
+     return canonical(node);
++  }
++
++  /** Only absent versus the exact empty read-derived representation is comparable.
++   * Explicit null, nonempty children, every vote and unknown fields remain substantive differences. */
++  private static void normalizeEmptyDerivedReadFields(ObjectNode value){
++      JsonNode children=value.get("children");
++      if(children!=null&&children.isArray()&&children.isEmpty())value.remove("children");
++      JsonNode votes=value.get("votes");
++      if(votes!=null&&votes.isObject()&&votes.size()==4&&votes.has("upVotes")&&votes.has("downVotes")&&votes.has("upVoters")&&votes.has("downVoters")
++              &&votes.path("upVotes").isIntegralNumber()&&votes.path("upVotes").bigIntegerValue().signum()==0
++              &&votes.path("downVotes").isIntegralNumber()&&votes.path("downVotes").bigIntegerValue().signum()==0
++              &&votes.path("upVoters").isArray()&&votes.path("upVoters").isEmpty()
++              &&votes.path("downVoters").isArray()&&votes.path("downVoters").isEmpty())value.remove("votes");
+   }
+ 
+   private static void removeRefHrefs(JsonNode node) {

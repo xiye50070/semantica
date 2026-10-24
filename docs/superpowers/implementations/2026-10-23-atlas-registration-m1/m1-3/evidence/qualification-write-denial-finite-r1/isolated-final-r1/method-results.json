@@ -1,0 +1,30 @@
+{
+  "selected" : 2,
+  "boundary" : "Real Store/Consumer/Registry/Broker/Adapter/SDK; H2 IAM/identity/applied-policy and synthetic JWT/native responses are fixtures; fake HTTP403 is not real OM authorization acceptance",
+  "methodResults" : [ {
+    "method" : "om403WriteRetainsDispatchAndNeverFallsBackOrReplays",
+    "acceptedStepACKs" : 0,
+    "businessWriteAccepted" : 0,
+    "businessGET" : 0,
+    "terminal" : "UNKNOWN",
+    "businessWriteAttempts" : 1,
+    "dispatches" : 1,
+    "ordinaryLogin" : 1,
+    "ordinarySelf" : 1
+  }, {
+    "method" : "onlyViewBasicReadSuccessNeverQualifiesReviewerWrite",
+    "acceptedStepACKs" : 1,
+    "businessWriteAccepted" : 0,
+    "businessGET" : 2,
+    "terminal" : "UNKNOWN",
+    "businessWriteAttempts" : 1,
+    "dispatches" : 2,
+    "ordinaryLogin" : 1,
+    "ordinarySelf" : 3
+  } ],
+  "productWrites" : 0,
+  "realDMSelects" : 0,
+  "passed" : 2,
+  "realNativeHTTP" : 0,
+  "failed" : 0
+}

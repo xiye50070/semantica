@@ -1,0 +1,37 @@
+11:02:42,579 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found logback-core version 1.5.36
+11:02:42,580 |-INFO in ch.qos.logback.classic.util.ContextInitializer@421bba99 - No custom configurators were discovered as a service.
+11:02:42,580 |-INFO in ch.qos.logback.classic.util.ContextInitializer@421bba99 - Trying to configure with ch.qos.logback.classic.util.DefaultJoranConfigurator
+11:02:42,580 |-INFO in ch.qos.logback.classic.util.ContextInitializer@421bba99 - Constructed configurator of type class ch.qos.logback.classic.util.DefaultJoranConfigurator
+11:02:42,582 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+11:02:42,584 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/private/tmp/atlas-registration-m0-atomic-cas-isolated-r1-20261022/work/openmetadata-service/target/classes/logback.xml]
+11:02:42,584 |-WARN in ch.qos.logback.classic.util.DefaultJoranConfigurator@5d12a356 - Resource [logback.xml] occurs multiple times on the classpath.
+11:02:42,584 |-WARN in ch.qos.logback.classic.util.DefaultJoranConfigurator@5d12a356 - Resource [logback.xml] occurs at [file:/Users/wangmingzhang/Env/open-metadata/openmetadata-service/target/classes/logback.xml]
+11:02:42,584 |-WARN in ch.qos.logback.classic.util.DefaultJoranConfigurator@5d12a356 - Resource [logback.xml] occurs at [file:/Users/wangmingzhang/Env/open-metadata/openmetadata-service/target/test-classes/logback.xml]
+11:02:42,584 |-WARN in ch.qos.logback.classic.util.DefaultJoranConfigurator@5d12a356 - Resource [logback.xml] occurs at [file:/private/tmp/atlas-registration-m0-atomic-cas-isolated-r1-20261022/work/openmetadata-service/target/classes/logback.xml]
+11:02:42,623 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandlerFull - Scan attribute not set or set to unrecognized value.
+11:02:42,625 |-INFO in ch.qos.logback.core.model.processor.ModelInterpretationContext@134d26af - value "INFO" substituted for "${BOOTSTRAP_LOG_LEVEL:-INFO}"
+11:02:42,628 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [STDOUT]
+11:02:42,628 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+11:02:42,630 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+11:02:42,642 |-INFO in ch.qos.logback.core.ConsoleAppender[STDOUT] - NOTE: Writing to the console can be slow. Try to avoid logging to the 
+11:02:42,642 |-INFO in ch.qos.logback.core.ConsoleAppender[STDOUT] - console in production environments, especially in high volume systems.
+11:02:42,642 |-INFO in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also https://logback.qos.ch/codes.html#slowConsole
+11:02:42,643 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [file]
+11:02:42,643 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.FileAppender]
+11:02:42,645 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+11:02:42,649 |-INFO in ch.qos.logback.core.FileAppender[file] - File property is set to [./logs/openmetadata-operation.log]
+11:02:42,650 |-INFO in ch.qos.logback.classic.model.processor.LoggerModelHandler - Setting level of logger [org.apache] to ERROR
+11:02:42,650 |-INFO in ch.qos.logback.classic.model.processor.LoggerModelHandler - Setting level of logger [httpclient] to ERROR
+11:02:42,650 |-INFO in ch.qos.logback.classic.model.processor.LoggerModelHandler - Setting level of logger [es.org.elasticsearch.client] to ERROR
+11:02:42,650 |-INFO in ch.qos.logback.classic.model.processor.LoggerModelHandler - Setting level of logger [os.org.elasticsearch.client] to ERROR
+11:02:42,650 |-INFO in ch.qos.logback.classic.model.processor.LoggerModelHandler - Setting level of logger [org.openmetadata.service.Entity] to ERROR
+11:02:42,650 |-INFO in ch.qos.logback.classic.model.processor.LoggerModelHandler - Setting level of logger [org.openmetadata.service.apps.bundles.searchIndex] to INFO
+11:02:42,650 |-INFO in ch.qos.logback.core.model.processor.ModelInterpretationContext@134d26af - value "INFO" substituted for "${LOG_LEVEL:-INFO}"
+11:02:42,650 |-INFO in ch.qos.logback.classic.model.processor.RootLoggerModelHandler - Setting level of ROOT logger to INFO
+11:02:42,650 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [STDOUT] to Logger[ROOT]
+11:02:42,651 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [file] to Logger[ROOT]
+11:02:42,651 |-INFO in ch.qos.logback.core.model.processor.DefaultProcessor@66ac5762 - End of configuration.
+11:02:42,651 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@797cf65c - Registering current configuration as safe fallback point
+11:02:42,653 |-INFO in ch.qos.logback.classic.util.ContextInitializer@421bba99 - ch.qos.logback.classic.util.DefaultJoranConfigurator.configure() call lasted 71 milliseconds. ExecutionStatus=DO_NOT_INVOKE_NEXT_IF_ANY
+
+{"runReentry":false,"newSnapshotNotOriginal17067":true,"HTTP":0,"checks":{"realNewSnapshotExactEmptyPositive":true,"nonemptyChildrenReject":true,"nonzeroVotesAndVoterListsReject":true,"extraKeyFloatBooleanPartialVotesReject":true,"explicitNullAndUnknownZeroFalseReject":true,"uuidVersionOwnerNameAndOpaqueFieldsReject":true},"SQL":0,"mode":"native","categories":6}

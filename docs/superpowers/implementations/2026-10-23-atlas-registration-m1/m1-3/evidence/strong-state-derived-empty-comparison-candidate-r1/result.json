@@ -1,0 +1,89 @@
+{
+  "state": "E_ONLY_TWO_SOURCE_COMPARISON_REPAIR_PURE_VERIFIED_NOT_INSTALLED",
+  "products": [
+    {
+      "kind": "sdk",
+      "path": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingQualificationNativeAdapter.java",
+      "currentSource": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingQualificationNativeAdapter.java",
+      "beforeSHA256": "92b133e9fd63fed7af7ac63c7a46d330d2478f704cc0b43b320345d375413ea5",
+      "beforeBytes": 23460,
+      "candidate": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingQualificationNativeAdapter.java",
+      "candidateSHA256": "c7701e710a194c5412803e168ac685a185a46595bdecb8a34cd6ca9e023a3da4",
+      "candidateBytes": 24542
+    },
+    {
+      "kind": "native",
+      "path": "openmetadata-service/src/main/java/org/openmetadata/service/ontology/OntologyConditionalApplyService.java",
+      "currentSource": "/private/tmp/atlas-registration-m0-atomic-cas-isolated-r1-20261022/work/openmetadata-service/src/main/java/org/openmetadata/service/ontology/OntologyConditionalApplyService.java",
+      "beforeSHA256": "992b2d425fc828d654089af375816fdd855d60695a9b732891a092eae3b8340a",
+      "beforeBytes": 37300,
+      "candidate": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-3/evidence/strong-state-derived-empty-comparison-candidate-r1/source/openmetadata-service/src/main/java/org/openmetadata/service/ontology/OntologyConditionalApplyService.java",
+      "candidateSHA256": "c2b46a17707c827cae488bf3b5694243bde285f7333ff0cfc4b27e2a434d8675",
+      "candidateBytes": 38354
+    }
+  ],
+  "originalUnmodified58cValidator": {
+    "result": "REJECTED",
+    "code": "QUALIFICATION_SELECTED_MODEL_VERSION_OR_SCOPE_DRIFT",
+    "classSHA256": "59f763150bd0e4a28eb847d281376d57b04e8286d7d1d0d932d7f0272111b458"
+  },
+  "candidateOverlayValidator": {
+    "result": "PASSED",
+    "classSHA256": "ccbb9e3b6a92767a0b6c46793620487deb479f965d0346ec692296a845fd4ac9",
+    "outputLabelClarification": "Harness retains old ACTUAL_58C label; loaded class is the E candidate overlay, not deployed58c"
+  },
+  "newSnapshot": {
+    "path": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m1-20261023/private/m13-strong-diagnostic-bb77fc96-a2cc-4fb3-ac5e-1e069c829bee/strong.response.raw.json",
+    "sha256": "9932bebd19a7ed810cb912a2b732cde0b470500508715df796a699a93feed90d",
+    "notOriginal17067": true
+  },
+  "actualC17061OperationTermEqualsNewSnapshotOperationTerm": true,
+  "actualSemanticDifferencePaths": [
+    "/children",
+    "/votes"
+  ],
+  "earlierTermPatchRawVsNewSnapshotDifferencePaths": [
+    "/dataProducts",
+    "/domains"
+  ],
+  "priorRESTDetailRawAvailable": false,
+  "normalization": "Only exact children[] and exact four-key integer0/integer0/[]/[] votes become absent. Null/nonempty/float0/bool/unknown values remain untouched.",
+  "schemaEvidence": {
+    "glossaryTerm": {
+      "path": "/private/tmp/atlas-registration-m0-atomic-cas-isolated-r1-20261022/work/openmetadata-spec/src/main/resources/json/schema/entity/data/glossaryTerm.json",
+      "sha256": "014149b9e6db461fc70a18580681a259dfd5fee06d8646dfaa083961f6b08b31",
+      "bytes": 9095
+    },
+    "votes": {
+      "path": "/private/tmp/atlas-registration-m0-atomic-cas-isolated-r1-20261022/work/openmetadata-spec/src/main/resources/json/schema/type/votes.json",
+      "sha256": "8429dca5e4eb4ddae016c6809c89a14830545e9e32c94ac0578241c5b247494d",
+      "bytes": 1059
+    }
+  },
+  "schemaReadOnlyAnnotationPresent": false,
+  "derivedReadEvidence": [
+    "M0 source-native-cut4 EntityRepository.java3272-3284: getChildren/getVotes are field-selected hydration",
+    "EntityRepository.java3803-3806: fields-based clearing",
+    "OntologyConditionalApplyService.java: raw+bounded hydrate does not invoke REST fields projection"
+  ],
+  "finite": {
+    "commandsExitCodes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sdkCategories": 6,
+    "nativeCategories": 6,
+    "rawNullUnknownCasesScope": "ObjectNode normalizer; not a claim that existing typed DTO deserialization retains missing-vs-null provenance",
+    "inputsStable": true
+  },
+  "existingOpaqueReadSetTokenLeaseCASAndCurrentGuards": "unchanged source; no end-to-end apply/IAM/concurrency proof claimed",
+  "productSourcesStillOriginal": true,
+  "HTTP": 0,
+  "SQL": 0,
+  "AppOrBeanStarted": false,
+  "runReentry": false,
+  "recoveryAPIImplemented": false
+}
