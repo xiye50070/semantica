@@ -1,0 +1,136 @@
+{
+  "kind": "M21_EXACT_NAMESPACE_LOGGING_E_CANDIDATE",
+  "createdAt": "2026-10-24T15:17:39.631197+00:00",
+  "scopeCount": 7,
+  "productCount": 5,
+  "checkCount": 2,
+  "paths": [
+    {
+      "relativePath": "atlas-framework/atlas-common/src/main/java/cn/iocoder/atlas/framework/common/util/servlet/MetadataConnectionSensitivePath.java",
+      "kind": "PRODUCT",
+      "openingExists": false,
+      "before": null,
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/candidate/atlas-framework/atlas-common/src/main/java/cn/iocoder/atlas/framework/common/util/servlet/MetadataConnectionSensitivePath.java",
+        "sha256": "0ff83e621526b131217d8d01093d999d6b49c8582be5451bb0b538317e7d8605",
+        "bytes": 3370
+      }
+    },
+    {
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/filter/ApiAccessLogFilter.java",
+      "kind": "PRODUCT",
+      "openingExists": true,
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/before/atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/filter/ApiAccessLogFilter.java",
+        "sha256": "b67ba9a2defe29a3357e9c3b8c006952a49cd41485670900c1fdc0db2f606c7e",
+        "bytes": 11867
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/candidate/atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/filter/ApiAccessLogFilter.java",
+        "sha256": "fbf2ee0a1c646b6a5a111169f4b94112f6ab1ee47b3db77577a948d7f4b0e061",
+        "bytes": 12984
+      }
+    },
+    {
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/web/core/handler/GlobalExceptionHandler.java",
+      "kind": "PRODUCT",
+      "openingExists": true,
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/before/atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/web/core/handler/GlobalExceptionHandler.java",
+        "sha256": "e39eb01017d21814c1e4b3fa789ec1348a6698e01a619f305e934a1bf8dc351e",
+        "bytes": 25814
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/candidate/atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/web/core/handler/GlobalExceptionHandler.java",
+        "sha256": "b9cd76096160ac98855361a294d7bf695f9a55d14981b5f9458e33299a114407",
+        "bytes": 30341
+      }
+    },
+    {
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter/MetadataConnectionSensitiveRouteTest.java",
+      "kind": "CHECK",
+      "openingExists": false,
+      "before": null,
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/candidate/atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter/MetadataConnectionSensitiveRouteTest.java",
+        "sha256": "737a3d76cfbbef6a336788d3dea47dba2d8fff422ae568318d7696a8fe595033",
+        "bytes": 10574
+      }
+    },
+    {
+      "relativePath": "atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/filter/logging/AccessLogFilter.java",
+      "kind": "PRODUCT",
+      "openingExists": true,
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/before/atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/filter/logging/AccessLogFilter.java",
+        "sha256": "27a8c2b753fab2566496c32f5eff5c1f575b909fd830e405c27932353a65329e",
+        "bytes": 14118
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/candidate/atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/filter/logging/AccessLogFilter.java",
+        "sha256": "199a75a4c659878c0f91d66497cb385445f2f29f12766d650cf08a7e0ff8e3f8",
+        "bytes": 15506
+      }
+    },
+    {
+      "relativePath": "atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/handler/GlobalExceptionHandler.java",
+      "kind": "PRODUCT",
+      "openingExists": true,
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/before/atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/handler/GlobalExceptionHandler.java",
+        "sha256": "247373ff7edd0d48cb29f85a9be213ccf0fda78f7806a95e5b466839665bb60e",
+        "bytes": 3348
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/candidate/atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/handler/GlobalExceptionHandler.java",
+        "sha256": "21f5ab527d2a49dbe1f99d1a0c4bc8a4c744571a50e95c1ddb2d123aca904321",
+        "bytes": 5307
+      }
+    },
+    {
+      "relativePath": "atlas-gateway/src/test/java/cn/iocoder/atlas/gateway/filter/logging/MetadataConnectionSensitiveRouteTest.java",
+      "kind": "CHECK",
+      "openingExists": false,
+      "before": null,
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/candidate/atlas-gateway/src/test/java/cn/iocoder/atlas/gateway/filter/logging/MetadataConnectionSensitiveRouteTest.java",
+        "sha256": "0a173669797fe71acde6e6f409e91e56232bb3c385dc7fa076c302457f27217d",
+        "bytes": 5289
+      }
+    }
+  ],
+  "protectedUnmodified": [
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-framework/atlas-spring-boot-starter-mybatis/src/main/java/cn/iocoder/atlas/framework/mybatis/core/type/EncryptTypeHandler.java",
+      "sha256": "3facaf917430dd9c41ddf60342b72e3c4c6f7a188a0731c5f51c9cff2ef0afaf",
+      "bytes": 2274
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmUserCredentialStore.java",
+      "sha256": "8715ea3e3d7f3a209d47c5108330b28d957349018a07c2d484590de05174f7b7",
+      "bytes": 8158
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyServiceSecret.java",
+      "sha256": "54d0359bcd4646ea467aa50127aa133d015454e431a92af7a21eb5cc7753a76b",
+      "bytes": 1139
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyConnectionService.java",
+      "sha256": "933575adb6ba33c2b9e89a2380152662cb0020e93c682143bd688fb09e004421",
+      "bytes": 19589
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/integrations/ontology-worker/src/atlas_ontology_worker/source_authority.py",
+      "sha256": "22dfd920a1df42c5697451452e91f7bdf451f07ebacd2b2aef384cf62a459e48",
+      "bytes": 11268
+    }
+  ],
+  "liveSourcesUnchanged": true,
+  "newLivePathsAbsent": true,
+  "HTTP": 0,
+  "SQL": 0,
+  "serviceActions": 0,
+  "GitWrites": 0,
+  "testsRun": false
+}

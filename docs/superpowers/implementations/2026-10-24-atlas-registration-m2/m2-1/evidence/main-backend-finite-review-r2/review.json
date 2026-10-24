@@ -1,0 +1,143 @@
+{
+  "at": "2026-10-24T15:36:20.411567+00:00",
+  "kind": "MAIN_INDEPENDENT_ACTUAL_SOURCE_AND_H2_FINITE_READBACK",
+  "sourceMap": {
+    "sha256": "59d9d6d93d2ebfbcdb92da807802ee31d6327eb195912b48eb45241df0c4ad93",
+    "bytes": 8284
+  },
+  "product8EqualBothActualRuns": true,
+  "attempts": [
+    {
+      "id": 1,
+      "result": {
+        "sha256": "a4458ba06553f9b194094a0e6b75b651a28fb1dcb305702424c1876b98ecc594",
+        "bytes": 4875
+      },
+      "passed": 13,
+      "failed": 1,
+      "skipped": 0,
+      "steps": [
+        {
+          "label": "compile-main",
+          "exitCode": 0,
+          "elapsedSeconds": 1.6193549633026123
+        },
+        {
+          "label": "compile-tests",
+          "exitCode": 0,
+          "elapsedSeconds": 1.0902462005615234
+        },
+        {
+          "label": "junit",
+          "exitCode": 1,
+          "elapsedSeconds": 2.044830083847046
+        }
+      ],
+      "original23AndBeforeAfterExact": true,
+      "origins8Exact": true,
+      "logs": {
+        "compile-main.stdout.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "compile-tests.stderr.log": {
+          "sha256": "f025e074c59bf34981caf668c23f5906ce976aef6aab040c496e27f19b7e704d",
+          "bytes": 850
+        },
+        "junit.stderr.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "compile-main.stderr.log": {
+          "sha256": "ce5a933d3e02b444806cf5d3c09fce11f2238e273642e02386eec7a1a8ea5edb",
+          "bytes": 579
+        },
+        "compile-tests.stdout.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "junit.stdout.log": {
+          "sha256": "df795d6e7bd9fba4b0ee695ad798b91fa840af7fb2ac6287cecdb761fd9c3e42",
+          "bytes": 6976
+        }
+      }
+    },
+    {
+      "id": 2,
+      "result": {
+        "sha256": "e2240d5b2f52c7f15ed4649e22d48a12e9b1152452b3c1165b29ae1d0eed779f",
+        "bytes": 4735
+      },
+      "passed": 14,
+      "failed": 0,
+      "skipped": 0,
+      "steps": [
+        {
+          "label": "compile-main",
+          "exitCode": 0,
+          "elapsedSeconds": 1.502375841140747
+        },
+        {
+          "label": "compile-tests",
+          "exitCode": 0,
+          "elapsedSeconds": 1.0511159896850586
+        },
+        {
+          "label": "junit",
+          "exitCode": 0,
+          "elapsedSeconds": 2.0824460983276367
+        }
+      ],
+      "original23AndBeforeAfterExact": true,
+      "origins8Exact": true,
+      "logs": {
+        "compile-main.stdout.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "compile-tests.stderr.log": {
+          "sha256": "f025e074c59bf34981caf668c23f5906ce976aef6aab040c496e27f19b7e704d",
+          "bytes": 850
+        },
+        "junit.stderr.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "compile-main.stderr.log": {
+          "sha256": "ce5a933d3e02b444806cf5d3c09fce11f2238e273642e02386eec7a1a8ea5edb",
+          "bytes": 579
+        },
+        "compile-tests.stdout.log": {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "bytes": 0
+        },
+        "junit.stdout.log": {
+          "sha256": "90f6a7e1903cbbd60259e0446bfa8ca77f4985cc9ef8213b1f81a46f7d9c0353",
+          "bytes": 5510
+        }
+      }
+    }
+  ],
+  "racePatch": {
+    "sha256": "822b2166b9408be4a5b4dfb90107c258d62b77fd5d11e62efdd13ee762b815d3",
+    "bytes": 1625
+  },
+  "counts": {
+    "unique": 14,
+    "executions": 28,
+    "passed": 27,
+    "historicalFailed": 1,
+    "r2SameCut14Success": true
+  },
+  "newMainExecution": 0,
+  "productRepoWrites": 0,
+  "externalSQL": 0,
+  "externalHTTP": 0,
+  "RootAccepted": false,
+  "readerCalibration": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/main-backend-finite-review-r1/reader-diagnostic.json",
+  "boundaries": [
+    "Fresh H2 and standalone MockMVC; real DM migration/deployment/browser/native not run",
+    "Prior dependencies reused; no claim of new exhaustive binary hash of all jars",
+    "Finite AAD negatives do not mean exhaustive allAAD runtime coverage"
+  ]
+}

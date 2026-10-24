@@ -1,0 +1,55 @@
+{
+  "NativeSourceBusinessCalls": 0,
+  "at": "2026-10-24T17:01:00.834805+00:00",
+  "existingRefreshFinal": {
+    "proof": {
+      "bytes": 5343,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/17-existing-refreshed-same-id.ax.txt",
+      "sha256": "88c1c71b493111b66d05f6b937f773bb428a2ccf084914d9297a697fc641800f"
+    },
+    "state": "REFRESHED_SAME_ID_VERSION_1_0_ORIGINAL_NATIVE_UUID"
+  },
+  "humanAcceptance": "PENDING",
+  "kind": "M21_REAL_FLOW_FINAL_FORWARD_NOT_OLD_RECORD_REWRITE",
+  "logOnlyC": {
+    "configSecret": [
+      2,
+      2
+    ],
+    "connectionId": "397a4e92-bf88-48ad-956b-41e85c985bfa",
+    "newTerminalDMSelect": false,
+    "proofLevel": "VISIBLE_UI_TWO_COMMANDS_PLUS_ACTUAL_LOG_MARKER_COUNTS"
+  },
+  "originalC": {
+    "configSecret": [
+      4,
+      2
+    ],
+    "connectionId": "0286b1a4-458d-455d-a2bb-389d80f1ac91",
+    "dmProof": {
+      "bytes": 956,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/terminal-dm-actual-r1/run/result.json",
+      "sha256": "0ec8bc132cb6ce21e46ac808f6cfbcef565ddd977e8238a513af4ade9b639cdb"
+    },
+    "operations": 6,
+    "safeAuditRows": 6
+  },
+  "prior": {
+    "bytes": 1983,
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/flow-forward-summary-r1.json",
+    "sha256": "4f387cd3d6ccd09cfed42635f94e1a88dc3ef2cd07e39724375cfb7270b4efd9"
+  },
+  "priorFilesPreserved": true,
+  "realUser403CrossScopeForgedRef": "NOT_RUN_REAL_HTTP",
+  "repairLogFinal": {
+    "bytes": 857,
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-repair-real-affected-result-r1.json",
+    "sha256": "5c9ce5b48e9613f9d1931c5dcb30a1a9fe1ac635b091985e9e1b0d9d62607afb"
+  },
+  "repairUiPrior": {
+    "bytes": 712,
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/log-repair-r1/result.json",
+    "sha256": "a12c9ed6d836daf8b0fad2fe4aafc12abc5703d48ef39746d9971793acea05c0"
+  },
+  "rootAcceptance": false
+}

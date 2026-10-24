@@ -1,0 +1,78 @@
+{
+  "kind": "M21_EXACT_33_SOURCE_INSTALLATION",
+  "at": "2026-10-24T15:57:54.648010+00:00",
+  "state": "EXACT_33_INSTALLED_NOT_DEPLOYED",
+  "createdDirectories": [
+    {
+      "phase": "DIRECTORY",
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-gateway/src/test/java/cn/iocoder/atlas/gateway",
+      "identity": {
+        "device": 16777229,
+        "inode": 369728008,
+        "mode": 493
+      }
+    },
+    {
+      "phase": "DIRECTORY",
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-gateway/src/test/java/cn/iocoder/atlas/gateway/filter",
+      "identity": {
+        "device": 16777229,
+        "inode": 369728011,
+        "mode": 493
+      }
+    },
+    {
+      "phase": "DIRECTORY",
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog",
+      "identity": {
+        "device": 16777229,
+        "inode": 369728014,
+        "mode": 493
+      }
+    },
+    {
+      "phase": "DIRECTORY",
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-gateway/src/test/java/cn/iocoder/atlas/gateway/filter/logging",
+      "identity": {
+        "device": 16777229,
+        "inode": 369728017,
+        "mode": 493
+      }
+    },
+    {
+      "phase": "DIRECTORY",
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core",
+      "identity": {
+        "device": 16777229,
+        "inode": 369728020,
+        "mode": 493
+      }
+    },
+    {
+      "phase": "DIRECTORY",
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter",
+      "identity": {
+        "device": 16777229,
+        "inode": 369728023,
+        "mode": 493
+      }
+    }
+  ],
+  "directoryCount": 6,
+  "written": 33,
+  "oldBackups": 12,
+  "originalAbsent": 21,
+  "cloudSourceSetUnchangedExceptApprovedWeb2": true,
+  "protected19PreservedWithApprovedOverlap7": true,
+  "GitIndexWrites": 0,
+  "SQL": 0,
+  "HTTP": 0,
+  "serviceActions": 0,
+  "keyOrPrivateConfigurationReads": 0
+}

@@ -1,0 +1,182 @@
+{
+  "kind": "M21_LOG_REPAIR_ACTUAL_CONTROL_READONLY_REVIEW",
+  "state": "ACTUAL_CONTROLS_AND_CURRENT_CUT_MATCH_NOT_ROOT_ACCEPTANCE",
+  "startedAt": "2026-10-24T17:00:06.725283+00:00",
+  "completedAt": "2026-10-24T17:00:06.985012+00:00",
+  "publicProofs": {
+    "binding": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-preparation-r1/revision-r5-log-repair/bound-r1/binding-proof.json",
+      "sha256": "2775efd525e11b59c8798113e9a6e1ad7dbd60c67c74adcbc4cabcfc050c6403",
+      "bytes": 2015
+    },
+    "handoffDecision": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-preparation-r1/revision-r5-log-repair/bound-r1/handoff-decision.json",
+      "sha256": "5911c9a4ece37b0bae59c1c5624d34dc03fa3a728e5e84da1be8bbd6f9913569",
+      "bytes": 1049
+    },
+    "normalBinding": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-preparation-r1/revision-r5-log-repair/normal-binding.actual-r1.json",
+      "sha256": "8bb6c1288582b7a45e2dfcfd9d2b643e445b0d6be429c4e2bcac9010ef7a2bea",
+      "bytes": 16119
+    },
+    "result": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-preparation-r1/revision-r5-log-repair/actual-m21-log-repair-atlas-cutover-r1-20261025/result.json",
+      "sha256": "c082515fd0f78a393dd65db4251abfe4724804ed046c7f29036ea25d40879b16",
+      "bytes": 513
+    },
+    "sourceInstall": {
+      "bytes": 739,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/log-repair-install-actual-r1/receipt.json",
+      "sha256": "603ab4ba88d2db77b7d9044d4c7e53b05d6043e6de74fe47ada0190d0c607f11"
+    },
+    "sourceAfter": {
+      "bytes": 681235,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/log-repair-install-actual-r1/after.json",
+      "sha256": "370560f865b3cf8b5a441e1ad0bd49914036156fecfeccd4a6ca254da1a5625c"
+    },
+    "build": {
+      "bytes": 2440,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/full-build-r2/receipt.json",
+      "sha256": "a66e94e255c52498f03fb6197820395f1d99ad8e89ae432b609e303c1a24828d"
+    },
+    "artifact": {
+      "bytes": 178686406,
+      "path": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/atlas-module-infra-server.jar",
+      "sha256": "918ff2c19848b85a3fecca27c0b980f9ec039f32525bd3bfb8991e42f319c249"
+    }
+  },
+  "ledger": {
+    "oldOperations": 17226,
+    "currentOperations": 17232,
+    "oldPrefixExact": true,
+    "oldNamespacesWholeEqual": true,
+    "oldHistoryPrefixExact": true,
+    "newHistoryRows": 1,
+    "oldUnknownAndPendingExact": true,
+    "businessWritesStoppedAndOriginalCodeKept": true,
+    "oldPreservedLedgerFilesExact": 74,
+    "newGET": 6,
+    "statuses": [
+      200,
+      200,
+      200,
+      200,
+      200,
+      200
+    ],
+    "stages": [
+      "manager-self",
+      "startup-0",
+      "startup-1",
+      "startup-2",
+      "startup-3",
+      "startup-4"
+    ],
+    "usedOnlyGETPlus6": true,
+    "managementAuthDelta": 0,
+    "mutatingDelta": 0,
+    "ordinaryLoginDelta": 0,
+    "RootReviewerPolicyBusinessWritesDelta": 0,
+    "newSlotsCompleteNoPending": true,
+    "rawCaptureMetadataMatch": true,
+    "rawBodiesReadOrCopied": false,
+    "stableForReview": true
+  },
+  "auth": {
+    "actualSelfGET": 1,
+    "refresh": 0,
+    "referenceCAS": 0,
+    "sameManagerAndReferencesSavedProof": true,
+    "sessionCoverageOfWindowVerifiedFromSavedMetadata": true,
+    "liveIAMRecomputed": false
+  },
+  "normalRuntime": {
+    "pid": 3557,
+    "createTime": 1792860940.948173,
+    "oldIncarnation95435Gone": true,
+    "argvCount": 100,
+    "privateArgvOnlyDifferencePositions": [
+      4
+    ],
+    "currentArgvMatchesPrivateLaunch": true,
+    "argvValuesOrDigestExported": false,
+    "normalManifest": true,
+    "ownSessionGroup": true,
+    "explicitIdleSELECT": 1,
+    "startupGET": 5,
+    "controllerHTTP": 0,
+    "processHealthHTTP": false,
+    "runtimeInitializationSQLNotMeasured": true
+  },
+  "protectedProcesses": [
+    {
+      "pid": 95809,
+      "createTime": 1791982742.072632,
+      "ports": [
+        48081
+      ],
+      "actualOwnerAndListenersMatch": true
+    },
+    {
+      "pid": 33558,
+      "createTime": 1792811746.216388,
+      "ports": [
+        18585,
+        18586
+      ],
+      "actualOwnerAndListenersMatch": true
+    },
+    {
+      "pid": 83657,
+      "createTime": 1792706045.683841,
+      "ports": [
+        14985
+      ],
+      "actualOwnerAndListenersMatch": true
+    },
+    {
+      "pid": 3832,
+      "createTime": 1791319410.644957,
+      "ports": [
+        5188
+      ],
+      "actualOwnerAndListenersMatch": true
+    },
+    {
+      "pid": 3307,
+      "createTime": 1792860900.869379,
+      "ports": [
+        18587
+      ],
+      "actualOwnerAndListenersMatch": true
+    },
+    {
+      "pid": 3557,
+      "createTime": 1792860940.948173,
+      "ports": [
+        48282
+      ],
+      "actualOwnerAndListenersMatch": true
+    }
+  ],
+  "currentSource34Exact": true,
+  "currentProtected19Exact": true,
+  "reviewActions": {
+    "privateFilesRead": 83,
+    "privateBytesRead": 90091832,
+    "managerPairTokenOrKeyRead": false,
+    "privateContentCopied": false,
+    "privateWrites": 0,
+    "HTTP": 0,
+    "SQL": 0,
+    "signals": 0,
+    "services": 0,
+    "Git": 0,
+    "modelsOrProductTestsRepeated": false
+  },
+  "limits": [
+    "Original official command tool outputs are supplied by Main; this reviewer independently read disk proofs and current state, not those tool streams.",
+    "No live IAM/source/Worker/business verification; Main performs the two actual affected log checks.",
+    "No environment equivalence claim beyond the reviewed controller inheritance/guards; old process environment is not independently recoverable."
+  ]
+}

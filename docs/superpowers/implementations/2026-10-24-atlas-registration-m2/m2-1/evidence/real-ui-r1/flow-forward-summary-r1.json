@@ -1,0 +1,64 @@
+{
+  "at": "2026-10-24T16:36:16.046851+00:00",
+  "kind": "M21_REAL_CUA_FLOW_FINITE_READBACK",
+  "newService": {
+    "projectId": "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+    "connectionId": "0286b1a4-458d-455d-a2bb-389d80f1ac91",
+    "createVersion": [
+      1,
+      1
+    ],
+    "refreshSameId": true,
+    "KEEPVersion": [
+      2,
+      1
+    ],
+    "replaceDefaultCancelEnterCleared": true,
+    "replaceVersion": [
+      3,
+      2
+    ],
+    "replaceReturnedFocusToTrigger": true,
+    "explicitConfigurationVersion": 1,
+    "implicitReferenceBeforeExplicit": false,
+    "disableImpact": {
+      "current": 1,
+      "historical": 0,
+      "hidden": 0
+    },
+    "disableDefaultCancelEnterVersionUnchanged": true,
+    "disableCancelReturnedFocusToTrigger": true,
+    "disabledVersion": [
+      4,
+      2
+    ],
+    "disabledRefreshSameId": true,
+    "retainedReferencePin": [
+      3,
+      2
+    ],
+    "newUseUIBlocked": true
+  },
+  "existingService": {
+    "projectId": "5bbcc064-d324-4b60-9786-f998ead74ef2",
+    "connectionId": "fed938cd-57c8-4746-a8fd-c3a8b74c4ca2",
+    "originalServiceUUID": "f3832cc7-18f2-4837-9db9-9e0ac104f52d",
+    "name": "P1 隔离人工冲突来源",
+    "version": [
+      1,
+      0
+    ],
+    "passwordOmitted": true,
+    "newProjectReference": false,
+    "nativeVersion": null,
+    "state": "BOUND_UNVERIFIED",
+    "refreshReadback": "AWAITING_FINAL_AX"
+  },
+  "directAuthenticated400403Tests": "NOT_RUN_REAL; finite backend and FE evidence separate",
+  "anonymousTransport": "2 actual requests business401, markers absent response and current log",
+  "browserExactHTTPStatusAndCounts": "NOT_CAPTURED_BY_CUA; use durable six local receipts as independent DB evidence",
+  "browserOtherTab104": "CDP timeout before identity observation; not retried or claimed USER coverage",
+  "sourceConnectivity": "NOT_TESTED; synthetic nonworking credentials only",
+  "NativeCreationOrBusinessCalls": 0,
+  "stage": "IN_PROGRESS_WAITING_FINAL_SCOPE_AND_ROOT"
+}

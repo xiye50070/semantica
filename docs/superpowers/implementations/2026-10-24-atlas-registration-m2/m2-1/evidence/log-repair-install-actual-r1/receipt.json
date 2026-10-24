@@ -1,0 +1,20 @@
+{
+  "kind": "M21_EXACT_34_CUMULATIVE_SOURCE_INSTALLATION",
+  "state": "EXACT_34_INSTALLED_LOG_REPAIR_NOT_DEPLOYED",
+  "at": "2026-10-24T16:46:25.568156+00:00",
+  "writtenInThisAttempt": 2,
+  "cumulativeSources": 34,
+  "oldBackups": 2,
+  "priorSourceInstall": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/source-install-r1/receipt.json",
+    "sha256": "4836fd2fdc8be2afb7bb30ad96d8d73646360cbd053b6ae52a86f2e74aeeba61",
+    "bytes": 2178
+  },
+  "cloudSourceSetUnchangedExceptApprovedWeb3": true,
+  "protected19PreservedWithApprovedOverlap7": true,
+  "SQL": 0,
+  "HTTP": 0,
+  "serviceActions": 0,
+  "GitIndexWrites": 0,
+  "automaticRetryRollback": false
+}

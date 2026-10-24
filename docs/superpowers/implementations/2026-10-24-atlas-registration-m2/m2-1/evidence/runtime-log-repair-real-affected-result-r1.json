@@ -1,0 +1,26 @@
+{
+  "UIEvidence": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/log-repair-r1/result.json",
+  "actualCommands": {
+    "CREATE": 1,
+    "REPLACE_SECRET": 1
+  },
+  "at": "2026-10-24T16:57:48.873306+00:00",
+  "counts": {
+    "newCreateMarker": 0,
+    "newReplaceMarker": 0,
+    "oldOriginalCreateMarker": 1,
+    "oldOriginalReplaceMarker": 1
+  },
+  "featureSequenceRepeated": false,
+  "jarSHA256": "918ff2c19848b85a3fecca27c0b980f9ec039f32525bd3bfb8991e42f319c249",
+  "kind": "M21_LOG_REPAIR_REAL_TWO_COMMANDS_LOG_READBACK",
+  "newLogBytes": 26563,
+  "oldLogBytes": 217715,
+  "oldLogPreserved": true,
+  "rawLogsCopied": false,
+  "runtimeCreateTime": 1792860940.948173,
+  "runtimePID": 3557,
+  "sourceOrNativeBusinessCalls": 0,
+  "state": "PASSED",
+  "workingSecretsUsed": false
+}

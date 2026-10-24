@@ -1,0 +1,170 @@
+{
+  "head": "5b0780eae5198de33fe6f9afcc35bfb4b7308e07",
+  "kind": "M21_HEAD_PLUS_OURS_ONLY",
+  "paths": [
+    {
+      "relativePath": "apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.tsx",
+      "kind": "product",
+      "before": null,
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.tsx",
+        "sha256": "07105b8d92f42c84d9bdce5274ad129b8cf43a37f2f307976fd0ec4285ec3702",
+        "bytes": 42497
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/features/ontology/metadataConnectionsApi.ts",
+      "kind": "product",
+      "before": null,
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/features/ontology/metadataConnectionsApi.ts",
+        "sha256": "fb51abf3d617d4819c851661472513a0c34b32405da727f27435bc2453183288",
+        "bytes": 28062
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/features/ontology/metadataConnections.css",
+      "kind": "product",
+      "before": null,
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/features/ontology/metadataConnections.css",
+        "sha256": "32da0cabc5adf4c4a8a5158e249e4e9c7b2ddf52cf52ab588f86d9e461ebc9a1",
+        "bytes": 4381
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/App.tsx",
+      "kind": "product",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-before/apps/console-react/src/App.tsx",
+        "sha256": "31cd08a0df032bd4185a65d23f8afb708fa76011dbfa3c0f1873723297c44d14",
+        "bytes": 45363
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/App.tsx",
+        "sha256": "5b99811b567d098282871ec8902ee93e0d9eafa6d5b6be364f416622161b432e",
+        "bytes": 45870
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/platform/standaloneRoutes.ts",
+      "kind": "product",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-before/apps/console-react/src/platform/standaloneRoutes.ts",
+        "sha256": "9da4832fdc2e8b6a51bfc870e7c4264bc238e1cfe36ae46325323070af4004dc",
+        "bytes": 6792
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/platform/standaloneRoutes.ts",
+        "sha256": "76a0158b45fff0c47c130a66d34e6f18085fe233a08e41caa44ad391d64f62cd",
+        "bytes": 6888
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/features/ontology/ontologyNavigation.ts",
+      "kind": "product",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-before/apps/console-react/src/features/ontology/ontologyNavigation.ts",
+        "sha256": "fb60948a797b2ba21cb9bb5947cd15b91f4e08fcd907df9d61c77d0070018b7e",
+        "bytes": 1189
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/features/ontology/ontologyNavigation.ts",
+        "sha256": "52e819f9b3fe2105d4ae90083ed182cac676cf07de746a7ab7b77896bdc6ef8f",
+        "bytes": 1385
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/platform/navigation.ts",
+      "kind": "product",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-before/apps/console-react/src/platform/navigation.ts",
+        "sha256": "246dc042f45e6e2e04efed4fde89925df6defd3b7f38e2037841542e4fa0fdd0",
+        "bytes": 6190
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/platform/navigation.ts",
+        "sha256": "8895861c178d6821431bc5c8507aa9d1498d22d483acb0b7dcfded36030718a8",
+        "bytes": 6309
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/features/ontology/OntologyProjectReadinessPage.tsx",
+      "kind": "product",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-before/apps/console-react/src/features/ontology/OntologyProjectReadinessPage.tsx",
+        "sha256": "cda62022da512ee8fe14d2f7172b483063f0260ca2ad7f74b5dff93c6017eff8",
+        "bytes": 25142
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/features/ontology/OntologyProjectReadinessPage.tsx",
+        "sha256": "e54001f741ff4c582da97c572061c9bbdb94757d5ea96fa86b264eb0c6add5af",
+        "bytes": 25281
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/features/ontology/metadataConnectionsApi.test.ts",
+      "kind": "check",
+      "before": null,
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/features/ontology/metadataConnectionsApi.test.ts",
+        "sha256": "bd87a77be0a430f4e3d1fe4def481da7f2ecaaef7c2be85e0862e0a6dd96eba9",
+        "bytes": 11763
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.test.tsx",
+      "kind": "check",
+      "before": null,
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.test.tsx",
+        "sha256": "3ec6dfb53a7fe6fc9a9a5ec4cc92e491be1798a63bbe3926a629e389d01365de",
+        "bytes": 33867
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/features/ontology/OntologyProjectScope.test.tsx",
+      "kind": "check",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-before/apps/console-react/src/features/ontology/OntologyProjectScope.test.tsx",
+        "sha256": "5fafb68baef3aa778fb7907e74f489e72aae85a6bb63e633a9b4a98e36703bc8",
+        "bytes": 7858
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/features/ontology/OntologyProjectScope.test.tsx",
+        "sha256": "7b7aa2101e44dd0445dcb63006bcbfc1f5af20fa641fc6765375c1dc3eee8035",
+        "bytes": 8885
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/platform/navigation.test.ts",
+      "kind": "check",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-before/apps/console-react/src/platform/navigation.test.ts",
+        "sha256": "15208d1bb31448f3601c0b8c78d07838d01685550e7ebb2b2a048b96ed4eb0ec",
+        "bytes": 3028
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/platform/navigation.test.ts",
+        "sha256": "7310330bbbe2cc61b5d3fb9487af8760c1ea083c93f6a5fd5ed845d0379e62b6",
+        "bytes": 3490
+      }
+    },
+    {
+      "relativePath": "apps/console-react/src/platform/routes.test.ts",
+      "kind": "check",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-before/apps/console-react/src/platform/routes.test.ts",
+        "sha256": "98ef020c777fecdb8d4a862ff2bf33766a9636d4a5bdb0179cbf38537520d1e0",
+        "bytes": 11329
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-candidate/apps/console-react/src/platform/routes.test.ts",
+        "sha256": "da592dd37dcc7b1a30c2326e8cde95cb65f6673b9e26769fe86506a3a8e98af9",
+        "bytes": 12006
+      }
+    }
+  ],
+  "oldSpacesWipIncluded": false,
+  "note": "Current-shaped legacy Spaces-only test expected child count is a worktree compatibility change; HEAD has its separate M2-specific navigation method."
+}

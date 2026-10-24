@@ -2266,3 +2266,114 @@ Root14:10轮已核真实Reviewer、维护Native0、恢复8GET和终末5SELECT，
 必要前端完整build-r6 14:27:16.051171–40.046153Z exit0，production gate/fulltsc--noEmit/Vite0，1050before/after/current全SHA/size同，Vite8267modules/10.96s另列；stderr332B仅原>750KB警告。后台14与前端其余5未变，旧充分后台构建/浏览器/Native维护全复用，不重跑。新final-source-cut-r2实际21+19保护精确，21副本齐，仅两差额，HEAD/branch保持；本轮Native账仍17219/get17167/auth15/login14/mut52/object22/grant1、pending空/未停，原stop/失败保留，无新Native窗口或业务效果。
 
 前向交付见m1-5/frontend-navigation-forward-review.md、新FE7 final-seven-source-map及final-source-cut-r2。新evidence-index-r2覆盖2374实体/61648734B和2907个仅link文本执行alias，逐SHA/size/精确集闭合；旧index及全部2312实体/2907alias完整保持，旧Ready按其固定cut保历史。本新Ready导航m1-5-ready-for-root-review-r2.json重新交监督Root，不跨会话回复、不另设常规许可门。当前Work READY_FOR_ROOT_REVIEW，M1.5仍IN_PROGRESS/未ROOT_ACCEPTED/未Git，M2 NOT_GO，真人PENDING。原Reviewer持久授权、14:00实际READY固定cut、TTL过期保守状态、Team/完整模型同步未验、UNKNOWN与不自动重放全部保持。最新普通used61/余39、ordinarytrue/spendfalse/limitnull，仅套餐，未点数/reset/account/key。
+
+
+### 17.98 M1已交付，只启动M2.1连接生命周期与秘密管理（2026-10-24）
+
+Root明确整M1 ROOT_ACCEPTED_FINITE_TECHNICAL/真人PENDING，只放行原§6 M2.1，M2.2及后续NOT_GO。原Work当前官方turn01a16e56-9cd7-7a72-9a49-ce1218a9f37f，startedAt1792852532（14:35:32UTC）；14:46:06开工观察保存m2/m2-1/evidence/opening-r1。Main亲读M1.5/整M1 Root报告及Git交接，实际Cloud HEAD6090e9a3（14路径）、React5b0780ea（7路径）同codex/atlas-om-semantica；原21已验源和19原WIP逐SHA/size均同。文档交付Root记录e912667f→8f60d6fe，本地main与真实index不操作。M1旧ACK/UNKNOWN/17162/latch/窗口历史保持，不重开或重发。
+
+M2.1只实现Atlas本地连接草稿/已有服务模式/秘密保存保留替换版本/引用影响确认禁用。新namespace ontology/metadata-connections，与旧Connections/Providers登记来源链分离，不改名/借infra TenantIgnore CRUD或新页调用provider-tables/metadata。EXISTING首版仅当前exact-scope本地已批准Provider的安全服务目录，清楚NOT_LIVE_VERIFIED/覆盖边界，无Native列表GET。现有部署9个Provider/S6为0，允许合法原scope正向，不手改S6逐项目目录。Node/networkTarget来自明确server-owned全局批准policy，仅配置选项不冒真实节点已部署或连通；M2.2真实诊断仍未放行。
+
+Main已裁定：连接归属项目不冒真实引用。提供用户明确“设为本项目元数据接入连接”动作及持久独立project-config→connection引用/CAS；详情与Readiness仅说接入配置已保存、未测试/未登记来源，不冒M6来源、Worker或任务。禁用preview/confirm重算该真实配置引用与版本，保历史/OM实体，新resolve/use拒绝，旧source/task不假装已挂新namespace。
+
+后台合同及拟scope已只读成稿：8新Java＋4框架日志必要小hunk＋MySQL/DM36两文本＋5检查候选；若统一纯路径classifier必要新增将随实际精确登记前向补。前端拟8产品＋5检查：独立Page/API/CSS＋App/standaloneRoutes/ontologyNavigation/platformNavigation/Readiness窄hunk，以及新API/Page和原Scope/navigation/routes受影响检查。四共享旧文件原WIP须current-before→ours完整逆回、HEAD独立可apply，不夹原WIP进Git；其它原文件保持。当前均E方案，实际产品写0/迁移0/HTTP0/服务0，无新增秘密读取。
+
+秘密不是普通DTO字段：独立scoped AES-GCM envelope/keyId/nonce/AAD，绑定完整scope、connectionId和secretVersion；密钥仅server受控配置，缺失failclosed，不复用OM用户秘密namespace或旧AES密文，不明文fallback。API与UI只显示已配置/版本，省略保留、显式替换新版本，全部提交结局清秘密输入、不进持久存储/Query缓存/URL/日志/制品。现共享access/error/gateway路径存在原body/cause泄露，M2精确namespace保护须覆盖认证前/405/畸形JSON/解析和存储异常；仅WRITE_ONLY或@ApiAccessLog不足，其它路径语义保持。
+
+原三卡独立验收不减：两mode持久/刷新、秘密安全与普通/跨scope/伪ref拒绝、真实本地引用影响/CAS/禁用后新use拒绝。先冻结typed合同及精确路径before后E候选/独复核，再必要有限验证及具体迁移/部署方案；不预填通过、不提前M2.2、不OM/源库写或业务行读取。当前M2.1 IN_PROGRESS，Root仍节点独验/Git门，不是每步许可前门；常规技术选择自主推进。
+
+
+### 17.99 M2.1首批精确32路径与原3卡登记，进入E候选（2026-10-24）
+
+已实际登记m2/m2-1/evidence/scope-registry-r1/scope.json：首批32路径=22产品10检查，12旧文件完整before副本、20新文件不存在已核。后台19=8新domain Java、4框架日志精确命名空间hunk、MySQL/DM36文本2、测试5；前端13=8产品（3新Page/API/CSS+5窄接线）、5检查（2新+3受影响既有）。四前端接线文件及三检查含原WIP，只允许新差额并须完整逆回current-before/独立HEAD patch，余原WIP保持；具体路径及SHA在scope.json，不用旧Source功能替代。必要统一classifier等新增实际路径会在安装前明确前向补，不能暗加产品范围。
+
+原三卡另存acceptance-card.md作为导航，唯一账仍本计划。只读合同已采纳：独立metadata-connections接口、安全DTO和秘密版本/HMAC原key回执；EXISTING只当前exact-scope本地已批准服务安全目录且NOT_LIVE_VERIFIED，不做Native列表GET；NEW保存草稿且Native NOT_CREATED；显式project-config独立引用不是create自引用，不冒M6/业务就绪。全局server policy列批准instance/node/network/TLS，node仅配置未验证，和独立key-file/keyId/AES-GCM输入约定均平台一次配置，不为S6手改逐项目目录。
+
+秘密日志保护同时覆盖web access/error和gateway access/error，在敏感命名空间尽早抑制原body/query/cause/stack，URI编码/matrix/认证前/404/405/415/畸形请求/底层失败均要有限负例；classifier只管日志，不代授权或改路由。其余route行为保持。新feature默认关闭保旧普通部署；具体密钥/policy安装、SQL36迁移及正常部署尚未执行，需候选核闭后形成可审回执，不把研究稿冒运行通过。
+
+前后端已在E-only进入合同与候选制作，未live产品落盘/测试/迁移/Native或源库调用/服务/Git写；批准的常规最小实现无需逐步索批。M2.1 IN_PROGRESS，M2.2 NOT_GO，最终真人PENDING；原M1所有ACK/UNKNOWN/latch/累计和既成授权保持。主要批次实时62用/余38，ordinarytrue/spendfalse/limitnull，仅套餐。
+
+### 17.100 M2.1日志纯分类器必要单路径前向登记（2026-10-24）
+
+在17.99原32路径原记录完整保留基础上，实际新增atlas-common的MetadataConnectionSensitivePath.java一条产品路径（精确路径见m2/m2-1/evidence/scope-forward-r2/scope.json），当前该路径不存在，未现场安装。总33路径=23产品10检查，后台20/前端13。此纯工具统一四条access/error日志的敏感namespace识别，不参与权限、路由或转发；原四hook及web/gateway两测试已在旧32内，不重复登记。按职责后台作者负责8Java/SQL/infra测试，独立日志作者负责classifier/四hook/两已有登记测试，均仅E候选。
+
+MySQL/DM36两原登记SQL候选现为6张新表，增加safe audit表记录真实project-config替换和非秘密版本历史；不增加秘密内容、Native操作或其他产品范围。原5表研究稿保历史，实际6表需后续静审/有限验证，SQL执行仍0。Main已完整亲读166行typed Contracts及wire契约，发现前端interim对可空observedAt拒收已正常交作者修正，不补假时间、不冒已编译或通过。M2.1仍IN_PROGRESS，M2.2 NOT_GO；当前无现场源码写/迁移/HTTP/服务/Git动作。
+
+**Root M2.1 当前有限独核（2026-10-24 17:10轮，17:16 UTC技术接受；下轮前向替换此块）：** 首读套餐used68/余32、ordinarytrue/spendfalse/limitnull。原Work turn01a16e56…已completed/errornull，cursor58，提交节点独验。Root与三名有界非作者已完成修后日志/安装构建、运行接合/交付差额、原三卡/前端层级独核，无新阻断、无未了代理。裁定 **M2.1 ROOT_ACCEPTED（有限技术）**，真人PENDING；产品两仓17:17精确Git已远端核同，文档交付进行中；M2.2在全部Git远端核同后方可进入。报告[m2-1-root-acceptance.md](../implementations/2026-10-24-atlas-registration-m2/m2-1-root-acceptance.md)。
+
+原三卡主线充分：NEW 0286b1a4…创建/刷新1/1→KEEP2/1→替换3/2→显式引用v1固定3/2→确认禁用4/2并刷新；EXISTING fed938cd…在合法隔离C项目保存/刷新1/0，保f3832cc7原服务UUID，批准本地目录NOT_LIVE_VERIFIED。原终末3SELECT安全投影支持2秘密epoch/精确Unicode空格/不同nonce/6operation+6audit/引用保留。普通/跨scope/伪ref/disabled resolve依已有有限方法，不冒本批认证HTTP现场；匿名两次business401另列，104标签超时不算覆盖。仅1512×806浏览器代表；不冒窄屏/200%/全键盘/全认证链。
+
+实际日志漏点已最小闭合：当前Interceptor ab0832eb…/4982B，保handler归属后敏感namespace在payload/环境/计时前退出，普通路由保持；既有测试2新增方法16:42:44–46均PASS。16:46:25仅安装2文件，累计34。后台r2 16:45:59–16:46:16 2673输入/21覆盖源/20模块offline package0且skiptests，Jar918ff2c19848b85a3fecca27c0b980f9ec039f32525bd3bfb8991e42f319c249/178686406B，原11类同、新拦截器类差额；Gateway未打包/部署。FE r6完整gate/tsc/Vite0/1065输入stable旧750kB告警；原后台14、日志7+2、FE17unique分时充分复用，失败原件保，不整套补跑。
+
+新f91eee11-e30b-4be7-a620-2d21fe42bbcd窗16:54:51.723–17:09:51.723现过期，proxy94871→3307、同manager self1/refresh0/CAS0，Atlas95435→3557/ctime1792860940.948173/普通100参数仅Jar变化。16:55:39一idle SELECT保持旧M1关键状态，单TERM/Popen、startup5，无Bootstrap/health HTTP/retry/rollback；初始化SQL未量测。官方exec-d39aca6d/exec-2f424932/exec-3b3a7bbc及实际receipt、Main17:01安全投影核17226→17232仅6GET全200，末GET17179/auth16/ordinary14/mut53/object22；旧prefix/namespace/UNKNOWN/latch保持是私有账公开投影，非Root重读全账。原绑定literal与schema续接两合同窄修/有限结果保，不重DDL或扩权限。
+
+真实修后只新合成连接397a4e92-bf88-48ad-956b-41e85c985bfa CREATE1/1→REPLACE2/2；Root亲读两完整AX与保存PNG、official exec-cd54a503及日志安全结果：16:57:48新标记0/0，旧日志原标记1/1保留，原project配置不改。无真实凭据轮换/源访问/OM业务写，未重演主线。旧ACTUAL_LOG_LEAK_NOT_ACCEPTED/logScanPending为历史原件，后继闭合不回填。Root没读私有日志/标记值/argv/会话/SQL全行，未做产品操作。
+
+产品交付已核：Cloud6090e9a3→c95a5cef89198aa59861d80a1a178d8854839658（21）、React5b0780ea→ee314de2bc29a14fd6c865e6790cd892f0484446（13），push/ls-remote同，34提交blob同final cut668c76aa…；React用HEAD-only13、7重叠旧WIP保留，Cloud3/React16其它tracked WIP不夹带。52公开精选510567B/4PNG无秘密值/私有RAW，大树不递归；允许无敏感构建argv与本地引用，不发布私有运行100参数。Git使用产品原分支与文档codex/atlas-registration-m1-docs，禁止推本地main或全E。实际结果另记[m2-1-git-delivery.md](../implementations/2026-10-24-atlas-registration-m2/m2-1-git-delivery.md)。
+
+
+### 17.101 M2.1本地候选与21个有限方法已有成功证据，仍待页面/现场（2026-10-24）
+
+后台8Java与两SQL/三测试实际候选已固定，source-map 59d9d6d9…/8284B；独立日志7路径最终source-map2cd071aa…/8203B，两者融合仍原33精确路径，不扩M2.2。Main亲读Contracts/wire/两SQL、Cipher/Store/Catalog/Service/Controller/Configuration/Advice及实际测试关键完整链，非作者静审当前8源未见新增阻断。候选修正包括同UUID服务目录去重但不并权限、历史引用按真实配置版本而非项目数、显式partial/hidden拒绝禁用、严格数字枚举/token形状和rowReadCredential有限拒绝。当前SQL36只作为H2测试DDL，真实DM未迁移。
+
+实际后台E-JVM验证：8候选＋8当前支持源编译0，三测试14unique；r1为13pass1race期望失败，旧version1并发被CAS正确拒VERSION_CHANGED而非测试原想的DISABLED。仅测试前向补真实顺序及fresh v2仍DISABLED，产品8全字保持；r2在Main“只补1”消息到达前已按原14 selector启动并结束，真实14/14pass，不改写为单方法。累计28执行27pass1原fail，全部原log/steps/classOrigins保留，无第3轮。使用fresh H2 memory及MockMVC，覆盖两mode、秘密保留/替换与GCM、当前权限/跨scope/伪字段、引用版本/事务回滚及两方向真实双session并发；“重建”是同H2新Service对象，不冒真实部署或DM重启。外部SQL/Native/Worker HTTP0。
+
+日志E验证：r1缺网关classpath编译失败0case；补本机BOM匹配依赖及5原support后r2编译0，7方法6pass1旧route fixture失败；仅测试加原setLoginUserType一行、产品5全字保持，r3仅该方法1pass。累计7unique/8执行7pass1历史fail，分时切片不冒最终同cut全7。Main另完整亲读四hook差额/两测试/runner/原stdoutstderr，独立七文件全hunk正逆与diff再生、每原件SHA/size及当前before/protected核闭，见main-logging-review-r1/review.json；不冒真实认证/router/gateway transport。
+
+前端13首cut已封并继续必要前向修：监督Root指出版本推进后旧project-config/disablePlan不失效已交统一修；Main补原响应丢失读回失败仍保原key、同owner晚GET不倒退。原0373fdd2…首cut/失败HEAD上下文检查保历史，当前正在独立HEAD-only纯ours接线及有限检查；不夹原Spaces等WIP进Git。后台普通20-module offline package正在准备/按实时套餐许可推进，未预填成功。当前live源码/真实迁移/HTTP/服务/Git写仍0，M1全部ACK/UNKNOWN/latch和持久授权未动。M2.1 IN_PROGRESS、M2.2 NOT_GO、Root节点独验/Git及最终真人均待；最新普通63用/余37、ordinarytrue/spendfalse/limitnull，仅套餐。
+
+
+### 17.102 M2.1真实33源已安装，完整前端构建通过，DM36只读核对中（2026-10-25北京时间）
+
+源安装source-install-r1/install_sources_r2.py于2026-10-24T15:57:54.648010Z实际完成：33=23产品10检查，12旧文件备份/21新文件/6必要目录；真实receipt4836fd2f…/2178B，after b8c9b5b1…/680983B。Main逐33/19保护/原Cloud2655除已登记web2差额及原HEAD/分支读回相同。安装采用最终前端r6，不是旧cut；未碰Git/index、SQL、HTTP或服务。原r1缺父目录在执行前发现，保留未运行稿，r2只补精确6目录。
+
+前端r6有限实际累计17unique/28执行=18pass10历史fail，r3 10/17、r4受影响4/7、r5受影响3/3、r6晚ACK原方法1/1；不冒最后同cut整套17。r6公共更新比较cache/snapshot最高version，晚GET/晚ACK不能倒退；原key/ACK保持。Main完整13current/13HEAD-only全hunk正反及diff再生，原7重叠WIP保留，Git须纯ours HEAD切片。真实live-shaped-full-build-r3 15:48:10.176798–34.541813 UTC gate/fulltsc/Vite0，1065输入稳定，stderr332B仅原>750KB警告。先前缺依赖构建失败/类型与fixture失败原件全保；未重复充分矩阵。后台完整20module/JAR原充分证据不重跑。
+
+2026-10-24T16:12:41.431809–41.964834Z本地DM36实际执行：11固定CREATE全部Returned=11、DML0，随后第5个SELECT的CHECK_CONDITION比较停止，原state STOPPED_PARTIAL_OR_UNKNOWN_NO_RETRY原样保存dm36-actual-r1。实际209行/25约束离线定位唯一CK_MDC_TARGET将SERVICE_ID IS NOT NULL返回为NOT (SERVICE_ID IS NULL)，其余10CHECK及6PK/3UQ/5复合FK均匹配；准备仅补原剩余indexes/empty两SELECT，累计仍7，不重放DDL、不drop/alter/rollback，不提前称schema完整通过。外层遗漏固定class map断言已记录；本次实际intent中的两class逐SHA/size与原preparation固定值完全相等，不能把缺guard藏掉或修改旧执行器。
+
+平台once已于16:13:47.131446Z真实成功，仅新私有namespace0700/两个文件0600：批准policy428B/543e1ec7…、新JSON_V1随机32字节key/keyId；不导出key值或digest。node为CONFIGURED_NOT_VERIFIED，目标3307及M0隔离数据库为配置事实，TLS REQUIRED未协商、不冒诊断通过；本节点不用工作源库密码。old raw32文件稿在任何私有写前发现格式差额，r4 JSON信封已前向修正。平台状态INSTALLED_NOT_DEPLOYED，真实OM/source/Worker调用及服务切换仍0。
+
+M2.1继续IN_PROGRESS，M2.2 NOT_GO。下一步仅DM两只读完成、新M21独立startup purpose/同admin必要资格及受控普通Atlas切换，然后本节点真实页面/局部持久验收。原M1 UNKNOWN/latch/历史/授权不重放；不把技术进展冒Root节点接受、Git交付或USER_ACCEPTED。FIRST实时套餐66用/余34 ordinarytrue/spendfalse/limitnull，仅套餐。
+
+
+### 17.103 M2.1真实DM核定、普通后端已启用，开始三卡页面验收（2026-10-25北京时间）
+
+原11DDL/5SELECT的CHECK_CONDITION停止原件不改；仅新readback-r2固定原33原件pin、原两classpin，离线核88列/25约束和唯一exact DM NOT(IS NULL)别名，2026-10-24T16:16:33.472064–33.740957Z实际剩余indexes/empty两SELECT成功，累计7、DDLNew0/DML0，状态SCHEMA_VERIFIED，六表空/5索引及全部约束已核。不重放DDL、不改SQL/不drop/alter/rollback。普通启动R5仅前向采纳真实分段readback语义（原stop保留、Original5/New2/DDLNew0），R4旧稿保原。
+
+新M21窗口e47f81cc-fb1b-4f3e-8388-15e4c90c460d于16:16:51.208–16:31:51.208 UTC，原17219账/累计/全部旧NS/UNKNOWN/latch不清。公开binding后同fd代理接合实际单TERM64803/单Popen94871，监听凭据真实持久后才GO。只读已核同admin原两引用确实过期，采用REFRESH_ONCE_SELF：原refresh一次＋self一次200，16:17:26.543318实际同manager资格/两原引用逐项CAS读回成功，expiry17:17:26。无普通用户新登录、Policy/Reviewer/Root/业务写或凭据轮换。不可变auth前listening与auth后currentOperations分开保存。
+
+R5 normal绑定首读因旧argv摘要的JSON无LF/执行helper有LF差异停止于任何SQL/信号之前；原decision/错误保原，readonly按两编码独核同96参数完全一致、PID/ctime/旧Jar保持，新r2使用helper原编码固定。2026-10-24T16:19:11.453338单idle SELECT核十类active全0，原M1.5成功Reviewer/当前mapping/project3/config6及原UNKNOWN事实保持；随后单TERM53275/单Popen95435、ctime1792858753.17422，原96参数只新Jar+4flags为100。16:19:21.810141状态M21_ORDINARY_MAIN_LISTENING_STARTUP_FIVE_VERIFIED，48282真实归新child；无Bootstrap、额外healthHTTP、KILL/自动重启重试。其余原进程保持。启动SQL初始化量未计，不冒只有全生命周期1SQL。
+
+Main16:26:19独立私有账只读核原17219完整operations前缀与全旧namespace/latch/旧history相等，当前17226=refresh1+self1+startup5，七笔均200；used仅get+6/management_auth+1/mutating+1，其余原计数不变。安全证明runtime-actual-summary-r1/personal-readback.json；不复制私有账/token/key值或摘要。通过该受控通道的业务Native/source/Worker0，不用空denial冒新负向probe。
+
+真实Cua沿原admin浏览器进入S6数据源接入，创建C_NEW 0286b1a4-458d-455d-a2bb-389d80f1ac91，1/1且刷新同id；非秘密改名KEEP后2/1；替换确认默认取消、Enter取消清field而版本不变；随后明确替换3/2成功并回焦trigger。均为明确非工作synthetic源账号/密码，不连源、不创建OM服务；仍DRAFT/未检查/未登记，未自动冒项目引用。正在完成显式项目选择/禁用影响/已有服务mode与必要现场负例，详细AX/原PNG位于real-ui-r1；准确HTTP次数尚未捕获，准备卡请求数只计划，不冒实测。M2.1仍IN_PROGRESS/未Root接受/未Git，M2.2 NOT_GO、最终人工PENDING。
+
+
+### 17.104 M2.1三卡真实流程和安全存储已核，MVC开发日志实际缺口前向修复中（2026-10-25北京时间）
+
+真实Cua主线C_NEW 0286b1a4-458d-455d-a2bb-389d80f1ac91已完成NEW1/1→刷新同id→非秘密KEEP2/1→替换默认取消Enter清field/原版本保持→明确替换3/2/回焦trigger→显式项目配置1（pin3/2）→影响current1/history0/hidden0→默认取消Enter不禁用并回焦→明确禁用4/2→刷新仍禁用/同引用保留且新使用UI禁用。只有明确非工作synthetic源账号/密码，没有源连接或原生创建。原UI请求计划不冒实际HTTP计数；六个耐久本地动作由独立DM核实。
+
+在既有合法隔离项目“人工冲突处置 C · 隔离验收 20260930”（5bbcc064-d324-4b60-9786-f998ead74ef2）本项目本地目录实际读到唯一批准服务P1隔离人工冲突来源/f3832cc7-18f2-4837-9db9-9e0ac104f52d（原生版本null如实），从表格选择同UUID，EXISTING连接fed938cd-57c8-4746-a8fd-c3a8b74c4ca2已真实1/0保存并刷新同id；秘密未配置/BOUND_UNVERIFIED，无显式项目引用，不给S6seed或跨scope借目录。实际1512×806目录5表头均36，非隐藏数据行36，选择按钮32；稳定禁用确认层416×360.086、top24、两按钮32和取消真实焦点/可见完整环。AX/PNG/geometry在real-ui-r1；窄/原生200/全浏览器/全键盘等不虚称覆盖。
+
+2026-10-24T16:34终末DM3固定SELECT只六张新表/fullS6/C_NEW，状态TERMINAL_LOCAL_METADATA_AND_SECRET_BOOLEAN_VERIFIED：4/2 disabled、2epochs，两原值空格/Unicode均由实际19c4Jar内Cipher解密精确比较true、nonce不同、KEEP无新增epoch；配置1仍pin3/2、planCONSUMEDv2、6operation/6safeaudit/版本链一致无orphan，安全JSON不含秘密字段/样本。原值/密文/nonce/HMAC/key及其摘要不输出；无DML/HTTP/产品getter。两个真实无认证请求code401且响应/当前日志无匿名marker，但不冒普通USER、跨scope、伪ref真实400/403；这些有限后台/前端已有证据分层。另原Atlas标签297 CDP握手timeout未得身份，不重试/不索新凭据。
+
+**实际日志验收失败不销项：** 后续真实日志扫描发现positive CREATE与REPLACE的两个合成密码标记各1，匿名标记0；此前日志保护有限通过不能代现场通过。安全诊断仅导出次数、级别/类名/字段名，不复制私有日志正文。Cloud CodeGraph完整核ApiAccessLogInterceptor103行及AtlasApiLogAutoConfiguration44行注册：后者无条件注册MVC开发日志，access-log开关只约束另一Filter。此Interceptor非prod在Controller前直接读并打印body，原四access/error hook未覆盖。
+
+scope-forward-r3真实前向加此唯一产品路径（原4341B/452c92c5…同HEAD并独占保before），现34=24产品10检查；原33登记与安装原件保原。修复仅helper import＋handler属性保留后的敏感guard＋afterCompletion计时前同guard，server-owned TRUE或公共路径识别，不信同名header/query，普通正文/日志/计时整字节不变。Main完整亲读、独立产品/测试整逆；新增2方法实际compile0/2PASS、旧7不重跑（敏感四subcase body/params/env/timer/log0访问、普通伪标志仍2log+计时）。无全套“补绿”。
+
+必要2path安装16:46:25.568156Z实际0，log-repair-install-actual-r1为writtenInThisAttempt2/cumulativeSources34，保两备份/逐笔intent/CAS/fsync/readback及19保护/7批准重叠，Cloud2655仅再准此Interceptor一项；无SQL/HTTP/服务/Git。最初prepared map摘要在任何执行前校准、原稿保留。必要offline full-build-r2一次20module0，16:45:59.005174–46:16.819831UTC，真实仍2673 unique/21overlay（Interceptor本已在2655base，先前Main预估2674撤回），原源码/候选/stage drift均空。新Jar918ff2c19848b85a3fecca27c0b980f9ec039f32525bd3bfb8991e42f319c249/178686406，私有tmp执行树，E仅symlink/原件，不动旧build/Jar/receipt；live安装在build后，实际before/closing两项均旧字节属合法cut。
+
+目前仍95435旧19c4运行Jar，必要新purpose/保已完成M21原NS/原17226累计、受控普通重启和仅受影响positive2日志复验待执行；旧e47f窗已过期不得借用/重置。原两条日志命中历史保原不清空，不轮换真实凭据或重演已充分六动作主线。M2.1仍IN_PROGRESS/日志卡未接受/未Git，M2.2 NOT_GO，最终真人PENDING。最新普通68用/余32，仅套餐。
+
+
+### 17.105 M2.1日志修后实际切换与仅两笔复验通过，交Root节点独验（2026-10-25北京时间）
+
+原MVC开发日志漏点已最小修复，两源前向实际安装、必要新20模块离线包918ff2c1…完成，34=24产品10检查保持。新R5准备稿发现proof state与schema state两处准入接缝，旧稿/模型保原；仅两个新r2入口前向校准，非作者整逆及Main完整差额核闭后才现场采用，未重放DDL或旧失败业务。
+
+本次FIRST及主要批次均普通套餐68用/余32、ordinarytrue/spendfalse/limitnull。16:54:39原同管理员pair/token在RAM核一致、到期17:17:26，覆盖拟900秒；未刷新、未更新引用。R5真实窗口f91eee11-e30b-4be7-a620-2d21fe42bbcd于16:54:51.723至17:09:51.723，原17226完整operations/旧NS/UNKNOWN/latch保留。同fd代理单TERM后3307/ctime1792860900.869379，真实self GET一次200，0refresh/0CAS/0权限写；继而原1空闲SELECT、单TERM95435/单普通Popen，16:55:48.314990新Atlas3557/ctime1792860940.948173/JAR918ff2c1…已真实48282监听并五startup GET200。100参数只JAR替换，原4平台flag和后台开关保持；未额外health HTTP。原schema/platform及旧STOP均保持，不把历史NOT_DEPLOYED创建凭据改字冒新运行证明。
+
+仅受影响现场两笔在原S6/admin经Cua执行，新合成日志配置397a4e92-bf88-48ad-956b-41e85c985bfa：CREATE1/1、显式REPLACE2/2，确认默认取消、提交后field卸载且焦点回原替换trigger。未重复原六动作完整流程、不修改项目配置、不触源或创建Native服务。16:57:48.873306仅内存读取修后process.log，两个非工作marker均0命中；旧19c4原日志两marker各1命中原样保留，日志正文不复制，不使用真实工作密码。此前真实EXISTING刷新完成以17-existing-refreshed.ax.txt前向证实，旧flow summary AWAITING截面不回填。
+
+Main最终34物理源与candidate/installed逐SHA/size同，保护12非重叠原WIP保持，7重叠路径仍原批准融合；React HEAD-only13纯ours完整核同。Cloud HEAD6090e9a3…/React5b0780ea…未变、Work Git/index写0。Root交付必须使用HEAD-only或精确新hunk，不能把7路径物理文件整投夹入旧WIP。实际cut见m2/m2-1/evidence/final-source-and-delivery-cut-r1.json。
+
+M2.1现READY_FOR_ROOT_REVIEW，未ROOT_ACCEPTED、未Git交付、真人PENDING；M2.2仍NOT_GO。后台14、日志9、前端17不同有限方法各有成功，历史失败/分时边界保留，不重复全矩阵。真实匿名2次业务401；普通USER403/跨scope/伪ref仍未新增真实HTTP，仅有限方法；1512×806桌面代表不冒窄屏/原生200%/全键盘。M2.1不证明源连接/TLS/节点已验证、OM登记或业务取数；最终清单与维护/回退见m2-1/README.md、manual-review.md。新构建执行symlink不跟随归档，不入JAR/私有配置/RAW/argv/秘密摘要。

@@ -1,0 +1,19 @@
+{
+  "DDLNew" : 0,
+  "automaticRollback" : false,
+  "automaticRetry" : false,
+  "SELECTOriginal" : 5,
+  "sourceHTTP" : 0,
+  "DML" : 0,
+  "WorkerHTTP" : 0,
+  "serviceActions" : 0,
+  "startedAt" : "2026-10-24T16:16:33.472064Z",
+  "NativeHTTP" : 0,
+  "state" : "SCHEMA_VERIFIED",
+  "originalStopPreserved" : true,
+  "SELECTReserved" : 7,
+  "SELECTNewReserved" : 2,
+  "DDLAttempts" : 11,
+  "DDLReturned" : 11,
+  "completedAt" : "2026-10-24T16:16:33.740957Z"
+}

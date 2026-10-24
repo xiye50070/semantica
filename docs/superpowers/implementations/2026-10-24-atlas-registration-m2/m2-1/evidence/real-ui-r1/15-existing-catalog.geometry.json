@@ -1,0 +1,50 @@
+{
+  "buttons": [
+    {
+      "height": 32,
+      "text": "选择此服务",
+      "width": 91
+    }
+  ],
+  "headers": [
+    {
+      "height": 36,
+      "text": "服务",
+      "width": 179.9453125
+    },
+    {
+      "height": 36,
+      "text": "实例",
+      "width": 143.2890625
+    },
+    {
+      "height": 36,
+      "text": "原 UUID",
+      "width": 352.7265625
+    },
+    {
+      "height": 36,
+      "text": "原生版本",
+      "width": 142.0078125
+    },
+    {
+      "height": 36,
+      "text": "选择",
+      "width": 142.03125
+    }
+  ],
+  "rows": [
+    {
+      "height": 0,
+      "width": 960
+    },
+    {
+      "height": 36,
+      "width": 960
+    }
+  ],
+  "viewport": {
+    "height": 806,
+    "width": 1512
+  }
+}

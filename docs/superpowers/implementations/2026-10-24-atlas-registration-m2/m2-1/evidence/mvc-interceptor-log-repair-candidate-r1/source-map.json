@@ -1,0 +1,50 @@
+{
+  "kind": "M21_MVC_INTERCEPTOR_LOG_REPAIR_E_ONLY",
+  "at": "2026-10-24T16:41:35.073196+00:00",
+  "state": "CANDIDATE_FIXED_PENDING_FINITE",
+  "paths": [
+    {
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/interceptor/ApiAccessLogInterceptor.java",
+      "kind": "product",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/mvc-interceptor-log-repair-candidate-r1/before/atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/interceptor/ApiAccessLogInterceptor.java",
+        "sha256": "452c92c5c0421e79e6265b276659ab65c5b75eb09b3dc561f82e22369e42a59a",
+        "bytes": 4341
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/mvc-interceptor-log-repair-candidate-r1/candidate/atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/interceptor/ApiAccessLogInterceptor.java",
+        "sha256": "ab0832eba538b006f3e78e8998e536570f8e883715b56abed5b9be6773ba5616",
+        "bytes": 4982
+      },
+      "liveBeforeEqual": true
+    },
+    {
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter/MetadataConnectionSensitiveRouteTest.java",
+      "kind": "check",
+      "before": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/mvc-interceptor-log-repair-candidate-r1/before/atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter/MetadataConnectionSensitiveRouteTest.java",
+        "sha256": "737a3d76cfbbef6a336788d3dea47dba2d8fff422ae568318d7696a8fe595033",
+        "bytes": 10574
+      },
+      "candidate": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/mvc-interceptor-log-repair-candidate-r1/candidate/atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter/MetadataConnectionSensitiveRouteTest.java",
+        "sha256": "869fd6b9c9ce9af51731848e0ea73e3bccd1a7270e9ad2b77f3021366febe978",
+        "bytes": 15737
+      },
+      "liveBeforeEqual": true
+    }
+  ],
+  "productCount": 1,
+  "checkCount": 1,
+  "newScopeProductPath": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/interceptor/ApiAccessLogInterceptor.java",
+  "testsToRunOnly": [
+    "mvcInterceptorSuppressesSensitivePayloadBeforeBodyParametersEnvironmentOrTimerAccess",
+    "mvcInterceptorDoesNotTrustClientSuppressionFlagsAndKeepsOrdinaryTimingAndLogging"
+  ],
+  "priorSevenMethodsRepeated": false,
+  "sourceRepoWrites": 0,
+  "privateReads": 0,
+  "HTTP": 0,
+  "SQL": 0,
+  "services": 0
+}

@@ -1,0 +1,35 @@
+{
+  "state": "TWO_UNAUTHENTICATED_REQUESTS_DENIED",
+  "at": "2026-10-24T16:28:16.231379+00:00",
+  "HTTP": 2,
+  "authenticatedCalls": 0,
+  "responses": [
+    {
+      "at": "2026-10-24T16:28:16.226750+00:00",
+      "ordinal": 1,
+      "status": 200,
+      "response": {
+        "code": 401,
+        "msg": "账号未登录",
+        "data": null
+      },
+      "markerAbsentInResponse": true
+    },
+    {
+      "at": "2026-10-24T16:28:16.230771+00:00",
+      "ordinal": 2,
+      "status": 200,
+      "response": {
+        "code": 401,
+        "msg": "账号未登录",
+        "data": null
+      },
+      "markerAbsentInResponse": true
+    }
+  ],
+  "markerFoundInCurrentPrivateRuntimeLog": false,
+  "logContentsExported": false,
+  "ordinaryUser403OrCrossScopeNotCovered": true,
+  "NativeSourceWorkerHTTP": 0,
+  "retry": 0
+}

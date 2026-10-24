@@ -1,0 +1,59 @@
+{
+  "kind": "M21_ACTUAL_SYNTHETIC_LOG_MARKER_FAILURE",
+  "at": "2026-10-24T16:36:59.654236+00:00",
+  "privateLogPath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m2-20261024/private/m21-normal-atlas-cutover-r1-20261024/process.log",
+  "bytesRead": 143267,
+  "matches": {
+    "initial": 1,
+    "replacement": 1,
+    "anonymous": 0
+  },
+  "hitLineMetadataOnly": [
+    {
+      "markers": [
+        "initial"
+      ],
+      "prefix": "NON_STANDARD_LOG_LINE",
+      "lineBytes": 802,
+      "knownSensitiveNamespaceMentioned": true,
+      "jsonFieldNames": [
+        "catalogVersion",
+        "databases",
+        "executionNodeId",
+        "expectedNativeVersion",
+        "host",
+        "instanceId",
+        "kind",
+        "mode",
+        "name",
+        "networkTargetId",
+        "password",
+        "port",
+        "projectId",
+        "serviceId",
+        "serviceName",
+        "target",
+        "tls",
+        "username"
+      ]
+    },
+    {
+      "markers": [
+        "replacement"
+      ],
+      "prefix": "NON_STANDARD_LOG_LINE",
+      "lineBytes": 358,
+      "knownSensitiveNamespaceMentioned": true,
+      "jsonFieldNames": [
+        "expectedVersion",
+        "id",
+        "password"
+      ]
+    }
+  ],
+  "rawLogOrSecretValuesExported": false,
+  "state": "ACTUAL_LOG_LEAK_NOT_ACCEPTED",
+  "HTTP": 0,
+  "SQL": 0,
+  "signals": 0
+}

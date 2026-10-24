@@ -1,0 +1,73 @@
+{
+  "startedAt": "2026-10-24T16:45:59.005174+00:00",
+  "argv": [
+    "/Users/wangmingzhang/Env/apache-maven-3.9.9/bin/mvn",
+    "-o",
+    "--batch-mode",
+    "--no-transfer-progress",
+    "-f",
+    "/private/tmp/atlas-m21-full-build-r2-source/pom.xml",
+    "-s",
+    "/Users/wangmingzhang/.m2/settings.xml",
+    "-Dmaven.repo.local=/private/tmp/atlas-m12-full-runtime-build-r1/m2",
+    "-pl",
+    "atlas-module-infra/atlas-module-infra-server",
+    "-am",
+    "-Dmaven.test.skip=true",
+    "package"
+  ],
+  "sourceCount": 2673,
+  "overlayCount": 21,
+  "tests": "maven.test.skip=true; finite checks separately recorded",
+  "externalSQL": 0,
+  "NativeHTTP": 0,
+  "WorkerHTTP": 0,
+  "serviceActions": 0,
+  "repositoryWrites": 0,
+  "gatewayDistribution": "NOT_PACKAGED; separately javac/7method evidence",
+  "pid": 1177,
+  "completedAt": "2026-10-24T16:46:16.819831+00:00",
+  "exitCode": 0,
+  "sourceDrift": [],
+  "allowedInstallationTransitions": [
+    {
+      "path": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/interceptor/ApiAccessLogInterceptor.java",
+      "opening": {
+        "sha256": "452c92c5c0421e79e6265b276659ab65c5b75eb09b3dc561f82e22369e42a59a",
+        "bytes": 4341
+      },
+      "closing": {
+        "sha256": "452c92c5c0421e79e6265b276659ab65c5b75eb09b3dc561f82e22369e42a59a",
+        "bytes": 4341
+      },
+      "permitted": true
+    },
+    {
+      "path": "atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter/MetadataConnectionSensitiveRouteTest.java",
+      "opening": {
+        "sha256": "737a3d76cfbbef6a336788d3dea47dba2d8fff422ae568318d7696a8fe595033",
+        "bytes": 10574
+      },
+      "closing": {
+        "sha256": "737a3d76cfbbef6a336788d3dea47dba2d8fff422ae568318d7696a8fe595033",
+        "bytes": 10574
+      },
+      "permitted": true
+    }
+  ],
+  "candidateDrift": [],
+  "stageDrift": [],
+  "stdout": {
+    "sha256": "d40681da2a63ea441bf054fb9cc0fcdc0cfe5f2cd604237ac758e2bdaeeef884",
+    "bytes": 40917
+  },
+  "stderr": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  "artifact": {
+    "path": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/atlas-module-infra-server.jar",
+    "sha256": "918ff2c19848b85a3fecca27c0b980f9ec039f32525bd3bfb8991e42f319c249",
+    "bytes": 178686406
+  }
+}

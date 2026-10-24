@@ -1,0 +1,41 @@
+{
+  "activeText": "取消",
+  "buttons": [
+    {
+      "font": "13px",
+      "rect": {
+        "bottom": 359.0859375,
+        "height": 32,
+        "right": 845,
+        "width": 52,
+        "x": 793,
+        "y": 327.0859375
+      },
+      "text": "取消"
+    },
+    {
+      "font": "13px",
+      "rect": {
+        "bottom": 359.0859375,
+        "height": 32,
+        "right": 939,
+        "width": 78,
+        "x": 861,
+        "y": 327.0859375
+      },
+      "text": "禁用接入"
+    }
+  ],
+  "modal": {
+    "bottom": 384.0859375,
+    "height": 360.0859375,
+    "right": 964,
+    "width": 416,
+    "x": 548,
+    "y": 24
+  },
+  "viewport": {
+    "height": 806,
+    "width": 1512
+  }
+}

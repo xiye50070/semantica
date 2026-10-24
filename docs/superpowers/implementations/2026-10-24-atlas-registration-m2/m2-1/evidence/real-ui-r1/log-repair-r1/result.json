@@ -1,0 +1,25 @@
+{
+  "kind": "M21_LOG_REPAIR_REAL_AFFECTED_TWO_COMMANDS",
+  "connectionId": "397a4e92-bf88-48ad-956b-41e85c985bfa",
+  "projectId": "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+  "actor": "admin",
+  "name": "M21 日志修复合成复验 20261025 R01",
+  "createdVersion": {
+    "config": 1,
+    "secret": 1
+  },
+  "replacedVersion": {
+    "config": 2,
+    "secret": 2
+  },
+  "commands": 2,
+  "originalFeatureSequenceRepeated": false,
+  "projectConfigurationChanged": false,
+  "nativeServiceCreated": false,
+  "sourceContacted": false,
+  "values": "PUBLIC_SYNTHETIC_NONWORKING_MARKERS_ONLY",
+  "passwordFieldRemoved": true,
+  "focusReturnedToReplace": true,
+  "logScanPending": true,
+  "at": "2026-10-24T16:57:30.592Z"
+}

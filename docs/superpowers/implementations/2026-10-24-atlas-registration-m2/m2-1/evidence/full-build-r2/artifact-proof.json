@@ -1,0 +1,138 @@
+{
+  "at": "2026-10-24T16:46:58.754587+00:00",
+  "jar": {
+    "path": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/atlas-module-infra-server.jar",
+    "sha256": "918ff2c19848b85a3fecca27c0b980f9ec039f32525bd3bfb8991e42f319c249",
+    "bytes": 178686406
+  },
+  "knownClassChecks": [
+    {
+      "entry": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCatalog.class",
+      "sha256": "f23a8ab776750cf73b733140fd74258c4a3da6ccf5783a4c74250902532e7bae",
+      "bytes": 23046,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCatalog.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCipher.class",
+      "sha256": "83907cce3880bd7dcb454c9f68358d0c53a5d3b9b66362d51583fdb234ecf4ca",
+      "bytes": 13522,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCipher.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionConfiguration.class",
+      "sha256": "301f69e811aab613a7bc7322527822da1bb0264bebbe8b791f70e58e13a04ad4",
+      "bytes": 5367,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionConfiguration.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionContracts.class",
+      "sha256": "d210023771c3c1c1be67f81d39314eac7260e09f5eaed8e3e794083f34e7ee1e",
+      "bytes": 5715,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionContracts.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionController.class",
+      "sha256": "10774fa0a9645a167c13f54e9403feb06798b9f4d506fcd8265d7aad730cd7c9",
+      "bytes": 19057,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionController.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionExceptionAdvice.class",
+      "sha256": "f67b102b5ae2b478c2c6b8acda02eb8feb7e7c1a2fb1ed2106f9cb395e5daca0",
+      "bytes": 3381,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionExceptionAdvice.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionSecretStore.class",
+      "sha256": "720895289ff0f48d1ed75a48f29fac7722293e7db624184b8d99a2c42d9bbe1b",
+      "bytes": 6368,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionSecretStore.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "BOOT-INF/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionService.class",
+      "sha256": "a677c4fd179fa2d4c5d95fec9163f07db0e02e8a32fe8b8bdac2920f2b8eb1a4",
+      "bytes": 66135,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/classes/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionService.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "cn/iocoder/atlas/framework/common/util/servlet/MetadataConnectionSensitivePath.class",
+      "nestedJar": "BOOT-INF/lib/atlas-common-2026.08-SNAPSHOT.jar",
+      "sha256": "ae6113e63d67e7a2e2df103815c901b0899ddd1e3ccd6980ed7e45cbfccae14e",
+      "bytes": 3240,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-framework/atlas-common/target/classes/cn/iocoder/atlas/framework/common/util/servlet/MetadataConnectionSensitivePath.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "cn/iocoder/atlas/framework/apilog/core/filter/ApiAccessLogFilter.class",
+      "nestedJar": "BOOT-INF/lib/atlas-spring-boot-starter-web-2026.08-SNAPSHOT.jar",
+      "sha256": "b8bb44809179b6862c23ccd3d728106ca2a50572beb313d7b465dd79d83f7b34",
+      "bytes": 12717,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-framework/atlas-spring-boot-starter-web/target/classes/cn/iocoder/atlas/framework/apilog/core/filter/ApiAccessLogFilter.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "entry": "cn/iocoder/atlas/framework/web/core/handler/GlobalExceptionHandler.class",
+      "nestedJar": "BOOT-INF/lib/atlas-spring-boot-starter-web-2026.08-SNAPSHOT.jar",
+      "sha256": "b2673c93b1e8e3e201aa47cec796d7b1cb4aed9d6803b6ebebdc3755296614f0",
+      "bytes": 23754,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-framework/atlas-spring-boot-starter-web/target/classes/cn/iocoder/atlas/framework/web/core/handler/GlobalExceptionHandler.class",
+      "stageClassByteExact": true,
+      "sameAsPriorM21Artifact": true
+    },
+    {
+      "nestedJar": "BOOT-INF/lib/atlas-spring-boot-starter-web-2026.08-SNAPSHOT.jar",
+      "entry": "cn/iocoder/atlas/framework/apilog/core/interceptor/ApiAccessLogInterceptor.class",
+      "sha256": "e6f2b728bc9ce939ac4f887337f5a4982880d1e4f453c99c982f1fedf082a9f6",
+      "bytes": 6394,
+      "stageClass": "/private/tmp/atlas-m21-full-build-r2-source/atlas-framework/atlas-spring-boot-starter-web/target/classes/cn/iocoder/atlas/framework/apilog/core/interceptor/ApiAccessLogInterceptor.class",
+      "stageClassByteExact": true,
+      "addedReadbackForNecessaryLogRepair": true
+    }
+  ],
+  "knownClassCount": 12,
+  "originalElevenByteExactToPriorJar": true,
+  "newInterceptorClassChangedFromPrior": true,
+  "priorInterceptorClass": {
+    "sha256": "f1ece92ae9bdf83806984546eb5345f880d3675d0989d49a10a5708f655094d0",
+    "bytes": 5992
+  },
+  "packagedInfraM2FeatureClasses": 8,
+  "packagedNamespaceLoggingClasses": 4,
+  "oldJarUnchanged": true,
+  "oldJar": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/full-build-r1/source/atlas-module-infra/atlas-module-infra-server/target/atlas-module-infra-server.jar",
+    "sha256": "19c4a12ac9c4962ff5bac5a5829c7c27dab6bf0d11f00047bdfc6a9aad534422",
+    "bytes": 178686226
+  },
+  "stage": "/private/tmp/atlas-m21-full-build-r2-source",
+  "executionAlias": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/full-build-r2/source",
+    "linkText": "/private/tmp/atlas-m21-full-build-r2-source",
+    "archiveSymlinkOnlyDoNotFollow": true
+  },
+  "gatewayDistribution": "NOT_PACKAGED; existing seven finite methods plus separate added interceptor two-method evidence are not repeated by this package",
+  "tests": "MAVEN_SKIPPED_PACKAGE_ONLY",
+  "repositoryTargetsWritten": 0,
+  "serviceStarted": false,
+  "realSQL": 0,
+  "realHTTP": 0,
+  "privateKeyReads": 0
+}

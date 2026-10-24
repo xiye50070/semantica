@@ -1,0 +1,32 @@
+{
+  "startedAt": "2026-10-24T15:48:10.176798+00:00",
+  "argv": [
+    "pnpm",
+    "run",
+    "build"
+  ],
+  "cwd": "/private/tmp/M21-live-shaped-build-yide79x_/apps/console-react",
+  "inputCount": 1065,
+  "liveSourceWrites": 0,
+  "liveDistWrites": 0,
+  "liveNodeModulesWrites": 0,
+  "SQL": 0,
+  "HTTP": 0,
+  "Native": 0,
+  "serviceActions": 0,
+  "GitIndexWrites": 0,
+  "pid": 89605,
+  "completedAt": "2026-10-24T15:48:34.541813+00:00",
+  "exitCode": 0,
+  "inputsStable": true,
+  "liveBeforeEqual": true,
+  "candidatesStable": true,
+  "stdout": {
+    "sha256": "9735832f6d3263b361450e81785bc55c8910f2c6186f82439c52a4d279fd21cb",
+    "bytes": 21584
+  },
+  "stderr": {
+    "sha256": "1196a60de022919da82e0daedb872f68c1d7a24f4381df3b7db7ccd9302d6668",
+    "bytes": 332
+  }
+}

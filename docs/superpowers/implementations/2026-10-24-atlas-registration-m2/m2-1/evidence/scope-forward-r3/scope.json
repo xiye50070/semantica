@@ -1,0 +1,313 @@
+{
+  "kind": "M21_EXACT_FORWARD_SOURCE_SCOPE_R3",
+  "at": "2026-10-24T16:41:12.581058+00:00",
+  "productCount": 24,
+  "checkCount": 10,
+  "paths": [
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionContracts.java",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionController.java",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionService.java",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionConfiguration.java",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionSecretStore.java",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCipher.java",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCatalog.java",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionExceptionAdvice.java",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/filter/ApiAccessLogFilter.java",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "b67ba9a2defe29a3357e9c3b8c006952a49cd41485670900c1fdc0db2f606c7e",
+        "bytes": 11867,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-cloud/atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/filter/ApiAccessLogFilter.java"
+      }
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/web/core/handler/GlobalExceptionHandler.java",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "e39eb01017d21814c1e4b3fa789ec1348a6698e01a619f305e934a1bf8dc351e",
+        "bytes": 25814,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-cloud/atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/web/core/handler/GlobalExceptionHandler.java"
+      }
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/filter/logging/AccessLogFilter.java",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "27a8c2b753fab2566496c32f5eff5c1f575b909fd830e405c27932353a65329e",
+        "bytes": 14118,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-cloud/atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/filter/logging/AccessLogFilter.java"
+      }
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/handler/GlobalExceptionHandler.java",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "247373ff7edd0d48cb29f85a9be213ccf0fda78f7806a95e5b466839665bb60e",
+        "bytes": 3348,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-cloud/atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/handler/GlobalExceptionHandler.java"
+      }
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "sql/ontology/V20261024_36__ontology_metadata_connections.sql",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "sql/ontology/dm8/V20261024_36__ontology_metadata_connections.sql",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionApiTest.java",
+      "kind": "check",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionSecretStoreTest.java",
+      "kind": "check",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionRaceTest.java",
+      "kind": "check",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter/MetadataConnectionSensitiveRouteTest.java",
+      "kind": "check",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-gateway/src/test/java/cn/iocoder/atlas/gateway/filter/logging/MetadataConnectionSensitiveRouteTest.java",
+      "kind": "check",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.tsx",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/metadataConnectionsApi.ts",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/metadataConnections.css",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/App.tsx",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "6f746f927c7fba73e76997c0e960eae66614318343328e62efe9a7e0b1b3ca52",
+        "bytes": 45526,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-ui-admin-react/apps/console-react/src/App.tsx"
+      }
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/platform/standaloneRoutes.ts",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "c0c36571068b22630b2f3a96f1ab956e9af4cc0cb826974569a1bcf8c7a39882",
+        "bytes": 6852,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-ui-admin-react/apps/console-react/src/platform/standaloneRoutes.ts"
+      }
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/ontologyNavigation.ts",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "ea1b2db1b64427ae4a80e84064b94b400a337b4784e8e52d4682909939e90076",
+        "bytes": 1285,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-ui-admin-react/apps/console-react/src/features/ontology/ontologyNavigation.ts"
+      }
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/platform/navigation.ts",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "ef3d856aa29cd4b5308a83444778b9791d258e772d7593036307a6b10f2e052a",
+        "bytes": 6251,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-ui-admin-react/apps/console-react/src/platform/navigation.ts"
+      }
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/OntologyProjectReadinessPage.tsx",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "cda62022da512ee8fe14d2f7172b483063f0260ca2ad7f74b5dff93c6017eff8",
+        "bytes": 25142,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologyProjectReadinessPage.tsx"
+      }
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/metadataConnectionsApi.test.ts",
+      "kind": "check",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.test.tsx",
+      "kind": "check",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/OntologyProjectScope.test.tsx",
+      "kind": "check",
+      "existsBefore": true,
+      "before": {
+        "sha256": "98444fd83d5b1f4df7c82935d499be3c46a3244c9c37bf2cddb608373de84ee5",
+        "bytes": 8632,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologyProjectScope.test.tsx"
+      }
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/platform/navigation.test.ts",
+      "kind": "check",
+      "existsBefore": true,
+      "before": {
+        "sha256": "6544d5d854b5b3f36d014423592898609e1d789ab67cf2408088227017dc7b01",
+        "bytes": 3552,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-ui-admin-react/apps/console-react/src/platform/navigation.test.ts"
+      }
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/platform/routes.test.ts",
+      "kind": "check",
+      "existsBefore": true,
+      "before": {
+        "sha256": "109b32bd5a6247e87fa508110dacf932a1464398be8128fed67e514f7bc3194e",
+        "bytes": 12043,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-registry-r1/before/atlas-ui-admin-react/apps/console-react/src/platform/routes.test.ts"
+      }
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-framework/atlas-common/src/main/java/cn/iocoder/atlas/framework/common/util/servlet/MetadataConnectionSensitivePath.java",
+      "kind": "product",
+      "existsBefore": false,
+      "before": null
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/interceptor/ApiAccessLogInterceptor.java",
+      "kind": "product",
+      "existsBefore": true,
+      "before": {
+        "sha256": "452c92c5c0421e79e6265b276659ab65c5b75eb09b3dc561f82e22369e42a59a",
+        "bytes": 4341
+      },
+      "lateRegistrationReason": "Actual positive request body logged by MVC development interceptor, independently of existing protected access/error filters."
+    }
+  ],
+  "sharedWipRule": "new exact hunks only; all prior WIP content must reconstruct byte-exact by inverse and independent HEAD-only patch before delivery",
+  "feature": "M2.1_ONLY",
+  "M22": "NOT_GO",
+  "parent": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-forward-r2/scope.json",
+    "sha256": "a7653c318768dfa39165ae5fa594682794838954d389f4033fe8fb945804d9d5",
+    "bytes": 13469
+  },
+  "sql36Tables": 6,
+  "sql36SafeAuditReason": "Retain explicit project configuration reassignment and non-secret version history; no request secret/ciphertext.",
+  "actualLeakProof": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-leak-diagnosis-r1/observation.json",
+    "sha256": "359822712242a4cd3358b4a077a1cdd469d74f03469758854f9f71131b9938fd",
+    "bytes": 1370
+  }
+}

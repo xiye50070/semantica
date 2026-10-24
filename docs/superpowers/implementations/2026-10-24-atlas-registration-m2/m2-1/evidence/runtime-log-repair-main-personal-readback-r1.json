@@ -1,0 +1,18 @@
+{
+  "HTTP": 0,
+  "HTTP200": 6,
+  "SQL": 0,
+  "at": "2026-10-24T17:01:45.622683+00:00",
+  "businessMutatingDelta": 0,
+  "currentOperations": 17232,
+  "kind": "M21_LOG_REPAIR_MAIN_PERSONAL_ACTUAL_LEDGER_READBACK",
+  "managementAuthDelta": 0,
+  "oldHistoryPrefixExact": true,
+  "oldNamespacesAndUnknownAndLatchExact": true,
+  "oldOperations": 17226,
+  "oldPrefixExact": true,
+  "onlyGETDelta": 6,
+  "privateContentCopied": false,
+  "readOnly": true,
+  "signals": 0
+}

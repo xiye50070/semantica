@@ -1,0 +1,47 @@
+{
+  "at": "2026-10-24T16:38:01.130137+00:00",
+  "safeExtractedIdentifiersOnly": [
+    {
+      "knownLoggerCandidates": [
+        "c.i.a.f.a.core.interceptor.ApiAccessLogInterceptor"
+      ],
+      "logLevel": [],
+      "beforeFirstJsonCharCount": 217,
+      "knownWordsPresent": {
+        "API": false,
+        "AccessLog": true,
+        "请求参数": false,
+        "开始请求": true,
+        "入参": false,
+        "Controller": false,
+        "Filter": false,
+        "Interceptor": true,
+        "Sql": false,
+        "SQL": true,
+        "create": true,
+        "replace-secret": false
+      }
+    },
+    {
+      "knownLoggerCandidates": [
+        "c.i.a.f.a.core.interceptor.ApiAccessLogInterceptor"
+      ],
+      "logLevel": [],
+      "beforeFirstJsonCharCount": 225,
+      "knownWordsPresent": {
+        "API": false,
+        "AccessLog": true,
+        "请求参数": false,
+        "开始请求": true,
+        "入参": false,
+        "Controller": false,
+        "Filter": false,
+        "Interceptor": true,
+        "Sql": false,
+        "SQL": false,
+        "create": false,
+        "replace-secret": true
+      }
+    }
+  ]
+}

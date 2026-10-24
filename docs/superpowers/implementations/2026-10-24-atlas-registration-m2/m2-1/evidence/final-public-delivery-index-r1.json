@@ -1,0 +1,281 @@
+{
+  "M22": "NOT_GO",
+  "RootGitDeliveryPending": true,
+  "at": "2026-10-24T17:02:24.767425+00:00",
+  "count": 52,
+  "excluded": [
+    "private files or secret values/digests",
+    "RAW request/response, argv, source database rows",
+    "build source symlink targets, node_modules, target, large JAR",
+    "unrelated worktree or M1 artifacts"
+  ],
+  "files": [
+    {
+      "bytes": 5113,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/README.md",
+      "sha256": "006a6048752c28940a07382c11359833e1f5a6eaa3258f6dca32f2b6b510df28"
+    },
+    {
+      "bytes": 1720,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/acceptance-card.md",
+      "sha256": "b68107b2e211fb0c39bc68e363b0c424a29301dbbb49bc6bf4211a733a2978f8"
+    },
+    {
+      "bytes": 1728,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/manual-review.md",
+      "sha256": "92302a2cd7f7d75e2f92df8410125984d078c151bc37b1f5b06585a4750e05d0"
+    },
+    {
+      "bytes": 4773,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/root-review-handoff.md",
+      "sha256": "638a00cfd2d9bbe14f0971144df8b2f27388ab23e725b4c012a1f13f295a68d2"
+    },
+    {
+      "bytes": 14334,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/scope-forward-r3/scope.json",
+      "sha256": "8cef279fd2b8cda267f4a8e16281c6f223ce709089f466de6933116f0fe45862"
+    },
+    {
+      "bytes": 34571,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/final-source-and-delivery-cut-r1.json",
+      "sha256": "668c76aa4e6011060389a56cd814e292e38d29dda4b593c45b31d06069195eca"
+    },
+    {
+      "bytes": 8284,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/source-map.json",
+      "sha256": "59d9d6d93d2ebfbcdb92da807802ee31d6327eb195912b48eb45241df0c4ad93"
+    },
+    {
+      "bytes": 8203,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/logging-candidate-r1/revision-r2-test-bootstrap/source-map.json",
+      "sha256": "2cd071aa75ced93d04c2d7aedef7c17fb90d70a376b5a99b9de7a006eeb482b0"
+    },
+    {
+      "bytes": 11393,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/source-map.json",
+      "sha256": "5e1855b5cecc8ef79c6b6d536961402b77abc15e5ca402a3ec0ae397557e1a19"
+    },
+    {
+      "bytes": 9946,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-only-source-map.json",
+      "sha256": "865a8adbf76bde0170be8a8a1dce61a92886e2d5d1ef6612d066d0a3a1e8cb2a"
+    },
+    {
+      "bytes": 3026,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/mvc-interceptor-log-repair-candidate-r1/source-map.json",
+      "sha256": "5e671e6463f599ff06718062e9cd66174bb082575c6866b702dbdea65cb04e57"
+    },
+    {
+      "bytes": 2178,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/source-install-r1/receipt.json",
+      "sha256": "4836fd2fdc8be2afb7bb30ad96d8d73646360cbd053b6ae52a86f2e74aeeba61"
+    },
+    {
+      "bytes": 739,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/log-repair-install-actual-r1/receipt.json",
+      "sha256": "603ab4ba88d2db77b7d9044d4c7e53b05d6043e6de74fe47ada0190d0c607f11"
+    },
+    {
+      "bytes": 4453,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/main-backend-finite-review-r2/review.json",
+      "sha256": "f3713443b6b54d2938ccd58d86d760a9187267e14984e259b91f3b6d2e8971a2"
+    },
+    {
+      "bytes": 3978,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/main-logging-review-r1/review.json",
+      "sha256": "5616e2012fcd76ccdf9b949378ae41aef60f36855851747b45508084512333ee"
+    },
+    {
+      "bytes": 1939,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/main-frontend-results-review-r1/review.md",
+      "sha256": "76c38e181b4aa24101464218e810b3f2f2693750957330b04d4415ec78e16d7a"
+    },
+    {
+      "bytes": 9075,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/main-frontend-results-review-r1/review.json",
+      "sha256": "08d3ce2deae4706b40b634a5d2fb3f6a8fad82d3c053b3d312df75ad92b69c9a"
+    },
+    {
+      "bytes": 565,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/mvc-interceptor-log-repair-candidate-r1/main-whole-source-review-r2.json",
+      "sha256": "87997afb8209f4938a3f1b7e33dd3043af92b4473921093f26889253ac7a2659"
+    },
+    {
+      "bytes": 684,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/mvc-interceptor-log-repair-candidate-r1/actual-r1/result.json",
+      "sha256": "c5a39e62f7e407593dffeec2531f117887194fc316d8b3a4ded744f850d91849"
+    },
+    {
+      "bytes": 2440,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/full-build-r2/receipt.json",
+      "sha256": "a66e94e255c52498f03fb6197820395f1d99ad8e89ae432b609e303c1a24828d"
+    },
+    {
+      "bytes": 8122,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/full-build-r2/artifact-proof.json",
+      "sha256": "0983a20037375badd4330dfcd7782a96bb028ea2d4e8e63e4c2709fc02d7f2aa"
+    },
+    {
+      "bytes": 254,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/full-build-r2/main-artifact-personal-readback-r1.json",
+      "sha256": "27ff3c0bf33621793b653f8a7781caa0fcb3601d290d031b1ebd49f737a43f52"
+    },
+    {
+      "bytes": 770,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/live-shaped-full-build-r3/result.json",
+      "sha256": "e96ee17f857b1771e0392e19d3e6ded7539b89ead77db86aca92d980eabfdd12"
+    },
+    {
+      "bytes": 454,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/dm36-readback-actual-r2/run/result.json",
+      "sha256": "fc7629f43efa76dac5d3659d9a0c987e7a096d4f6dcd14af5c79a0321357c2e7"
+    },
+    {
+      "bytes": 956,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/terminal-dm-actual-r1/run/result.json",
+      "sha256": "0ec8bc132cb6ce21e46ac808f6cfbcef565ddd977e8238a513af4ade9b639cdb"
+    },
+    {
+      "bytes": 822,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/anonymous-transport-r1/result.json",
+      "sha256": "4c4da4a0282fffd6f1ebbee26adbb11287d52def087c1e18320a60b4940ec48f"
+    },
+    {
+      "bytes": 1370,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-leak-diagnosis-r1/observation.json",
+      "sha256": "359822712242a4cd3358b4a077a1cdd469d74f03469758854f9f71131b9938fd"
+    },
+    {
+      "bytes": 1150,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-leak-diagnosis-r1/logger-identifiers.json",
+      "sha256": "9dc87d14ab5490bf6ce3ae06830d7f79be05b681a028d0c915cf7cf7f672d4c5"
+    },
+    {
+      "bytes": 1007,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-repair-nonauthor-review-r1.md",
+      "sha256": "54ad2aa16b78b7319b5f87b76835ba4ccffff0ed995ef5fb8a0a2ea62e68fbe9"
+    },
+    {
+      "bytes": 572,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-repair-nonauthor-forward-r2.md",
+      "sha256": "faac4ebb7e7697adaabf36ecfdfcb4462180c0b27d066d926967cc44b9e14204"
+    },
+    {
+      "bytes": 513,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-preparation-r1/revision-r5-log-repair/actual-m21-log-repair-atlas-cutover-r1-20261025/result.json",
+      "sha256": "c082515fd0f78a393dd65db4251abfe4724804ed046c7f29036ea25d40879b16"
+    },
+    {
+      "bytes": 2048,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-repair-actual-review-r1/report.md",
+      "sha256": "4e4ed152dfdf7659117e80016ecf9b6b427655bf95f4aa7b789c99974f5b9b1b"
+    },
+    {
+      "bytes": 6202,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-repair-actual-review-r1/report.json",
+      "sha256": "39536b0c1df111e1326beb6fe9c8b8c33bb7e1b317cce4afe23e53acc17d684c"
+    },
+    {
+      "bytes": 463,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-repair-main-personal-readback-r1.json",
+      "sha256": "90042204dd759ff46a1c4c3041c35049d1067989a8d368bfc219d5fa19d4cc36"
+    },
+    {
+      "bytes": 857,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/runtime-log-repair-real-affected-result-r1.json",
+      "sha256": "5c9ce5b48e9613f9d1931c5dcb30a1a9fe1ac635b091985e9e1b0d9d62607afb"
+    },
+    {
+      "bytes": 3975,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/main-m21-card-proof-review-r1/review.md",
+      "sha256": "5bc6c87da03a727354d10611ba4b6a644f52790bac789fe84502ec6b93acd0b3"
+    },
+    {
+      "bytes": 1983,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/flow-forward-summary-r1.json",
+      "sha256": "4f387cd3d6ccd09cfed42635f94e1a88dc3ef2cd07e39724375cfb7270b4efd9"
+    },
+    {
+      "bytes": 2284,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/flow-final-forward-r1.json",
+      "sha256": "3456afe815d80de672bd13b9e7c18d6d2a172501c31d7a805a7c159f3448beb3"
+    },
+    {
+      "bytes": 5278,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/01-new-saved.ax.txt",
+      "sha256": "8ccf2df61df9394adb87c373a4bc0dacf7ed6e4ba90270b9a7197e5cc388beda"
+    },
+    {
+      "bytes": 5426,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/06-replace-version3-secret2-focus-return.ax.txt",
+      "sha256": "d1cc6ea95335479a8fc709888b2d60cc0bf1c8b8316278fb1e363d256a528823"
+    },
+    {
+      "bytes": 5351,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/14-refreshed-disabled-same-id.ax.txt",
+      "sha256": "1d8e6c4e918be295f25d01f1d61a3648cbf9e663ca3bf225dbf2d0de92f585f2"
+    },
+    {
+      "bytes": 5343,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/17-existing-refreshed-same-id.ax.txt",
+      "sha256": "88c1c71b493111b66d05f6b937f773bb428a2ccf084914d9297a697fc641800f"
+    },
+    {
+      "bytes": 689,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/12-disable-confirm-stable.geometry.json",
+      "sha256": "ca9fef79a3e1206d115d5b92cdcfa9b6f95906796e2214bb77b554c60fbe0d27"
+    },
+    {
+      "bytes": 727,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/15-existing-catalog.geometry.json",
+      "sha256": "2fa941c17a1225a30dd529b757ccb6185b49d44bbd69ededa49c05b0340bf754"
+    },
+    {
+      "bytes": 75661,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/01-new-saved.png",
+      "sha256": "a4124f0a70e8401ac6f9b8c08a3b3fbb7398402b42cbdca5c52fdf0d8dd8d068"
+    },
+    {
+      "bytes": 80503,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/13-disabled-version4-secret2.png",
+      "sha256": "ca6fb53c82895e702733f22ce91ff695679d2bce911679049685418fec01def6"
+    },
+    {
+      "bytes": 78637,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/16-existing-saved-version1-secret0.png",
+      "sha256": "fd42f0bfe41e87de405a4d0a278c18430ded47e8d96b1e65768c8d3599f2753c"
+    },
+    {
+      "bytes": 712,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/log-repair-r1/result.json",
+      "sha256": "a12c9ed6d836daf8b0fad2fe4aafc12abc5703d48ef39746d9971793acea05c0"
+    },
+    {
+      "bytes": 5363,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/log-repair-r1/02-create-saved.ax.txt",
+      "sha256": "f938299edb3826a3e063b3ade243677a702aae633eb8b4f3dce6127e3278b1f0"
+    },
+    {
+      "bytes": 5490,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/log-repair-r1/04-replace-saved.ax.txt",
+      "sha256": "ee9faf80cdf73865bd013c1d3a619bb646cf2fc3c474cc9ec58bbb33736e3cce"
+    },
+    {
+      "bytes": 77924,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/real-ui-r1/log-repair-r1/04-replace-saved.png",
+      "sha256": "a0d7bf26df145d28f00baf7b59e6e6669eca6391a8c58198b76564277337a44e"
+    },
+    {
+      "bytes": 519,
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/ledger-17105-actual.json",
+      "sha256": "9403fa766936732ae3c85ea7d0543f30394860d30c805c529e886f3f645cb13e"
+    }
+  ],
+  "historicalOriginalsPreservedInPlace": true,
+  "humanAcceptance": "PENDING",
+  "kind": "M21_CURATED_PUBLIC_DOCUMENT_DELIVERY_NOT_FULL_EVIDENCE_ARCHIVE",
+  "mutableSoleLedgerNotIndexed": "docs/superpowers/plans/2026-10-22-atlas-metadata-registration-milestones.md",
+  "state": "READY_FOR_ROOT_REVIEW_NOT_ACCEPTED",
+  "totalBytes": 510567,
+  "workGitIndexWrites": 0
+}

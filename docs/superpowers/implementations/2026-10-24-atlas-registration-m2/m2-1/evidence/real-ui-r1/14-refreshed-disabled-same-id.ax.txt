@@ -1,0 +1,121 @@
+Browser tab: 979676260, Title: "Atlas · 管理工作台", URL: "http://127.0.0.1:5188/next/ontology/data-sources/0286b1a4-458d-455d-a2bb-389d80f1ac91?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6".
+1 AXWebArea Atlas · 管理工作台, URL: 127.0.0.1:5188/next/ontology/data-sources/0286b1a4-458d-455d-a2bb-389d80f1ac91?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6
+	2 container root
+		3 link Description: 跳转到主要内容, Value: 127.0.0.1:5188/next/ontology/data-sources/0286b1a4-458d-455d-a2bb-389d80f1ac91?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6#main-content
+		4 container 主导航
+			5 link Description: Atlas, Value: 127.0.0.1:5188/next
+			6 text 企业管理空间
+			7 container
+				8 text 管理控制台
+				9 menu
+					10 (collapsed) appstore 系统管理, Secondary Actions: Expand
+						11 image appstore
+						12 text 系统管理
+					13 (collapsed) appstore 基础设施, Secondary Actions: Expand
+						14 image appstore
+						15 text 基础设施
+					16 (collapsed) appstore 工作流程, Secondary Actions: Expand
+						17 image appstore
+						18 text 工作流程
+					19 (expanded) appstore 本体管理, Secondary Actions: Collapse
+						20 image appstore
+						21 text 本体管理
+					22 menu rc-menu-uuid-_r_2_-ontology:management-popup
+						23 apartment 知识空间
+							24 image apartment
+							25 link Description: 知识空间, Value: 127.0.0.1:5188/next/ontology/spaces
+						26 apartment 本体项目
+							27 image apartment
+							28 link Description: 本体项目, Value: 127.0.0.1:5188/next/ontology/projects
+						29 apartment 数据源接入
+							30 image apartment
+							31 link Description: 数据源接入, Value: 127.0.0.1:5188/next/ontology/data-sources
+					32 search 知识查询
+						33 image search
+						34 link Description: 知识查询, Value: 127.0.0.1:5188/next/ontology/query
+			35 button 账户菜单
+				36 image
+				37 text 管理员
+				38 text admin
+				39 image down
+		40 container
+			41 button (expanded) Description: 收起导航, Secondary Actions: Collapse
+				42 container menu-fold
+			43 text 工作空间
+			44 text 本体管理
+			45 button 访问租户
+			46 button 搜索页面
+				47 text 搜索页面
+				48 text ⌘ K
+			49 button 我的消息，1 条未读
+				50 container bell
+			51 text 1
+		52 container
+			53 text 本体管理
+			54 heading 数据源接入, Value: 1
+				55 text 数据源接入
+			56 text 保存当前项目的源连接与目标服务配置；保存配置不会创建原生服务，也不会检查连接或登记元数据。
+			57 text 当前项目
+			58 container
+				59 text M1 S6身份准备验证
+				60 combo box (collapsed) Description: 当前项目, Secondary Actions: Expand
+				61 image down
+			62 container M21 本地配置验收 20261025 R01 KEEP
+				63 heading M21 本地配置验收 20261025 R01 KEEP, Value: 2, ID: metadata-workspace-title
+					64 text M21 本地配置验收 20261025 R01 KEEP
+				65 link Description: 返回项目准备, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/readiness#source
+				66 link Description: 返回接入列表, Value: 127.0.0.1:5188/next/ontology/data-sources?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6
+				67 definition list
+					68 container 配置状态
+						69 text 配置状态
+					70 container
+						71 text 已禁用
+					72 container 配置 / 秘密版本
+						73 text 配置 / 秘密版本
+					74 container
+						75 text 4  /  2  ·  秘密已配置
+					76 container 目标状态
+						77 text 目标状态
+					78 text 计划新建服务，尚未创建
+					79 container 目标实例
+						80 text 目标实例
+					81 text om-p1-isolated
+					82 container 目标服务
+						83 text 目标服务
+					84 container
+						85 text AtlasM21_Draft_20261025_R01  ·  AtlasM21_Draft_20261025_R01
+				86 container
+					87 heading 源连接配置, Value: 2
+						88 text 源连接配置
+					89 definition list
+						90 container MySQL 主机与端口
+							91 text MySQL 主机与端口
+						92 container
+							93 text 127.0.0.1 : 3307
+						94 container 数据库范围
+							95 text 数据库范围
+						96 text atlas_m0_reg_20261022_r01
+						97 container 源账号
+							98 text 源账号
+						99 text m21_fixture_only_not_a_live_login
+						100 container TLS
+							101 text TLS
+						102 text REQUIRED
+						103 container 执行节点
+							104 text 执行节点
+						105 container
+							106 text atlas-local-worker-14985  · 仅已配置，未验证
+					107 text Atlas 源参数独立保存；复用原生服务不读取或覆盖其连接秘密。本页没有密码回显、原生令牌或秘密文件路径。
+				108 button 编辑接入配置
+				109 button 替换秘密
+				110 button (disabled) 设为本项目元数据接入连接
+				111 button (disabled) 查看禁用影响
+				112 container project-configuration
+					113 heading 本项目元数据接入配置, Value: 2
+						114 text 本项目元数据接入配置
+					115 container
+						116 text M21 本地配置验收 20261025 R01 KEEP  · 配置版本  1  · 接入版本  3
+					117 text 选择的接入已禁用，不能新使用。
+					118 text 此配置独立于项目业务来源绑定，不会启用业务取数或发布。
+
+The focused UI element is 63 heading M21 本地配置验收 20261025 R01 KEEP, Value: 2, ID: metadata-workspace-title

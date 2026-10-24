@@ -1,0 +1,103 @@
+{
+  "at": "2026-10-24T15:21:11.434670+00:00",
+  "kind": "MAIN_INDEPENDENT_SOURCE_AND_FINITE_ACTUAL_READBACK",
+  "sourceMap": {
+    "sha256": "2cd071aa75ced93d04c2d7aedef7c17fb90d70a376b5a99b9de7a006eeb482b0",
+    "bytes": 8203
+  },
+  "fullPatch": {
+    "sha256": "9e2789490a38ae9a8c7ef85bd677d40e89c61d01171d3bd8f80ff9b1dbb2337f",
+    "bytes": 41385
+  },
+  "all7MemoryWholeForwardReverseAndDiffRegeneration": [
+    {
+      "relativePath": "atlas-framework/atlas-common/src/main/java/cn/iocoder/atlas/framework/common/util/servlet/MetadataConnectionSensitivePath.java",
+      "wholeForwardExact": true,
+      "wholeReverseExact": true,
+      "candidate": {
+        "sha256": "0ff83e621526b131217d8d01093d999d6b49c8582be5451bb0b538317e7d8605",
+        "bytes": 3370
+      },
+      "openingExists": false
+    },
+    {
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/apilog/core/filter/ApiAccessLogFilter.java",
+      "wholeForwardExact": true,
+      "wholeReverseExact": true,
+      "candidate": {
+        "sha256": "fbf2ee0a1c646b6a5a111169f4b94112f6ab1ee47b3db77577a948d7f4b0e061",
+        "bytes": 12984
+      },
+      "openingExists": true
+    },
+    {
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/main/java/cn/iocoder/atlas/framework/web/core/handler/GlobalExceptionHandler.java",
+      "wholeForwardExact": true,
+      "wholeReverseExact": true,
+      "candidate": {
+        "sha256": "b9cd76096160ac98855361a294d7bf695f9a55d14981b5f9458e33299a114407",
+        "bytes": 30341
+      },
+      "openingExists": true
+    },
+    {
+      "relativePath": "atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter/MetadataConnectionSensitiveRouteTest.java",
+      "wholeForwardExact": true,
+      "wholeReverseExact": true,
+      "candidate": {
+        "sha256": "737a3d76cfbbef6a336788d3dea47dba2d8fff422ae568318d7696a8fe595033",
+        "bytes": 10574
+      },
+      "openingExists": false
+    },
+    {
+      "relativePath": "atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/filter/logging/AccessLogFilter.java",
+      "wholeForwardExact": true,
+      "wholeReverseExact": true,
+      "candidate": {
+        "sha256": "199a75a4c659878c0f91d66497cb385445f2f29f12766d650cf08a7e0ff8e3f8",
+        "bytes": 15506
+      },
+      "openingExists": true
+    },
+    {
+      "relativePath": "atlas-gateway/src/main/java/cn/iocoder/atlas/gateway/handler/GlobalExceptionHandler.java",
+      "wholeForwardExact": true,
+      "wholeReverseExact": true,
+      "candidate": {
+        "sha256": "21f5ab527d2a49dbe1f99d1a0c4bc8a4c744571a50e95c1ddb2d123aca904321",
+        "bytes": 5307
+      },
+      "openingExists": true
+    },
+    {
+      "relativePath": "atlas-gateway/src/test/java/cn/iocoder/atlas/gateway/filter/logging/MetadataConnectionSensitiveRouteTest.java",
+      "wholeForwardExact": true,
+      "wholeReverseExact": true,
+      "candidate": {
+        "sha256": "0a173669797fe71acde6e6f409e91e56232bb3c385dc7fa076c302457f27217d",
+        "bytes": 5289
+      },
+      "openingExists": false
+    }
+  ],
+  "product5EqualAcrossCuts": true,
+  "onlyTestChange": "Existing setLoginUserType(request,2) fixture initialization",
+  "actualResultAndEveryDeclaredArtifactHashVerified": true,
+  "allLive4AndProtected5StillBefore": true,
+  "uniqueMethodsWithSuccess": 7,
+  "executions": 8,
+  "passExecutions": 7,
+  "historicalFailedExecutions": 1,
+  "firstCompileFailureZeroCasesPreserved": true,
+  "noNewExecution": true,
+  "realHTTP": 0,
+  "realSQL": 0,
+  "productRepoWrites": 0,
+  "stageAccepted": false,
+  "limitations": [
+    "Pure JVM MockServlet/Reactive, not real authentication/router/network/deployment",
+    "Successes span original cut6 and fixture-forward cut1, not same-cut full matrix",
+    "Dependency list and newly added cached jars pinned by author; this review does not claim a fresh exhaustive hash of every prior dependency jar"
+  ]
+}

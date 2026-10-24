@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-24T16:45:48.281669+00:00",
+  "kind": "MAIN_MVC_SOURCE_WHOLE_INVERSE",
+  "interceptorWholeInverse": true,
+  "testWholeInverse": true,
+  "ordinaryBodyAndTimingOriginalBytesPreserved": true,
+  "manualRead": "Cloud CodeGraph Interceptor full103 and registrationfull44, full forward patch and newtwo tests actual result",
+  "readOnlyDiagnostic": "first inline inverse added an extra LF before original test closing brace and stopped before report/repo write; corrected suffix only",
+  "repositoryWrites": 0,
+  "HTTP": 0,
+  "SQL": 0,
+  "services": 0
+}

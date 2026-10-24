@@ -1,0 +1,101 @@
+{
+  "state": "FIXED_E_ONLY_BACKEND_13",
+  "liveRepoWrites": 0,
+  "HEAD": "6090e9a3ec00ae0db202ceb6b6ac1017dc3598ab",
+  "sourceCount": 13,
+  "sources": [
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCatalog.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCatalog.java",
+      "sha256": "00aa7a6a08c0a5e39a049b58cc9cd0d85e23c215e3cf71635ef11dfdb80e8239",
+      "bytes": 11818,
+      "role": "PRODUCT_JAVA"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCipher.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionCipher.java",
+      "sha256": "a88fdf819e6d86a7d82fa2ee4544b6f5eaf0a056781af501e80a31ee24ff9e62",
+      "bytes": 9773,
+      "role": "PRODUCT_JAVA"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionConfiguration.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionConfiguration.java",
+      "sha256": "47c39def1950ff1922b4f7a763ad80c079bd41b75e2222d9d31fc8c347596a6b",
+      "bytes": 2433,
+      "role": "PRODUCT_JAVA"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionContracts.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionContracts.java",
+      "sha256": "2831b3dfe2137bb2e885a155f6a509a7d235d2de496ff5689a650a414797fa48",
+      "bytes": 11600,
+      "role": "PRODUCT_JAVA"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionController.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionController.java",
+      "sha256": "5033cd724d957cb8e8dcef6b74f12a115872c46f1ce644acf21a06e24c9cb171",
+      "bytes": 8605,
+      "role": "PRODUCT_JAVA"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionExceptionAdvice.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionExceptionAdvice.java",
+      "sha256": "5e63af8fb8f3e4c192e78987b4498a5486550d07a103d1467f8242d6548a4f52",
+      "bytes": 1769,
+      "role": "PRODUCT_JAVA"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionSecretStore.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionSecretStore.java",
+      "sha256": "3f876c39291eb94a661ab10fa3a0c8d5b024f5d5fc1472aea3bb1c203f10a398",
+      "bytes": 3758,
+      "role": "PRODUCT_JAVA"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionService.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionService.java",
+      "sha256": "ffe8f06d6fb11a8f0f90c911bd6d7875a45d38ed6b1cc1b6a14bbb69c4c2628b",
+      "bytes": 33781,
+      "role": "PRODUCT_JAVA"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/sql/ontology/V20261024_36__ontology_metadata_connections.sql",
+      "targetPath": "sql/ontology/V20261024_36__ontology_metadata_connections.sql",
+      "sha256": "ff4a8dc749a6f82af00e2075640fa22700792fcfae6b9744088326b6dfc91e09",
+      "bytes": 7443,
+      "role": "MIGRATION_TEXT_NOT_EXECUTED"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/sql/ontology/dm8/V20261024_36__ontology_metadata_connections.sql",
+      "targetPath": "sql/ontology/dm8/V20261024_36__ontology_metadata_connections.sql",
+      "sha256": "34b1d399e4706a4db95cf7d44d9542d774150085e3fb570af2c4c0267ab81b15",
+      "bytes": 7053,
+      "role": "MIGRATION_TEXT_NOT_EXECUTED"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionApiTest.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionApiTest.java",
+      "sha256": "f879ccedf3c4bba0582d8caf86f94c02862c652ffce6c4abd40f7a59860d0658",
+      "bytes": 22099,
+      "role": "ISOLATED_CHECK_SOURCE"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionRaceTest.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionRaceTest.java",
+      "sha256": "cd328de42c5f297c02aecbab911ad6da9ab05093887242f7d2ce54dc94d1e17d",
+      "bytes": 4904,
+      "role": "ISOLATED_CHECK_SOURCE"
+    },
+    {
+      "sourcePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/backend-contract-candidate-r1/sources/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionSecretStoreTest.java",
+      "targetPath": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionSecretStoreTest.java",
+      "sha256": "603cc5ae9f1c1f306b39de128b4d5d695bf8a3d376584d7bb133e61d4dcc2b0f",
+      "bytes": 4646,
+      "role": "ISOLATED_CHECK_SOURCE"
+    }
+  ],
+  "loggingSources": "Separate fixed 7 by m15; not copied or edited here",
+  "finalRaceCheckPath": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionRaceTest.java"
+}

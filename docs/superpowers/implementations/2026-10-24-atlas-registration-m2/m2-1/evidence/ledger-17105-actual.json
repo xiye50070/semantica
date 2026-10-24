@@ -1,0 +1,20 @@
+{
+  "M22": "NOT_GO",
+  "addition": {
+    "bytes": 2899,
+    "sha256": "e5b0954b560028f923141a433055f676d531d74bba05a6d61f6fea881f5fc6f2"
+  },
+  "after": {
+    "bytes": 487199,
+    "sha256": "90db4b84a61dc183ae22024c0ce8e94bdfc626327f0f362ae50410c50375e289"
+  },
+  "at": "2026-10-24T16:59:40.658307+00:00",
+  "before": {
+    "bytes": 484300,
+    "sha256": "fe4fcb18e13858311a604fabcf81616f9ce0a725ec121d67a35a2ddd866d4a8f"
+  },
+  "heading": "17.105",
+  "prefixPreserved": true,
+  "rootAcceptance": false,
+  "writes": 1
+}

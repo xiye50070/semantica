@@ -1,0 +1,182 @@
+{
+  "kind": "M21_MAIN_FRONTEND_RESULTS_READONLY_REVIEW",
+  "reviewedAt": "2026-10-24T16:13:06.651039+00:00",
+  "state": "RESULTS_AND_FIXED_SOURCE_CUT_MATCH_NO_NEW_DIFFERENCE",
+  "reviewRole": "Implementation-side evidence readback; this agent authored the frontend and does not substitute for nonauthor product acceptance or Root acceptance",
+  "counts": {
+    "uniqueLogicalMethods": 17,
+    "methodExecutions": 28,
+    "passExecutions": 18,
+    "historicalFailExecutions": 10,
+    "singleFinal17Run": false,
+    "r6SelectedMethods": 1,
+    "r6Passed": 1,
+    "lateMethodRenameAlias": {
+      "keeps a newly accepted v2 detail when a same-owner v1 background GET returns later": "keeps the highest known detail when a same-owner background GET or write ACK returns later"
+    }
+  },
+  "runs": [
+    {
+      "revision": "revision-r3",
+      "executions": 17,
+      "passed": 10,
+      "historicalFailed": 7,
+      "runnerExitCode": 1,
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r3/head-finite-r1/actual.json",
+        "sha256": "06b058e569233cb62185247f7b6967787e104ead179765cc01c9d1be9f4d1509",
+        "bytes": 2564
+      },
+      "result": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r3/head-finite-r1/test-result.json",
+        "sha256": "6eb91e86e1af58bd53752419aa1773207b877b8e44107fafde85f0f5bb8cc389",
+        "bytes": 49148
+      },
+      "inputsStable": true,
+      "wireStable": true
+    },
+    {
+      "revision": "revision-r4",
+      "executions": 7,
+      "passed": 4,
+      "historicalFailed": 3,
+      "runnerExitCode": 1,
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r4/head-finite-r1/actual.json",
+        "sha256": "6c6540dfc860f1e92890cde38ae5c4a52e9dfd0de35d997327a58b8c61a76d96",
+        "bytes": 2198
+      },
+      "result": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r4/head-finite-r1/test-result.json",
+        "sha256": "1a492bcdee314cc8502044848e5ef30faa4b2654ed509624d1293e7880ff8d69",
+        "bytes": 45811
+      },
+      "inputsStable": true,
+      "wireStable": true
+    },
+    {
+      "revision": "revision-r5",
+      "executions": 3,
+      "passed": 3,
+      "historicalFailed": 0,
+      "runnerExitCode": 0,
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r5/head-finite-r1/actual.json",
+        "sha256": "1a55bc2c184a406c8ede49c2d04b0fd178d08ca7cdb3d2d3ef8fd822508267f9",
+        "bytes": 1727
+      },
+      "result": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r5/head-finite-r1/test-result.json",
+        "sha256": "17d227b15e5aefe5b21a6eb53f1c006bd715d8922f93720342580b86dcac1337",
+        "bytes": 15323
+      },
+      "inputsStable": true,
+      "wireStable": true
+    },
+    {
+      "revision": "revision-r6",
+      "executions": 1,
+      "passed": 1,
+      "historicalFailed": 0,
+      "runnerExitCode": 0,
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-finite-r1/actual.json",
+        "sha256": "5006c03ef2b6106ae1d871ea373a7fa8b2798aa195b92088526b8798e7fad70a",
+        "bytes": 1717
+      },
+      "result": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-finite-r1/test-result.json",
+        "sha256": "cdbda226adb18d6e3421ad8f5083e1285cee75fc8731ffee7cad6a4bb92cb361",
+        "bytes": 15288
+      },
+      "inputsStable": true,
+      "wireStable": true
+    }
+  ],
+  "sourceCut": {
+    "currentMap": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/source-map.json",
+      "sha256": "5e1855b5cecc8ef79c6b6d536961402b77abc15e5ca402a3ec0ae397557e1a19",
+      "bytes": 11393
+    },
+    "headMap": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/head-only-source-map.json",
+      "sha256": "865a8adbf76bde0170be8a8a1dce61a92886e2d5d1ef6612d066d0a3a1e8cb2a",
+      "bytes": 9946
+    },
+    "current13MatchBuildInputAndCurrentCandidate": true,
+    "head13MatchR6FiniteInputAndCurrentCandidate": true,
+    "originalFinalIndex": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/final-check-index.json",
+      "sha256": "6236f5b917e5577122921d22209e2a4c3c651e03301e49f39c760bfd30da3f07",
+      "bytes": 23469
+    },
+    "frozenPreRunState": "E_ONLY_FIXED_PENDING_FINITE",
+    "frozenPreRunTestsRun": false,
+    "stateNote": "Pre-run source map flags remain unchanged; execution status is taken from later original actual/result records. Main installation is separate and is not inferred from this frozen E-only label."
+  },
+  "productionBuild": {
+    "result": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/live-shaped-full-build-r3/result.json",
+      "sha256": "e96ee17f857b1771e0392e19d3e6ded7539b89ead77db86aca92d980eabfdd12",
+      "bytes": 770
+    },
+    "preparation": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/live-shaped-full-build-r3/preparation.json",
+      "sha256": "a46a791eb404acd128ce1e4f582054d3ee20171a3defbd9ec0beaf2c24945795",
+      "bytes": 986
+    },
+    "before": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/live-shaped-full-build-r3/inputs-before.json",
+      "sha256": "58bc597548135996624e70e8445c7f6cb7b13c20ae2d8ef69f6faef17923170b",
+      "bytes": 188520
+    },
+    "after": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/live-shaped-full-build-r3/inputs-after.json",
+      "sha256": "58bc597548135996624e70e8445c7f6cb7b13c20ae2d8ef69f6faef17923170b",
+      "bytes": 188520
+    },
+    "stdout": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/live-shaped-full-build-r3/stdout.log",
+      "sha256": "9735832f6d3263b361450e81785bc55c8910f2c6186f82439c52a4d279fd21cb",
+      "bytes": 21584
+    },
+    "stderr": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-1/evidence/frontend-candidate-r1/revision-r6/live-shaped-full-build-r3/stderr.log",
+      "sha256": "1196a60de022919da82e0daedb872f68c1d7a24f4381df3b7db7ccd9302d6668",
+      "bytes": 332
+    },
+    "startedAt": "2026-10-24T15:48:10.176798+00:00",
+    "completedAt": "2026-10-24T15:48:34.541813+00:00",
+    "exitCode": 0,
+    "productionGateFullTscVite": true,
+    "inputCount": 1065,
+    "inputShape": "1050 original current/WIP inputs + 5 new M2 files + 10 existing static/legacy build dependencies",
+    "beforeAfterWholeMapExact": true,
+    "liveBeforeEqualAsRun": true,
+    "candidatesStableAsRun": true,
+    "stderrMatchesPriorM15WarningExactly": true,
+    "priorWarningResult": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/frontend-full-build-r6/result.json",
+      "sha256": "6ccda702e405beda1e064ecf30306938827998012ce42d706a5149db7bcb86ef",
+      "bytes": 547
+    }
+  },
+  "failedHistoryPreserved": [
+    "revision-r2/head-finite-r1/actual.json: directed tsc exit2; no methods executed, excluded from28",
+    "revision-r3/head-finite-r1/test-result.json:7 method failures",
+    "revision-r4/head-finite-r1/test-result.json:3 method failures",
+    "revision-r6/live-shaped-full-build-r1/result.json:exit2",
+    "revision-r6/live-shaped-full-build-r2/result.json:exit1"
+  ],
+  "newDifferences": [],
+  "performedThisReview": {
+    "testRuns": 0,
+    "sourceEdits": 0,
+    "browser": 0,
+    "HTTP": 0,
+    "SQL": 0,
+    "processActions": 0,
+    "externalExecutionTreeArchived": false
+  }
+}

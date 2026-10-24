@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-24T16:49:35.101985+00:00",
+  "kind": "MAIN_R2_TWELVE_PACKAGED_CLASSES_PERSONAL_READBACK",
+  "deep12ByteExact": true,
+  "eightFeatureAndFourLoggingClasses": true,
+  "productSourceChangesOnlyMVCGuard": true,
+  "actualExecution": false
+}
