@@ -1,0 +1,157 @@
+{
+  "kind": "BOUNDED_R11_R12_FORWARD_FINITE",
+  "runs": [
+    {
+      "directory": "isolated-eighth-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eighth-r1/actual.json",
+        "sha256": "e2ea146b6312a8548cde6a1541f1ab808cb6aa2037a0eb7def79dd7e8751e38a",
+        "bytes": 16820
+      },
+      "commands": [
+        {
+          "phase": "compile",
+          "startedAt": "2026-10-24T06:10:22.194895+00:00",
+          "completedAt": "2026-10-24T06:10:23.944743+00:00",
+          "exitCode": 0,
+          "argvReference": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eighth-r1/compile-argv.json"
+        },
+        {
+          "phase": "test",
+          "startedAt": "2026-10-24T06:10:23.945390+00:00",
+          "completedAt": "2026-10-24T06:10:26.003838+00:00",
+          "exitCode": 1,
+          "argvReference": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eighth-r1/test-argv.json"
+        }
+      ],
+      "inputsStable": true,
+      "stdout": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eighth-r1/test.stdout",
+        "sha256": "c8e61c0c98a83feeea40eeedf7bebf3c0c951c9a0f5e3ac6e7fea11b097215cf",
+        "bytes": 328
+      },
+      "stderr": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eighth-r1/test.stderr",
+        "sha256": "ea69fe18d42453515bf4690d6700efdd564d5bd6417eb6f7f3a47566f9785e92",
+        "bytes": 1937
+      }
+    },
+    {
+      "directory": "isolated-ninth-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-ninth-r1/actual.json",
+        "sha256": "3b4f3d9b558aa9c630ee095526a1686c0a3264d46d8c6a6befa86478687a1924",
+        "bytes": 16818
+      },
+      "commands": [
+        {
+          "phase": "compile",
+          "startedAt": "2026-10-24T06:10:37.918373+00:00",
+          "completedAt": "2026-10-24T06:10:39.388262+00:00",
+          "exitCode": 0,
+          "argvReference": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-ninth-r1/compile-argv.json"
+        },
+        {
+          "phase": "test",
+          "startedAt": "2026-10-24T06:10:39.388892+00:00",
+          "completedAt": "2026-10-24T06:10:40.956019+00:00",
+          "exitCode": 0,
+          "argvReference": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-ninth-r1/test-argv.json"
+        }
+      ],
+      "inputsStable": true,
+      "stdout": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-ninth-r1/test.stdout",
+        "sha256": "7094ed784ca2c0dfe7580bd88a05c0f66aac1a4ce67b0621b3f013d505d4766e",
+        "bytes": 192
+      },
+      "stderr": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-ninth-r1/test.stderr",
+        "sha256": "9d6e4c6f49f6f5e4f9cc382206109b6be9e00fc854dc28e1f1d2d7605c0f3daa",
+        "bytes": 920
+      }
+    },
+    {
+      "directory": "isolated-tenth-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-tenth-r1/actual.json",
+        "sha256": "e7a628e6707fc6bbfda0006d72ab8ff2b6c2dfd47d12a1a651f3ae17278ef059",
+        "bytes": 17520
+      },
+      "commands": [
+        {
+          "phase": "compile",
+          "startedAt": "2026-10-24T06:26:02.255349+00:00",
+          "completedAt": "2026-10-24T06:26:04.001361+00:00",
+          "exitCode": 0,
+          "argvReference": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-tenth-r1/compile-argv.json"
+        },
+        {
+          "phase": "test",
+          "startedAt": "2026-10-24T06:26:04.002187+00:00",
+          "completedAt": "2026-10-24T06:26:05.825157+00:00",
+          "exitCode": 1,
+          "argvReference": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-tenth-r1/test-argv.json"
+        }
+      ],
+      "inputsStable": true,
+      "stdout": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-tenth-r1/test.stdout",
+        "sha256": "c8aeeaec7ed09204c75526eb8451d2d2478eec0976e4807fb45d3393e7507abd",
+        "bytes": 186
+      },
+      "stderr": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-tenth-r1/test.stderr",
+        "sha256": "aaf7881090190e8016edaa805c0be0d4ed8ddaee89836905a5a0b47ace3719b1",
+        "bytes": 1574
+      }
+    },
+    {
+      "directory": "isolated-eleventh-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eleventh-r1/actual.json",
+        "sha256": "febc15e89648f70b9adfe704a748310670096f4bbfcd4769510fbb29d1dc384f",
+        "bytes": 17526
+      },
+      "commands": [
+        {
+          "phase": "compile",
+          "startedAt": "2026-10-24T06:26:24.938808+00:00",
+          "completedAt": "2026-10-24T06:26:26.698044+00:00",
+          "exitCode": 0,
+          "argvReference": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eleventh-r1/compile-argv.json"
+        },
+        {
+          "phase": "test",
+          "startedAt": "2026-10-24T06:26:26.698749+00:00",
+          "completedAt": "2026-10-24T06:26:28.687578+00:00",
+          "exitCode": 0,
+          "argvReference": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eleventh-r1/test-argv.json"
+        }
+      ],
+      "inputsStable": true,
+      "stdout": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eleventh-r1/test.stdout",
+        "sha256": "1a6be662ee1b622d56d60b1b947fad5b4ebfd078f6fc9d843d289fb90317994c",
+        "bytes": 186
+      },
+      "stderr": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-eleventh-r1/test.stderr",
+        "sha256": "9d6e4c6f49f6f5e4f9cc382206109b6be9e00fc854dc28e1f1d2d7605c0f3daa",
+        "bytes": 920
+      }
+    }
+  ],
+  "r11": "eighth CREATE+REUSE2PASS, focused1FAIL fixture wrong canCreate key; ninth only focusedPASS with actual P1Config/ObjectProvider/realBearer. No single3green run.",
+  "r12": "tenth compile0/test1 correct duplicate Consumer setter guard; eleventh only new1methodPASS with SUCCESS/REVOKED/VERSION+pure illegal-text branches.",
+  "legacyProof": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/legacy-service-source-proof.json",
+    "sha256": "0b26403e61598c6974d1a29f70c7a62caf1a1c7068cb3225ef518c7ba8b17e4b",
+    "bytes": 407
+  },
+  "legacyBoundary": "r11 actual Service only renamed class/ctor, combined with compatible r12 Store and same DS. No row/status/journal/ACK fabrication, no full old-runtime claim.",
+  "NativeHTTP": 0,
+  "DM": 0,
+  "productWrites": 0,
+  "fixtureIO": "owned HTTP/H2 SQL ran; fake IAM/OAuth token API and ordinary JWT/Native bodies do not prove live authority."
+}

@@ -1,0 +1,85 @@
+{
+  "kind": "M14_AC2_ACTUAL_REUSE_NATIVE_READBACK",
+  "createdAt": "2026-10-24T10:25:04.987145+00:00",
+  "originalOperationPrefix17146ByteSemanticsEqual": true,
+  "allOldNamespacesAndGlobalLatchExactEqual": true,
+  "oldDenialsPreserved": true,
+  "preservedLedgerMembersByteEqual": 62,
+  "oldWindowUnchanged": {
+    "windowId": "01b5fb64-5228-4cb2-845d-0be1abed398b",
+    "issuedAt": "2026-10-24T09:57:34.057000+00:00",
+    "expiresAt": "2026-10-24T10:12:34.057000+00:00"
+  },
+  "currentWindow": {
+    "windowId": "4252721e-f97a-4c15-8b79-2a04af4dfa76",
+    "issuedAt": "2026-10-24T10:22:04.998000+00:00",
+    "expiresAt": "2026-10-24T10:37:04.998000+00:00"
+  },
+  "operationCount": 17150,
+  "used": {
+    "get": 17103,
+    "ordinary_login": 12,
+    "management_auth": 14,
+    "mutating": 47,
+    "object_writes": 20,
+    "m14_root_create": 1
+  },
+  "increment": {
+    "GET": 4,
+    "ordinaryLogin": 0,
+    "managementAuth": 0,
+    "nativeResourceWrites": 0,
+    "rootCreate": 0
+  },
+  "rows": [
+    {
+      "sequence": 17147,
+      "stage": "self",
+      "category": "get",
+      "status": 200,
+      "bytes": 2732,
+      "nativeUserId": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+      "isAdmin": false,
+      "isBot": false
+    },
+    {
+      "sequence": 17148,
+      "stage": "read",
+      "category": "get",
+      "status": 200,
+      "bytes": 1202,
+      "glossaryId": "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+      "version": 0.1,
+      "responseSHA256": "fd18a721889dc41f6b6d427a4013c4009999d96fac6ce0f6614a256b08bda599",
+      "allResponseBytesEqualPrior17146": true
+    },
+    {
+      "sequence": 17149,
+      "stage": "self",
+      "category": "get",
+      "status": 200,
+      "bytes": 2732,
+      "nativeUserId": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+      "isAdmin": false,
+      "isBot": false
+    },
+    {
+      "sequence": 17150,
+      "stage": "read",
+      "category": "get",
+      "status": 200,
+      "bytes": 1202,
+      "glossaryId": "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+      "version": 0.1,
+      "responseSHA256": "fd18a721889dc41f6b6d427a4013c4009999d96fac6ce0f6614a256b08bda599",
+      "allResponseBytesEqualPrior17146": true
+    }
+  ],
+  "newPending": null,
+  "newStopped": false,
+  "sourceS6GlossaryAllCurrentReadResponseBytesUnchanged": true,
+  "privateWarmPinsIntentionallyNotProjected": true,
+  "HTTPByThisReadback": 0,
+  "SQL": 0,
+  "privateWrites": 0
+}

@@ -1,0 +1,24 @@
+{
+  "startedAt": "2026-10-24T06:38:03.246422+00:00",
+  "steps": [
+    {
+      "name": "component",
+      "exitCode": 0
+    },
+    {
+      "name": "build",
+      "exitCode": 0
+    }
+  ],
+  "inputCount": 1045,
+  "changedFromPreviousBuild": [
+    "apps/console-react/src/features/ontology/OntologyProjectTargetPage.test.tsx",
+    "apps/console-react/src/features/ontology/OntologyProjectTargetPage.tsx"
+  ],
+  "HTTP": 0,
+  "SQL": 0,
+  "businessActions": 0,
+  "inputsStable": true,
+  "other1043Unchanged": true,
+  "completedAt": "2026-10-24T06:38:32.143816+00:00"
+}

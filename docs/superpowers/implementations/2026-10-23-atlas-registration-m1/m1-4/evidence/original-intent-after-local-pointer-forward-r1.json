@@ -1,0 +1,25 @@
+{
+  "at": "2026-10-24T06:33:36.216873+00:00",
+  "source": "same already persisted one SELECT; no SQL re-run",
+  "comparison": "JSON parsed numeric values, same project key sets and each version/null/hash field",
+  "actualChanged": [
+    {
+      "projectId": "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+      "before": {
+        "projectId": "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+        "version": 1,
+        "targetIsNull": true,
+        "targetSHA256": null
+      },
+      "after": {
+        "projectId": "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+        "version": 2,
+        "targetIsNull": false,
+        "targetSHA256": "839d93d6bfdfd8016d7d64f4d87ce0220302ac0ec7497d984caff6232ede4004"
+      }
+    }
+  ],
+  "otherEightProjectPointersExact": true,
+  "originalReaderFalseBooleanPreserved": true,
+  "readerDiagnostic": "Jackson valueToTree(Long) vs parsed small-number IntNode equals is representation-sensitive; values above were all compared explicitly"
+}

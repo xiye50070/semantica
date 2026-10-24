@@ -1,0 +1,18 @@
+{
+  "kind" : "M14_DM34_EXACT_PARTIAL_TWO_DROP_CONTINUATION",
+  "startedAt" : "2026-10-24T10:15:32.251947Z",
+  "DML" : 0,
+  "HTTP" : 0,
+  "serviceActions" : 0,
+  "automaticRetry" : false,
+  "automaticRollback" : false,
+  "DM33HistoryModified" : false,
+  "CREATE" : 0,
+  "state" : "TWO_OLD_CONSTRAINT_DROPS_RETURNED_EXISTING_CASE_INDEXES_PRESERVED",
+  "rootSelectedProjectionBeforeAfterAndOriginalEqual" : true,
+  "bothExistingFunctionUniqueIndexesPhysicallyObservedBeforeEitherDrop" : true,
+  "DDLAttempts" : 2,
+  "DDLReturned" : 2,
+  "explicitSELECTs" : 4,
+  "completedAt" : "2026-10-24T10:15:32.623629Z"
+}

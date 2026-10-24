@@ -1,0 +1,17 @@
+{
+  "observedAt": "2026-10-24T09:48:37.467546+00:00",
+  "nativeOperationCountAfterMemberAndMapping": 17141,
+  "nativeResourceWrites": 20,
+  "m14Create": 1,
+  "newProject": "ebed8ab8-a686-47ee-a7cb-cb778617730d",
+  "account": "104",
+  "projectRole": "USER",
+  "UIObservedGrant": "有效/v1",
+  "identityIntent": "0c6604f6-6c84-456c-8ca8-60db4dc8264e",
+  "identityTaskUIState": "身份配置已完成",
+  "nativeUser": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+  "bindingVersion": 9,
+  "credentialEpoch": 2,
+  "identityOrPrivilegeChange": false,
+  "nativeHTTPIncrement": 0
+}

@@ -1,0 +1,62 @@
+{
+  "kind" : "M14_AC2_ACTUAL_REUSE_INTENT_READ",
+  "SELECT" : 1,
+  "DDL" : 0,
+  "DML" : 0,
+  "HTTP" : 0,
+  "queryStartedAt" : "2026-10-24T10:25:12.574006Z",
+  "intentId" : "75149e86-6063-4216-89c1-4e8bff3c4fb4",
+  "operationKey" : "03be0335-796e-4a88-adbf-339edcbb76cb",
+  "scope" : {
+    "spaceId" : "1447855d-bf9e-41d7-a9b3-ed641290d6a7",
+    "projectId" : "ebed8ab8-a686-47ee-a7cb-cb778617730d",
+    "tenantId" : "1"
+  },
+  "actorId" : "1",
+  "accountId" : "104",
+  "instanceId" : "om-p1-isolated",
+  "state" : "SUCCEEDED",
+  "mode" : "REUSE",
+  "rowVersion" : 5,
+  "planHash" : "sha256:7d7fb6a792a5db920107692c9c04b75b8da4390ff67f8736aac6bf4b6c839678",
+  "immutableSelection" : {
+    "nativeVersion" : "0.1",
+    "observationHash" : "sha256:c88436bcc550e53ce108b83c4f69beaa6420b3889a6b5174fcd883ba50431cbe"
+  },
+  "native" : {
+    "createState" : "NOT_REQUIRED",
+    "readbackState" : "VERIFIED",
+    "glossaryId" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+    "name" : "AtlasM14_S6_20261024_R01",
+    "nativeVersion" : "0.1",
+    "responseHash" : null,
+    "observedAt" : "2026-10-24T10:24:10.185577Z"
+  },
+  "localBinding" : {
+    "state" : "BOUND",
+    "projectVersionBefore" : 1,
+    "projectVersionAfter" : 2,
+    "target" : {
+      "glossaryId" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+      "instanceId" : "om-p1-isolated"
+    }
+  },
+  "reason" : "ROOT_BOUND_CURRENT_PERSON_VERIFIED",
+  "snapshotSHA256" : "f8d59f4f4c367dedd757ea552423cba4088a73f23effc9fba6ba0ec1f71646ef",
+  "journalSHA256" : "ffb3319fef3c3aa40c8e1bc7b40c50fcd5fd6e409a282bc7e35c94d30458d6b4",
+  "nativeCreateReceiptAbsent" : true,
+  "sourceReceiptRefs" : {
+    "persistedSourceIntentIdsInNewRow" : false,
+    "selectedGlossaryId" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+    "selectedObservationHash" : "sha256:c88436bcc550e53ce108b83c4f69beaa6420b3889a6b5174fcd883ba50431cbe",
+    "currentReadbackSourceProjectIds" : [ ],
+    "priorPublicSourceReceiptPath" : "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/original-intent-after-local-r1.json",
+    "priorPublicSourceReceiptSHA256" : "8420c36a6a4bf84b76de0716298e7a54d539a2730a9960e3bd5d175f77c738c6",
+    "priorSourceProjectId" : "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+    "priorSourceIntentId" : "e0a61258-e126-4ceb-b344-cc1702fa1e98",
+    "priorSourcePlanHash" : "sha256:3d5b8e1618e36a587de7a46282d216183b39950562032f436f342bd94664ea58",
+    "priorSourceRaw201SHA256" : "14c64370d16988f7da53e53af5d2e5ed09d114828540b283566c21093e4835a3",
+    "interpretation" : "New row persists selection hash/version and target UUID; source intent reference comes from separately pinned prior public receipt, not a new-row column"
+  },
+  "finishedAt" : "2026-10-24T10:25:12.605683Z"
+}

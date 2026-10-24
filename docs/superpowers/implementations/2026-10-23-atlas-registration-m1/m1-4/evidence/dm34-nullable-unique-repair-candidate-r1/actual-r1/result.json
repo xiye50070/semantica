@@ -1,0 +1,17 @@
+{
+  "kind" : "M14_DM34_NULLABLE_UNIQUE_REPAIR",
+  "startedAt" : "2026-10-24T10:09:53.870368Z",
+  "DML" : 0,
+  "HTTP" : 0,
+  "serviceActions" : 0,
+  "automaticRetry" : false,
+  "automaticRollback" : false,
+  "DM33HistoryModified" : false,
+  "state" : "STOPPED_PARTIAL_OR_UNKNOWN_NO_RETRY",
+  "failureClass" : "java.lang.IllegalStateException",
+  "safeCode" : "DUPLICATE_INDEX_COLUMN",
+  "DDLAttempts" : 2,
+  "DDLReturned" : 2,
+  "explicitSELECTs" : 3,
+  "completedAt" : "2026-10-24T10:09:54.219788Z"
+}

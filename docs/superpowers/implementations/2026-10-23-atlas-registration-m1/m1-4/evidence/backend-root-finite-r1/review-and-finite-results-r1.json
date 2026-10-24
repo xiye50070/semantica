@@ -1,0 +1,254 @@
+{
+  "at": "2026-10-24T05:42:07.016859+00:00",
+  "state": "FINITE_SOURCE_CHECKS_COMPLETE_NOT_LIVE_ACCEPTANCE",
+  "reviewerRole": "Product nonauthor; author of new finite tests and prior transport candidate",
+  "sourceCut": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-implementation-r1/first-fixed-r9/source-map.json",
+    "sha256": "9145fbce014eaeb9cf369d68bca57ab5fd9b5a04c91d6f902b2777096e385470",
+    "bytes": 10140
+  },
+  "finalProductPaths": 14,
+  "compiledJavaPathsPerRun": 12,
+  "files": [
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/tests/cn/iocoder/atlas/module/infra/ontology/OntologyRootGlossaryFiniteTest.java",
+      "sha256": "89af13640ee8faab659d1c3bde158a548761355aa1ccf3ab7d43a1bd78db42ca",
+      "bytes": 31244
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/tests/cn/iocoder/atlas/module/infra/ontology/RootGlossaryFiniteRunner.java",
+      "sha256": "c66a531cc4a3c0835e80f633088bc256d19450d5f7a249aae4b853f43fd7c1d6",
+      "bytes": 2016
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/runner/run-isolated.py",
+      "sha256": "758281d6d592300aa15b7925d8877aea5eba6d8de7cdf31409c45332f4165064",
+      "bytes": 6953
+    }
+  ],
+  "runs": [
+    {
+      "label": "isolated-first-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-first-r1/actual.json",
+        "sha256": "d4b61c106765d63e319d42c19a38bd7a8a40a05e32de8d372d300b7659c61c3d",
+        "bytes": 16792
+      },
+      "compile": 0,
+      "test": 1,
+      "inputsStable": true,
+      "passed": [
+        "publicParserCurrentUserAndDuplicateQueryRejectBeforeNative"
+      ],
+      "failed": [
+        "chineseCreateFullDefaultsOwnTransitionOriginalUnknownAndSameKey",
+        "crossProjectSameNameAndUnknownNeverCreateOrAdoptAgain",
+        "durableClaimCrashAndRepeatedKeyNeverReclaimOrDispatch",
+        "forgedAdmissionAndForgedSucceededCatalogRecordCannotReachHttp",
+        "localCasFailurePointerDriftRequiresNewExplicitContextAndOnlyReads",
+        "native403AndLateRevocationPreserveAcceptedFactWithoutBinding",
+        "readOnlyReuseAcrossMappedProjectAndMetadataUpdateKeepsReceipt"
+      ],
+      "principalProductInputs": {
+        "JdbcOntologyRootGlossaryStore.java": "0c33c0fd026e8764fe138fbdfe30a2ab672e3a4e354e816a63b1136e75e04f04",
+        "OntologyModelingIdentityConsumer.java": "45d47326333bc798cac26b63152de95058e8fb38b1774a8465f1d8d5e90f86a5",
+        "OntologyRootGlossaryService.java": "a203fc2cfccd2a9546a19806107002f93a811db55d5e639954d215a3afa26fa5"
+      }
+    },
+    {
+      "label": "isolated-second-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-second-r1/actual.json",
+        "sha256": "77aaea7c8bd4bda463dbcaa83fcc13d98b7330f345dfb16de1466ffa48b47f41",
+        "bytes": 16794
+      },
+      "compile": 0,
+      "test": 1,
+      "inputsStable": true,
+      "passed": [
+        "durableClaimCrashAndRepeatedKeyNeverReclaimOrDispatch",
+        "forgedAdmissionAndForgedSucceededCatalogRecordCannotReachHttp"
+      ],
+      "failed": [
+        "chineseCreateFullDefaultsOwnTransitionOriginalUnknownAndSameKey",
+        "crossProjectSameNameAndUnknownNeverCreateOrAdoptAgain",
+        "localCasFailurePointerDriftRequiresNewExplicitContextAndOnlyReads",
+        "native403AndLateRevocationPreserveAcceptedFactWithoutBinding",
+        "readOnlyReuseAcrossMappedProjectAndMetadataUpdateKeepsReceipt"
+      ],
+      "principalProductInputs": {
+        "JdbcOntologyRootGlossaryStore.java": "b951fcba05721aa46c457b9820dfe291810cb3b87a2f2cf4ee0842d08866ae26",
+        "OntologyModelingIdentityConsumer.java": "45d47326333bc798cac26b63152de95058e8fb38b1774a8465f1d8d5e90f86a5",
+        "OntologyRootGlossaryService.java": "a203fc2cfccd2a9546a19806107002f93a811db55d5e639954d215a3afa26fa5"
+      }
+    },
+    {
+      "label": "isolated-diagnose-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-diagnose-r1/actual.json",
+        "sha256": "fd37431cb4c2c264f841a28d792af5302d24ffe089266dc4d7868b5db0d2e9b4",
+        "bytes": 16798
+      },
+      "compile": 0,
+      "test": 1,
+      "inputsStable": true,
+      "passed": [],
+      "failed": [],
+      "principalProductInputs": {
+        "JdbcOntologyRootGlossaryStore.java": "b951fcba05721aa46c457b9820dfe291810cb3b87a2f2cf4ee0842d08866ae26",
+        "OntologyModelingIdentityConsumer.java": "45d47326333bc798cac26b63152de95058e8fb38b1774a8465f1d8d5e90f86a5",
+        "OntologyRootGlossaryService.java": "a203fc2cfccd2a9546a19806107002f93a811db55d5e639954d215a3afa26fa5"
+      }
+    },
+    {
+      "label": "isolated-third-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-third-r1/actual.json",
+        "sha256": "2d8f9e76b044d5dda0bba4c72645171dab29a2ce5edacb2d47b8abb7337463cc",
+        "bytes": 16792
+      },
+      "compile": 0,
+      "test": 1,
+      "inputsStable": true,
+      "passed": [
+        "chineseCreateFullDefaultsOwnTransitionOriginalUnknownAndSameKey",
+        "crossProjectSameNameAndUnknownNeverCreateOrAdoptAgain",
+        "localCasFailurePointerDriftRequiresNewExplicitContextAndOnlyReads",
+        "native403AndLateRevocationPreserveAcceptedFactWithoutBinding"
+      ],
+      "failed": [
+        "readOnlyReuseAcrossMappedProjectAndMetadataUpdateKeepsReceipt"
+      ],
+      "principalProductInputs": {
+        "JdbcOntologyRootGlossaryStore.java": "0f96cdc2a74b19c648f5b8ba151065142901f626203e1e4f0ec2c4fe18cbb17f",
+        "OntologyModelingIdentityConsumer.java": "45d47326333bc798cac26b63152de95058e8fb38b1774a8465f1d8d5e90f86a5",
+        "OntologyRootGlossaryService.java": "b55a4d8e9c59c52edb0d86b255277690921ce9fae158c42bad5c6881e9cadc24"
+      }
+    },
+    {
+      "label": "isolated-reuse-diagnose-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-reuse-diagnose-r1/actual.json",
+        "sha256": "6af144125e253cad5de3cd8bd27afc2a375595e18a9b680299bb374b4301ac6e",
+        "bytes": 16810
+      },
+      "compile": 0,
+      "test": 1,
+      "inputsStable": true,
+      "passed": [],
+      "failed": [],
+      "principalProductInputs": {
+        "JdbcOntologyRootGlossaryStore.java": "0f96cdc2a74b19c648f5b8ba151065142901f626203e1e4f0ec2c4fe18cbb17f",
+        "OntologyModelingIdentityConsumer.java": "45d47326333bc798cac26b63152de95058e8fb38b1774a8465f1d8d5e90f86a5",
+        "OntologyRootGlossaryService.java": "b55a4d8e9c59c52edb0d86b255277690921ce9fae158c42bad5c6881e9cadc24"
+      }
+    },
+    {
+      "label": "isolated-fourth-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-fourth-r1/actual.json",
+        "sha256": "ace6d7219a32c4371fe178606b1e82061ea3ab9b73bfb2475e433ab06dcd05b5",
+        "bytes": 16794
+      },
+      "compile": 0,
+      "test": 0,
+      "inputsStable": true,
+      "passed": [
+        "chineseCreateFullDefaultsOwnTransitionOriginalUnknownAndSameKey",
+        "readOnlyReuseAcrossMappedProjectAndMetadataUpdateKeepsReceipt"
+      ],
+      "failed": [],
+      "principalProductInputs": {
+        "JdbcOntologyRootGlossaryStore.java": "625c0fda6f426a92e2e7e58127462bfb0ae1f4e5c6d2ddf380f61f871d979cde",
+        "OntologyModelingIdentityConsumer.java": "45d47326333bc798cac26b63152de95058e8fb38b1774a8465f1d8d5e90f86a5",
+        "OntologyRootGlossaryService.java": "b55a4d8e9c59c52edb0d86b255277690921ce9fae158c42bad5c6881e9cadc24"
+      }
+    },
+    {
+      "label": "isolated-fifth-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-fifth-r1/actual.json",
+        "sha256": "703f77ef95f5fe53f1ac9a2eb0d2b8221a21a30b62e5b987025839d5f6a764ff",
+        "bytes": 16792
+      },
+      "compile": 0,
+      "test": 0,
+      "inputsStable": true,
+      "passed": [
+        "localCasFailurePointerDriftRequiresNewExplicitContextAndOnlyReads",
+        "readOnlyReuseAcrossMappedProjectAndMetadataUpdateKeepsReceipt"
+      ],
+      "failed": [],
+      "principalProductInputs": {
+        "JdbcOntologyRootGlossaryStore.java": "db9a825e590c42832c058170bca860eb45e20572e057ebee1681c5cecf0a89c4",
+        "OntologyModelingIdentityConsumer.java": "45d47326333bc798cac26b63152de95058e8fb38b1774a8465f1d8d5e90f86a5",
+        "OntologyRootGlossaryService.java": "b55a4d8e9c59c52edb0d86b255277690921ce9fae158c42bad5c6881e9cadc24"
+      }
+    },
+    {
+      "label": "isolated-sixth-r1",
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-sixth-r1/actual.json",
+        "sha256": "7f2fc4d758835719437e7d4ac97ee502e3d77ac63f0b5313e9910cf41aeec1cc",
+        "bytes": 16792
+      },
+      "compile": 0,
+      "test": 0,
+      "inputsStable": true,
+      "passed": [
+        "crossProjectSameNameAndUnknownNeverCreateOrAdoptAgain"
+      ],
+      "failed": [],
+      "principalProductInputs": {
+        "JdbcOntologyRootGlossaryStore.java": "db9a825e590c42832c058170bca860eb45e20572e057ebee1681c5cecf0a89c4",
+        "OntologyModelingIdentityConsumer.java": "d1d7cffac34a37d449d44e026b24473aadbac0d4bf160393c2ffd5036741c0d5",
+        "OntologyRootGlossaryService.java": "73406c95934ab9a1b773581b4a4745e83bc9ded73e88335cbaf35f152b204ff3"
+      }
+    }
+  ],
+  "uniqueMethodsPassing": 8,
+  "latestPassingRunPerMethod": {
+    "publicParserCurrentUserAndDuplicateQueryRejectBeforeNative": "isolated-first-r1",
+    "durableClaimCrashAndRepeatedKeyNeverReclaimOrDispatch": "isolated-second-r1",
+    "forgedAdmissionAndForgedSucceededCatalogRecordCannotReachHttp": "isolated-second-r1",
+    "chineseCreateFullDefaultsOwnTransitionOriginalUnknownAndSameKey": "isolated-fourth-r1",
+    "crossProjectSameNameAndUnknownNeverCreateOrAdoptAgain": "isolated-sixth-r1",
+    "localCasFailurePointerDriftRequiresNewExplicitContextAndOnlyReads": "isolated-fifth-r1",
+    "native403AndLateRevocationPreserveAcceptedFactWithoutBinding": "isolated-third-r1",
+    "readOnlyReuseAcrossMappedProjectAndMetadataUpdateKeepsReceipt": "isolated-fifth-r1"
+  },
+  "scoreBoundary": "Eight unique methods passed across preserved forward cuts; not one single 8/8 final-cut execution. Only affected cases rerun. r9 final run is one original malformed method branch with duplicate/trailing subcases.",
+  "sourceIssuesClosed": [
+    "Root-specific strict body/null/array and duplicate query contract",
+    "Durable original raw201 before parse; same-hash UUID enrichment and no terminal regression",
+    "Valid formal-source provenance before candidate native read",
+    "Explicit fresh local context after pointer drift; current CAS v to v+1",
+    "TIMESTAMP(3) expiry generation in milliseconds",
+    "Preserve JDBC row case-insensitive lookup; preserve ordinary payload key semantics",
+    "Separate native RAW JSON reader from integer-only Domain canonical",
+    "Other unresolved same-project intent guard across name/actor/old-preview",
+    "Readonly source USER visibility, no-role zero native GET",
+    "Strict duplicate/trailing parse before UUID enrichment; replayed=true same-key response"
+  ],
+  "wireProducerFiles": [
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-fourth-r1/actual-wire.json",
+      "sha256": "b5e1f673d4b906a3189857be28d9e318147b32af5dffd55fd4c06076ef36252b",
+      "bytes": 25812
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-4/evidence/backend-root-finite-r1/isolated-fifth-r1/actual-wire.json",
+      "sha256": "9d508d9e4f3db3707d9cbe06e783d99235f41e08a20f41fd23a29a530f520a9f",
+      "bytes": 17764
+    }
+  ],
+  "boundaries": {
+    "realDM": 0,
+    "realNativeOM": 0,
+    "realCredentialsOrPrivateReads": 0,
+    "productSourceEditsByReviewer": 0,
+    "runtimeOrProcessActions": 0,
+    "oldSuiteMethodsRun": 0,
+    "fixtures": "In-memory H2 IAM/identity/applied-policy, synthetic JWT and owned local HTTP; actual candidate Store/Service/Consumer/Registry/Broker/SDK. This does not verify live OM permissions or M1.4 business acceptance."
+  }
+}

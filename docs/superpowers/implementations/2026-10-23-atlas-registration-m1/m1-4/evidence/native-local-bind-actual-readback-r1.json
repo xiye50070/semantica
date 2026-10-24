@@ -1,0 +1,267 @@
+{
+  "observedAt": "2026-10-24T06:33:06.415134+00:00",
+  "source": "actual on-disk proxy records; no HTTP/SQL",
+  "original17133PrefixExact": true,
+  "oldNamespacesAndLatchExact": true,
+  "old17AndRepair5And201Exact": true,
+  "total": 17141,
+  "used": {
+    "get": 17095,
+    "logout": 1,
+    "m13_apply": 0,
+    "m13_changeset_create": 1,
+    "m13_glossary_create": 1,
+    "m13_lease_acquire": 1,
+    "m13_phase2_apply": 1,
+    "m13_phase2_lease": 1,
+    "m13_phase2_reviewer": 1,
+    "m13_policy_create": 1,
+    "m13_policy_update": 0,
+    "m13_relationship_create": 1,
+    "m13_remaining_apply": 0,
+    "m13_remaining_lease": 1,
+    "m13_remaining_reviewer": 0,
+    "m13_reviewer_update": 0,
+    "m13_role_attach": 1,
+    "m13_role_attach_continuation": 1,
+    "m13_term_create": 1,
+    "m13_term_update": 1,
+    "m14_root_create": 1,
+    "management_auth": 14,
+    "mutating": 46,
+    "object_writes": 20,
+    "ordinary_login": 11,
+    "password_rotate": 1,
+    "policy_create": 1,
+    "policy_sync": 0,
+    "profile_sync": 1,
+    "role_create": 1,
+    "team_create": 1,
+    "user_create": 1
+  },
+  "localVerify": {
+    "completedStartup": 5,
+    "decisionSHA256": "3a46c16371db5be394d952f9fc1c84eb48f3be52362477026a82e87553523f80",
+    "loginSequence": 17139,
+    "openingStateSHA256": "87da41945f371c3ece0ffc67e4c36fdf14174f648d0c32fc06bd0264dc14f654",
+    "originalCompletedHash": "d58999460313b4e319df21d51966ff6c891f8af94dbe9ec6e55d9ec740ab9a5d",
+    "originalRawHTTPHash": "3fc08768793288674af20e2095d493bc2f28f45228add52fd80577f14dc60a41",
+    "originalRepairHash": "9f1910e4918fc14fad94a53a60b4b5b48480820898bc87dd41824a57ad2bf026"
+  },
+  "stopped": false,
+  "pending": null,
+  "original201AndTwoFullGET": [
+    {
+      "sequence": 17131,
+      "sha256": "14c64370d16988f7da53e53af5d2e5ed09d114828540b283566c21093e4835a3",
+      "bytes": 1192,
+      "resource": {
+        "id": "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+        "name": "AtlasM14_S6_20261024_R01",
+        "fullyQualifiedName": "AtlasM14_S6_20261024_R01",
+        "displayName": "AtlasM14_S6_20261024_R01",
+        "description": "M1.4 S6 项目目标&#xff1a;通过 Atlas 创建并精确绑定&#xff1b;用于隔离验收。",
+        "version": 0.1,
+        "updatedAt": 1792822513902,
+        "updatedBy": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb",
+        "href": "http://localhost:8585/api/v1/glossaries/ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+        "reviewers": [],
+        "owners": [
+          {
+            "id": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+            "type": "user",
+            "name": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb",
+            "fullyQualifiedName": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb",
+            "displayName": "测试号",
+            "deleted": false,
+            "href": "http://localhost:8585/api/v1/users/2d0540a5-d6fd-4f24-a5a4-270eaa54dc26"
+          }
+        ],
+        "deleted": false,
+        "provider": "user",
+        "mutuallyExclusive": false,
+        "entityStatus": "Unprocessed",
+        "ontologyConfiguration": {
+          "baseIri": "https://open-metadata.org/ontology/ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be/",
+          "layer": "L3",
+          "imports": [],
+          "prefixes": [],
+          "iriMintingPattern": "{term}",
+          "readOnly": false,
+          "installedPacks": []
+        },
+        "namespaces": []
+      }
+    },
+    {
+      "sequence": 17133,
+      "sha256": "fd18a721889dc41f6b6d427a4013c4009999d96fac6ce0f6614a256b08bda599",
+      "bytes": 1202,
+      "resource": {
+        "id": "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+        "name": "AtlasM14_S6_20261024_R01",
+        "fullyQualifiedName": "AtlasM14_S6_20261024_R01",
+        "displayName": "AtlasM14_S6_20261024_R01",
+        "description": "M1.4 S6 项目目标&#xff1a;通过 Atlas 创建并精确绑定&#xff1b;用于隔离验收。",
+        "version": 0.1,
+        "updatedAt": 1792822513902,
+        "updatedBy": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb",
+        "href": "http://localhost:8585/api/v1/glossaries/ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+        "reviewers": [],
+        "owners": [
+          {
+            "id": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+            "type": "user",
+            "name": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb",
+            "fullyQualifiedName": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb",
+            "displayName": "测试号",
+            "deleted": false,
+            "href": "http://localhost:8585/api/v1/users/2d0540a5-d6fd-4f24-a5a4-270eaa54dc26"
+          }
+        ],
+        "tags": [],
+        "deleted": false,
+        "provider": "user",
+        "mutuallyExclusive": false,
+        "entityStatus": "Unprocessed",
+        "ontologyConfiguration": {
+          "baseIri": "https://open-metadata.org/ontology/ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be/",
+          "layer": "L3",
+          "imports": [],
+          "prefixes": [],
+          "iriMintingPattern": "{term}",
+          "readOnly": false,
+          "installedPacks": []
+        },
+        "namespaces": []
+      }
+    },
+    {
+      "sequence": 17141,
+      "sha256": "fd18a721889dc41f6b6d427a4013c4009999d96fac6ce0f6614a256b08bda599",
+      "bytes": 1202,
+      "resource": {
+        "id": "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+        "name": "AtlasM14_S6_20261024_R01",
+        "fullyQualifiedName": "AtlasM14_S6_20261024_R01",
+        "displayName": "AtlasM14_S6_20261024_R01",
+        "description": "M1.4 S6 项目目标&#xff1a;通过 Atlas 创建并精确绑定&#xff1b;用于隔离验收。",
+        "version": 0.1,
+        "updatedAt": 1792822513902,
+        "updatedBy": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb",
+        "href": "http://localhost:8585/api/v1/glossaries/ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+        "reviewers": [],
+        "owners": [
+          {
+            "id": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+            "type": "user",
+            "name": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb",
+            "fullyQualifiedName": "atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb",
+            "displayName": "测试号",
+            "deleted": false,
+            "href": "http://localhost:8585/api/v1/users/2d0540a5-d6fd-4f24-a5a4-270eaa54dc26"
+          }
+        ],
+        "tags": [],
+        "deleted": false,
+        "provider": "user",
+        "mutuallyExclusive": false,
+        "entityStatus": "Unprocessed",
+        "ontologyConfiguration": {
+          "baseIri": "https://open-metadata.org/ontology/ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be/",
+          "layer": "L3",
+          "imports": [],
+          "prefixes": [],
+          "iriMintingPattern": "{term}",
+          "readOnly": false,
+          "installedPacks": []
+        },
+        "namespaces": []
+      }
+    }
+  ],
+  "newStages": [
+    {
+      "capture": {
+        "bytes": 108,
+        "file": "call-17134.response.raw.json"
+      },
+      "category": "get",
+      "sequence": 17134,
+      "stage": "local-startup-0",
+      "status": 200
+    },
+    {
+      "capture": {
+        "bytes": 501,
+        "file": "call-17135.response.raw.json"
+      },
+      "category": "get",
+      "sequence": 17135,
+      "stage": "local-startup-1",
+      "status": 200
+    },
+    {
+      "capture": {
+        "bytes": 2860,
+        "file": "call-17136.response.raw.json"
+      },
+      "category": "get",
+      "sequence": 17136,
+      "stage": "local-startup-2",
+      "status": 200
+    },
+    {
+      "capture": {
+        "bytes": 331,
+        "file": "call-17137.response.raw.json"
+      },
+      "category": "get",
+      "sequence": 17137,
+      "stage": "local-startup-3",
+      "status": 200
+    },
+    {
+      "capture": {
+        "bytes": 1383,
+        "file": "call-17138.response.raw.json"
+      },
+      "category": "get",
+      "sequence": 17138,
+      "stage": "local-startup-4",
+      "status": 200
+    },
+    {
+      "capture": {
+        "bytes": 1146,
+        "file": "call-17139.response.raw.json"
+      },
+      "category": "ordinary_login",
+      "sequence": 17139,
+      "stage": "local-login",
+      "status": 200
+    },
+    {
+      "capture": {
+        "bytes": 2732,
+        "file": "call-17140.response.raw.json"
+      },
+      "category": "get",
+      "sequence": 17140,
+      "stage": "local-self",
+      "status": 200
+    },
+    {
+      "capture": {
+        "bytes": 1202,
+        "file": "call-17141.response.raw.json"
+      },
+      "category": "get",
+      "id": "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+      "sequence": 17141,
+      "stage": "local-read:ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+      "status": 200,
+      "version": 0.1
+    }
+  ]
+}

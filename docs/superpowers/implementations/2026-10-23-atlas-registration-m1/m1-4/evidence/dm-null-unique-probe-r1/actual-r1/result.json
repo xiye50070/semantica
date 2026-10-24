@@ -1,0 +1,50 @@
+{
+  "kind" : "M14_OWNED_DM_NULL_UNIQUE_PROBE",
+  "startedAt" : "2026-10-24T10:05:07.467675Z",
+  "fixture" : "RUOYI_VUE_PRO.M14_NULL_UQ_PROBE_20261024_R1",
+  "businessTableWrites" : 0,
+  "HTTP" : 0,
+  "globalOrSessionParameterChanges" : 0,
+  "managerReferenceWrites" : 0,
+  "retry" : false,
+  "syntaxFallback" : false,
+  "plainNullDuplicate" : "UNIQUE_REJECTED",
+  "plainConstraint" : "M14_NUQ_PLAIN_20261024_R1",
+  "plainDuplicateError" : {
+    "exceptionChain" : [ {
+      "class" : "dm.jdbc.driver.DMException",
+      "SQLState" : "23000",
+      "vendorCode" : -6602,
+      "message" : "违反表[M14_NULL_UQ_PROBE_20261024_R1]唯一性约束",
+      "plainConstraintMentioned" : false,
+      "conditionalIndexMentioned" : false
+    } ],
+    "recordedAt" : "2026-10-24T10:05:07.746795Z"
+  },
+  "conditionalCandidateAttempted" : true,
+  "race" : {
+    "connections" : 2,
+    "startBarrier" : true,
+    "results" : [ {
+      "rowId" : 9,
+      "committed" : true,
+      "uniqueRejected" : false
+    }, {
+      "rowId" : 10,
+      "committed" : false,
+      "uniqueRejected" : true
+    } ],
+    "committed" : 1,
+    "uniqueRejected" : 1
+  },
+  "conditionalNullsAccepted" : 3,
+  "conditionalSameTupleUniqueRejected" : true,
+  "otherTenantAndInstanceIndependent" : true,
+  "state" : "PLAIN_NULL_CONFLICT_AND_SINGLE_CASE_INDEX_VERIFIED_ON_OWNED_FIXTURE",
+  "fixtureCreatedByThisInvocation" : true,
+  "cleanupDropReturned" : true,
+  "fixtureInsertAttempts" : 10,
+  "explicitSELECTs" : 4,
+  "fixtureDDLAttempts" : 4,
+  "finishedAt" : "2026-10-24T10:05:07.934788Z"
+}

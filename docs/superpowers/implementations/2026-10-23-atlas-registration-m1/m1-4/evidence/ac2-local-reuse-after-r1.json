@@ -1,0 +1,100 @@
+{
+  "kind" : "M14_AC2_AFTER",
+  "SELECT" : 1,
+  "DDL" : 0,
+  "DML" : 0,
+  "HTTP" : 0,
+  "newProject" : "ebed8ab8-a686-47ee-a7cb-cb778617730d",
+  "baselineSHA256" : "8420c36a6a4bf84b76de0716298e7a54d539a2730a9960e3bd5d175f77c738c6",
+  "authorizedLocalSetupSHA256" : "c51757ea88d66b2b5656a0545f4f638263f3ed62d5334ae34d14b37f994cd3c1",
+  "beforeReceiptSHA256" : "da1a711d72661d0ba7af4e2847c3faf8b314ad379eda22aaa49d5d900c98ce3c",
+  "queryStartedAt" : "2026-10-24T10:24:42.195389Z",
+  "fixed" : {
+    "originalIntentId" : "e0a61258-e126-4ceb-b344-cc1702fa1e98",
+    "originalState" : "SUCCEEDED",
+    "originalRowVersion" : 10,
+    "originalPlanHash" : "sha256:3d5b8e1618e36a587de7a46282d216183b39950562032f436f342bd94664ea58",
+    "originalSnapshotSHA256" : "2993295aeeefd9b38ec60adebc52e587c40834fc27b22f4b00b3f23eb89a4347",
+    "originalJournalSHA256" : "6cb8820b75e92df58847742623dc88ae5776b7897c0556927d67be4d0ff7ba12",
+    "originalRaw201SHA256" : "14c64370d16988f7da53e53af5d2e5ed09d114828540b283566c21093e4835a3",
+    "originalUnknownHistorySHA256" : "sha256:745190f38424c738f10aafbe280aac547b6d5d1c38a6c0ea2be3f43844c59ab2",
+    "mappingIntentId" : "0c6604f6-6c84-456c-8ca8-60db4dc8264e",
+    "mappingOperation" : "CONFIGURE_MODELING_ACCESS",
+    "mappingNativeTaskId" : null,
+    "mappingAuthorityNativeTaskCount" : 0,
+    "mappingPlanHash" : "sha256:ebb6b5db8620442151fa9a0bc76eae588ff202a3fea9ca49d95077e105e3f64b",
+    "mappingBodySHA256" : "7072259d1bf2d51841864f43f5e6f1f25b67ad330724be42773d5477afbbf20e",
+    "configurationVersion" : 1,
+    "mappingEnabled" : true,
+    "scope" : {
+      "spaceId" : "1447855d-bf9e-41d7-a9b3-ed641290d6a7",
+      "projectId" : "ebed8ab8-a686-47ee-a7cb-cb778617730d",
+      "tenantId" : "1"
+    },
+    "accountId" : "104",
+    "instanceId" : "om-p1-isolated",
+    "projectRole" : "USER",
+    "projectRoleActive" : true,
+    "projectRoleVersion" : 1,
+    "bindingId" : "081dc4a9-a5a4-40e4-9141-634eda235409",
+    "nativeUserId" : "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+    "bindingVersion" : 9,
+    "credentialEpoch" : 2,
+    "desiredRevision" : 3,
+    "bindingState" : "BOUND",
+    "identitySyncState" : "IN_SYNC"
+  },
+  "pointers" : [ {
+    "projectId" : "012f72d1-3f69-4ef3-b14a-2d6a5fd18596",
+    "version" : 1,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "075b3da0-6f9c-421f-ad25-6d1db5cbdaf9",
+    "version" : 1,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "2e54d6fb-ab92-400a-bdbf-2d89780d83fd",
+    "version" : 1,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+    "version" : 2,
+    "targetIsNull" : false,
+    "targetSHA256" : "839d93d6bfdfd8016d7d64f4d87ce0220302ac0ec7497d984caff6232ede4004"
+  }, {
+    "projectId" : "5bbcc064-d324-4b60-9786-f998ead74ef2",
+    "version" : 2,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "754e1d20-2a53-4f3d-b9d8-970e6ba7ef2e",
+    "version" : 2,
+    "targetIsNull" : false,
+    "targetSHA256" : "b56e9bdc40f7850889eab0d18613b83e33b6d6c30b5540291a87469fa7cdbd32"
+  }, {
+    "projectId" : "8d241b63-32f4-4aa5-abe7-15c5e17a31ca",
+    "version" : 2,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "ebed8ab8-a686-47ee-a7cb-cb778617730d",
+    "version" : 2,
+    "targetIsNull" : false,
+    "targetSHA256" : "839d93d6bfdfd8016d7d64f4d87ce0220302ac0ec7497d984caff6232ede4004"
+  }, {
+    "projectId" : "ef95c925-9f47-4bf6-bc2b-d0cec59df3b1",
+    "version" : 1,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  } ],
+  "projectPointerCount" : 9,
+  "otherEightProjectPointersMatchBefore" : true,
+  "comparisonContract" : "projectId:String,version:long,targetIsNull:boolean,targetSHA256:nullableString",
+  "ac2ProjectVersion" : 2,
+  "ac2PointerBoundToOriginalRoot" : true,
+  "originalS6ReceiptMatchesAfterLocalBaseline" : true,
+  "finishedAt" : "2026-10-24T10:24:42.260021Z"
+}

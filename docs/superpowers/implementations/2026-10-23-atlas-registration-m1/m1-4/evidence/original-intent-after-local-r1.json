@@ -1,0 +1,125 @@
+{
+  "SELECT" : 1,
+  "DDL" : 0,
+  "DML" : 0,
+  "HTTP" : 0,
+  "queryStartedAt" : "2026-10-24T06:33:26.507494Z",
+  "intentId" : "e0a61258-e126-4ceb-b344-cc1702fa1e98",
+  "state" : "SUCCEEDED",
+  "rowVersion" : 10,
+  "planHash" : "sha256:3d5b8e1618e36a587de7a46282d216183b39950562032f436f342bd94664ea58",
+  "planAfter" : {
+    "description" : "M1.4 S6 项目目标：通过 Atlas 创建并精确绑定；用于隔离验收。",
+    "glossaryId" : null,
+    "instanceId" : "om-p1-isolated",
+    "name" : "AtlasM14_S6_20261024_R01",
+    "owners" : [ {
+      "id" : "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+      "type" : "user"
+    } ],
+    "reviewerIds" : [ ]
+  },
+  "dispatchHash" : "sha256:9b470afa260b01f65ac0a0f21a9985be4a2e3149fa2f9f0ff96fcb44188346fb",
+  "reason" : "ROOT_BOUND_CURRENT_PERSON_VERIFIED",
+  "native" : {
+    "createState" : "ACKNOWLEDGED",
+    "glossaryId" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+    "name" : "AtlasM14_S6_20261024_R01",
+    "nativeVersion" : "0.1",
+    "observedAt" : "2026-10-24T06:32:26.277526Z",
+    "readbackState" : "VERIFIED",
+    "responseHash" : "sha256:14c64370d16988f7da53e53af5d2e5ed09d114828540b283566c21093e4835a3"
+  },
+  "localBinding" : {
+    "projectVersionAfter" : 2,
+    "projectVersionBefore" : 1,
+    "state" : "BOUND",
+    "target" : {
+      "glossaryId" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+      "instanceId" : "om-p1-isolated"
+    }
+  },
+  "unknownHistory" : null,
+  "known201DescriptionEncodingContinuation" : {
+    "present" : true,
+    "canonicalSHA256" : "sha256:745190f38424c738f10aafbe280aac547b6d5d1c38a6c0ea2be3f43844c59ab2",
+    "content" : {
+      "stateBefore" : "UNKNOWN",
+      "reasonBefore" : "ROOT_VERIFY_ROOT_NATIVE_DESCRIPTION_CHANGED",
+      "rowVersionBefore" : 7,
+      "journalHashBefore" : "sha256:f8da6e56f123820660219cfe8bc5b54660756b06f78de4eb0bb92ef3ac5d013d",
+      "nativeBefore" : {
+        "createState" : "ACKNOWLEDGED",
+        "glossaryId" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+        "name" : "AtlasM14_S6_20261024_R01",
+        "nativeVersion" : null,
+        "observedAt" : null,
+        "readbackState" : "NOT_RUN",
+        "responseHash" : "sha256:14c64370d16988f7da53e53af5d2e5ed09d114828540b283566c21093e4835a3"
+      },
+      "planHash" : "sha256:3d5b8e1618e36a587de7a46282d216183b39950562032f436f342bd94664ea58",
+      "dispatchHash" : "sha256:9b470afa260b01f65ac0a0f21a9985be4a2e3149fa2f9f0ff96fcb44188346fb",
+      "raw201Hash" : "sha256:14c64370d16988f7da53e53af5d2e5ed09d114828540b283566c21093e4835a3",
+      "approvedContextHash" : "sha256:ffcefbe8e797fea1fddac5408f3ae93e7b4a38dd6957a6c7b0aa800457f6aee6",
+      "at" : "2026-10-24T06:32:24.169654Z",
+      "operation" : "READ_ONLY_VERIFY_AND_LOCAL_BIND"
+    },
+    "originalUnknownMatchesBaseline" : true
+  },
+  "baselineSHA256" : "61384acc300a9b46c5530a708767dfc86aa0ffa5c115d29dcecf018a96086af4",
+  "productRaw201EqualsProxyRaw201" : true,
+  "raw201SHA256" : "14c64370d16988f7da53e53af5d2e5ed09d114828540b283566c21093e4835a3",
+  "raw201Bytes" : 1192,
+  "ackId" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+  "ackVersion" : 0.1,
+  "journalSHA256" : "6cb8820b75e92df58847742623dc88ae5776b7897c0556927d67be4d0ff7ba12",
+  "pointers" : [ {
+    "projectId" : "012f72d1-3f69-4ef3-b14a-2d6a5fd18596",
+    "version" : 1,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "075b3da0-6f9c-421f-ad25-6d1db5cbdaf9",
+    "version" : 1,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "2e54d6fb-ab92-400a-bdbf-2d89780d83fd",
+    "version" : 1,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+    "version" : 2,
+    "targetIsNull" : false,
+    "targetSHA256" : "839d93d6bfdfd8016d7d64f4d87ce0220302ac0ec7497d984caff6232ede4004"
+  }, {
+    "projectId" : "5bbcc064-d324-4b60-9786-f998ead74ef2",
+    "version" : 2,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "754e1d20-2a53-4f3d-b9d8-970e6ba7ef2e",
+    "version" : 2,
+    "targetIsNull" : false,
+    "targetSHA256" : "b56e9bdc40f7850889eab0d18613b83e33b6d6c30b5540291a87469fa7cdbd32"
+  }, {
+    "projectId" : "8d241b63-32f4-4aa5-abe7-15c5e17a31ca",
+    "version" : 2,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "ebed8ab8-a686-47ee-a7cb-cb778617730d",
+    "version" : 1,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  }, {
+    "projectId" : "ef95c925-9f47-4bf6-bc2b-d0cec59df3b1",
+    "version" : 1,
+    "targetIsNull" : true,
+    "targetSHA256" : null
+  } ],
+  "otherEightProjectPointersMatchBaseline" : false,
+  "projectPointerBaselineCount" : 9,
+  "finishedAt" : "2026-10-24T06:33:26.536769Z"
+}
