@@ -1944,8 +1944,10 @@ final-product-source-cut.json逐当前后台2640输入和前端1032输入全字�
 
 最后实时普通额度04:41:52Z used23/余77，ordinarytrue/spendfalse/limitnull，直接解析官方工具并另存final-ordinary-quota.json；未credits/reset/换账号key。窗口04:33:15已结束且17116/17074等上限已用完，后续不借该窗派请求、不重启或重放one-shot。当前普通允许不等于M1.4放行，仍按既定监督Root独验及精确Git交付顺序续接；真人最终验收始终PENDING。
 
-### 17.69 M1.3 Root有限技术接受，精确Git交付中（2026-10-24）
+### 17.69 M1.3 Root有限技术接受与Git远端交付，放行M1.4（2026-10-24）
 
 04:47 UTC，Root亲读新增启动差额、官方实际切换/终末/语义结果、原生安全投影、完整15行DOM与上下两PNG、两项新拒绝用例完整源差额及final stdout/actual。三个有界非作者分别核启动边界、正向终态及原四项验收覆盖，均无未了阻塞；Root未接管产品执行或重跑充分检查。结论 **M1.3 ROOT_ACCEPTED（104/S6/om-p1-isolated有限技术范围）**，完整分层见[Root验收报告](../implementations/2026-10-23-atlas-registration-m1/m1-3-root-acceptance.md)。原11项真实验证闭合，4项未选保持NOT_VERIFIED；拒绝/动态失效按原卡允许的具名有限证据接受，OM403/ViewBasic为当前产品链加fixture响应，不冒真实OM规则或现场撤权。原08 UNKNOWN、首子REQUIRES_OPERATOR及两旧16列hash保留；3984实际SUCCEEDED，三资源写各一次、累计17116，旧截止不续。额度22/78只按Work校正来源陈述，Root本轮实际直接检查23/77可用，不冒亲读历史工具正文。
 
-本节点产品30路径及精选公开文档正在精确Git交付，远端核同前M1.4仍NOT_GO；真人最终PENDING。无关WIP、本地Semantica main及347旧提交不动；Native仅交付已验单源覆盖兼容层级，不冒完整Native发布。
+04:51 UTC，Cloud27路径提交28159a9ad05809e0b3b0d36df38eae01472f88bf、React3路径9d526d1383d751709a7bb4c132e7646472ff3d71均已推原codex/atlas-om-semantica分支并ls-remote核同；父分别f6e43062…/0a82bc19…。两仓原空index、精确staged路径/blob与验收cut相符，3/16个其它tracked WIP保持。Semantica35项精选d5c708d34209e88ebab203bfa89a387867e76167已推codex/atlas-registration-m1-docs并远端核同，父d6bf25bd；独立index保原main315216c、347无关提交及实际index。Native仅公开单源覆盖源码/补丁/说明，不冒完整Native发布；私有RAW/SQL行/argv/classes/JAR及大trace留本地。详见[Git交付](../implementations/2026-10-23-atlas-registration-m1/m1-3-git-delivery.md)。本段与交付说明再作两文件回执，不递归归档、无PR/合main。
+
+M1.3 **ROOT_ACCEPTED＋GIT_DELIVERED**，按既有连续授权向同一Work放行原M1.4：Atlas根Glossary创建/复用及项目绑定；M1.5/M2尚未放行，不并行预做。原M1.3四对象不冒项目正式绑定或M1.4新建验收，原UNKNOWN、scope与已耗尽窗口保持；常规最小实现/有限验证不另设Root许可前门。M1.4独验及精确Git后才M1.5，整M1接受后M2.1→M2.2；真人最终仍PENDING。
