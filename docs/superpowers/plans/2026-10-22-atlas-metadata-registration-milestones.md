@@ -2299,7 +2299,7 @@ Main已裁定：连接归属项目不冒真实引用。提供用户明确“设�
 
 MySQL/DM36两原登记SQL候选现为6张新表，增加safe audit表记录真实project-config替换和非秘密版本历史；不增加秘密内容、Native操作或其他产品范围。原5表研究稿保历史，实际6表需后续静审/有限验证，SQL执行仍0。Main已完整亲读166行typed Contracts及wire契约，发现前端interim对可空observedAt拒收已正常交作者修正，不补假时间、不冒已编译或通过。M2.1仍IN_PROGRESS，M2.2 NOT_GO；当前无现场源码写/迁移/HTTP/服务/Git动作。
 
-**Root M2.1 当前有限独核（2026-10-24 17:10轮，17:16 UTC技术接受；下轮前向替换此块）：** 首读套餐used68/余32、ordinarytrue/spendfalse/limitnull。原Work turn01a16e56…已completed/errornull，cursor58，提交节点独验。Root与三名有界非作者已完成修后日志/安装构建、运行接合/交付差额、原三卡/前端层级独核，无新阻断、无未了代理。裁定 **M2.1 ROOT_ACCEPTED（有限技术）**，真人PENDING；产品两仓17:17精确Git已远端核同，文档交付进行中；M2.2在全部Git远端核同后方可进入。报告[m2-1-root-acceptance.md](../implementations/2026-10-24-atlas-registration-m2/m2-1-root-acceptance.md)。
+**Root M2.1 当前有限独核（2026-10-24 17:10轮，17:16 UTC技术接受；下轮前向替换此块）：** 首读套餐used68/余32、ordinarytrue/spendfalse/limitnull。原Work turn01a16e56…已completed/errornull，cursor58，提交节点独验。Root与三名有界非作者已完成修后日志/安装构建、运行接合/交付差额、原三卡/前端层级独核，无新阻断、无未了代理。裁定 **M2.1 ROOT_ACCEPTED（有限技术）**，真人PENDING；产品两仓17:17及公开56文17:20已精确Git远端核同；本块与交付文作为后继2文回执保存，核远端后向原Work放行M2.2。M1/M2.1不重开。报告[m2-1-root-acceptance.md](../implementations/2026-10-24-atlas-registration-m2/m2-1-root-acceptance.md)。
 
 原三卡主线充分：NEW 0286b1a4…创建/刷新1/1→KEEP2/1→替换3/2→显式引用v1固定3/2→确认禁用4/2并刷新；EXISTING fed938cd…在合法隔离C项目保存/刷新1/0，保f3832cc7原服务UUID，批准本地目录NOT_LIVE_VERIFIED。原终末3SELECT安全投影支持2秘密epoch/精确Unicode空格/不同nonce/6operation+6audit/引用保留。普通/跨scope/伪ref/disabled resolve依已有有限方法，不冒本批认证HTTP现场；匿名两次business401另列，104标签超时不算覆盖。仅1512×806浏览器代表；不冒窄屏/200%/全键盘/全认证链。
 
@@ -2309,7 +2309,9 @@ MySQL/DM36两原登记SQL候选现为6张新表，增加safe audit表记录真�
 
 真实修后只新合成连接397a4e92-bf88-48ad-956b-41e85c985bfa CREATE1/1→REPLACE2/2；Root亲读两完整AX与保存PNG、official exec-cd54a503及日志安全结果：16:57:48新标记0/0，旧日志原标记1/1保留，原project配置不改。无真实凭据轮换/源访问/OM业务写，未重演主线。旧ACTUAL_LOG_LEAK_NOT_ACCEPTED/logScanPending为历史原件，后继闭合不回填。Root没读私有日志/标记值/argv/会话/SQL全行，未做产品操作。
 
-产品交付已核：Cloud6090e9a3→c95a5cef89198aa59861d80a1a178d8854839658（21）、React5b0780ea→ee314de2bc29a14fd6c865e6790cd892f0484446（13），push/ls-remote同，34提交blob同final cut668c76aa…；React用HEAD-only13、7重叠旧WIP保留，Cloud3/React16其它tracked WIP不夹带。52公开精选510567B/4PNG无秘密值/私有RAW，大树不递归；允许无敏感构建argv与本地引用，不发布私有运行100参数。Git使用产品原分支与文档codex/atlas-registration-m1-docs，禁止推本地main或全E。实际结果另记[m2-1-git-delivery.md](../implementations/2026-10-24-atlas-registration-m2/m2-1-git-delivery.md)。
+产品交付已核：Cloud6090e9a3→c95a5cef89198aa59861d80a1a178d8854839658（21）、React5b0780ea→ee314de2bc29a14fd6c865e6790cd892f0484446（13），push/ls-remote同，34提交blob同final cut668c76aa…；React用HEAD-only13、7重叠旧WIP保留，Cloud3/React16其它tracked WIP不夹带。52公开精选510567B/4PNG无秘密值/私有RAW，大树不递归；允许无敏感构建argv与本地引用，不发布私有运行100参数。文档codex/atlas-registration-m1-docs从8f60d6fe→13a5b2de819fb457fea7e42e08c1d3b6e120ac0d（56精选）已push/remote同，独立index保main315216c6/347无关提交/真实index。首attempt只Root新报告EOF空行在commit前失败，精确去该空行后成功，原失败保；非审批拒绝。后继2文回执保持相同交付规则，禁止推本地main或全E。实际结果另记[m2-1-git-delivery.md](../implementations/2026-10-24-atlas-registration-m2/m2-1-git-delivery.md)。
+
+后继M2.2严格只读实际执行节点诊断：按原§6三卡核源网络/TLS/身份/可见范围、OM身份/权限和版本，结果绑定connection/secret版本与真实节点。错误密码/不可达/TLS错误/可连不可见/OM拒绝分别有原因；未批准/云元数据地址/任意OM URL/重定向拒绝，换秘密撤旧绿。不拿浏览器或Web节点代替实际节点，不以SELECT1覆盖范围；不得源DML/DDL/业务行查询或OM写，不进入M3。现M2.1样本均非工作合成值，不能冒真实源凭据；必要批准环境/合法配置按原范围正常核，常规最小修复不等待Root逐步许可。
 
 
 ### 17.101 M2.1本地候选与21个有限方法已有成功证据，仍待页面/现场（2026-10-24）
