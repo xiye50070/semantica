@@ -1,6 +1,6 @@
 # M1.5 精确 Git 交付
 
-2026-10-24 14:31 UTC：产品两仓已实际提交、推送并独立核对远端。M1.5已有限技术ROOT_ACCEPTED；本文件初稿时文档分支交付尚待，完成后在本报告补真实回执。真人最终PENDING，不冒USER_ACCEPTED。
+2026-10-24 14:31 UTC：产品两仓已实际提交、推送并独立核对远端。M1.5已有限技术ROOT_ACCEPTED；文档精选已实际交付，回执见下文。真人最终PENDING，不冒USER_ACCEPTED。
 
 | 仓库/分支 | 父提交 → 本次提交 | 精确范围 |
 | --- | --- | --- |
@@ -15,6 +15,12 @@
 
 文档分支沿 `codex/atlas-registration-m1-docs` 的 `cda1cf6884285e2adf6df451f92dc9069dfb4520` 前进，采用独立index/read-tree/commit-tree；保本地main `315216c6808c99542ac912a0a2f26bef7b988346`、真实index及347个无关提交，禁止直接推本地main。
 
-操作临时回执保于 `/private/tmp/m15-root-git-backend-actual.json` 和 `/private/tmp/m15-root-git-frontend-actual.json`，不另归档。完整验证边界见[Root验收](m1-5-root-acceptance.md)。M2.1须在本节点全部Git及整M1独验完成后才放行。
+操作临时回执保于 `/private/tmp/m15-root-git-backend-actual.json` 和 `/private/tmp/m15-root-git-frontend-actual.json`，不另归档。完整验证边界见[Root验收](m1-5-root-acceptance.md)。整M1有限独验见[m1-root-acceptance.md](m1-root-acceptance.md)；本回执、整M1报告及唯一账一并推送完成后只放行M2.1。
 
 文档首次预提交在diff --check停止：3份原始AX中5行列表标记含原始尾空格，尚未生成commit或更新分支。原失败临时回执保留；续接只豁免4份具名AX快照的空白检查，其他文件仍严格检查，所有选定原件字节不改。此为格式检查失败，不是自动审批拒绝。
+
+## 文档实际交付
+
+25项精选已由独立index提交 `e912667f6295b04ba32d3f3c0f54432d7749b866`，父为 `cda1cf6884285e2adf6df451f92dc9069dfb4520`；push成功，ls-remote精确同。本地main、实际index、所选工作区字节均保持。原首次格式检查失败回执留存，成功回执为 `/private/tmp/m15-root-docs-initial-r2-actual.json`。
+
+本报告、整M1有限验收与唯一账形成后续3文回执提交；其精确commit/remote写入工具实际回执 `/private/tmp/m15-root-docs-receipt-actual.json` 和自动化检查点，不在自身内容递归嵌入自身commit哈希。没有另建历史账或推送本地main。

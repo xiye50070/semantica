@@ -2145,13 +2145,13 @@ M1.5 IN_PROGRESS：仅原四组验收，合法User/Team及当前实际资格、�
 
 不写Project三WIP、PermissionStore或M1.1本地意图表，不拿其LOCAL_CHECK假装承载Native成功；本节点单派/ACK/UNKNOWN为具体Reviewer journal，不做通用恢复平台。现状共享S6+只读AC2必须server硬阻更新；User必要资格与执行人本G当前操作权分开，Team未证不绿；legacy模式兼容与read-only资格自身不递归触发write fence为必要有限边界。前端仍首批7路径。当前先E15候选及真实typed wire对齐，产品落盘/迁移/运行验证尚未发生；原四卡不减，M2 NOT_GO。主要实现批次前官方普通used48/余52，ordinarytrue/spendfalse/limitnull，仅套餐。
 
-**Root 节点独验与交付（2026-10-24 14:10轮，截至14:31 UTC）：** 首读套餐used58/余42、ordinarytrue/spendfalse/limitnull。原Work已完成授权后唯一Reviewer写及维护；Root与三个有界非作者亲读关键原结果/安全投影/源码差额/实际AX与3PNG，未执行产品测试、SQL、HTTP、浏览器或服务。M1.5于14:30 `ROOT_ACCEPTED`（有限技术），真人PENDING。报告见[m1-5-root-acceptance.md](../implementations/2026-10-23-atlas-registration-m1/m1-5-root-acceptance.md)。
+**Root 节点独验与交付（2026-10-24 14:10轮，截至14:35 UTC）：** 首读套餐used58/余42、ordinarytrue/spendfalse/limitnull。原Work已完成授权后唯一Reviewer写及维护；Root与三个有界非作者亲读关键原结果/安全投影/源码差额/实际AX与3PNG，未执行产品测试、SQL、HTTP、浏览器或服务。M1.5于14:30 `ROOT_ACCEPTED`（有限技术），真人PENDING。报告见[m1-5-root-acceptance.md](../implementations/2026-10-23-atlas-registration-m1/m1-5-root-acceptance.md)。
 
 实际Reviewer intent309706cd…/keyd24a8e23…，唯一PATCH17201/200、G7daa15c1…0.1→0.2/仅104，17203独立GET及保护字段核对。映射配置4→5禁用→6恢复，Native0；恢复先未核，8GET后14:00:26.616新READY，TTL14:02:26.616到期正常撤绿。终末14:09:35五SELECT exit0，非联合快照，S6v3/config6/b9cred2及AC2旧G/v2/config1保持；ReviewerSUCCEEDED/v6/ACK/原key/两旧Root历史不变。17185→17219为33GET＋1PATCH，末GET17167/auth15/ordinary14/mut52/object22；原17162失败、UNKNOWN/latch/namespace保持，凭据和策略不重发。两个新有限window分别refresh10GET与grant23GET/1PATCH，原过期窗未延长；现均过期，不为归档补绿。
 
 本轮明确发现的卡3身份修复链接缺口，Work已最小改两FE源：身份不可用→本项目modeling-access并保人员/实例/原任务；共享只读仍→独立目标。Root与非作者核候选/接收页/实际2PASS7skip及14:27完整gate-tsc-Vite0。占位接收页测试与实际接线源码分层，不冒真实身份页回归；旧失ACK/晚回复及已完成真实维护充分复用。Panel dd9bc51f…/test e48f8862…，两源安装，其余38输入保持。原六后台/十二FE分时结果、DM35和未变包复用；Team与完整模型同步未验、旧浏览器wrapper3及原失败保留。
 
-精确产品Git已远端核同：Cloud2e6f0bcd…→6090e9a3ec00ae0db202ceb6b6ac1017dc3598ab（14）；Reactbd8ac636…→5b0780eae5198de33fe6f9afcc35bfb4b7308e07（7）。21提交blob匹配已验cut，Cloud3/React16其它tracked WIP及工作区/index保持。文档分支精选交付正在执行；整M1有限报告核对已无额外必需缺项，但M2.1仍等本次全部Git和整M1正式结论后放行，不在此提前实施。公开精选不含实际argv/RAW/SQL行或全evidence树。旧M1.1–M1.4不重开。
+精确产品Git已远端核同：Cloud2e6f0bcd…→6090e9a3ec00ae0db202ceb6b6ac1017dc3598ab（14）；Reactbd8ac636…→5b0780eae5198de33fe6f9afcc35bfb4b7308e07（7）。21提交blob匹配已验cut，Cloud3/React16其它tracked WIP及工作区/index保持。文档25精选已由cda1cf68…→e912667f6295b04ba32d3f3c0f54432d7749b866推送、remote核同，独立index保本地main315216c6/真实index及347无关提交。首轮因原AX5行列表尾空格停止、未生成commit；续接仅豁免4份具名AX的空白检查，原字节不改，旧失败保留。整M1于14:35 ROOT_ACCEPTED_FINITE_TECHNICAL，报告[m1-root-acceptance.md](../implementations/2026-10-23-atlas-registration-m1/m1-root-acceptance.md)。M1.1后续真实部署/消费者依赖由已验M1.2–1.5补足，原有限隔离结论不改。三个回执文档本次精确推送完成后，只放行原Work M2.1连接生命周期/秘密管理，M2.2仍NOT_GO；真人PENDING。公开精选不含实际argv/RAW/SQL行或全evidence树。旧M1.1–M1.4不重开。
 
 ### 17.88 M1.5 前向源码收口、离线完整package与受影响验证在途（2026-10-24）
 
