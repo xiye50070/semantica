@@ -1,0 +1,25 @@
+{
+  "GitIndexWrites": 0,
+  "HTTP": 0,
+  "SQL": 0,
+  "at": "2026-10-24T19:55:28.179654+00:00",
+  "automaticRetry": false,
+  "automaticRollback": false,
+  "kind": "M22_WORKER_HTTP_STATUS_TWO_SOURCE_INSTALLATION",
+  "newCredentialCount": 0,
+  "newRuntimePin": "sha256:c6f801571251581acffb19518cdc878b7c0264f321aeface35474cfe668afdf3",
+  "oldRuntimePin": "sha256:e3f0a071ea15cc76734ff239c624ff9321b3ca0c62e1e3406e90b04797e253cd",
+  "preparation": {
+    "bytes": 23337,
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/worker-http-status-adoption-r1/preparation.json",
+    "sha256": "f2dad9e2540a989c54c71e5faddcdd5fb29b4b9260834ba6072d5befe13b3638"
+  },
+  "privateConfigurationHashedOrCopied": false,
+  "protected19Preserved": true,
+  "registryFile": null,
+  "serviceActions": 0,
+  "sourceCount": 2,
+  "sourceGuard30": true,
+  "state": "M22_WORKER_HTTP_STATUS_TWO_SOURCES_INSTALLED_NOT_DEPLOYED",
+  "tokenContentsRead": false
+}

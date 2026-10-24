@@ -1,0 +1,138 @@
+{
+  "kind": "ACTUAL_JUNIT_IDS_RECONCILED_NOT_A_SINGLE_FINAL_MATRIX",
+  "uniqueMethods": 17,
+  "methodExecutions": 26,
+  "methodAssertionFailures": 0,
+  "methodSkipped": 0,
+  "attempts": [
+    {
+      "directory": "verification-r3",
+      "found": 12,
+      "succeeded": 12,
+      "failed": 0,
+      "skipped": 0,
+      "failures": [],
+      "methodIds": [
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:explicitMappedAccountAndCurrentAdminPrecedeHistoricalReceiptAndDrift()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:strictFourFieldParserRejectsBodyAuthorityTypesDuplicatesAndTrailing()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:callbackBindingSingleBorrowSourceVersionSpecialFailureAndNoSecretPersistence()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticStoreTest]/[method:twoRealConnectionsClaimOnlyOnceAndRestartPreservesUnknown()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticStoreTest]/[method:expiredDeadlineNeverBorrowsOrAcceptsSuccess()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticStoreTest]/[method:borrowAndPhaseAreSingleUseAndVerifiedFinishCannotBeDowngraded()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticTransportTest]/[method:canonicalAddressRejectsEveryMetadataCategoryBeforeAnyClient()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticTransportTest]/[method:registryVersionExcludesCredentialPathsButPinsRuntimeAndRoutes()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticTransportTest]/[method:exactFourRoutesCannotReadRowsOrWriteOrSmuggleAName()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.omidentity.OmOrdinaryExistingBearerTest]/[method:cacheOnlyNeverLogsInRefreshesReadsPasswordOrCallsNativeAndClearsBorrowedClone()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.framework.apilog.core.filter.MetadataConnectionSensitiveRouteTest]/[method:internalDiagnosticCallbackNamespaceIsSensitiveBeforeHandlerSelection()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.gateway.filter.logging.MetadataConnectionSensitiveRouteTest]/[method:internalDiagnosticCallbackNamespaceIsSensitiveBeforeHandlerSelection()]"
+      ],
+      "backgroundExceptionCount": 1,
+      "stderrBytes": 4658
+    },
+    {
+      "directory": "verification-r4",
+      "found": 4,
+      "succeeded": 4,
+      "failed": 0,
+      "skipped": 0,
+      "failures": [],
+      "methodIds": [
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:fullSuccessProducesSafeJavaWireFixture()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:explicitIdentityOptionsNeverSelectAnAccountOrExposeUnavailableMapping()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:callbackBindingSingleBorrowSourceVersionSpecialFailureAndNoSecretPersistence()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticTransportTest]/[method:boundedBodyCancelsBeforeUnboundedTransferAndCompletesOnlyAfterTheBody()]"
+      ],
+      "backgroundExceptionCount": 0,
+      "stderrBytes": 139
+    },
+    {
+      "directory": "verification-r5",
+      "found": 2,
+      "succeeded": 2,
+      "failed": 0,
+      "skipped": 0,
+      "failures": [],
+      "methodIds": [
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:fullSuccessProducesSafeJavaWireFixture()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:strictFourFieldParserRejectsBodyAuthorityTypesDuplicatesAndTrailing()]"
+      ],
+      "backgroundExceptionCount": 1,
+      "stderrBytes": 4658
+    },
+    {
+      "directory": "verification-r7",
+      "found": 3,
+      "succeeded": 3,
+      "failed": 0,
+      "skipped": 0,
+      "failures": [],
+      "methodIds": [
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:fullSuccessProducesSafeJavaWireFixture()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:callbackBindingSingleBorrowSourceVersionSpecialFailureAndNoSecretPersistence()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:restartedAuthorizedReadReconcilesDeadlineOnceWithoutRedispatchOrLosingPhase()]"
+      ],
+      "backgroundExceptionCount": 2,
+      "stderrBytes": 7212
+    },
+    {
+      "directory": "verification-r8",
+      "found": 1,
+      "succeeded": 1,
+      "failed": 0,
+      "skipped": 0,
+      "failures": [],
+      "methodIds": [
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:restartedAuthorizedReadReconcilesDeadlineOnceWithoutRedispatchOrLosingPhase()]"
+      ],
+      "backgroundExceptionCount": 0,
+      "stderrBytes": 139
+    },
+    {
+      "directory": "verification-r9",
+      "found": 1,
+      "succeeded": 1,
+      "failed": 0,
+      "skipped": 0,
+      "failures": [],
+      "methodIds": [
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:fullSuccessProducesSafeJavaWireFixture()]"
+      ],
+      "backgroundExceptionCount": 0,
+      "stderrBytes": 139
+    },
+    {
+      "directory": "verification-r10",
+      "found": 2,
+      "succeeded": 2,
+      "failed": 0,
+      "skipped": 0,
+      "failures": [],
+      "methodIds": [
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:fullSuccessProducesSafeJavaWireFixture()]",
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticApiTest]/[method:restartedAuthorizedReadReconcilesDeadlineOnceWithoutRedispatchOrLosingPhase()]"
+      ],
+      "backgroundExceptionCount": 0,
+      "stderrBytes": 139
+    },
+    {
+      "directory": "verification-r11",
+      "found": 1,
+      "succeeded": 1,
+      "failed": 0,
+      "skipped": 0,
+      "failures": [],
+      "methodIds": [
+        "[engine:junit-jupiter]/[class:cn.iocoder.atlas.module.infra.ontology.OntologyMetadataConnectionDiagnosticStoreTest]/[method:mysqlDialectLargeLegalMetadataPayloadRoundTripsInIsolatedH2()]"
+      ],
+      "backgroundExceptionCount": 0,
+      "stderrBytes": 0
+    }
+  ],
+  "compileOnlyFailures": {
+    "verification-r2": "test generic assertEquals overload; zero methods",
+    "verification-r6": "new safeProjection Java regex escape; zero methods"
+  },
+  "backgroundCleanup": "Earlier r5/r7 method PASS does not erase asynchronous H2 teardown exceptions. Final service waits only its own executor without force; r8/r9/r10 have no background exception.",
+  "H2SQL": "isolated memory only",
+  "realMySQL_DM_OM_Worker": "NOT_EXECUTED"
+}

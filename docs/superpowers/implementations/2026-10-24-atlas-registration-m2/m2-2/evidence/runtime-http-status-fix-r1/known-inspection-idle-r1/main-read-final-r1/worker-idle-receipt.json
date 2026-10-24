@@ -1,0 +1,22 @@
+{
+  "DDL": 0,
+  "DML": 0,
+  "HTTP": 0,
+  "automaticRetry": false,
+  "connectionLocalReadOnlyPragma": 1,
+  "counts": {
+    "workerActive": 0,
+    "workerLiveLease": 0,
+    "workerUnclassifiedUnknown": 0
+  },
+  "explicitSelects": 1,
+  "finishedAt": "2026-10-24T20:26:25.399781Z",
+  "historicalUnknown": {
+    "worker": 0
+  },
+  "kind": "M22_WORKER_SQLITE_IDLE_COMPONENT",
+  "queryStartedAt": "2026-10-24T20:26:25.399636Z",
+  "readOnly": true,
+  "storeConstructorInvoked": false,
+  "unclassifiedUnknownMustBlock": true
+}

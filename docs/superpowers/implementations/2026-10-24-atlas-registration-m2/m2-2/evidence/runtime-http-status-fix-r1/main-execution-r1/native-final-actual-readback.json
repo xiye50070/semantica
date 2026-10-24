@@ -1,0 +1,141 @@
+{
+  "kind": "M22_R5_REAL_NATIVE_LIMITED_READBACK",
+  "at": "2026-10-24T20:24:22.750546+00:00",
+  "windowId": "0d8d590d-b7a8-4ea7-a936-9b1c19bb3614",
+  "operationCount": 17263,
+  "old17250PrefixAndAllNamespacesPreserved": true,
+  "globalBusinessStopPreserved": true,
+  "globalStopCode": "UPSTREAM_OR_ACK_UNKNOWN",
+  "currentUsed": {
+    "get": 17206,
+    "logout": 1,
+    "m13_apply": 0,
+    "m13_changeset_create": 1,
+    "m13_glossary_create": 1,
+    "m13_lease_acquire": 1,
+    "m13_phase2_apply": 1,
+    "m13_phase2_lease": 1,
+    "m13_phase2_reviewer": 1,
+    "m13_policy_create": 1,
+    "m13_policy_update": 0,
+    "m13_relationship_create": 1,
+    "m13_remaining_apply": 0,
+    "m13_remaining_lease": 1,
+    "m13_remaining_reviewer": 0,
+    "m13_reviewer_update": 0,
+    "m13_role_attach": 1,
+    "m13_role_attach_continuation": 1,
+    "m13_term_create": 1,
+    "m13_term_update": 1,
+    "m14_root_create": 1,
+    "m15_reviewer_grant": 1,
+    "m15_root_create": 1,
+    "management_auth": 18,
+    "mutating": 57,
+    "object_writes": 22,
+    "ordinary_login": 16,
+    "password_rotate": 1,
+    "policy_create": 1,
+    "policy_sync": 0,
+    "profile_sync": 1,
+    "role_create": 1,
+    "team_create": 1,
+    "user_create": 1
+  },
+  "newAuthRefresh": 0,
+  "newSemanticWrites": 0,
+  "newNativeCalls": 13,
+  "newGET": 12,
+  "newOrdinaryLogin": 1,
+  "startup5": true,
+  "warm4": true,
+  "diagnostic": {
+    "completed": 3,
+    "ordinal": 1,
+    "rawHTTP": [
+      {
+        "capture": {
+          "bytes": 2732,
+          "file": "call-17261.response.raw.json"
+        },
+        "category": "get",
+        "sequence": 17261,
+        "stage": "diagnostic-1-0",
+        "status": 200
+      },
+      {
+        "capture": {
+          "bytes": 108,
+          "file": "call-17262.response.raw.json"
+        },
+        "category": "get",
+        "sequence": 17262,
+        "stage": "diagnostic-1-1",
+        "status": 200
+      },
+      {
+        "capture": {
+          "bytes": 4561,
+          "file": "call-17263.response.raw.json"
+        },
+        "category": "get",
+        "sequence": 17263,
+        "stage": "diagnostic-1-2",
+        "status": 200
+      }
+    ],
+    "result": "OBSERVED_NOT_QUALIFIED",
+    "terminal": true
+  },
+  "safeDiagnosticRawFacts": [
+    {
+      "stage": "diagnostic-1-0",
+      "sequence": 17261,
+      "status": 200,
+      "captureBytes": 2732,
+      "rawCaptureSHA256": "0a885494e8afce95332a0d98733bad2906c4b75eccb76907ac192919051a1f63",
+      "nativeUserId": "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+      "admin": false,
+      "bot": false,
+      "deleted": false
+    },
+    {
+      "stage": "diagnostic-1-1",
+      "sequence": 17262,
+      "status": 200,
+      "captureBytes": 108,
+      "rawCaptureSHA256": "d9a9e16203ed5ef4d30007f64453ecae2790e3dd8bf6bf6d59b620893d2ea87e",
+      "nativeVersionObserved": "2.0.0-SNAPSHOT",
+      "doesNotOverrideUiVersionNotRun": true
+    },
+    {
+      "stage": "diagnostic-1-2",
+      "sequence": 17263,
+      "status": 200,
+      "captureBytes": 4561,
+      "rawCaptureSHA256": "5ef215de20b7a72e734944ff71c3b6c5a1757d5cf6b4076a5758e7eaaa7f7b09",
+      "resource": "databaseService",
+      "createAccess": [
+        "conditionalAllow"
+      ],
+      "permissionExpanded": false,
+      "conditionalIsNotUnconditionalAllow": true
+    }
+  ],
+  "uiOutcome": "OM_PERMISSION_CONDITIONAL; firstfive passed; permissions failed; version NOT_RUN",
+  "newDiagnosticId": "44579eeb-b23c-40d7-842a-fd594d68a68f",
+  "newOperationKey": "31c8cd72-dfb6-4b16-ae84-5aa8ff308a78",
+  "sourceSQLWireNotSeparatelyCaptured": true,
+  "sourceExplicitMetadataSQLMaximumByFixedAdapter": 5,
+  "stateSHA256": "1e580d6d6826519905bcf21db556736f3b4addb95b46c7689eb971df1d2d3b9b",
+  "stateBytes": 3583279,
+  "priorReadonlyReaderError": {
+    "officialChunk": "515073",
+    "cause": "expected guessed access conditional, actual raw is conditionalAllow",
+    "errorBeforeReportWrite": true,
+    "forwardSafeProjectionChunk": "6a78de"
+  },
+  "HTTPByThisRead": 0,
+  "SQLByThisRead": 0,
+  "signalsByThisRead": 0
+}

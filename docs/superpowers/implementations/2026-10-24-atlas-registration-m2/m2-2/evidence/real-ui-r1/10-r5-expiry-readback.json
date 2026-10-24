@@ -1,0 +1,16 @@
+{
+  "kind": "M22_ORIGINAL_NEW_DIAGNOSTIC_EXPIRY_READBACK",
+  "at": "2026-10-24T20:27:05.848976+00:00",
+  "diagnosticId": "44579eeb-b23c-40d7-842a-fd594d68a68f",
+  "operationKey": "31c8cd72-dfb6-4b16-ae84-5aa8ff308a78",
+  "expiresAt": "2026-10-24T20:26:41.596Z",
+  "sameIdAndKey": true,
+  "uiMarkedExpired": true,
+  "NativeStateBytesSHAUnchanged": true,
+  "nativeOperationCount": 17263,
+  "newDiagnosticResubmission": false,
+  "newNativeHTTP": 0,
+  "sourceProbeRerun": false,
+  "sourceWireNotIndependentlyRecaptured": true,
+  "originalFailedB337Preserved": true
+}

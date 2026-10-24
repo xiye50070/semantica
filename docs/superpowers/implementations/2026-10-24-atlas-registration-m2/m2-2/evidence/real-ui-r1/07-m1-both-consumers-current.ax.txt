@@ -1,0 +1,297 @@
+Browser tab: 979676260, Title: "Atlas · 管理工作台", URL: "http://127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/modeling-access?account=104&instance=om-p1-isolated&identityTask=a37e3594-bfe4-42e9-8532-2e68404d8fa0#modeling-consumer".
+1 AXWebArea Atlas · 管理工作台, URL: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/modeling-access?account=104&instance=om-p1-isolated&identityTask=a37e3594-bfe4-42e9-8532-2e68404d8fa0#modeling-consumer
+	2 container root
+		3 link Description: 跳转到主要内容, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/modeling-access?account=104&instance=om-p1-isolated&identityTask=a37e3594-bfe4-42e9-8532-2e68404d8fa0#main-content
+		4 container 主导航
+			5 link Description: Atlas, Value: 127.0.0.1:5188/next
+			6 text 企业管理空间
+			7 container
+				8 text 管理控制台
+				9 menu
+					10 (collapsed) appstore 系统管理, Secondary Actions: Expand
+						11 image appstore
+						12 text 系统管理
+					13 (collapsed) appstore 基础设施, Secondary Actions: Expand
+						14 image appstore
+						15 text 基础设施
+					16 (collapsed) appstore 工作流程, Secondary Actions: Expand
+						17 image appstore
+						18 text 工作流程
+					19 (expanded) appstore 本体管理, Secondary Actions: Collapse
+						20 image appstore
+						21 text 本体管理
+					22 menu rc-menu-uuid-_r_2_-ontology:management-popup
+						23 apartment 知识空间
+							24 image apartment
+							25 link Description: 知识空间, Value: 127.0.0.1:5188/next/ontology/spaces
+						26 apartment 本体项目
+							27 image apartment
+							28 link Description: 本体项目, Value: 127.0.0.1:5188/next/ontology/projects
+						29 apartment 数据源接入
+							30 image apartment
+							31 link Description: 数据源接入, Value: 127.0.0.1:5188/next/ontology/data-sources
+					32 search 知识查询
+						33 image search
+						34 link Description: 知识查询, Value: 127.0.0.1:5188/next/ontology/query
+			35 button 账户菜单
+				36 image
+				37 text 管理员
+				38 text admin
+				39 image down
+		40 container
+			41 button (expanded) Description: 收起导航, Secondary Actions: Collapse
+				42 container menu-fold
+			43 text 工作空间
+			44 text 本体管理
+			45 button 访问租户
+			46 button 搜索页面
+				47 text 搜索页面
+				48 text ⌘ K
+			49 button 我的消息，1 条未读
+				50 container bell
+			51 text 1
+		52 container
+			53 link Description: 返回项目准备, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/readiness#identity
+			54 text 项目准备 · 身份与操作资格
+			55 heading M1 S6身份准备验证 · 建模权限, Value: 1
+				56 text M1 S6身份准备验证
+				57 text  · 建模权限
+			58 text 接入受管人员身份，并核对真实模型客户端是否消费当前配置。
+			59 text 身份映射与只读检查不授予建模写权限；各项资格见操作权限与验证。
+			60 container 建模权限分区
+				61 link Description: 人员与身份, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/modeling-access?account=104&instance=om-p1-isolated&identityTask=a37e3594-bfe4-42e9-8532-2e68404d8fa0#modeling-identity
+				62 link Description: 只读消费资格, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/modeling-access?account=104&instance=om-p1-isolated&identityTask=a37e3594-bfe4-42e9-8532-2e68404d8fa0#modeling-consumer
+				63 link Description: 操作权限与验证, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/modeling-access?account=104&instance=om-p1-isolated&identityTask=a37e3594-bfe4-42e9-8532-2e68404d8fa0#modeling-operations
+				64 link Description: 身份维护, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/modeling-access?account=104&instance=om-p1-isolated&identityTask=a37e3594-bfe4-42e9-8532-2e68404d8fa0#modeling-maintenance
+			65 container modeling-identity
+				66 heading 人员与身份, Value: 2
+					67 text 人员与身份
+				68 text 从当前有权人员与批准实例中选择；本项目范围不可手动扩大。
+				69 text 查找建模人员
+				70 text field (settable) 查找建模人员, ID: modeling-person-search
+				71 button 查找人员
+				72 text 建模人员
+				73 container
+					74 text 测试号 · 104
+					75 combo box (collapsed) Description: 建模人员, Secondary Actions: Expand
+					76 image down
+				77 text 批准实例
+				78 container
+					79 text 受管 OpenMetadata
+					80 combo box (collapsed) Description: 批准实例, Secondary Actions: Expand
+					81 image down
+				82 definition list
+					83 container 项目范围
+						84 text 项目范围
+					85 text M1 S6身份准备验证
+					86 container 空间
+						87 text 空间
+					88 text 1447855d-bf9e-41d7-a9b3-ed641290d6a7
+					89 container 项目版本
+						90 text 项目版本
+					91 text 3
+				92 button 更新身份
+				93 definition list
+					94 container 身份映射
+						95 text 身份映射
+					96 text 已映射
+					97 container 原生同步
+						98 text 原生同步
+					99 text 已同步
+					100 container 映射版本
+						101 text 映射版本
+					102 text 9
+					103 container 凭据版本
+						104 text 凭据版本
+					105 text 2
+				106 text 原生身份 UUID
+				107 text 2d0540a5-d6fd-4f24-a5a4-270eaa54dc26
+			108 container modeling-consumer
+				109 heading 只读消费资格, Value: 2
+					110 text 只读消费资格
+				111 text 身份映射、客户端实际消费和建模操作资格分别核验；普通资源可读不代表可以建模写入。
+				112 button 只读检查
+				113 text 仅核对本人身份与当前版本，不读取模型资源或业务行，不授予写权。
+				275 definition list
+					276 container 配置版本
+						277 text 配置版本
+					278 text 6
+					279 container 身份版本
+						280 text 身份版本
+					281 text 9
+					282 container 凭据版本
+						283 text 凭据版本
+					284 text 2
+				285 content list
+					286 container
+						287 heading 模型客户端, Value: 3
+							288 text 模型客户端
+						289 text 当前身份已消费 检查时间： 2026/10/25 04:21:01
+					290 container
+						291 heading Worker, Value: 3
+							292 text Worker
+						293 text 当前身份已消费 检查时间： 2026/10/25 04:21:01
+				294 text 只读检查仅证明身份消费，建模写资格见操作权限与验证。
+			114 container modeling-operations
+				115 heading 操作权限与验证, Value: 2
+					116 text 操作权限与验证
+				117 text 配置保存、受管策略同步与普通人员实际操作资格分别记录；写验证需要独立确认。
+				118 definition list
+					119 container 配置保存
+						120 text 配置保存
+					121 text 权限版本 1
+					122 container 期望操作
+						123 text 期望操作
+					124 text 创建隔离目标、读取目标、更新审核人、创建术语、更新术语、维护关系类型、创建变更集、取得操作租约、应用变更集、验证模型、模型读回
+					125 container 原生策略同步
+						126 text 原生策略同步
+					127 text 已同步
+				128 text 仅受管策略当前投影已读回；逐操作资格独立
+				129 text 建模操作资格逐项记录；受管身份和只读消费证明不能代替写验证。
+				130 button 更新操作权限
+				131 button 更新操作资格
+				132 table
+					133 row
+						134 cell
+							135 text 操作
+						136 cell
+							137 text 当前资格
+						138 cell
+							139 text 依据与原因
+					140 row
+						141 cell
+							142 text 创建隔离目标
+						143 cell
+							144 text 未验证
+						145 cell
+							146 text 当前操作尚无独立实际资格证据
+					147 row
+						148 cell
+							149 text 读取目标
+						150 cell
+							151 text 未验证
+						152 cell
+							153 text 当前操作尚无独立实际资格证据
+					154 row
+						155 cell
+							156 text 更新审核人
+						157 cell
+							158 text 未验证
+						159 cell
+							160 text 当前操作尚无独立实际资格证据
+					161 row
+						162 cell
+							163 text 创建术语
+						164 cell
+							165 text 未验证
+						166 cell
+							167 text 当前操作尚无独立实际资格证据
+					168 row
+						169 cell
+							170 text 更新术语
+						171 cell
+							172 text 未验证
+						173 cell
+							174 text 当前操作尚无独立实际资格证据
+					175 row
+						176 cell
+							177 text 维护关系类型
+						178 cell
+							179 text 未验证
+						180 cell
+							181 text 当前操作尚无独立实际资格证据
+					182 row
+						183 cell
+							184 text 维护公理
+						185 cell
+							186 text 未验证
+						187 cell
+							188 text 当前操作尚无独立实际资格证据
+					189 row
+						190 cell
+							191 text 创建变更集
+						192 cell
+							193 text 未验证
+						194 cell
+							195 text 当前操作尚无独立实际资格证据
+					196 row
+						197 cell
+							198 text 取得操作租约
+						199 cell
+							200 text 未验证
+						201 cell
+							202 text 当前操作尚无独立实际资格证据
+					203 row
+						204 cell
+							205 text 应用变更集
+						206 cell
+							207 text 未验证
+						208 cell
+							209 text 当前操作尚无独立实际资格证据
+					210 row
+						211 cell
+							212 text 验证模型
+						213 cell
+							214 text 未验证
+						215 cell
+							216 text 当前操作尚无独立实际资格证据
+					217 row
+						218 cell
+							219 text 模型读回
+						220 cell
+							221 text 未验证
+						222 cell
+							223 text 当前操作尚无独立实际资格证据
+					224 row
+						225 cell
+							226 text 创建元数据
+						227 cell
+							228 text 未验证
+						229 cell
+							230 text 当前操作尚无独立实际资格证据
+					231 row
+						232 cell
+							233 text 读取元数据
+						234 cell
+							235 text 未验证
+						236 cell
+							237 text 当前操作尚无独立实际资格证据
+					238 row
+						239 cell
+							240 text 更新元数据约束
+						241 cell
+							242 text 未验证
+						243 cell
+							244 text 当前操作尚无独立实际资格证据
+				245 heading 批准的隔离目标, Value: 3
+					246 text 批准的隔离目标
+				247 content list
+					248 container
+						249 text glossary  ·  AtlasM13_3f10ce2157fe_40f32b79e44a40f9 预留隔离根目标
+					250 container
+						251 text glossaryTerm  ·  AtlasM13_3f10ce2157fe_40f32b79e44a40f9Term 预留子目标  · 父目标 glossary
+					252 container
+						253 text relationshipType  ·  atlasM1340f32b79e44a40f9LinksTo 预留隔离根目标
+					254 container
+						255 text ontologyChangeSet  ·  AtlasM13_3f10ce2157fe_40f32b79e44a40f9ChangeSet 预留子目标  · 父目标 glossary
+				256 heading 原写验证操作, Value: 3
+					257 text 原 写验证 操作
+				258 container
+					259 text 原操作键  5c2cd808-d335-41ac-8116-3abb70a59dba  已保留；只读核对原结果，不新键或重发。
+				260 button 核对原操作
+			261 container modeling-maintenance
+				262 heading 身份维护, Value: 2
+					263 text 身份维护
+				264 text 禁用或撤销仅关闭当前项目映射；轮换会影响同一受管身份的全部已列明项目。不会授予建模写权或替代业务身份。
+				265 heading 原身份配置任务, Value: 3
+					266 text 原身份配置任务
+				267 text 身份配置已完成
+				268 text 当前项目配置已保存；操作资格未验证
+				269 container
+					270 text 原任务人员  104  ·  受管 OpenMetadata
+				271 container
+					272 text 任务  a37e3594-bfe4-42e9-8532-2e68404d8fa0
+				273 text 已持久受理；离开页面不会取消任务。
+				274 button 准备新的配置
+
+The focused UI element is 1 AXWebArea Atlas · 管理工作台, URL: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/modeling-access?account=104&instance=om-p1-isolated&identityTask=a37e3594-bfe4-42e9-8532-2e68404d8fa0#modeling-consumer

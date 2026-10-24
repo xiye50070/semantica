@@ -1,0 +1,26 @@
+{
+  "kind": "M22_R5_NODE_PRETERM_IDLE_STOP",
+  "at": "2026-10-24T20:01:42.499763+00:00",
+  "officialChunk": "b94d99",
+  "exitCode": 1,
+  "actualReadFailure": {
+    "state": "STOPPED_READ_ONLY_PREFLIGHT_NO_RETRY",
+    "errorType": "IllegalStateException",
+    "DDL": 0,
+    "DML": 0,
+    "HTTP": 0,
+    "safeCode": "LEGACY_KNOWN_UNKNOWN_COUNT_CHANGED"
+  },
+  "workerSQLiteCounts": {
+    "workerActive": 0,
+    "workerLiveLease": 0,
+    "workerUnclassifiedUnknown": 0
+  },
+  "termIntentAbsent": true,
+  "launchIntentAbsent": true,
+  "signals": 0,
+  "launches": 0,
+  "originalAttemptPreserved": true,
+  "unknownActualCountsNotCapturedByOldReader": true,
+  "decision": "no service retry or baseline relaxation; bounded read-only attribution required"
+}

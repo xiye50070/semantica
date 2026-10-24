@@ -1,0 +1,101 @@
+{
+  "kind" : "M22_NODE_WEB_RUNTIME_IDLE",
+  "queryStartedAt" : "2026-10-24T20:26:25.399636Z",
+  "dmQueryStartedAt" : "2026-10-24T20:26:25.821605Z",
+  "workerQueryStartedAt" : "2026-10-24T20:26:25.399636Z",
+  "workerComponent" : {
+    "DDL" : 0,
+    "DML" : 0,
+    "HTTP" : 0,
+    "automaticRetry" : false,
+    "connectionLocalReadOnlyPragma" : 1,
+    "counts" : {
+      "workerActive" : 0,
+      "workerLiveLease" : 0,
+      "workerUnclassifiedUnknown" : 0
+    },
+    "explicitSelects" : 1,
+    "finishedAt" : "2026-10-24T20:26:25.399781Z",
+    "historicalUnknown" : {
+      "worker" : 0
+    },
+    "kind" : "M22_WORKER_SQLITE_IDLE_COMPONENT",
+    "queryStartedAt" : "2026-10-24T20:26:25.399636Z",
+    "readOnly" : true,
+    "storeConstructorInvoked" : false,
+    "unclassifiedUnknownMustBlock" : true
+  },
+  "legacyUnknownPreserved" : true,
+  "metadataDiagnosticUnknown" : 0,
+  "explicitSelects" : 1,
+  "productGetters" : 0,
+  "DML" : 0,
+  "DDL" : 0,
+  "HTTP" : 0,
+  "retries" : 0,
+  "counts" : {
+    "identityActive" : 0,
+    "identityLiveLease" : 0,
+    "globalActive" : 0,
+    "globalLiveLease" : 0,
+    "localInitializationActive" : 0,
+    "modelingIntentActive" : 0,
+    "modelingInspectionUnfinished" : 0,
+    "modelingQualificationActive" : 0,
+    "rootIntentActive" : 0,
+    "reviewerIntentActive" : 0,
+    "metadataDiagnosticActive" : 0,
+    "metadataDiagnosticUnclassifiedUnknown" : 0,
+    "workerActive" : 0,
+    "workerLiveLease" : 0,
+    "workerUnclassifiedUnknown" : 0
+  },
+  "allIdle" : true,
+  "historicalUnknown" : {
+    "identity" : 0,
+    "global" : 2
+  },
+  "otherHistoricalUnknown" : {
+    "inspection" : 1,
+    "qualification" : 1
+  },
+  "scope" : {
+    "projectId" : "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+    "tenantId" : "1",
+    "accountId" : "104",
+    "instanceId" : "om-p1-isolated",
+    "spaceId" : "1447855d-bf9e-41d7-a9b3-ed641290d6a7"
+  },
+  "currentIdentity" : {
+    "credentialEpoch" : 2,
+    "projectVersion" : 3,
+    "bindingId" : "081dc4a9-a5a4-40e4-9141-634eda235409",
+    "bindingVersion" : 9,
+    "configurationVersion" : 6,
+    "nativeUserId" : "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26"
+  },
+  "originalFacts" : {
+    "finalChildSucceeded" : 1,
+    "rootIntentRows" : 3,
+    "rootIntentUnknown" : 0,
+    "policyTaskSucceeded" : 1,
+    "firstChildRequiresOperator" : 1,
+    "reuseRootSucceeded" : 1,
+    "consumedContinuationClaim" : 1,
+    "reuseProjectCurrent" : 1,
+    "originalRootSucceeded" : 1,
+    "originalQualificationUnknown" : 1
+  },
+  "reviewerRows" : {
+    "intent" : 2,
+    "resource" : 2,
+    "observation" : 5
+  },
+  "acceptedM15ReviewerSucceeded" : 1,
+  "currentMappingMatchesAcceptedM15" : true,
+  "knownExpiredReadonlyInspection" : "268a74e3-8526-4c44-97ff-e0255fc94bb2",
+  "acceptedReadonlyInspectionUnknown" : 1,
+  "knownInspectionStateRewritten" : false,
+  "threadMeasurement" : false,
+  "finishedAt" : "2026-10-24T20:26:25.862870Z"
+}

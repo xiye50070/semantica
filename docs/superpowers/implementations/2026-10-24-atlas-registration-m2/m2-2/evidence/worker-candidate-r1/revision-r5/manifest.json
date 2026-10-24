@@ -1,0 +1,40 @@
+{
+  "state": "E_CANDIDATE_FINITE_PASSED_NOT_INSTALLED",
+  "files": [
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/worker-candidate-r1/revision-r5/source-map.json",
+      "sha256": "3d2a770ba322f27b2c31570f82b943676b1afd04c0af5c1003de3151ab2f9f1f",
+      "bytes": 2022
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/worker-candidate-r1/revision-r5/forward.patch",
+      "sha256": "6045e4c8111ca31fe843a5575fdaf4ad11ce2cc5feef70695216e06cac66a2ae",
+      "bytes": 3731
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/worker-candidate-r1/revision-r5/whole-proof.json",
+      "sha256": "ff8fc87fe96d84a3372df45534e5cc8fbbfe9deee71402f86fbe17eed3230bb0",
+      "bytes": 256
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/worker-candidate-r1/revision-r5/finite-http-status-r1/actual.json",
+      "sha256": "30b8b928c6a5543b20a2f6c70c5166a4939e9d989ceace4745d932e5fef803aa",
+      "bytes": 3231
+    }
+  ],
+  "product": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/worker-candidate-r1/revision-r5/source/integrations/ontology-worker/src/atlas_ontology_worker/metadata_diagnostics.py",
+    "sha256": "a635646d3d14e109f91c6ae5cfd374595b683ab14005a4327927b8364a6d2dca",
+    "bytes": 36942
+  },
+  "check": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/worker-candidate-r1/revision-r5/source/integrations/ontology-worker/tests/test_metadata_diagnostics.py",
+    "sha256": "9a10453a344010703d56b05f148f5a2c2863502b1c63f366b8b577f3e2aa3fd0",
+    "bytes": 32339
+  },
+  "finite": "One new HTTPError502 actual adapter/service case PASS; no old suite rerun",
+  "sourceOrNativeHTTP": 0,
+  "sourceOrSharedSQL": 0,
+  "serviceActions": 0,
+  "originalFailedReportUnchanged": true
+}

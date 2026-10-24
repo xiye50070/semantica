@@ -1,0 +1,83 @@
+{
+  "kind": "M22_NEW_NORMAL_WEB_STARTUP_AND_ORDINARY_WARM_RAW_SAFE_PROJECTION",
+  "at": "2026-10-24T20:30:50.156753+00:00",
+  "startupSafeFacts": [
+    {
+      "stage": "startup-0",
+      "status": 200,
+      "sequence": 17251,
+      "version": "2.0.0-SNAPSHOT"
+    },
+    {
+      "stage": "startup-1",
+      "status": 200,
+      "sequence": 17252,
+      "provider": "basic"
+    },
+    {
+      "stage": "startup-2",
+      "status": 200,
+      "sequence": 17253,
+      "provider": "basic",
+      "emailClaim": "email",
+      "jwtPrincipalClaimsMappingEmpty": true,
+      "useRolesFromProvider": false,
+      "defaultAuthorizer": true
+    },
+    {
+      "stage": "startup-3",
+      "status": 200,
+      "sequence": 17254,
+      "smtpEnabled": false
+    },
+    {
+      "stage": "startup-4",
+      "status": 200,
+      "sequence": 17255,
+      "sameManager": true,
+      "admin": true,
+      "bot": false,
+      "deleted": false
+    }
+  ],
+  "warmSafeFacts": [
+    {
+      "stage": "ordinary-login",
+      "status": 200,
+      "category": "ordinary_login",
+      "sequence": 17256
+    },
+    {
+      "stage": "warm-self-0",
+      "status": 200,
+      "category": "get",
+      "sequence": 17257
+    },
+    {
+      "stage": "warm-self-1",
+      "status": 200,
+      "category": "get",
+      "sequence": 17258
+    },
+    {
+      "stage": "warm-self-2",
+      "status": 200,
+      "category": "get",
+      "sequence": 17259
+    },
+    {
+      "stage": "warm-self-3",
+      "status": 200,
+      "category": "get",
+      "sequence": 17260
+    }
+  ],
+  "ordinarySelfFourMatchesCurrentNonAdmin": true,
+  "currentManagerIdentityConfirmedByActualStartupSelf": true,
+  "managerQualifierWasHistoricalOnly": true,
+  "nativeWireDoesNotCarryAtlasDiagnosticActorOrId": true,
+  "actualWarmRoutesAdmittedByFixedFenceNotSeparateRawRequestCapture": true,
+  "newHTTPByThisRead": 0,
+  "newSQLByThisRead": 0,
+  "privateBodiesOrCredentialsExported": false
+}

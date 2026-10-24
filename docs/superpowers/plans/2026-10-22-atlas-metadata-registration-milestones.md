@@ -2299,19 +2299,17 @@ Main已裁定：连接归属项目不冒真实引用。提供用户明确“设�
 
 MySQL/DM36两原登记SQL候选现为6张新表，增加safe audit表记录真实project-config替换和非秘密版本历史；不增加秘密内容、Native操作或其他产品范围。原5表研究稿保历史，实际6表需后续静审/有限验证，SQL执行仍0。Main已完整亲读166行typed Contracts及wire契约，发现前端interim对可空observedAt拒收已正常交作者修正，不补假时间、不冒已编译或通过。M2.1仍IN_PROGRESS，M2.2 NOT_GO；当前无现场源码写/迁移/HTTP/服务/Git动作。
 
-**Root M2.1 当前有限独核（2026-10-24 17:10轮，17:16 UTC技术接受；下轮前向替换此块）：** 首读套餐used68/余32、ordinarytrue/spendfalse/limitnull。原Work turn01a16e56…已completed/errornull，cursor58，提交节点独验。Root与三名有界非作者已完成修后日志/安装构建、运行接合/交付差额、原三卡/前端层级独核，无新阻断、无未了代理。裁定 **M2.1 ROOT_ACCEPTED（有限技术）**，真人PENDING；产品两仓17:17及公开56文17:20已精确Git远端核同；本块与交付文作为后继2文回执保存，核远端后向原Work放行M2.2。M1/M2.1不重开。报告[m2-1-root-acceptance.md](../implementations/2026-10-24-atlas-registration-m2/m2-1-root-acceptance.md)。
+**Root M2 当前独立验收与交付（2026-10-24 20:41轮，20:46 UTC技术接受；本块前向替换）：** 首读套餐used80/余20、ordinarytrue/spendfalse/limitnull。原Work提交M2.2独验，cursor72；Root纠正其“Git后续M3”越界表述后，Work新turn01a16fa5-bc74-7423-8755-1c0718b296ee completed/errornull，cursor73，已明确不启动M3或重复诊断。三名有界非作者运行/Native/原卡审查及整M2依赖复核均完成，无未闭技术阻断；27公开精选检查也完成。裁定M2.2 **ROOT_ACCEPTED（有限技术）**，整M2 **ROOT_ACCEPTED_FINITE_TECHNICAL**；M1原有限技术接受保持，真人PENDING，M3 NOT_GO。报告为M2目录m2-2-root-acceptance.md、m2-root-acceptance.md，Git结果见m2-2-git-delivery.md。Root未运行产品测试/SQL/HTTP/浏览器/服务；未重复已充分矩阵。
 
-原三卡主线充分：NEW 0286b1a4…创建/刷新1/1→KEEP2/1→替换3/2→显式引用v1固定3/2→确认禁用4/2并刷新；EXISTING fed938cd…在合法隔离C项目保存/刷新1/0，保f3832cc7原服务UUID，批准本地目录NOT_LIVE_VERIFIED。原终末3SELECT安全投影支持2秘密epoch/精确Unicode空格/不同nonce/6operation+6audit/引用保留。普通/跨scope/伪ref/disabled resolve依已有有限方法，不冒本批认证HTTP现场；匿名两次business401另列，104标签超时不算覆盖。仅1512×806浏览器代表；不冒窄屏/200%/全键盘/全认证链。
+真实新诊断44579eeb-b23c-40d7-842a-fd594d68a68f/key31c8cd72-dfb6-4b16-ae84-5aa8ff308a78，连接b02fd17d…/配置1秘密1、实际Worker45025/runtimePin c6f80157…afdf3。20:21:41.596完成→20:26:41.596到期，执行节点/源TLS/源身份/范围/普通OM身份五层PASSED、指定库当前可见2表8列。实际databaseService/Create HTTP200返回conditionalAllow，UI明确OM_PERMISSION_CONDITIONAL/目标权限未通过，版本层NOT_RUN；Native2.0.0-SNAPSHOT读到不代版本层通过。不扩权限补绿。Root亲读3份完整AX/2PNG、official exec-bd0e764f/exec-ef4579c8及实际安全原件；同id/key到期读回不重派、Native状态SHA及17263保持。源SQL未独立抓线；至多5固定元数据SQL由适配器约束，不冒全物理范围或业务行验证。错误密码/不可达/TLS/不可见/拒绝、SSRF/版本与晚回复主要依原有限/静态证据，不冒全现场矩阵。
 
-实际日志漏点已最小闭合：当前Interceptor ab0832eb…/4982B，保handler归属后敏感namespace在payload/环境/计时前退出，普通路由保持；既有测试2新增方法16:42:44–46均PASS。16:46:25仅安装2文件，累计34。后台r2 16:45:59–16:46:16 2673输入/21覆盖源/20模块offline package0且skiptests，Jar918ff2c19848b85a3fecca27c0b980f9ec039f32525bd3bfb8991e42f319c249/178686406B，原11类同、新拦截器类差额；Gateway未打包/部署。FE r6完整gate/tsc/Vite0/1065输入stable旧750kB告警；原后台14、日志7+2、FE17unique分时充分复用，失败原件保，不整套补跑。
+新0d8d590d-b7a8-4ea7-a936-9b1c19bb3614窗20:18:53.066–20:33:53.066已过期；proxy44828/ctime1792873150.910808同账保17250前缀/全部旧NS/全局stop。CURRENT_PAIR_STARTUP_ONLY的refresh/self/CAS0，最后startupSELF才核当前manager；随后原104只读维护双消费者6/9/2通过，非诊断隐式认证。新13调用＝startup5GET+login1/warm4GET+diagnostic3GET；末GET17206/auth18/ordinary16/mut57/object22、语义写0。第四目标GET未执行。前缀/UNKNOWN/latch为Main私有账安全投影，Root未读全账/token/RAW。
 
-新f91eee11-e30b-4be7-a620-2d21fe42bbcd窗16:54:51.723–17:09:51.723现过期，proxy94871→3307、同manager self1/refresh0/CAS0，Atlas95435→3557/ctime1792860940.948173/普通100参数仅Jar变化。16:55:39一idle SELECT保持旧M1关键状态，单TERM/Popen、startup5，无Bootstrap/health HTTP/retry/rollback；初始化SQL未量测。官方exec-d39aca6d/exec-2f424932/exec-3b3a7bbc及实际receipt、Main17:01安全投影核17226→17232仅6GET全200，末GET17179/auth16/ordinary14/mut53/object22；旧prefix/namespace/UNKNOWN/latch保持是私有账公开投影，非Root重读全账。原绑定literal与schema续接两合同窄修/有限结果保，不重DDL或扩权限。
+official exec-d1a662ac与exec-46a1a358原完整结果核Worker45025/ctime1792873190.742332、Web45239/ctime1792873230.299821各单TERM/Popen、普通4/102参数、Java4efe9a8a…包/新111公共pin。Root亲读r4→r5仅三个协议标识校准，原guard0110cbe7…及独占新目录保持；Web输入拼写失败在解析前无产品动作，原失败留。两切换各SQLite1+DM1，终末20:26:25又SQLite1+DM1，15active/lease/unclassified零，原inspection268a74e3…UNKNOWN1/global2/qualification1及M1事实保持。非联合快照，初始化SQL未量测。
 
-真实修后只新合成连接397a4e92-bf88-48ad-956b-41e85c985bfa CREATE1/1→REPLACE2/2；Root亲读两完整AX与保存PNG、official exec-cd54a503及日志安全结果：16:57:48新标记0/0，旧日志原标记1/1保留，原project配置不改。无真实凭据轮换/源访问/OM业务写，未重演主线。旧ACTUAL_LOG_LEAK_NOT_ACCEPTED/logScanPending为历史原件，后继闭合不回填。Root没读私有日志/标记值/argv/会话/SQL全行，未做产品操作。
+旧18585来源误判已撤回：Managed.instance实际来自atlas.om-identity.endpoint=18587/api，catalog非borrow来源；旧b337失败与当时stop返回502是配置/源码推导，未独立捕获原wire，不改写FAILED。原凭据轮换、政策/Reviewer、全部失败/RAW/key/UNKNOWN/latch保，不重演旧M1或M21。后台20模块offline package0/skiptests、前端完整gate/tsc/Vite0、DM37两DDL七SELECT、有限分时及原失败层级充分复用；Gateway未部署，全模式/完整模型同步不冒已验。M2.1留给M2.2的实际秘密消费与真实节点诊断接合已补足，技术接受不等于所有层绿或生产认证。
 
-产品交付已核：Cloud6090e9a3→c95a5cef89198aa59861d80a1a178d8854839658（21）、React5b0780ea→ee314de2bc29a14fd6c865e6790cd892f0484446（13），push/ls-remote同，34提交blob同final cut668c76aa…；React用HEAD-only13、7重叠旧WIP保留，Cloud3/React16其它tracked WIP不夹带。52公开精选510567B/4PNG无秘密值/私有RAW，大树不递归；允许无敏感构建argv与本地引用，不发布私有运行100参数。文档codex/atlas-registration-m1-docs从8f60d6fe→13a5b2de819fb457fea7e42e08c1d3b6e120ac0d（56精选）已push/remote同，独立index保main315216c6/347无关提交/真实index。首attempt只Root新报告EOF空行在commit前失败，精确去该空行后成功，原失败保；非审批拒绝。后继2文回执保持相同交付规则，禁止推本地main或全E。实际结果另记[m2-1-git-delivery.md](../implementations/2026-10-24-atlas-registration-m2/m2-1-git-delivery.md)。
-
-后继M2.2严格只读实际执行节点诊断：按原§6三卡核源网络/TLS/身份/可见范围、OM身份/权限和版本，结果绑定connection/secret版本与真实节点。错误密码/不可达/TLS错误/可连不可见/OM拒绝分别有原因；未批准/云元数据地址/任意OM URL/重定向拒绝，换秘密撤旧绿。不拿浏览器或Web节点代替实际节点，不以SELECT1覆盖范围；不得源DML/DDL/业务行查询或OM写，不进入M3。现M2.1样本均非工作合成值，不能冒真实源凭据；必要批准环境/合法配置按原范围正常核，常规最小修复不等待Root逐步许可。
+产品精确Git已完成：Cloud c95a5cef89198aa59861d80a1a178d8854839658→a0754ada3e04e60c7e0ddf6392da267d014e83ff（25）；React ee314de2bc29a14fd6c865e6790cd892f0484446→47bba3150f7eb7ebaa92d4f53454a4cfae64c24e（5）。push/ls-remote精确同，30提交blob同23526055…final cut，12旧before均同HEAD/18新，与19旧WIP无重叠；工作区字节及Cloud3/React16旧WIP保，实际index空。文档专支当前父e8e92459…，精选27+Root报告/唯一账精确交付进行中；完成前不删除监督。私有运行argv/SQL行/RAW/会话/秘密/JAR、大构建索引留本地，不递归补齐本地refs。卡片仅一处M3授权句由Root校正，ready-r2保原提交hash。
 
 
 ### 17.101 M2.1本地候选与21个有限方法已有成功证据，仍待页面/现场（2026-10-24）
@@ -2379,3 +2377,99 @@ scope-forward-r3真实前向加此唯一产品路径（原4341B/452c92c5…同HE
 Main最终34物理源与candidate/installed逐SHA/size同，保护12非重叠原WIP保持，7重叠路径仍原批准融合；React HEAD-only13纯ours完整核同。Cloud HEAD6090e9a3…/React5b0780ea…未变、Work Git/index写0。Root交付必须使用HEAD-only或精确新hunk，不能把7路径物理文件整投夹入旧WIP。实际cut见m2/m2-1/evidence/final-source-and-delivery-cut-r1.json。
 
 M2.1现READY_FOR_ROOT_REVIEW，未ROOT_ACCEPTED、未Git交付、真人PENDING；M2.2仍NOT_GO。后台14、日志9、前端17不同有限方法各有成功，历史失败/分时边界保留，不重复全矩阵。真实匿名2次业务401；普通USER403/跨scope/伪ref仍未新增真实HTTP，仅有限方法；1512×806桌面代表不冒窄屏/原生200%/全键盘。M2.1不证明源连接/TLS/节点已验证、OM登记或业务取数；最终清单与维护/回退见m2-1/README.md、manual-review.md。新构建执行symlink不跟随归档，不入JAR/私有配置/RAW/argv/秘密摘要。
+
+
+### 17.106 M2.1已独验/Git后只续M2.2，真实节点诊断开工（2026-10-25北京时间）
+
+Root已于17:16UTC对M2.1有限技术ROOT_ACCEPTED，随后产品Cloud21到c95a5cef89198aa59861d80a1a178d8854839658、React13 HEAD-only到ee314de2bc29a14fd6c865e6790cd892f0484446，两分支远端同。文档专支13a5b2de…56精选及e8e92459…2文回执已远端核定。本地main315216c6/真实index和原Cloud3+React16 WIP保持。Work本轮亲读两Root报告全文，复制开工前态；旧M2.1/M1充分证据不重开。
+
+原Work新turn01a16eed-adee-7430-9326-38f9dbcef31b，真实startedAt1792862432=17:20:32UTC，FIRST官方普通70用/余30、ordinarytrue/spendfalse/limitnull，仅套餐。17:24:01附近实际开工源检查逐34同M2.1最终、19 WIP当前metadata封存、当前HEAD核定上列。开工原件m2/m2-2/evidence/opening-r1/opening.json，唯一计划仍本账，本节点IN_PROGRESS，M3及后续NOT_GO，真人PENDING。
+
+只做原§6 M2.2三卡：从批准实际执行节点核MySQL network/TLS/auth与合法可见元数据范围、OM identity/permission/version，结果固定connection/secret版本；分别呈现错密码/不可达/TLS错误/可连无目标库权限/OM拒绝，不空列表或SELECT1冒范围通过。拒未批准/云元数据地址、任意OM URL与重定向，替换/禁用使旧正常失效。现M2.1样本均非工作账号密码，不能当可用源资格。源DML/DDL、业务行、OM写、Provider补种、M3发现登记/发布仍禁。
+
+Cloud CodeGraph已先查，新M2.1类未被旧索引覆盖后定点实际源；React索引旧Vue不覆盖现产品，直接actual React不重建。三名有界只读分别核后端合同接线、实际Worker/源fixture资格、Aham8前端状态方案；尚无候选落盘或现场请求，精确新产品/检查子清单在实际研究后前向登记才制作candidate。原f91eee11窗口17:09:51.723已过期，不复用；末17232/GET17179/auth16/ordinary14/mut53/object22与旧NS/UNKNOWN/latch/ACK保持。常规读取、最小实现、必要验证与正常审批受既有连续授权覆盖，不另设逐步许可门。
+
+
+### 17.107 M2.2精确30路径前向登记，进入E候选（2026-10-25北京时间）
+
+实际研究后固定30=21产品9检查、12旧修改18新：Cloud后端20（14+6）、同仓实际Worker5（4+1）、React5（3+2）。三before-map和public wire已真实核同，旧12完整bytes先保于scope-registry-r2/before；30路径与原19 WIP无重叠，19当前字节全部保持。精确集合及每before见m2/m2-2/evidence/scope-registry-r2/scope.json。前端只原Page/CSS/Page.test+新diagnostics API/test，原M21 DTO/路由不改。后台新增诊断Store/Service/Controller/NodeRegistry与MySQL/DM37，原Broker只加cache-only取有效bearer（0隐式login/refresh/Cloud OMHTTP）；内部callback在原pure敏感classifier覆盖，Worker新有限适配器不走Provider/业务row链。
+
+合同为POST仅conn+预期双版本/稳定原key，GET和原key恢复；状态与CURRENT/STALE/EXPIRED分开，7层齐全，完成态不当全成功。Worker command先service Principal exact-scope INSPECT_SOURCE，再borrow/current/finish；Cloud用既有独立callback bearer+server node registry核scope/node/cut与单次游标后才借source秘密/普通OMbearer，仅RAM。完整tuple固定conn/secret/policy/node runtime/OM config-binding-credentialEpoch，替换/禁用/漂移撤旧正常。20秒限时、至多5固定metadata SQL，0业务行/源DMLDDL/OM写/auth写/自动retry；旧UNKNOWN与窗口不动。
+
+实际14985独立Python83657与Web3557分离；现worker无source adapter/OM实例配置、缺驱动，TLS尚未verified。M0既有RO私有引用已找到，无需用户提供；其旧非TLS历史不当当前正常。现静态4scope不含S6/AC2，候选保持failclosed、不暗扩scope或新凭据；具体平台准备/必要权限差额在成果可审后按实际边界处理，不阻无依赖实现及有限验证。r1登记reader误将Worker绝对repo当名称，独占xb在任何Worker源写前拒；E部分before副本保历史，r2改basename且dest confinement后成功，无产品失败或审批拒绝。本登记不冒现场迁移/服务/功能通过；M2.2 IN_PROGRESS、M3 NOT_GO、Root/Git/真人均待。
+
+
+### 17.108 M2.2新诊断route独立授权合同前向，旧4×14不扩大（2026-10-25北京时间）
+
+Main已完整亲读wire-r2相对r1所有语义差额并采纳，权威合同backend-study-r1/wire-r2.json cb5cdc96…/20718；scope-forward-r3/wire-adoption.json只绑定原30精确路径，r1合同/范围原件不回填。本次不把S6直接加入旧worker static scopes（那会同时放宽14种旧作业/发布等操作），也不把逐项目手改worker文件设为产品正常前置。
+
+新metadata-only route在既有bearer认证/原INSPECT_SOURCE操作核后，先到Cloud无秘密authorize：由已持久、真实Atlas exact-scope ADMIN创建的diagnostic及全局批准node/network校验scope/node/cut/deadline，再返回受信描述；仅此新route建立INSPECT_SOURCE-only exact-scope Principal并authorize，之后才singleuse borrow。scope不是从body或已借出的秘密自授，旧4×14入口不改；不新增持久身份/credential/人Role或借用manager/Reader。Worker/Cloud各层body冻结一致，borrow/current/finish维持单次CAS与完整版本cut。缺配置默认拒绝，不因诊断功能自动扩旧权限。
+
+r2补齐严格private admission字段、固定源metadata5SQL/20秒、4精确OM GET与条件权限不PASS、7层coverage、preaccept缺有效普通会话的安全错误。Broker新增cache-only通道不暗登录/刷新/Cloud OMHTTP；实际资格准备如有必要另列事实与边界，不篡改诊断GET-only语义。三方已继续E候选及必要有限验证，仍0live源码/现场SQLHTTP/服务/Git；M2.2 IN_PROGRESS、M3 NOT_GO、Root/Git/真人均待。
+
+
+### 17.109 M2.2三端候选实际安装及DM37新日志表验收，现场节点仍待启用（2026-10-25北京时间）
+
+权威wire-r7准确规定：显式modelingAccountId选择本项目/批准实例既有身份，actor与mapped user分开；专用authorize先于borrow，不扩大旧4×14。borrow在原diagnostic行锁事务中复核、解密/clone、advance单用CAS，commit后才写private response，旧CAS-before-decode措辞留历史。原键恢复不重派；已授权GET只在原期限后将PENDING/RUNNING收束UNKNOWN并保phase/key，已验证终态不降级。初始安全占位、typed permissions、失败投影/精确名单/版本、Cloud metadata地址拒绝和超时分类均已最小闭合。前端再核已知身份options配置版本/移除/不可读时撤旧绿，UNKNOWN零有效期只显示历史，不给通过。
+
+Main亲读关键全源/全部必要差额及新有限原件；backend非作者全20静审与整逆、Worker原全模块/两个forward、FE r2→r7及r8差额已核。后台17unique/26断言执行通过分时，原两编译失败0case和r3/r5/r7夹具后台异常保留；自有executor正常收束后r8/r9/r10无后台异常。前端20新unique在15+1+4分时有限切面，原M21八方法未重跑；真实Java合成public/UNKNOWN及完整authorize+borrow分别由FE/Worker消费。合成数据不冒现场OM/源权限。MySQL合法1000数据库投影超TEXT容量，仅两JSON列LONGTEXT前向，DM CLOB不改；H2大payload1slice不冒真实MySQL。
+
+普通后台20模块完整build实际18:17:49.692337–18:18:07.105833UTC exit0，Jar4e73e938dde27d936c1b20ac7bdb91ae2312be4cab4dcce06e57bfcb607b837a/178779207，2687输入/20overlay窗口稳定。后继三检查源和MySQL SQL不入Jar；Main独核最终12Java同stage、61类族逐字同Jar、DM SQL同，明确不是全20最终同cut构建。FE r8最后完整production gate/fulltsc/Vite实际18:28:18.676667–18:28:43.340720 exit0，1065输入/238产物、旧750KB warning保留。两包均未部署。
+
+30=21产品9检查/12旧18新已由Main正常审批真实18:31:31.006237UTC安装，原12完整备份/每笔intent/CAS/fsync/读回、19旧WIP和两HEAD c95a/ee31保持；Git/index0。首次Main preflight按map顺序误读paths在任何写前失败，按真实schema校准后成功，原诊断保。Main随后逐30/current/12backup/19保护复核，全同。实际原件source-install-preparation-r1/revision-r2/actual-r1；SOURCE_INSTALLED_NOT_DEPLOYED。
+
+DM37仅Atlas应用schema RUOYI_VUE_PRO，Main正常审批实际18:35:31.772816–18:35:32.230343UTC两CREATE返回/7显式SELECT/0DML，16列、4约束组、1声明索引及新表空均核定；未改M36/源库/OM。原件dm37-preparation-r1/actual-r1及main-execution-r1/schema-verified.json。只读ps在sandbox EPERM后正常升级同一只读操作成功，非自动审批拒绝。
+
+FIRST本续接72用/余28，主要批次末74用/余26、ordinarytrue/spendfalse/limitnull，仅套餐。新NodeRegistry/111全公开runtimepin、必要新Native有限purpose与同身份普通会话仍在准备；未发真实Source/Native/Worker诊断HTTP、未启停服务。M2.2仍IN_PROGRESS，M3 NOT_GO；Root节点独验/Git和真人最终均PENDING，不把上述源码/表准备冒功能现场通过。
+
+
+### 17.110 M2.2真实源四层通过、两次启动差额与OM未验边界前向（2026-10-25北京时间）
+
+Main已实际采用全局NodeRegistry单一0600文件，111公开输入runtimepin不含私有配置摘要，旧8key/4scope×14不变。原14985 Worker一次TERM/Popen后30600/1792868988.574479真实监听；原控制器因Darwin argv0归一判失败，记录原样保。Main与非作者独核同Popen PID/ctime、原4参数尾部含--launch、__PYVENV_LAUNCHER__精确批准venv、同框架入口/单APP_CONSTRUCTED标记/全部current30+111/protected5，新只读后继0TERM/0launch，不假称原控制通过。
+
+Web原3557一次TERM后31515启动实际失败：两个新增final Controller不支持Spring CGLIB。最小修复仅这两class去final，原ApiTest新增实际ProxyFactory两目标代理/noStore拦截回归，唯一1PASS。Main19:19:22.971447UTC三旧源逐笔backup/CAS/fsync/read回安装，原27其他阶段源及19 WIP保持。普通full-build-r3实际19:20:55.785710–19:21:12.249147UTC exit0/20reactor，2687input/20overlay首末同/各drift空。新Jar4efe9a8adc10be5a967c5ea581313ba7cd7ca53e153734ac1c7757bd1c435be9/178779206；Main逐最终20/current/stage及12Java的61class族ZIP字节独核。原r2和准备quota早门失败均保，不算第二次Maven执行。
+
+新Native b63b8151窗19:06:40.648–19:36:40.648UTC：原17232前缀/所有旧NS/UNKNOWN/global停写锁均保，管理refresh1+self1到17234。首次失败Web前已完成startup5到17239；未重置旧结果。原22GET/24call总上限和截止不增，以封禁未用diagnostic ordinal2/3，给修后Web另记repair-startup5。Main正常同FD交接新代理33992/1792869885.26245；随后f9e24dc1 start-only控制实际0TERM/单Popen恢复Web34141/1792869922.310703，102普通argv，仅新Jar与诊断两flag；SQLite1→DM1的15active/lease/unclassified全0。使用原M21私有100argv仅RAM，明确采用当前普通allowlist环境，不冒还原已退出Web旧env。新的5GET精确完成到17244，manager与原auth/oldstartup不动。r2额外静态门属之后未执行候选，Main另后读真实listening全字段成立，未回填为事前执行。
+
+Cua真实冷会话诊断明确拒绝“对应OM会话未就绪”，无隐式登录，原键正确释放。另经既有M1“只读检查”准备同104/config6/binding9/epoch2：模型客户端当前身份已消费，Worker显示UNAVAILABLE；代理记录ordinary login1+self3，到17248后m22Diagnostics停在M22_REQUEST_OR_ACK_UNKNOWN/pending=null，全局仍UPSTREAM_OR_ACK_UNKNOWN。未重发该检查、未清停止锁、未修改旧任务/权限。该次未知请求未记录路径/状态，不能把当前源码推测冒现场完整HTTP证据。
+
+Main之后发起独立新诊断b337326e-9823-41a2-bd14-18f554bd0b79，原操作键7fc821fc-17ae-4dfe-a4f3-fcf1837d4337，连接b02fd17d-fdbe-4b4a-a83b-47a855d70017/v1/secret1。真实Node四层PASSED：执行节点、源网络/TLS REQUIRED、源身份、批准数据库可见范围，当前账号可见2表8列；未读取业务行/未写源DDL-DML或OM语义资源，原项目M21禁用引用未改。报告完成19:32:00.322/到期19:37:00.322，OM_IDENTITY失败、reason=OM_PERMISSION_DENIED，后置权限/版本NOT_RUN。原FAILED不可改写。原ID只读刷新后UI到期撤回当前通过，原键不重派。AX及两滚动PNG在real-ui-r1。
+
+重要证据边界：Main后核发现Borrow实际OM origin来自既有批准catalog，baseUrl=http://127.0.0.1:18585；bootstrap Broker endpoint才是18587。因此代理账本未增加不证明本次诊断0 OM HTTP，也不能据此断言现场一定是代理502或权限不足。当前未单采该实际HTTP状态；现有OM日志有限匹配未找到请求行，没有新增日志或发补探针。此前“代理502导致本报告”的推断不作事实；后续须沿真实origin/status核定。另源码确有独立缺陷：OrdinaryOmDiagnostic把除401/404外所有HTTP错误一律归权限。Worker r5仅修该白名单分支（403才权限，其余ACK_UNKNOWN），新真实HTTPError502单例1PASS并保持已过Source4层与后两项NOT_RUN；只是候选/有限结论，尚未安装或冒现场修好。
+
+非作者另发现Native repair handoff两个异常catch会经generic Ledger.stop覆盖global stopCode；实际成功交接未触发。新E error-path r2仅两site改为命名空间stop，纯实际except AST回归1PASS/全global保；未重启当前代理、不把候选冒已执行。所有旧失败、原raw、准备/实际分界保留。原b63期限已结束，不续期或重放以补绿。
+
+本截面套餐普通余22%以上（实时工具为准），ordinary=true/spend=false/limit=null；无credits/reset/账号/key动作。M2.2仍IN_PROGRESS，M3 NOT_GO；真实源端通过不冒整节点Root技术验收或Git/真人完成。下一步仅闭合真实OM链/错误分类与受影响验证，原19 WIP及HEAD c95a/ee31和Git/index保持。
+
+
+#### 17.110 原生来源后续校准（保留上文误推断原件）
+
+Main与非作者随后补到真实Managed来源：OntologyModelingAccessConfiguration用atlas.om-identity.endpoint构造ApprovedInstance，诊断borrow经Managed.instance取该URI；不是OmInstanceRegistry catalog.baseUrl。Main官方只读cc0ecd实际34141/ctime1792869922.310703/102argv核endpoint=http://127.0.0.1:18587/api；catalog18585存在但不能当本次借出origin。因此上文“Borrow来源catalog18585”的句子为读链误推断，明确撤回。现可按当前真实启动配置+冻结源码重建：本次OM请求去18587，而该命名空间此前已stopped，Scope.send固定返回502，旧处理器误归权限；仍没有独立单采该HTTP wire状态原件，不冒已捕获wire。原账本不增长也不代表没有向代理发过HTTP。校准原件main-om-managed-origin-forward-r1/proof.json。后继不得扩大OM权限来修围栏/分类问题，不重发原M1检查或b337/key；仅新修复代码的必要独立验证，旧窗口/停止锁/FAILED不重写。
+
+### 17.111 M2.2错误分类两源实际采用，新增只读检查UNKNOWN精确归属后保留（2026-10-25北京时间）
+
+HTTP分类修复两份既有Worker源/检查文件已在19:55:28 UTC正常安装，30源仅此2项相对上个proxyability cut变化，其余28及19份保护WIP保持。随后仅节点注册表runtimePin更新到c6f80157…，4个旧Scope与身份/令牌引用保持；隔离解释器新111项verify-only通过，factory未调用。此时运行进程仍为旧Worker30600/Web34141，不能把源码采用冒部署通过。原默认解释器依赖门失败、相对输入路径门失败均发生在工厂/产品动作前，原件保留，正确隔离解释器及绝对路径的实际结果另记。
+
+新独立78d6c36c窗实际19:59:20→20:14:20，受控代理40726承接原17248操作及所有旧命名空间/停止锁；单次同管理员refresh+self与原两引用CAS后累计17250，原业务写停止仍UPSTREAM_OR_ACK_UNKNOWN、object_writes22不变。没有startup/warm/C1或新诊断；窗口按实到期，不延期补绿。旧b63/FAILED b337及其key不变。
+
+第一次R5节点切换在fresh idle阶段被LEGACY_KNOWN_UNKNOWN_COUNT_CHANGED拦截，0TERM/0Popen，原attempt与独立证据目录保留。必要固定聚合只读实核：唯inspection UNKNOWN从0增至1，旧identity/global/qualification分别仍0/2/1，全部活动/租约与metadata诊断未分类UNKNOWN为0。后续仅控制表/审计1SELECT安全归属到268a74e3-8526-4c44-97ff-e0255fc94bb2：账号104/S6/om-p1-isolated/发起人1，cut配置6/项目3/绑定9/epoch2、原nativeUUID；19:28创建、19:30到期，model VERIFIED且evidenceRef同ID，Worker UNAVAILABLE，唯一审计INSPECT与object/actor/scope匹配。原browser raw inspectionId未单采，不补造该原始请求证据；DB与审计归属、UI时间对应以及源码检查链分别陈述。
+
+该记录仅作为有名、已到期的只读检查UNKNOWN保留，不改状态、不重放或恢复任务。新空闲门同一次SELECT逐字段核相同safe row/审计及总数唯一1，第二条或任何漂移均拒；所有旧未知/15个活动租约零门保持。实际20:12:30→31只读Worker1+DM1验证通过，未发服务信号或OM请求。投影器原bare-hash假设错误已按OntologyCanonicalJson源码精确sha256前缀前向修复，旧只读失败保留；不是产品或数据修改。
+
+Root另发现新operation与旧evidence目录名未同步的接合问题，已由准备r4对齐独立新目录，旧失败目录不删除覆盖；尚未拿r4冒实际切换。后续只待全部准备完成后使用原有效同管理员会话的新独立短窗，正常Node→Web采用及一笔新诊断；不延旧窗、不扩大人员权限、不重跑旧源矩阵。当前M2.2仍IN_PROGRESS、M3 NOT_GO，未Root节点独验或Git/真人完成。当前普通套餐余21%，下一主要批次仍实时重核；无点数/额度重置/账号key动作。
+
+主要原件：main-interim-actual-index-r2.json；worker-http-status-adoption-r1/actual-sources-r1/result.json、actual-registry-r1/result.json；inspection-unknown-attribution-r1/revision-r2/main-read-r2/inspection-unknown-attribution.json；runtime-http-status-fix-r1/main-execution-r1/known-inspection-retained.json及known-inspection-idle-r1/main-read-r1/idle-select-receipt.json。
+
+### 17.112 M2.2新节点真实诊断及终末保护完成，交Root独验（2026-10-25北京时间）
+
+Work提交READY_FOR_ROOT_REVIEW；M2.2总体仍IN_PROGRESS，Root独验/精确Git交付/真人最终验收PENDING，M3 NOT_GO。交接导航m2-2/README.md、acceptance-card.md及ready-for-root-review-r1.json；进度仍只记本账。
+
+全部准备先闭合后才发新独立0d8d590d窗（20:18:53.066→20:33:53.066 UTC），不延旧78d6/b63。Proxy44828同账保17250前缀/所有旧NS/全局stop，CURRENT仅核原21:00:03到期会话，0新refresh/self/CAS；当前管理员身份由Web启动最后SELF实际核。新Worker45025/ctime1792873190.742332及Web45239/ctime1792873230.299821正常采用：每笔fresh SQLite1→DM1、15zero和精确有名inspection门后单TERM/Popen，无force/retry/rollback。Darwin身份/原Web102参数和环境保持，Java4efe R3包、Python111/runtimePin c6f80157…采用完成；原4Scope和19保护WIP不变。Web输入准备拼写错误在输入解析前失败，0现场动作，原件与正确实际执行分开保。
+
+通过正常Atlas M1只读维护单独准备原104身份，模型/Worker两消费者20:21:01均消费当前6/9/2配置，未更改身份权限或重放旧任务。随后仅一笔新诊断44579eeb-b23c-40d7-842a-fd594d68a68f/key31c8cd72-dfb6-4b16-ae84-5aa8ff308a78，完成20:21:41.596、到期20:26:41.596 UTC。实际节点、源网络/TLS、源身份、元数据范围和普通OM身份五层通过；当前只读源可见2表8列，不是全物理范围或业务行。OM databaseService/Create原始HTTP200实际conditionalAllow，UI保守OM_PERMISSION_CONDITIONAL/目标权限未通过；版本UI NOT_RUN，Native实际GET到2.0.0-SNAPSHOT不代版本层通过。未扩权限补绿。
+
+新窗口合计13次Native调用＝启动5GET＋普通login1/self4GET＋诊断3GET，0refresh/0语义写。原17250操作逐项及全部旧NS、writesStopped/UPSTREAM_OR_ACK_UNKNOWN、object_writes22保持，现17263；Native有限ordinal不带Atlas诊断ID/actor，ID/key由Cloud/UI另证。源SQL仅固定适配器显式上限5，无独立逐条抓线。原安全reader误猜conditional而非真正conditionalAllow在报告写前断言停，后按原raw安全校准，原失败不抹；不是产品失败。
+
+到期后同一id/key只读明确expired/不作当前通过，Native状态整SHA及17263不增，无新提交或源复跑。原b337 FAILED/key和所有UNKNOWN不回填。20:26:25终末Worker1+DM1显式只读核15项active/lease/未分类UNKNOWN全0，268a74e3过期只读inspection仍UNKNOWN，旧global2/qualification1保持。末态30源/19保护、6进程7端口及3HEAD均核相同，Work无Git/index写或部署后源码追加。
+
+有限样例/分时构建按充分cut复用，不重跑全矩阵：新HTTP502分类仅受影响1例通过；Java完整R3包与最终源对应，FE r8 parser/选择/当前性及真实报告两屏/到期证据分层保。未冒所有模式现场、M3登记/业务取数建图或真人验收。所有早期准备/夹具/断言/启动失败与原预算/审计/停止锁留原。当前普通套餐used80/余20、ordinary=true/spend=false/limit=null，仅套餐；后继开工仍实时重核，不用点数/reset/account/key。

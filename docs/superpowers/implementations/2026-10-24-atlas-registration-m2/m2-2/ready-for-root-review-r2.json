@@ -1,0 +1,100 @@
+{
+  "kind": "M22_WORK_TECHNICAL_DELIVERY_FOR_ROOT_INDEPENDENT_REVIEW",
+  "at": "2026-10-24T20:36:02.667158+00:00",
+  "workSubmission": "READY_FOR_ROOT_REVIEW",
+  "milestoneState": "IN_PROGRESS",
+  "RootAccepted": false,
+  "GitDelivered": false,
+  "UserAcceptance": "PENDING",
+  "M3": "NOT_GO",
+  "soleProgressLedger": "/Users/wangmingzhang/Env/semantica/docs/superpowers/plans/2026-10-22-atlas-metadata-registration-milestones.md",
+  "ledgerAtSubmissionSHA256": "4c08f33796519f7fc0250c5341454f61a76f84afee3b8821962a763d7bb8d3ab",
+  "ledgerAppendReceipt": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/ledger-17112-actual-r2/receipt.json",
+    "sha256": "b46114047de52fb57ffdd781cdb75e8aa1399c7561dd32a002a07059747703c0",
+    "bytes": 726
+  },
+  "evidenceIndex": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/evidence-index-root-ready-r1.json",
+    "sha256": "a99054e880ed5551ce42d4bf8cb954a4b92e4029aecc7c5375a7c21086dbd8f1",
+    "bytes": 369415
+  },
+  "README": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/README.md",
+    "sha256": "1fe7869712c850a5cc7c9626fcab25670fda27a8691cad0189f48958a7ffd340",
+    "bytes": 5039
+  },
+  "acceptanceCard": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/acceptance-card.md",
+    "sha256": "b951aea33a33d21e787ae087aec68dbee81c0ad0dd30272d12e3943811a25a56",
+    "bytes": 4967
+  },
+  "scope": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/scope-registry-r2/scope.json",
+    "sha256": "2a389384ff18d67ca9ffa240efbee3383e236fc8d30a575c379ca03cf3f9e742",
+    "bytes": 11266
+  },
+  "final30SourceAnd19Protection": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/main-final-source-runtime-cut-r1/proof.json",
+    "sha256": "2352605576c0163425a5004779eb68c4c71c5768fc0bee56782f31f90b9199c2",
+    "bytes": 14591
+  },
+  "actualNode": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/runtime-http-status-fix-r1/actual-worker-r5-known-inspection-r1/result.json",
+    "sha256": "851a0ac2f57e14f58821c290b34a602a7cc78a2f545dfd73a6841680dd2d75f1",
+    "bytes": 804
+  },
+  "actualWeb": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/runtime-http-status-fix-r1/actual-web-r5-known-inspection-r1/result.json",
+    "sha256": "048b860601c510d16a5c7e35661f413d2f5df02437c085599396fd2181607f71",
+    "bytes": 803
+  },
+  "NativeFinal": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/runtime-http-status-fix-r1/main-execution-r1/native-final-actual-readback.json",
+    "sha256": "849e101df04ab0958403ba7d32ce4a034a3f432f6878ed2534343ce465030302",
+    "bytes": 4043
+  },
+  "final15Idle": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/runtime-http-status-fix-r1/known-inspection-idle-r1/main-read-final-r1/idle-select-receipt.json",
+    "sha256": "9655bb4f6f6ee48aa1cbe30885d35c910567c14afde0f0eeb733106fead08280",
+    "bytes": 2896
+  },
+  "newReport": {
+    "diagnosticId": "44579eeb-b23c-40d7-842a-fd594d68a68f",
+    "operationKey": "31c8cd72-dfb6-4b16-ae84-5aa8ff308a78",
+    "runtimePin": "sha256:c6f801571251581acffb19518cdc878b7c0264f321aeface35474cfe668afdf3",
+    "sourceFourLayers": "PASSED",
+    "ordinaryOMIdentity": "PASSED",
+    "OMTargetPermissions": "FAILED_OM_PERMISSION_CONDITIONAL",
+    "nativeCreateAccess": "conditionalAllow",
+    "UiVersionLayer": "NOT_RUN",
+    "reportExpiredAt": "2026-10-24T20:26:41.596Z",
+    "sameIdKeyExpiryReadback": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/evidence/real-ui-r1/10-r5-expiry-readback.json",
+      "sha256": "23d0a1372f51242ce5f3022d64f4f5320fb80241fa7c5d581f1bddc750f03dd3",
+      "bytes": 563
+    }
+  },
+  "historicalUnknownAndStopsPreserved": true,
+  "sourceDMLDDL": false,
+  "OMSemanticWrites": false,
+  "noPermissionExpansion": true,
+  "nativeWindowExpiredAt": "2026-10-24T20:33:53.066Z",
+  "productionAllModesAcceptance": false,
+  "noNewTestsOrBusinessReplayForArchive": true,
+  "weeklyOrdinaryQuotaLatest": {
+    "observedAt": "2026-10-24T20:29:34Z",
+    "usedPercent": 80,
+    "remainingPercent": 20,
+    "ordinaryUsageAllowed": true,
+    "spendControlReached": false,
+    "rateLimitReachedType": null
+  },
+  "sourceBusinessRowsRead": false,
+  "wordingClarification": "r1 sourceRowsRead=false referred to business rows; approved metadata rows were read",
+  "previousReady": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-24-atlas-registration-m2/m2-2/ready-for-root-review-r1.json",
+    "sha256": "0256a340377f63f72bef448f9e93130d3c2ad876a3d30be11ed9050b88f925ae",
+    "bytes": 4912
+  }
+}

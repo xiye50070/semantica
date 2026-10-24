@@ -1,0 +1,24 @@
+{
+  "kind": "M22_MANAGED_ORIGIN_FORWARD_CORRECTION",
+  "at": "2026-10-24T19:46:25.513818+00:00",
+  "actualWebPID": 34141,
+  "actualCreateTime": 1792869922.310703,
+  "argvCount": 102,
+  "liveAtlasOmIdentityEndpoint": "http://127.0.0.1:18587/api",
+  "catalogBaseUrl": "http://127.0.0.1:18585",
+  "catalogIsNotBorrowedManagedInstanceOrigin": true,
+  "sourceChain": [
+    "OntologyModelingAccessConfiguration ApprovedInstance from atlas.om-identity.endpoint",
+    "JdbcOntologyModelingAccessStore Managed.instance",
+    "DiagnosticService.borrow m.instance.origin",
+    "Worker OrdinaryOmDiagnostic HTTPConnection registered origin"
+  ],
+  "proxyStoppedBeforeDiagnostic": true,
+  "proxyStoppedAfterDiagnostic": true,
+  "proxySendStoppedReturnStatusFromFrozenSource": 502,
+  "actualHTTPWireStatusSeparatelyCaptured": false,
+  "supersedes": "17.110 assertion that borrow origin comes from catalog18585",
+  "HTTP": 0,
+  "SQL": 0,
+  "serviceActions": 0
+}

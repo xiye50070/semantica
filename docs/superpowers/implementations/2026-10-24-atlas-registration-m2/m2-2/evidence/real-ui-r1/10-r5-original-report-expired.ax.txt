@@ -1,0 +1,191 @@
+Browser tab: 979676260, Title: "Atlas · 管理工作台", URL: "http://127.0.0.1:5188/next/ontology/data-sources/b02fd17d-fdbe-4b4a-a83b-47a855d70017?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6".
+1 AXWebArea Atlas · 管理工作台, URL: 127.0.0.1:5188/next/ontology/data-sources/b02fd17d-fdbe-4b4a-a83b-47a855d70017?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6
+	2 container
+		3 container root
+			4 link Description: 跳转到主要内容, Value: 127.0.0.1:5188/next/ontology/data-sources/b02fd17d-fdbe-4b4a-a83b-47a855d70017?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6#main-content
+			5 container 主导航
+				6 link Description: Atlas, Value: 127.0.0.1:5188/next
+				7 text 企业管理空间
+				8 container
+					9 text 管理控制台
+					10 menu
+						11 (collapsed) appstore 系统管理, Secondary Actions: Expand
+							12 image appstore
+							13 text 系统管理
+						14 (collapsed) appstore 基础设施, Secondary Actions: Expand
+							15 image appstore
+							16 text 基础设施
+						17 (collapsed) appstore 工作流程, Secondary Actions: Expand
+							18 image appstore
+							19 text 工作流程
+						20 (expanded) appstore 本体管理, Secondary Actions: Collapse
+							21 image appstore
+							22 text 本体管理
+						23 menu rc-menu-uuid-_r_2_-ontology:management-popup
+							24 apartment 知识空间
+								25 image apartment
+								26 link Description: 知识空间, Value: 127.0.0.1:5188/next/ontology/spaces
+							27 apartment 本体项目
+								28 image apartment
+								29 link Description: 本体项目, Value: 127.0.0.1:5188/next/ontology/projects
+							30 apartment 数据源接入
+								31 image apartment
+								32 link Description: 数据源接入, Value: 127.0.0.1:5188/next/ontology/data-sources
+						33 search 知识查询
+							34 image search
+							35 link Description: 知识查询, Value: 127.0.0.1:5188/next/ontology/query
+				36 button 账户菜单
+					37 image
+					38 text 管理员
+					39 text admin
+					40 image down
+			41 container
+				42 button (expanded) Description: 收起导航, Secondary Actions: Collapse
+					43 container menu-fold
+				44 text 工作空间
+				45 text 本体管理
+				46 button 访问租户
+				47 button 搜索页面
+					48 text 搜索页面
+					49 text ⌘ K
+				50 button 我的消息，1 条未读
+					51 container bell
+				52 text 1
+			53 container
+				54 text 本体管理
+				55 heading 数据源接入, Value: 1
+					56 text 数据源接入
+				57 text 保存当前项目的源连接与目标服务配置；保存配置不会创建原生服务，也不会检查连接或登记元数据。
+				58 text 当前项目
+				59 container
+					60 text M1 S6身份准备验证
+					61 combo box (collapsed) Description: 当前项目, Secondary Actions: Expand
+					62 image down
+				63 container M22 只读节点诊断 20261025 R01
+					64 heading M22 只读节点诊断 20261025 R01, Value: 2, ID: metadata-workspace-title
+						65 text M22 只读节点诊断 20261025 R01
+					66 link Description: 返回项目准备, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/readiness#source
+					67 link Description: 返回接入列表, Value: 127.0.0.1:5188/next/ontology/data-sources?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6
+					68 definition list
+						69 container 配置状态
+							70 text 配置状态
+						71 container
+							72 text 配置已保存，尚未检查
+						73 container 配置 / 秘密版本
+							74 text 配置 / 秘密版本
+						75 container
+							76 text 1  /  1  ·  秘密已配置
+						77 container 目标状态
+							78 text 目标状态
+						79 text 计划新建服务，尚未创建
+						80 container 目标实例
+							81 text 目标实例
+						82 text om-p1-isolated
+						83 container 目标服务
+							84 text 目标服务
+						85 container
+							86 text AtlasM22_S6_20261025_R01  ·  AtlasM22_S6_20261025_R01
+					87 container
+						88 heading 源连接配置, Value: 2
+							89 text 源连接配置
+						90 definition list
+							91 container MySQL 主机与端口
+								92 text MySQL 主机与端口
+							93 container
+								94 text 127.0.0.1 : 3307
+							95 container 数据库范围
+								96 text 数据库范围
+							97 text atlas_m0_reg_20261022_r01
+							98 container 源账号
+								99 text 源账号
+							100 text m0_reg_20261022_r01_ro
+							101 container TLS
+								102 text TLS
+							103 text REQUIRED
+							104 container 执行节点
+								105 text 执行节点
+							106 container
+								107 text atlas-local-worker-14985  · 仅已配置，未验证
+						108 text Atlas 源参数独立保存；复用原生服务不读取或覆盖其连接秘密。本页没有密码回显、原生令牌或秘密文件路径。
+					109 button 编辑接入配置
+					110 button 替换秘密
+					111 button 设为本项目元数据接入连接
+					112 button 查看禁用影响
+					113 container 连接与权限诊断
+						114 heading 连接与权限诊断, Value: 2, ID: metadata-diagnostic-heading
+							115 text 连接与权限诊断
+						116 button 运行诊断
+						117 text 诊断使用的 OM 身份
+						118 container
+							184 text 账号 104 · 104 · 配置 v6
+							120 combo box (collapsed) Description: 诊断使用的 OM 身份, Secondary Actions: Expand
+							121 image down
+						123 container
+							124 text 本次诊断未通过  ·  已到期，不作为当前通过
+						125 definition list
+							126 container 配置 / 秘密版本
+								127 text 配置 / 秘密版本
+							128 container
+								129 text v 1  / v 1
+							130 container 实际执行节点
+								131 text 实际执行节点
+							132 container
+								133 text atlas-local-worker-14985 sha256:c6f801571251581acffb19518cdc878b7c0264f321aeface35474cfe668afdf3
+							134 container 检查完成 / 到期
+								135 text 检查完成 / 到期
+							136 container
+								137 text 2026-10-24T20:21:41.596Z  /  2026-10-24T20:26:41.596Z
+							138 container 诊断使用的 OM 身份（Atlas 人员）
+								139 text 诊断使用的 OM 身份（Atlas 人员）
+							140 text 104
+							141 container OM 目标
+								142 text OM 目标
+							143 container
+								144 text om-p1-isolated  ·  计划服务，尚未创建  ·  AtlasM22_S6_20261025_R01
+						185 text OM 权限带条件，尚不能确认通过
+						147 content list 七层诊断结果
+							148 container
+								149 text 实际执行节点 通过 仅本次报告声明的检查范围
+							150 container
+								151 text 源网络与 TLS 通过 仅本次报告声明的检查范围
+							152 container
+								153 text 源身份 通过 仅本次报告声明的检查范围
+							154 container
+								155 text 元数据可见范围 通过 仅本次报告声明的检查范围
+							156 container
+								157 text OM 身份 通过 仅本次报告声明的检查范围
+							158 container
+								159 text OM 目标权限 未通过 OM 权限带条件，尚不能确认通过
+							160 container
+								161 text 版本兼容 未执行 前置条件尚未满足，本层未执行
+						162 container
+							163 text 数据库范围： 配置的数据库均可见 。仅当前账号可见的元数据范围，不证明所有物理表和列均可见。
+						164 content list
+							165 container
+								166 AXListMarker • 
+								167 text atlas_m0_reg_20261022_r01 ： 可见；当前可见表 2，列 8
+						187 container
+							188 button (expanded) 诊断记录, Secondary Actions: Collapse
+								189 text 诊断记录
+							190 definition list
+								191 container 诊断编号
+									192 text 诊断编号
+								193 text 44579eeb-b23c-40d7-842a-fd594d68a68f
+								194 container 原操作键
+									195 text 原操作键
+								196 text 31c8cd72-dfb6-4b16-ae84-5aa8ff308a78
+								197 container 原生目标实体版本
+									198 text 原生目标实体版本
+								199 text 尚未创建目标实体
+						186 button 读取此诊断
+							200 text 读取此诊断
+						171 text 仅检查网络、身份和元数据可见范围；未读取业务行，未创建或登记 OM 来源。诊断不授予建模写权。
+					172 container project-configuration
+						173 heading 本项目元数据接入配置, Value: 2
+							174 text 本项目元数据接入配置
+						175 container
+							176 text M21 本地配置验收 20261025 R01 KEEP  · 配置版本  1  · 接入版本  3
+						177 text 选择的接入已禁用，不能新使用。
+						178 text 此配置独立于项目业务来源绑定，不会启用业务取数或发布。
+
+The focused UI element is 1 AXWebArea Atlas · 管理工作台, URL: 127.0.0.1:5188/next/ontology/data-sources/b02fd17d-fdbe-4b4a-a83b-47a855d70017?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6

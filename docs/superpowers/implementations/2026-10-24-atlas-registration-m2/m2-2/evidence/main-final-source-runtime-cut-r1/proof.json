@@ -1,0 +1,325 @@
+{
+  "kind": "M22_FINAL_EXACT_SOURCE_PROTECTION_RUNTIME_CUT",
+  "at": "2026-10-24T20:26:09.394874+00:00",
+  "sourceCount": 30,
+  "all30Current": true,
+  "protected19Current": true,
+  "sourceSet": [
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionDiagnosticContracts.java",
+      "sha256": "17abe825726811f65a25677e671f11657edce8441ef33f7cc46bde70e5af7532",
+      "bytes": 6913
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionDiagnosticController.java",
+      "sha256": "c30bd247a8565a8dfaa61e3173f6adcfa0760a588aa9e6bc99141357464fcca4",
+      "bytes": 5803
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionDiagnosticService.java",
+      "sha256": "ee57afe8b61d8eb56507e4867145c5bd7d2e24e1006ce91dc5a23fab52f7ea1b",
+      "bytes": 26502
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyMetadataConnectionDiagnosticStore.java",
+      "sha256": "d7fdb907e58e47145f6ee1537e8a04412ddb6736d49084cc82b73e1fb8904bcc",
+      "bytes": 5942
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionDiagnosticInternalController.java",
+      "sha256": "16660905bad33458a08d0b536c0220f8587b39129f270910dd0b2fcc3a025077",
+      "bytes": 3404
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionNodeRegistry.java",
+      "sha256": "1c4785822c8a9a1183db6327fa831865b4fa06e2612f6b0b92438f1a881480e5",
+      "bytes": 7544
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionDiagnosticConfiguration.java",
+      "sha256": "3fcc6e15c1c18a8280553a28bf34cfbfa132c112ab6d591f431bfa9c0f3635ee",
+      "bytes": 1694
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionDiagnosticExceptionAdvice.java",
+      "sha256": "710d10fe930d3973c1040b74cee2ea7a1e47b8184b8a57291054b5a8a0b40eec",
+      "bytes": 2018
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionService.java",
+      "sha256": "2ab04a5e5ab89462d86329ffb61c5cffaca33db5708a308d795d07251c49dde5",
+      "bytes": 35720
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyWorkerClient.java",
+      "sha256": "132763ce30c1e7e1fa333a1417d25ed35e293cba0c56d7adf7111f83b738960a",
+      "bytes": 20291
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-framework/atlas-common/src/main/java/cn/iocoder/atlas/framework/common/util/servlet/MetadataConnectionSensitivePath.java",
+      "sha256": "44b492c37f48978a0e11b91d48c66de8b0dbb89981793f7904c70541ce8813c4",
+      "bytes": 3411
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmOrdinarySessionBroker.java",
+      "sha256": "3374c129da8f9282cc9a657a6e2aeb98eec1ffb4a6f3eafe0517aacfa556dd5b",
+      "bytes": 23173
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/sql/ontology/V20261025_37__ontology_metadata_connection_diagnostics.sql",
+      "sha256": "d176e8f44fb13046444d2b65155129480f3dc6d9ecb525910f88edce1054adfd",
+      "bytes": 1110
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/sql/ontology/dm8/V20261025_37__ontology_metadata_connection_diagnostics.sql",
+      "sha256": "9865bdba410ecb6cf31c431cbe03c09edb77369764a8e96bfd55a222a0ddad4e",
+      "bytes": 1102
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionDiagnosticApiTest.java",
+      "sha256": "9b4dc6650e546ff09053969a3098a6f24ddddf3231f1c9262c8cf0bc4a1307e5",
+      "bytes": 21813
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionDiagnosticStoreTest.java",
+      "sha256": "2c03c02445ec71d8d9cc89f07a186b59400994b72e13d35f0ba3832401705614",
+      "bytes": 5866
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataConnectionDiagnosticTransportTest.java",
+      "sha256": "54cc31e56c1ac94209f2b89d064befefc1e4a0d7053ba0a03b61ff83a729c35b",
+      "bytes": 4101
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/omidentity/OmOrdinaryExistingBearerTest.java",
+      "sha256": "5c9feb03a581ee4768b1bf3798af5267f5adb17365cde6401d9e016a367c70ed",
+      "bytes": 3161
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-framework/atlas-spring-boot-starter-web/src/test/java/cn/iocoder/atlas/framework/apilog/core/filter/MetadataConnectionSensitiveRouteTest.java",
+      "sha256": "a46987f697e9d0491182086aa38d275ff9d8bbd6cfe200e725a34b2d5a8fda5e",
+      "bytes": 16607
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-gateway/src/test/java/cn/iocoder/atlas/gateway/filter/logging/MetadataConnectionSensitiveRouteTest.java",
+      "sha256": "e07eef38f43ad4a4c5d2004f839eeda7b5b33ab44d218edbeab3b529b6edfa40",
+      "bytes": 6159
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/integrations/ontology-worker/src/atlas_ontology_worker/metadata_diagnostics.py",
+      "sha256": "a635646d3d14e109f91c6ae5cfd374595b683ab14005a4327927b8364a6d2dca",
+      "bytes": 36942
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/integrations/ontology-worker/src/atlas_ontology_worker/http.py",
+      "sha256": "6786e4cd002bd560d382aad52a4a1151aa83388481f364e7d2989b8795f9e853",
+      "bytes": 12902
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/integrations/ontology-worker/src/atlas_ontology_worker/runtime.py",
+      "sha256": "9984f93ac439c82cea3db30553d59435b1ea3c161febed41d2f7529a0caf3d27",
+      "bytes": 1702
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/integrations/ontology-worker/src/atlas_ontology_worker/deployment.py",
+      "sha256": "5bb6fdbee306b03f389eb3cff079c6d94faa63f2aef097a35f122a65c43d1227",
+      "bytes": 12798
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/integrations/ontology-worker/tests/test_metadata_diagnostics.py",
+      "sha256": "9a10453a344010703d56b05f148f5a2c2863502b1c63f366b8b577f3e2aa3fd0",
+      "bytes": 32339
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.tsx",
+      "sha256": "1d3d0f4f363a5d79584b53339f8cbbc314e63d4b8d32c8df0379fe874bf31bd4",
+      "bytes": 59304
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/metadataConnections.css",
+      "sha256": "de45402b1c57f36edbaefba7035016c82f3224253b4eaef221c0f50eadd4eb7b",
+      "bytes": 5552
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.test.tsx",
+      "sha256": "dc431a4b6cb3e155f9208712d504945e311cebe34e6bace4bb92653f15a159d9",
+      "bytes": 56672
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/metadataConnectionDiagnosticsApi.ts",
+      "sha256": "86d2dab447d987ad0e8ca033d4a63b1a87fcbc866773368f543e0e799b823a9b",
+      "bytes": 24578
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/metadataConnectionDiagnosticsApi.test.ts",
+      "sha256": "7bf88940a6dbbdb8fd334c2ffadeff6a4106d16a94151af943bacde6da5ee9a3",
+      "bytes": 38122
+    }
+  ],
+  "protected19": [
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyProjectContracts.java",
+      "sha256": "40ecf57ce6f626f9831e535dcbdaa5cf3ff52986e364451a38c850df0adcb4c9",
+      "bytes": 3948
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyProjectController.java",
+      "sha256": "0d0eeda0a81f1124f13fde7419f690bd5c2b6f68154ec079027969eaf26374e9",
+      "bytes": 4966
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-cloud/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyProjectService.java",
+      "sha256": "ea541eed9ebe58194dacf35ec33c73037ec141b71c075f958f527bd49aa99409",
+      "bytes": 34487
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/.gitignore",
+      "sha256": "e151fb11ad47a38dd9e907c5095a6435886890ae15bc1eb192cb33387e30ec74",
+      "bytes": 9213
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/App.tsx",
+      "sha256": "7af9d27b9377610b08f3376ac8d1af833cd6b6677fec75f7af9beee4499541fe",
+      "bytes": 46033
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologyConnections.tsx",
+      "sha256": "4fdb094fae965164445a3249b6e6c1a159073b8168f3f57ae2c65068110e8576",
+      "bytes": 13799
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologyHelpPage.tsx",
+      "sha256": "2b5c82fb8a1b482251d52595ec2a2e9231a09803da561908fd8f6ff8bc0af6e3",
+      "bytes": 11773
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologyProjectScope.test.tsx",
+      "sha256": "4bdd84a77e4dde46edbcf5136034d87b74375e9f04368636cae68a4b3939bad5",
+      "bytes": 9854
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologyQueryPage.tsx",
+      "sha256": "0a1464975df9291e358a767a67512ceab6c6a704b77824637cd9eb919ddc8e5b",
+      "bytes": 32113
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/OntologySpaceSetup.tsx",
+      "sha256": "2569f3b8c0383b4ff56c0a2cc2a4b476b5727307adec5f471d83beb66099756a",
+      "bytes": 1772
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/SavedQueryTemplates.tsx",
+      "sha256": "f372a2d177feb313fbbc3e3c27c9c2498f56aa8b6aa9ed5fcf4608d11d7f75d5",
+      "bytes": 15245
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/formalGraphAppearance.ts",
+      "sha256": "61e38823cd720b1ef02ef9fc73e171b99f1458dccdc24491e69821c4e98d2218",
+      "bytes": 8919
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/features/ontology/ontologyNavigation.ts",
+      "sha256": "8ad4d9bb7f39d2ca8428b82ae82d11d63641945307895e59217d5d2d89d955a4",
+      "bytes": 1487
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/platform/navigation.test.ts",
+      "sha256": "5cbdce76e40f1f4a80bc73179b2f921abc84d6ca0aaa47e9458840566389cb45",
+      "bytes": 4014
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/platform/navigation.ts",
+      "sha256": "1276a78a135f021b16430f949e7e259ae0b98c44027a97133a12ebd5abcfbb7a",
+      "bytes": 6370
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/platform/routes.test.ts",
+      "sha256": "9a2432c13e5be40f81fc773734de3f6efe77601d6bf029b1bc4f03ffab2b9daf",
+      "bytes": 12650
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/platform/routes.ts",
+      "sha256": "2a313b1d326ef8c13b6c16f190dde29673389743bba0a9d15596f9ec27477ecd",
+      "bytes": 1857
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/apps/console-react/src/platform/standaloneRoutes.ts",
+      "sha256": "6da1324725565a2d66b2898c22121193ae757eaaff34c2c2d684157ea4433abb",
+      "bytes": 6948
+    },
+    {
+      "path": "/Users/wangmingzhang/atlas-ui-admin-react/shared/route-registry.ts",
+      "sha256": "5dbd8979c98f8dc4892aaaca995d250655af6f54e221d8257717530e0e229c5f",
+      "bytes": 20578
+    }
+  ],
+  "processes": [
+    {
+      "role": "worker",
+      "pid": 45025,
+      "createTime": 1792873190.742332,
+      "ports": [
+        14985
+      ],
+      "sameUID": true
+    },
+    {
+      "role": "web",
+      "pid": 45239,
+      "createTime": 1792873230.299821,
+      "ports": [
+        48282
+      ],
+      "sameUID": true
+    },
+    {
+      "role": "nativeProxy",
+      "pid": 44828,
+      "createTime": 1792873150.910808,
+      "ports": [
+        18587
+      ],
+      "sameUID": true
+    },
+    {
+      "role": "system",
+      "pid": 95809,
+      "createTime": 1791982742.072632,
+      "ports": [
+        48081
+      ],
+      "sameUID": true
+    },
+    {
+      "role": "OM",
+      "pid": 33558,
+      "createTime": 1792811746.216388,
+      "ports": [
+        18585,
+        18586
+      ],
+      "sameUID": true
+    },
+    {
+      "role": "Vite",
+      "pid": 3832,
+      "createTime": 1791319410.644957,
+      "ports": [
+        5188
+      ],
+      "sameUID": true
+    }
+  ],
+  "heads": {
+    "cloud": "c95a5cef89198aa59861d80a1a178d8854839658",
+    "react": "ee314de2bc29a14fd6c865e6790cd892f0484446",
+    "semantica": "315216c6808c99542ac912a0a2f26bef7b988346"
+  },
+  "GitIndexWrites": 0,
+  "HTTP": 0,
+  "SQL": 0,
+  "signals": 0,
+  "serviceActions": 0,
+  "stageAccepted": false,
+  "userAcceptance": "PENDING"
+}
