@@ -1986,7 +1986,7 @@ DM34剩余两DROP官方exec-7a21f351退出0，10:15:32真实4SELECT/2DROP/0CREAT
 
 S6唯一CREATE与同UUID补本地绑定、原UNKNOWN永久历史及其它项目保护复用§17.78–80。四组原验收项未删；同名/404/搜索延迟/并发/失权/ACK未知/改绑旧计划失效等按具名H2/owned HTTP/React方法分时接受，不冒最终版本单轮全部现场注入。完整Reviewer就绪仍M1.5，不从目标存在推导。
 
-代码精确交付已完成：Cloud codex/atlas-om-semantica 28159a9a→2e6f0bcd348706698c12a6a8a83623b9ea611a8a（15路径）；React同分支9d526d13→bd8ac636d8024724565a976ba815dbacd25ea3d6（11路径）。各push与ls-remote核同，26提交blob等已验stageable副本，ProjectService原99行及FE三路由旧WIP保留，后端3/前端16原WIP保持。公开文档专用分支精确交付进行中，见[Git说明](../implementations/2026-10-23-atlas-registration-m1/m1-4-git-delivery.md)；文档远端核验完才放行原Work M1.5，M2仍NOT_GO。Root本轮没有产品测试/SQL/HTTP/浏览器/服务动作。
+代码精确交付已完成：Cloud codex/atlas-om-semantica 28159a9a→2e6f0bcd348706698c12a6a8a83623b9ea611a8a（15路径）；React同分支9d526d13→bd8ac636d8024724565a976ba815dbacd25ea3d6（11路径）。各push与ls-remote核同，26提交blob等已验stageable副本，ProjectService原99行及FE三路由旧WIP保留，后端3/前端16原WIP保持。Semantica专用文档分支e16447c5→7ad55d1fa0d618c754cd3758ba0eeb6c30940b4d（25精选文件）已push/remote核同，本地main315216c6和真实index保持。本段与Git说明的完成回执随后仅二路径提交，见[Git说明](../implementations/2026-10-23-atlas-registration-m1/m1-4-git-delivery.md)。M1.4独验与精确Git门完成，现仅放行原Work的M1.5；完整M1仍IN_PROGRESS，M2仍NOT_GO，最终人工PENDING。Root本轮没有产品测试/SQL/HTTP/浏览器/服务动作。
 
 ### 17.74 M1.4 前端两模式及原任务恢复实现，有限检查与正常构建通过（2026-10-24）
 

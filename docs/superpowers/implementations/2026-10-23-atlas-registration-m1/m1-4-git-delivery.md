@@ -1,12 +1,12 @@
 # M1.4 精确 Git 交付
 
-Root于2026-10-24 10:47 UTC完成[有限技术验收](m1-4-root-acceptance.md)。下列两仓代码已实际提交、push成功，并用独立 `ls-remote` 核对远端相同；工作区文件字节及既有WIP保持。公开文档正在本节所列专用文档分支交付，完成回执另行前向记录。真人最终验收仍PENDING。
+Root于2026-10-24 10:47 UTC完成[有限技术验收](m1-4-root-acceptance.md)。下列两仓代码已实际提交、push成功，并用独立 `ls-remote` 核对远端相同；工作区文件字节及既有WIP保持。公开精选文档也已实际提交、push并核对远端；本回执仅补记已发生的交付。真人最终验收仍PENDING。
 
 | 仓库 / 分支 | 本节点父提交 | M1.4提交及已核远端 | 精确范围 |
 | --- | --- | --- | --- |
 | atlas-cloud / codex/atlas-om-semantica | `28159a9ad05809e0b3b0d36df38eae01472f88bf` | `2e6f0bcd348706698c12a6a8a83623b9ea611a8a` | 15路径：12 Java、3 SQL |
 | atlas-ui-admin-react / codex/atlas-om-semantica | `9d526d1383d751709a7bb4c132e7646472ff3d71` | `bd8ac636d8024724565a976ba815dbacd25ea3d6` | 11路径：7产品、4检查 |
-| Semantica / codex/atlas-registration-m1-docs | `e16447c51bbfd46e7158fcd27c7ad3b282e035fb` | 公开精选待本轮实际回执 | 仅节点验收、唯一账、安全投影及必要有限方法源 |
+| Semantica / codex/atlas-registration-m1-docs | `e16447c51bbfd46e7158fcd27c7ad3b282e035fb` | `7ad55d1fa0d618c754cd3758ba0eeb6c30940b4d` | 仅节点验收、唯一账、安全投影及必要有限方法源 |
 
 ## 精确暂存及保护
 
@@ -22,4 +22,4 @@ ProjectService只提交M1.4增量，原99新增行保留未提交；前端App、
 
 公开精选保留验收卡、交接说明、安全投影、真实JPG及必要有限测试源/具名结果说明。原件链接未随精选进入Git的仍是本地证据引用，不能从链接存在推导全档案已公开。尤其两份delivery proof、完整构建/执行argv、实际SQL行、私有RAW、会话资料、classes/JAR和大trace保持本地；不递归收齐所有引用。
 
-Semantica使用独立index从专用文档分支父提交构树；本地main `315216c6808c99542ac912a0a2f26bef7b988346`、真实index与其它工作文件不切换、不重置。不得把本地main的347个无关提交推送出去。没有创建PR或合并main。完成本轮公开文档远端核验后才放行原Work的M1.5。
+Semantica使用独立index从专用文档分支父提交构树；本地main `315216c6808c99542ac912a0a2f26bef7b988346`、真实index与其它工作文件不切换、不重置。不得把本地main的347个无关提交推送出去。没有创建PR或合并main。公开精选25文件已经push并独立核远端 `7ad55d1fa0d618c754cd3758ba0eeb6c30940b4d`，本地main和真实index逐字保持。初次文档交付回执为 `/private/tmp/m14-root-docs-initial-actual.json`。本文件和唯一账的完成说明作为两个路径的后续回执提交，不递归增加档案；该回执提交的实际哈希在工具结果与监督检查点记录。M1.4的代码及文档交付门已完成，仅放行原Work的M1.5。
