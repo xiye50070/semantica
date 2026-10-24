@@ -2309,7 +2309,7 @@ official exec-d1a662ac与exec-46a1a358原完整结果核Worker45025/ctime1792873
 
 旧18585来源误判已撤回：Managed.instance实际来自atlas.om-identity.endpoint=18587/api，catalog非borrow来源；旧b337失败与当时stop返回502是配置/源码推导，未独立捕获原wire，不改写FAILED。原凭据轮换、政策/Reviewer、全部失败/RAW/key/UNKNOWN/latch保，不重演旧M1或M21。后台20模块offline package0/skiptests、前端完整gate/tsc/Vite0、DM37两DDL七SELECT、有限分时及原失败层级充分复用；Gateway未部署，全模式/完整模型同步不冒已验。M2.1留给M2.2的实际秘密消费与真实节点诊断接合已补足，技术接受不等于所有层绿或生产认证。
 
-产品精确Git已完成：Cloud c95a5cef89198aa59861d80a1a178d8854839658→a0754ada3e04e60c7e0ddf6392da267d014e83ff（25）；React ee314de2bc29a14fd6c865e6790cd892f0484446→47bba3150f7eb7ebaa92d4f53454a4cfae64c24e（5）。push/ls-remote精确同，30提交blob同23526055…final cut，12旧before均同HEAD/18新，与19旧WIP无重叠；工作区字节及Cloud3/React16旧WIP保，实际index空。文档专支当前父e8e92459…，精选27+Root报告/唯一账精确交付进行中；完成前不删除监督。私有运行argv/SQL行/RAW/会话/秘密/JAR、大构建索引留本地，不递归补齐本地refs。卡片仅一处M3授权句由Root校正，ready-r2保原提交hash。
+产品精确Git已完成：Cloud c95a5cef89198aa59861d80a1a178d8854839658→a0754ada3e04e60c7e0ddf6392da267d014e83ff（25）；React ee314de2bc29a14fd6c865e6790cd892f0484446→47bba3150f7eb7ebaa92d4f53454a4cfae64c24e（5）。push/ls-remote精确同，30提交blob同23526055…final cut，12旧before均同HEAD/18新，与19旧WIP无重叠；工作区字节及Cloud3/React16旧WIP保，实际index空。文档专支e8e92459afc8dfea6d9f9df3e5c6db30c6cc400c→e5f1e75cba0e711c4f12326629b9f12f48f6e7a6（31项＝27精选+3报告+唯一账），push/remote同，main315216c6/真实index/347无关提交保。末回执仅本账与m2-2-git-delivery.md两文，独立index精确提交；不提交自身hash。M1/M2有限技术独验与Git交付完成，真人PENDING、M3 NOT_GO；按真人指示结束并删除atlas-m1监督，工具实际结果另在本会话记录，旧atlas/atlas-p1不改。私有运行argv/SQL行/RAW/会话/秘密/JAR、大构建索引留本地，不递归补齐本地refs。卡片仅一处M3授权句由Root校正，ready-r2保原提交hash。
 
 
 ### 17.101 M2.1本地候选与21个有限方法已有成功证据，仍待页面/现场（2026-10-24）
