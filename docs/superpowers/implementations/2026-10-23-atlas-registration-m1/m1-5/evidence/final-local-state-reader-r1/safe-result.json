@@ -1,0 +1,121 @@
+{
+  "kind" : "M15_FINAL_LOCAL_STATE_READ_ONLY",
+  "startedAt" : "2026-10-24T14:09:35.289556Z",
+  "reviewerIntent" : {
+    "intentId" : "309706cd-7494-45a7-8b59-c709c4784d36",
+    "operationKey" : "d24a8e23-5bf7-4de0-bd95-cd8d137fee17",
+    "state" : "SUCCEEDED",
+    "rowVersion" : 6,
+    "activeSlotIsNull" : true,
+    "activeReviewerIntentsForG" : 0,
+    "dispatchState" : "DISPATCHED",
+    "ackState" : "ACKNOWLEDGED",
+    "httpStatus" : 200,
+    "rawACKHashMatches" : true,
+    "rawACKTargetAndOnly104Reviewer" : true,
+    "nativeVersion" : "0.2",
+    "independentReadback" : "VERIFIED",
+    "requestExecution" : "ACKNOWLEDGED",
+    "originalConfigurationVersion" : 4,
+    "snapshotRawSHA256" : "sha256:7abaca65bcfce51dbae0b623192bfbbd7436a8c8494ed80e9d5bdfea8d94d304",
+    "journalRawSHA256" : "sha256:63e3ad7be3f72dea3bc23a111ab38c2b96b4a0debde3c6d3da1058bd62f05cd6",
+    "sharedImpactHash" : "sha256:3c5ef480dfcafb619ffcef1eb46a5033b4126a7d7fe684eba78f023f47b2a951",
+    "sharedCanApplyAtPlan" : true
+  },
+  "currentMappingAndPointers" : {
+    "projectVersion" : 3,
+    "configurationVersion" : 6,
+    "mappingEnabled" : true,
+    "bindingId" : "081dc4a9-a5a4-40e4-9141-634eda235409",
+    "nativeUserId" : "2d0540a5-d6fd-4f24-a5a4-270eaa54dc26",
+    "bindingVersion" : 9,
+    "credentialEpoch" : 2,
+    "desiredRevision" : 3,
+    "bindingState" : "BOUND",
+    "syncState" : "IN_SYNC",
+    "s6Target" : "7daa15c1-5f4b-4272-bdcf-5575cca8ebe9",
+    "ac2Target" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+    "ac2ProjectVersion" : 2,
+    "ac2ConfigurationVersion" : 1,
+    "ac2MappingEnabled" : true
+  },
+  "maintenance" : {
+    "disable" : {
+      "intentId" : "12b11c34-349c-4201-86c6-d3247decad4e",
+      "operation" : "DISABLE_IDENTITY",
+      "statusPerLocalStore" : "SUCCEEDED",
+      "nativeTaskIsNull" : true,
+      "configurationVersion" : 5,
+      "enabledAfter" : false,
+      "createdAt" : "2026-10-24T13:58:39.327Z"
+    },
+    "restore" : {
+      "intentId" : "a37e3594-bfe4-42e9-8532-2e68404d8fa0",
+      "operation" : "CONFIGURE_MODELING_ACCESS",
+      "statusPerLocalStore" : "SUCCEEDED",
+      "nativeTaskIsNull" : true,
+      "configurationVersion" : 6,
+      "enabledAfter" : true,
+      "createdAt" : "2026-10-24T13:59:44.358Z"
+    },
+    "restoreAt" : "2026-10-24T13:59:44.358Z",
+    "sameMappingNoRotation" : true
+  },
+  "latestObservation" : {
+    "id" : "b503f767-9aaf-47da-a2f7-78b24fb83172",
+    "observedAt" : "2026-10-24T14:00:26.616Z",
+    "expiresAt" : "2026-10-24T14:02:26.616Z",
+    "afterRestore" : true,
+    "snapshotConfigurationVersion" : 6,
+    "currentTupleVersionsMatch" : true,
+    "snapshotAndReportHashesMatch" : true,
+    "ttlCurrent" : false,
+    "nativeVersion" : "0.2",
+    "storedReviewerQualified" : {
+      "state" : "READY",
+      "reason" : "CURRENT_APPROVED_REVIEWERS_VERIFIED"
+    },
+    "storedExecutorCurrentWrite" : {
+      "state" : "READY",
+      "reason" : "CURRENT_EXECUTOR_NATIVE_USER_REVIEWER_SHORTCUT_VERIFIED"
+    },
+    "targetReadyDerivedFromStoredReportAndPlanSharedImpact" : "READY",
+    "currentConservativeReadiness" : {
+      "reviewerQualified" : "NOT_VERIFIED",
+      "executorCurrentWrite" : "NOT_VERIFIED",
+      "targetReady" : "NOT_READY",
+      "reason" : "OBSERVATION_TTL_EXPIRED"
+    },
+    "modelSyncQualification" : "NOT_VERIFIED",
+    "liveIAMOrNativeRecomputed" : false
+  },
+  "oldRootHistory" : [ {
+    "intentId" : "75149e86-6063-4216-89c1-4e8bff3c4fb4",
+    "projectId" : "ebed8ab8-a686-47ee-a7cb-cb778617730d",
+    "mode" : "REUSE",
+    "state" : "SUCCEEDED",
+    "rowVersion" : 5,
+    "historicalTarget" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+    "localBoundProjectVersion" : 2,
+    "journalRawSHA256" : "sha256:ffb3319fef3c3aa40c8e1bc7b40c50fcd5fd6e409a282bc7e35c94d30458d6b4",
+    "headerMatchesPriorAcceptedValues" : true
+  }, {
+    "intentId" : "e0a61258-e126-4ceb-b344-cc1702fa1e98",
+    "projectId" : "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+    "mode" : "CREATE",
+    "state" : "SUCCEEDED",
+    "rowVersion" : 10,
+    "historicalTarget" : "ab2c2d5f-05cb-4c5d-959e-a9f29d1fd4be",
+    "localBoundProjectVersion" : 2,
+    "journalRawSHA256" : "sha256:6cb8820b75e92df58847742623dc88ae5776b7897c0556927d67be4d0ff7ba12",
+    "headerMatchesPriorAcceptedValues" : true
+  } ],
+  "finishedAt" : "2026-10-24T14:09:35.440961Z",
+  "SELECT" : 5,
+  "DML" : 0,
+  "DDL" : 0,
+  "HTTP" : 0,
+  "automaticRetry" : false,
+  "productGetters" : 0,
+  "acrossStatementSnapshotClaimed" : false
+}

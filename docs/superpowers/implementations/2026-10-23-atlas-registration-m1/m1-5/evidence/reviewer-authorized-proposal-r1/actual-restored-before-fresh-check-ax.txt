@@ -1,0 +1,201 @@
+Browser tab: 979676260, Title: "Atlas · 管理工作台", URL: "http://127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/target?account=104&instance=om-p1-isolated&reviewerIntent=309706cd-7494-45a7-8b59-c709c4784d36".
+1 AXWebArea Atlas · 管理工作台, URL: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/target?account=104&instance=om-p1-isolated&reviewerIntent=309706cd-7494-45a7-8b59-c709c4784d36
+	2 container root
+		3 link Description: 跳转到主要内容, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/target?account=104&instance=om-p1-isolated&reviewerIntent=309706cd-7494-45a7-8b59-c709c4784d36#main-content
+		4 container 主导航
+			5 link Description: Atlas, Value: 127.0.0.1:5188/next
+			6 text 企业管理空间
+			7 container
+				8 text 管理控制台
+				9 menu
+					10 (collapsed) appstore 系统管理, Secondary Actions: Expand
+						11 image appstore
+						12 text 系统管理
+					13 (collapsed) appstore 基础设施, Secondary Actions: Expand
+						14 image appstore
+						15 text 基础设施
+					16 (collapsed) appstore 工作流程, Secondary Actions: Expand
+						17 image appstore
+						18 text 工作流程
+					19 (expanded) appstore 本体管理, Secondary Actions: Collapse
+						20 image appstore
+						21 text 本体管理
+					22 menu rc-menu-uuid-_r_2_-ontology:management-popup
+						23 apartment 知识空间
+							24 image apartment
+							25 link Description: 知识空间, Value: 127.0.0.1:5188/next/ontology/spaces
+						26 apartment 本体项目
+							27 image apartment
+							28 link Description: 本体项目, Value: 127.0.0.1:5188/next/ontology/projects
+					29 search 知识查询
+						30 image search
+						31 link Description: 知识查询, Value: 127.0.0.1:5188/next/ontology/query
+			32 button 账户菜单
+				33 image
+				34 text 管理员
+				35 text admin
+				36 image down
+		37 container
+			38 button (expanded) Description: 收起导航, Secondary Actions: Collapse
+				39 container menu-fold
+			40 text 工作空间
+			41 text 本体管理
+			42 button 访问租户
+			43 button 搜索页面
+				44 text 搜索页面
+				45 text ⌘ K
+			46 button 我的消息，1 条未读
+				47 container bell
+			48 text 1
+		49 container
+			50 link Description: 返回项目准备, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/readiness#target
+			51 heading M1 S6身份准备验证 · 项目目标, Value: 1
+				52 text M1 S6身份准备验证
+				53 text  · 项目目标
+			54 text 新建或复用获准的根目录。原生创建、独立读回和本地绑定分别记录。
+			55 container 人员与批准实例
+				56 heading 人员与批准实例, Value: 2, ID: target-person-title
+					57 text 人员与批准实例
+				58 container
+					59 text Atlas 发起人  1 ；原生请求使用所选人员的普通身份，不使用管理员兜底。
+				60 container
+					61 text 建模人员  104
+				62 text 批准实例
+				63 container
+					64 text 受管 OpenMetadata
+					65 combo box (disabled, collapsed) Description: 批准实例, Secondary Actions: Expand
+					66 image down
+			67 heading 当前绑定与操作能力, Value: 2
+				68 text 当前绑定与操作能力
+			69 definition list
+				70 container 项目版本
+					71 text 项目版本
+				72 text 3
+				73 container 当前项目目标
+					74 text 当前项目目标
+				75 text om-p1-isolated · 7daa15c1-5f4b-4272-bdcf-5575cca8ebe9
+				76 container 绑定证据
+					77 text 绑定证据
+				78 text 有独立读回和本地绑定回执
+				79 container 原生 Owner
+					80 text 原生 Owner
+				81 text 2d0540a5-d6fd-4f24-a5a4-270eaa54dc26（映射本人 User，新建时固定）
+			82 button 更新当前目标
+			83 text READY_CREATE_AND_REUSE
+			84 container
+				85 text 新建根目录  ·  当前配置可用  ·  AVAILABLE
+			86 container
+				87 text 读取目标  ·  当前配置可用  ·  AVAILABLE
+			88 container 原目标任务, ID: result
+				89 heading 原目标任务, Value: 2, ID: target-result-title
+					90 text 原目标任务
+				91 container
+					92 text 原操作键  03ef0697-5ee9-4d6a-b20e-d8dc24b2a4c6
+				93 container
+					94 text 目标绑定已完成
+				95 definition list
+					96 container 原生创建
+						97 text 原生创建
+					98 text 已保留创建回执
+					99 container 独立读回
+						100 text 独立读回
+					101 text 同 UUID 已核对
+					102 container 原生目录
+						103 text 原生目录
+					104 container
+						105 text AtlasM15_S6_20261024_R01  ·  7daa15c1-5f4b-4272-bdcf-5575cca8ebe9
+					106 container 本地绑定
+						107 text 本地绑定
+					108 text 已绑定
+				109 text ROOT_BOUND_CURRENT_PERSON_VERIFIED
+				110 text 项目目标已绑定；Reviewer 与完整就绪待核，不代表建模、取数或发布已完成。
+				111 button 核对原任务
+				112 button 按当前版本准备新操作
+			113 container Reviewer 与目标就绪
+				114 heading Reviewer 与目标就绪, Value: 2, ID: target-reviewer
+					115 text Reviewer 与目标就绪
+				116 button 核对 Reviewer 与就绪
+				117 text 原生 Reviewer 管理目录及继承该资格的术语；它不是 Atlas 模型/执行包审批人，也不是正式事实发布审批人。
+				118 text AtlasM15_S6_20261024_R01 · 7daa15c1-5f4b-4272-bdcf-5575cca8ebe9 · v尚未独立核验
+				119 text REVIEWER_TARGET_CHECK_REQUIRED
+				120 definition list
+					121 container 目标绑定
+						122 text 目标绑定
+					123 container
+						124 text 已核验 DURABLE_ROOT_BINDING_CURRENT
+					125 container Reviewer 资格
+						126 text Reviewer 资格
+					127 container
+						128 text 尚未核验 CURRENT_REVIEWER_INSPECTION_REQUIRED
+					129 container 当前执行人员写条件
+						130 text 当前执行人员写条件
+					131 container
+						132 text 尚未核验 CURRENT_TARGET_WRITE_NOT_VERIFIED
+					133 container 目标就绪
+						134 text 目标就绪
+					135 container
+						136 text 未满足 REVIEWER_TARGET_PREREQUISITES_INCOMPLETE
+				137 container
+					138 text 模型同步完整资格： 尚未核验  ·  TERM_AND_MODEL_SYNC_QUALIFICATION_SEPARATE
+				139 heading 当前 Reviewer, Value: 3
+					140 text 当前 Reviewer
+				141 text 尚无当前独立读回，不能推断 Reviewer 为空或已合格。
+				142 heading 共享影响, Value: 3
+					143 text 共享影响
+				144 text ALL_CURRENT_SHARED_SCOPES_WRITE_AUTHORIZED
+				145 content list
+					146 container
+						147 AXListMarker • 
+						148 text M1 S6身份准备验证  · 项目版本  3  ·  当前范围条件满足 CURRENT_SCOPE_WRITE_CONFIGURED
+				149 heading 合法主体与资格, Value: 3
+					150 text 合法主体与资格
+				151 text 仅包括当前项目批准受管人员与已有 Reviewer，不代表全部原生用户或团队；可选不等于资格已通过。
+				152 container
+					153 text 用户  ·  原生类型支持  ·  支持当前资格核验  ·  CURRENT_MAPPED_USER_EVIDENCE_REQUIRED
+				154 container
+					155 text 团队  ·  原生类型支持  ·  完整资格尚未核验  ·  TEAM_CURRENT_MEMBERSHIP_EVIDENCE_NOT_VERIFIED
+				156 table
+					157 row
+						158 cell
+							159 text 主体
+						160 cell
+							161 text 当前资格
+						162 cell
+							163 text 原因
+					164 row
+						165 cell
+							166 text atlas_7780dfc7b50b9cd34387b5f8f3355ee0d78bfc4fc8379238d18ac36e90c8c4bb · 用户
+							167 text 2d0540a5-d6fd-4f24-a5a4-270eaa54dc26
+						168 cell
+							169 text 资格尚未核验
+						170 cell
+							171 text CURRENT_SUBJECT_INSPECTION_REQUIRED
+				172 text Reviewer 是原生 Glossary 级持久授权，不能按 Atlas 项目隔离；存在只读或未证共享方时禁止修改。
+				173 text 下属术语可能继承并合并本目标 Reviewer，有效权限及后续工作流受理人可能改变；本操作不直接写术语。
+				174 text 目录仅覆盖本项目获准受管人员及当前持久 Reviewer；Team 类型原生支持，但当前成员与资格证据未核。
+				175 text 当前目标 Reviewer 及必要写条件不代表术语或完整模型同步资格。
+				176 container 原 Reviewer 任务
+					177 heading 原 Reviewer 任务, Value: 3
+						178 text 原 Reviewer 任务
+					179 container
+						180 text 原操作键  d24a8e23-5bf7-4de0-bd95-cd8d137fee17
+					181 text Reviewer 修改已核对
+					182 definition list
+						183 container 原 UUID
+							184 text 原 UUID
+						185 text 7daa15c1-5f4b-4272-bdcf-5575cca8ebe9
+						186 container 原请求派发 / ACK
+							187 text 原请求派发 / ACK
+						188 container
+							189 text DISPATCHED  /  ACKNOWLEDGED
+						190 container 独立读回
+							191 text 独立读回
+						192 text VERIFIED
+						193 container 原请求是否执行
+							194 text 原请求是否执行
+						195 text ACKNOWLEDGED
+					196 text REVIEWER_UPDATE_INDEPENDENTLY_VERIFIED
+					197 button 读取原 Reviewer 任务
+					198 button 按当前版本核对 Reviewer
+
+The focused UI element is 51 heading M1 S6身份准备验证 · 项目目标, Value: 1

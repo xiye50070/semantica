@@ -1,0 +1,154 @@
+{
+  "kind": "M15_FIFTH_FIXED_BACKEND_SOURCE",
+  "at": "2026-10-24T11:41:26.446826+00:00",
+  "sourceRoot": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source",
+  "paths": [
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyRootGlossaryStore.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyRootGlossaryStore.java",
+      "sha256": "24fd330091485ebde5841ac691fcacb2281e8a7ce48d8f8ccd88328bf12dab4a",
+      "bytes": 45765,
+      "before": {
+        "sha256": "3cee1393512a18b8edc304fd1d78828cd27e86231e9c4fef41152b59616e0768",
+        "bytes": 42282,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/scope-backend-r1/before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyRootGlossaryStore.java"
+      }
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingIdentityConsumer.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingIdentityConsumer.java",
+      "sha256": "f87db9a42f5db876ad271fc1311134e9f4dde25d3c1d3eafefb6962ac21d4a0b",
+      "bytes": 15641,
+      "before": {
+        "sha256": "d1d7cffac34a37d449d44e026b24473aadbac0d4bf160393c2ffd5036741c0d5",
+        "bytes": 11668,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/scope-backend-r1/before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingIdentityConsumer.java"
+      }
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyPreparationService.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyPreparationService.java",
+      "sha256": "c5df6645d6b8e5279fb92b3ed02eea604d94c64449b0514968f0fb2aa80d1d73",
+      "bytes": 4682,
+      "before": {
+        "sha256": "d9e753614ffc541bb9186ce2b1791831b90d2b5eef4ded94b1d4e38c1260f509",
+        "bytes": 3887,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/scope-backend-r1/before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyPreparationService.java"
+      }
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyP1Configuration.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyP1Configuration.java",
+      "sha256": "870021d9f12d2b0472fd3d41ff7f1d18c0ff4ceb863d3d93c081c79232f4f7ee",
+      "bytes": 2660,
+      "before": {
+        "sha256": "e94f72771422c37539a51561e7a9b1b1a4fb2821f4b8c16bf9e8cb63e241e768",
+        "bytes": 1963,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/scope-backend-r1/before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyP1Configuration.java"
+      }
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmInstanceRegistry.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmInstanceRegistry.java",
+      "sha256": "dc2e4dc7937f86eb6c2507c70ecd43127767dc0380f4209f118437f98cab850e",
+      "bytes": 8836,
+      "before": {
+        "sha256": "4260d208baa25f66ae79d31e47cc80a1f6f70ccb94659172d6d9ceb7c877efb3",
+        "bytes": 7745,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/scope-backend-r1/before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmInstanceRegistry.java"
+      }
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmRestClient.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmRestClient.java",
+      "sha256": "e77f50b93f702eb3778980231f6ba377e90373bc303628375d2f6d973ccdbcf4",
+      "bytes": 49658,
+      "before": {
+        "sha256": "eb43e65c35bd0d583e549020b5539901aa6cc359caa677db4a5eae700d883939",
+        "bytes": 48667,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/scope-backend-r1/before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmRestClient.java"
+      }
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmNativeProjectionSynchronizer.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmNativeProjectionSynchronizer.java",
+      "sha256": "88c4c663f66986ae6e391f250e80df487fb1e05de1e921be7b08872a2a05308a",
+      "bytes": 2069,
+      "before": {
+        "sha256": "76a351fd9592700e7a2c101eca2f490eca507e9ae6de2acbd2140e3c25c1aa52",
+        "bytes": 1383,
+        "savedCopy": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/scope-backend-r1/before/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmNativeProjectionSynchronizer.java"
+      }
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerContracts.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerContracts.java",
+      "sha256": "d5624710fa1fa1526fd5f9adb41043fa7282bb25cd6bdabf952cb9aadd9d8112",
+      "bytes": 1460,
+      "before": null
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyGlossaryReviewerStore.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyGlossaryReviewerStore.java",
+      "sha256": "7f3cce645ef741475be2eb1c5742958272ce3a77f3b4a71eedc9d925f21a2dce",
+      "bytes": 35401,
+      "before": null
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerService.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerService.java",
+      "sha256": "17f2bbb256c4376599754fe690dd860263da92aab7ec195f283e88a62bb96ba9",
+      "bytes": 22671,
+      "before": null
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerController.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerController.java",
+      "sha256": "c707fa0d29bfc3f6318ae1b782f908729e62e654beb6725bad9ae437ec23fdf2",
+      "bytes": 7488,
+      "before": null
+    },
+    {
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerConfiguration.java",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerConfiguration.java",
+      "sha256": "0320c659fbba9208a9b36c712d9cab914487637886366faba0849d301a5fe113",
+      "bytes": 1165,
+      "before": null
+    },
+    {
+      "relativePath": "sql/ontology/V20261024_35__ontology_glossary_reviewer.sql",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/sql/ontology/V20261024_35__ontology_glossary_reviewer.sql",
+      "sha256": "f56e79fef5202bc8c0fd1d21fc997c55bf069bd821d7f0e26ae0f26eed3fb2e2",
+      "bytes": 1880,
+      "before": null
+    },
+    {
+      "relativePath": "sql/ontology/dm8/V20261024_35__ontology_glossary_reviewer.sql",
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/revision-r5/source/sql/ontology/dm8/V20261024_35__ontology_glossary_reviewer.sql",
+      "sha256": "31d81f6907a8f775eb9ca88433343155d9ccf397f5fbba38dfd27e41814e53f4",
+      "bytes": 2090,
+      "before": null
+    }
+  ],
+  "files": {
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyRootGlossaryStore.java": "24fd330091485ebde5841ac691fcacb2281e8a7ce48d8f8ccd88328bf12dab4a",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyModelingIdentityConsumer.java": "f87db9a42f5db876ad271fc1311134e9f4dde25d3c1d3eafefb6962ac21d4a0b",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyPreparationService.java": "c5df6645d6b8e5279fb92b3ed02eea604d94c64449b0514968f0fb2aa80d1d73",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyP1Configuration.java": "870021d9f12d2b0472fd3d41ff7f1d18c0ff4ceb863d3d93c081c79232f4f7ee",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmInstanceRegistry.java": "dc2e4dc7937f86eb6c2507c70ecd43127767dc0380f4209f118437f98cab850e",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmRestClient.java": "e77f50b93f702eb3778980231f6ba377e90373bc303628375d2f6d973ccdbcf4",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/om/OmNativeProjectionSynchronizer.java": "88c4c663f66986ae6e391f250e80df487fb1e05de1e921be7b08872a2a05308a",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerContracts.java": "d5624710fa1fa1526fd5f9adb41043fa7282bb25cd6bdabf952cb9aadd9d8112",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyGlossaryReviewerStore.java": "7f3cce645ef741475be2eb1c5742958272ce3a77f3b4a71eedc9d925f21a2dce",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerService.java": "17f2bbb256c4376599754fe690dd860263da92aab7ec195f283e88a62bb96ba9",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerController.java": "c707fa0d29bfc3f6318ae1b782f908729e62e654beb6725bad9ae437ec23fdf2",
+    "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyGlossaryReviewerConfiguration.java": "0320c659fbba9208a9b36c712d9cab914487637886366faba0849d301a5fe113",
+    "sql/ontology/V20261024_35__ontology_glossary_reviewer.sql": "f56e79fef5202bc8c0fd1d21fc997c55bf069bd821d7f0e26ae0f26eed3fb2e2",
+    "sql/ontology/dm8/V20261024_35__ontology_glossary_reviewer.sql": "31d81f6907a8f775eb9ca88433343155d9ccf397f5fbba38dfd27e41814e53f4"
+  },
+  "javaSources": 12,
+  "productWrites": 0,
+  "SQL": 0,
+  "HTTP": 0,
+  "compileActual": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/backend-candidate-r1/compile-ninth-r1/actual.json"
+}

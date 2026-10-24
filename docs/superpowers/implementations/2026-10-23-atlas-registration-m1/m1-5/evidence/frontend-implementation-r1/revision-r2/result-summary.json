@@ -1,0 +1,59 @@
+{
+  "kind": "M15_FRONTEND_R2_AUTHOR_RESULTS",
+  "sourceMap": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/frontend-implementation-r1/revision-r2/source-map.json",
+    "sha256": "af0941ee6e66ff3f81c034deecce4fe9e802abf9a12e5157dec935b9a1e2ebcc",
+    "bytes": 7874
+  },
+  "fullPatch": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/frontend-implementation-r1/revision-r2/forward.patch",
+    "sha256": "caf481bfbeda0a9e61136834acd30e519ee5fcaab7e864428a7086f07056c71d",
+    "bytes": 148081
+  },
+  "forwardFromR1": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/frontend-implementation-r1/revision-r2/forward-from-r1.patch",
+    "sha256": "925868bcd0092e3f1db3db65715612a039da9bef2c5065d15c11b970e7ef056c",
+    "bytes": 52259
+  },
+  "r1OriginalResults": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/frontend-implementation-r1/result-summary.json",
+    "sha256": "0242f9bed66ee5d01d4fd4b3a0d215acc0003678d09ce2aedfd6420345971a66",
+    "bytes": 1812
+  },
+  "originalDistinctMethods": 8,
+  "newDistinctMethods": 4,
+  "newMethods": {
+    "staleFacts503AndUnknown": {
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/frontend-implementation-r1/revision-r2/finite-r2/actual.json",
+        "sha256": "efdc79cc0e2c6b688dcda6105731434701561b9ac9076503dfeb8bface370be8",
+        "bytes": 903
+      },
+      "passed": 1,
+      "scope": "earlier r2 cut retained in diagnostics/before-root-source-findings; no claim of full latest suite"
+    },
+    "terminalTTLSetDelta": {
+      "actual": {
+        "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/frontend-implementation-r1/revision-r2/finite-r3/actual.json",
+        "sha256": "484857addd95ff89bed4a060191b7bc5c044e0d5d606803f48b2f4ec0c7bcba0",
+        "bytes": 1570
+      },
+      "passed": 3,
+      "typecheckExit": 0,
+      "inputStable": true
+    }
+  },
+  "historicalFailures": [
+    "F/finite-r1 typecheck2",
+    "F/finite-r2 harness before zero methods",
+    "F/finite-r3 6PASS/2FAIL; later affected source/harness corrected",
+    "revision-r2/finite-r1 new method fixture used unstable initial context; original preserved"
+  ],
+  "noSingleFullFinalSuiteClaim": true,
+  "realH2ProducerInteroperability": "PENDING_REAL_BACKEND_PRODUCER",
+  "fullProductionBuild": "NOT_RUN_E_ONLY",
+  "RootAcceptance": "PENDING",
+  "realHTTP": 0,
+  "SQL": 0,
+  "productWrites": 0
+}

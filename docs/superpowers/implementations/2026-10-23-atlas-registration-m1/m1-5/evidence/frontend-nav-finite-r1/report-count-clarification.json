@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-24T14:27:13.626340+00:00",
+  "statuses": {
+    "passed": 2,
+    "skipped": 7
+  },
+  "total": 9,
+  "passedTitles": [
+    "hard blocks the shared readonly project, keeps empty Reviewer and Team unverified, and preserves the M1.4 result",
+    "identity unavailable repairs the current mapping and returns to the same Reviewer owner and original task without submission"
+  ],
+  "originalResultFilteredField": 0,
+  "clarification": "Controller counted only status=pending; actual filtered methods are status=skipped. Preserve original result, this report is authoritative count clarification. No test rerun."
+}

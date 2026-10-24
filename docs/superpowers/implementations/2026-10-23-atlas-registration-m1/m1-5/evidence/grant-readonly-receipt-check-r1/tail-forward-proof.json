@@ -1,0 +1,92 @@
+{
+  "kind": "M15_OPTIONAL_READONLY_TAIL_SAME_SNAPSHOT_CHECK",
+  "observedAt": "2026-10-24T14:01:24.658074+00:00",
+  "priorProofSHA256": "d805642297b7324406a4ed2e2f66996340ff1feaa7527a730e98ebefa301f736",
+  "stateSHA256": "1b293f96a2530c104417189e99598a77d984e4b02f6067016bc1360028647743",
+  "sameStateAsPrimaryProof": true,
+  "totalOperations": 17219,
+  "completed": 24,
+  "rawHTTP": 24,
+  "pending": null,
+  "stopped": false,
+  "tailGET": 8,
+  "tailWrites": 0,
+  "tailLogin": 0,
+  "protectedChecks": {
+    "tail-first": {
+      "protectedEqual": true,
+      "protectedSHA256": "cb7a7c17994b9aa6cc3410875de3d30fea4ad1f1d0e390ac49b535259bfd8cea",
+      "version": "0.2",
+      "reviewersExact104User": true
+    },
+    "tail-final": {
+      "protectedEqual": true,
+      "protectedSHA256": "cb7a7c17994b9aa6cc3410875de3d30fea4ad1f1d0e390ac49b535259bfd8cea",
+      "version": "0.2",
+      "reviewersExact104User": true
+    }
+  },
+  "tail": [
+    {
+      "sequence": 17212,
+      "stage": "ordinary-self",
+      "status": 200,
+      "responseSHA256": "9593d654cff2257a1d94962322e0f00f537e705d896ea95b5340056014bdcfb4",
+      "statusSHA256": "935553e72d7ac7b8d305e9979b559005d2a7ae2a1134c1dd0c797b8bd0f212ea"
+    },
+    {
+      "sequence": 17213,
+      "stage": "tail-first",
+      "status": 200,
+      "responseSHA256": "c14b4cd72b04c3829c3390ac301b1db80bb5c20b8fb7f7e5a52b03f5efcfd017",
+      "statusSHA256": "46f9edf6d230ffc77895949f4be2c4fdd605717672013cf7fdef8cc8053329c7"
+    },
+    {
+      "sequence": 17214,
+      "stage": "ordinary-self",
+      "status": 200,
+      "responseSHA256": "9593d654cff2257a1d94962322e0f00f537e705d896ea95b5340056014bdcfb4",
+      "statusSHA256": "935553e72d7ac7b8d305e9979b559005d2a7ae2a1134c1dd0c797b8bd0f212ea"
+    },
+    {
+      "sequence": 17215,
+      "stage": "tail-user",
+      "status": 200,
+      "responseSHA256": "9c95af9858dedc2d9d4a04f3823df6bdf1cb91063c173127d7007cc1a00d0d68",
+      "statusSHA256": "571962696f6f821ad9932960e135e943d37098f9aae07b5c9b6207bbdc1f7c7f"
+    },
+    {
+      "sequence": 17216,
+      "stage": "ordinary-self",
+      "status": 200,
+      "responseSHA256": "9593d654cff2257a1d94962322e0f00f537e705d896ea95b5340056014bdcfb4",
+      "statusSHA256": "935553e72d7ac7b8d305e9979b559005d2a7ae2a1134c1dd0c797b8bd0f212ea"
+    },
+    {
+      "sequence": 17217,
+      "stage": "tail-permissions",
+      "status": 200,
+      "responseSHA256": "f345e86dcd947a52af0972863d645995b9abe832a721bfa913f6f62a72714293",
+      "statusSHA256": "63099b65daef0217df90c24846327c3a01ebce15cbc1f87622fb9c39a45c5d18"
+    },
+    {
+      "sequence": 17218,
+      "stage": "ordinary-self",
+      "status": 200,
+      "responseSHA256": "9593d654cff2257a1d94962322e0f00f537e705d896ea95b5340056014bdcfb4",
+      "statusSHA256": "935553e72d7ac7b8d305e9979b559005d2a7ae2a1134c1dd0c797b8bd0f212ea"
+    },
+    {
+      "sequence": 17219,
+      "stage": "tail-final",
+      "status": 200,
+      "responseSHA256": "c14b4cd72b04c3829c3390ac301b1db80bb5c20b8fb7f7e5a52b03f5efcfd017",
+      "statusSHA256": "bcdade70cf6bbb5655f30eaf01ffc014109ad966426218ab97f21ff9dbd06192"
+    }
+  ],
+  "SQL": 0,
+  "HTTP": 0,
+  "privateWrites": 0,
+  "signals": 0,
+  "serviceActions": 0
+}

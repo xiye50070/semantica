@@ -1,0 +1,41 @@
+{
+  "kind": "M15_FRONTEND_E_ONLY_AUTHOR_FINITE_RESULTS",
+  "createdAt": "2026-10-24T11:23:32.806061+00:00",
+  "currentSourceMap": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/frontend-implementation-r1/source-map.json",
+    "sha256": "17658240b9894d881afc9ef3dbd3c1bdc4a6c51ebadda09bfac29da2bed31318",
+    "bytes": 4862
+  },
+  "forwardPatch": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-23-atlas-registration-m1/m1-5/evidence/frontend-implementation-r1/forward.patch",
+    "sha256": "be4ab6d385a3fcf93f1725d12003c2f7740cc6886de956d5c25f66a973470986",
+    "bytes": 139364
+  },
+  "scope": 7,
+  "actual": {
+    "finite-r1": "typecheck2; test reason annotation/test setup types plus one unused prop; original kept",
+    "finite-r2": "typecheck0; Vitest setup resolution failed before 0 methods",
+    "finite-r3": "3 API PASS +3 component PASS /2 component FAIL; inputstable",
+    "finite-r4": "typecheck0 +5 component PASS; includes 2 affected failures corrected; launched before instruction to narrow to2; 3 unchanged component repeats are not new coverage"
+  },
+  "distinctMethodsPassed": 8,
+  "API": {
+    "methods": 3,
+    "actual": "finite-r3",
+    "currentAPIByteUnchanged": true
+  },
+  "component": {
+    "methods": 5,
+    "actual": "finite-r4"
+  },
+  "boundaries": [
+    "Axios owned adapter and synthetic DTO fixtures; not real H2-to-frontend interoperability",
+    "actual current React dependencies via owned E symlinks; no product installation/HMR",
+    "No real Native/SQL/service/browser/Root acceptance",
+    "Full production build not yet run; current candidate typecheck passed"
+  ],
+  "RootAcceptance": "PENDING",
+  "realHTTP": 0,
+  "SQL": 0,
+  "productWrites": 0
+}

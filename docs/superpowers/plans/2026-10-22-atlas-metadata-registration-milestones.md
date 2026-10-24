@@ -2119,3 +2119,150 @@ Main磁盘只读独核17146完整operation前缀与62旧ledger成员、旧所有
 精确交付现后台15=原r12十四+唯一DM34，前端11=7产品4检查。独占stageable副本排除ProjectService及App/standaloneRoutes/routes.test原WIP；整patch正反和独立HEADapply0、原WIP保持。Main自己逐15+11current/durable SHA/size/精确集核全同，old14patch完整prefix保、只追加SQL34；原件backend-delivery-15-r1、frontend-delivery-11-r1、main-final-source-delivery-readback-r1。最后后台r6 package0/2648输入、前端最后完整build0/1045输入沿各成功cut充分，不重旧组件/业务矩阵、不切Atlas。
 
 Work技术交付READY_FOR_ROOT_REVIEW（固定cut，不是ROOT_ACCEPTED/Git/USER_ACCEPTED）。收包导航m1-4/handoff-for-root-review-r1.md与最终验收卡已更新；完整E索引随后固定。监督Root须独验/精确Git，不推Semantica本地main的无关提交，本Work无Git/index或跨会话outbound。Reviewer完整资格/模型与取数发布查询/最终真人仍待后续门，M1.5/M2 NOT_GO，旧失败/UNKNOWN与所有未验限制保。最新官方套餐used46/余54、ordinarytrue/spendfalse/limitnull，仅套餐；未点数/reset/account/key。
+
+
+### 17.85 M1.5 正式开工：Reviewer资格、条件更新与目标就绪（2026-10-24）
+
+Root已正常向本Work正式放行唯一§5 M1.5，前置M1.4于10:47UTC ROOT_ACCEPTED且精确Git/远端完成：Cloud2e6f0bcd348706698c12a6a8a83623b9ea611a8a、Reactbd8ac636d8024724565a976ba815dbacd25ea3d6；文档专用分支7ad55d1f…→cda1cf6884285e2adf6df451f92dc9069dfb4520（末两回执）均已核远端。主已亲读正式接受与Git报告，未将Work自审代Root。FIRST即时普通used47/余53、ordinarytrue/spendfalse/limitnull/reset1793382135，仅套餐。
+
+10:54:42Z开工只读基线已核上述两HEAD/原分支、Cloud原3与React原16tracked WIP字节，Semantica本地main315216…/index未写；只读相邻已验26路径全同M1.4末cut，不全树hash、不重旧构建或矩阵。M1.4正式两报告保存于m1-5/evidence/opening-r1，基线baseline.json；本轮Git仅read-only元数据，0产品/SQL/HTTP/认证/服务/索引写。
+
+M1.5 IN_PROGRESS：仅原四组验收，合法User/Team及当前实际资格、最小Reviewer字段条件更新/共享影响与保护、独立读回/动态失效就绪、ACK未知沿原意图只读核对，区分原生Reviewer与两类Atlas审批。当前G ab2c2d5f…0.1/reviewer[]由S6和AC2共享；不得把AC2只读映射批准推成写授权，也不把S6旧项目v1资格套当前v2。三个有界作者/合同读任务（后台、前端、Native）先核当前最小复用与精确文件子清单，未产品落盘；各使用已有实现/框架，不扩通用恢复或递归归档。完整子清单定后在此账前向登记，再实施。
+
+当前旧Native最终17150/GET17103/auth14/ordinary12/mut47/object20/rootCreate1，warm窗10:37:04.998已过期且4GET耗尽；本节点不借旧scope/不清计数或latch/不重发轮换。M1.3/M1.4、旧UUID/ACK/UNKNOWN与事实指针保持；无新Term/发布/建模/其它人员项目变更。前端继续显式Aham8.0/pc浅色/React AntD原栈，Reviewer编辑/反馈/确认/键盘完整契约按页型读取；CodeGraph已优先，当前Root新类与apps/console-react未被旧索引覆盖，定点actual，不重建。节点技术充分后交Root独验/Git，M2仍NOT_GO，最终真人PENDING。
+
+
+### 17.86 M1.5 首批前端子清单与共享目标硬边界（2026-10-24）
+
+前端7路径=5产品2检查，已在scope-frontend-r1/scope.json精确before登记：既有OntologyProjectTargetPage.tsx、OntologyProjectReadinessPage.tsx；新增OntologyTargetReviewerPanel.tsx、targetReviewerApi.ts、targetReviewer.css、OntologyTargetReviewerPanel.test.tsx、targetReviewerApi.test.ts（均apps/console-react/src/features/ontology）。仅2旧文件保存before，其余5当前不存在。原App/routes/Provider/Root API与key、既有WIP不在本次写范围；前端作者先在E15固定候选，typed wire与后台对齐后实现。后台精确子清单尚待固定，当前未产品落盘。
+
+已核锁版Native实际权限边界：Reviewer由DefaultAuthorizer在Policy前按G UUID持久旁路，Native不含Atlas项目维度。S6与只读AC2共享同G时，确认文案不能替代隔离；M1.5将完整展示影响并硬阻增补/变更，给既有M1.4独立目标修复入口，不默升AC2、不改共享G。多User或单Team为版本合法型，Include.ALL引用成功不等于当前有效；M0仅User有限实证，Team资格未独立核验则保持UNVERIFIED/failclosed，不伪称不支持或已绿。本人精确权限GET只Policy、不含Reviewer旁路，资格与执行权分开；既有SDK两op reviewer CAS可复用，不扩EditAll。以上为源码/原有限事实，没有新Native调用或敏感权限提交。
+
+
+### 17.87 M1.5 后台14路径登记并进入候选实现（2026-10-24）
+
+后台14产品路径=12Java＋2SQL（7旧7新）已按实际路径before登记scope-backend-r1/scope.json，1ab506bc…；只7旧文件保存before。新增OntologyGlossaryReviewerContracts、JdbcOntologyGlossaryReviewerStore、OntologyGlossaryReviewerService、OntologyGlossaryReviewerController、OntologyGlossaryReviewerConfiguration五Java及MySQL/DM8 V20261024_35__ontology_glossary_reviewer.sql；既有JdbcOntologyRootGlossaryStore、OntologyModelingIdentityConsumer、OntologyPreparationService、OntologyP1Configuration及om/{OmInstanceRegistry,OmRestClient,OmNativeProjectionSynchronizer}.java七文件。RootStore仅可信绑定/共享事实，新增普通Reviewer purpose与typed精确GET，复用现Reviewer两op CAS；同步真实plan/managed发送前当前资格fence不扩旧client能力。
+
+不写Project三WIP、PermissionStore或M1.1本地意图表，不拿其LOCAL_CHECK假装承载Native成功；本节点单派/ACK/UNKNOWN为具体Reviewer journal，不做通用恢复平台。现状共享S6+只读AC2必须server硬阻更新；User必要资格与执行人本G当前操作权分开，Team未证不绿；legacy模式兼容与read-only资格自身不递归触发write fence为必要有限边界。前端仍首批7路径。当前先E15候选及真实typed wire对齐，产品落盘/迁移/运行验证尚未发生；原四卡不减，M2 NOT_GO。主要实现批次前官方普通used48/余52，ordinarytrue/spendfalse/limitnull，仅套餐。
+
+**Root 节点独验与交付（2026-10-24 14:10轮，截至14:31 UTC）：** 首读套餐used58/余42、ordinarytrue/spendfalse/limitnull。原Work已完成授权后唯一Reviewer写及维护；Root与三个有界非作者亲读关键原结果/安全投影/源码差额/实际AX与3PNG，未执行产品测试、SQL、HTTP、浏览器或服务。M1.5于14:30 `ROOT_ACCEPTED`（有限技术），真人PENDING。报告见[m1-5-root-acceptance.md](../implementations/2026-10-23-atlas-registration-m1/m1-5-root-acceptance.md)。
+
+实际Reviewer intent309706cd…/keyd24a8e23…，唯一PATCH17201/200、G7daa15c1…0.1→0.2/仅104，17203独立GET及保护字段核对。映射配置4→5禁用→6恢复，Native0；恢复先未核，8GET后14:00:26.616新READY，TTL14:02:26.616到期正常撤绿。终末14:09:35五SELECT exit0，非联合快照，S6v3/config6/b9cred2及AC2旧G/v2/config1保持；ReviewerSUCCEEDED/v6/ACK/原key/两旧Root历史不变。17185→17219为33GET＋1PATCH，末GET17167/auth15/ordinary14/mut52/object22；原17162失败、UNKNOWN/latch/namespace保持，凭据和策略不重发。两个新有限window分别refresh10GET与grant23GET/1PATCH，原过期窗未延长；现均过期，不为归档补绿。
+
+本轮明确发现的卡3身份修复链接缺口，Work已最小改两FE源：身份不可用→本项目modeling-access并保人员/实例/原任务；共享只读仍→独立目标。Root与非作者核候选/接收页/实际2PASS7skip及14:27完整gate-tsc-Vite0。占位接收页测试与实际接线源码分层，不冒真实身份页回归；旧失ACK/晚回复及已完成真实维护充分复用。Panel dd9bc51f…/test e48f8862…，两源安装，其余38输入保持。原六后台/十二FE分时结果、DM35和未变包复用；Team与完整模型同步未验、旧浏览器wrapper3及原失败保留。
+
+精确产品Git已远端核同：Cloud2e6f0bcd…→6090e9a3ec00ae0db202ceb6b6ac1017dc3598ab（14）；Reactbd8ac636…→5b0780eae5198de33fe6f9afcc35bfb4b7308e07（7）。21提交blob匹配已验cut，Cloud3/React16其它tracked WIP及工作区/index保持。文档分支精选交付正在执行；整M1有限报告核对已无额外必需缺项，但M2.1仍等本次全部Git和整M1正式结论后放行，不在此提前实施。公开精选不含实际argv/RAW/SQL行或全evidence树。旧M1.1–M1.4不重开。
+
+### 17.88 M1.5 前向源码收口、离线完整package与受影响验证在途（2026-10-24）
+
+- 仍 ONLY M1.5 `IN_PROGRESS`；原四张独立验收卡全部保留，M2 `NOT_GO`，真人验收 `PENDING`。本段由 Work Main 记录，不代监督 Root 技术接受。
+- 产品范围仍后台14路径（12Java、MySQL/DM35各1）与前端7路径（5产品2检查），不混入 Cloud3/React16 原WIP；当前修改只在 E 候选，尚未安装产品、迁移真实SQL、调用真实Native/认证或切换服务，Git/index均零写。
+- 后台当前固定 r5 source-map `483e1d7242f0fe89ef6560c59bc517c5b5d5ec228effede6dee89cdae4cf1038`：移除对全部候选的Native fanout/其他候选Bearer；新增主体冻结local cut及Native版本/内容并在发送前核；空数组可以保存但不就绪；依原生name排序，ACK完整refs与独立读回分开核；动态同步门对正式M1目标/本人受管身份生效，legacy与历史只读原门保持。合法多项目全有权不因数量永久禁用；当前S6+只读AC2仍hardblocked。
+- Reviewer是原生G级持久权限。SQL35在尚未安装期增加本功能专属 `(instanceId,G)` resource fence第三表；Reviewer确认/派发与M1.4本地绑定以同资源行协调，READ_COMMITTED保证锁后读取当前共享清单。跨tenant匹配只计未证冲突不泄详情，任何未证/只读关联拒写。当前全平台元数据清单显式保守上限100项目，不声称任意规模完整性。MySQL三JSON容器采用MEDIUMTEXT承载实际≤1MiB ACK/Base64，DM CLOB及原CASE空唯一策略保持。
+- Main正常执行 `m1-5/evidence/full-build-r2/run.py --execute`，实际11:52:12.348046–11:52:28.863047 UTC，offline Maven reactor `-pl infra-server -am package` exit0，2655输入/候选/stage均无差额，stderr0。产物 `/private/tmp/atlas-m15-full-build-r2/source/atlas-module-infra/atlas-module-infra-server/target/atlas-module-infra-server.jar` SHA `e7b970de494365fa6ed8e143e39cae0444487f67c6d2d72fa3b9084836249471` /178566385B；此命令skipTests，不能代有限回归、部署或真实验收。
+- 前端固定至r4（source-map见 `frontend-implementation-r1/revision-r4`）：单blocker/原Root owner与业务保留；核验失败/HTTP在途/UNKNOWN/TTL本地到期不沿用旧READY；terminal按真实INSPECT_CURRENT释放同原key；add/remove集合语义与原生排序匹配；原生Reviewer父子合并继承文案校准；进入编辑先持久owner URL，业务POST前再核，失ACK返回及HTTP仍在途刷新均保104/原key只读。前端原8+新增4 unique为分时成功，r3/r4各只补原lostACK受影响方法，不冒最终cut一次12/12；正常完整frontend build与2浏览器代表尚未执行。
+- 后端原6unique成功仍属r1分时cut。fourth-r4四方法均停共同Root预建NOT_SENT，不冒Reviewer场景失败或通过；派生fake-login列名错已修夹具。r5共享/跨tenant/双连接reservation组实际PASS，其余必要子场景仍在核第二主体的本地批准mapping及既有readback门，0真实Native/PATCH。关于SELF broker的早期因果推测已由完整Broker源码撤回，未证r6稿拒用，当前固定与正常package仍r5，不宽放权限门。
+- 完整producer→frontend物理parser互通、最终source CAS、完整frontend build、浏览器代表、真实DM35及正常运行/Native有限联调仍待。原M1.4真实UUID/映射/UNKNOWN/累计账/过期窗不重放；后续敏感持久Reviewer提交在具体可审查预览处按浏览器规则交真人确认。最新官方周额度 used51/余49，普通套餐可用、spendfalse、limitnull，无credits/reset/account/key动作。
+
+实际追加时间：2026-10-24T11:54:53.950678+00:00。
+
+
+### 17.89 M1.5 最终前向源码与真实普通运行时接入（2026-10-24）
+
+仍 ONLY M1.5 IN_PROGRESS，未ROOT_ACCEPTED/未Git，M2 NOT_GO，真人PENDING。BE r5 14源+FE r7 7源实际安装；Main逐21候选/物理SHA及size核同、19原WIP保持，current-installed-cut-r2/installed.json固定cut。BE full-build-r2真实package0；FE full-build-r5 production gate/fulltsc/Vite0、1050输入稳定，原chunk warning保留。旧r1与失败不回填。
+
+两个浏览器原代表分时成功：共享/UNKNOWN actual-r3 1pass，隔离actual-r5 1pass/0skip/flaky。r5 inner0但清理瞬时5297仍占用致wrapper3；后续只读lsof无监听，不再信号/复跑，不冒整体脚本0。Main亲看1440确认框/390草稿viewport并核原trace：正文独立scrollTop214/client809/scroll1023，标题与两出口bbox固定；默认Enter取消保稿自然回焦、terminal INSPECT_CURRENT退出，confirm仅1，网络围栏无异常。新目录无DTO明确503，仅验再次编辑入口，无第二prepare/confirm。
+
+DM35实际5CREATE返回/6SELECT、3表空及2唯一索引已核，另2次迁移前idle SELECT累计8；不是迁移后所有旧journal全行核。普通运行时前再次单SELECT核旧M13/M14事实、新3表空及active0。
+
+真实native-transport-bound-r1新window b8c966c0-67a5-40c0-9150-3c88854c0bc9于12:55:24.957Z生成→13:40:24.957Z到期，37额外GET预算。Reviewer PATCH始终不放行；Root CREATE1必须实际Atlas计划arm。Main实际handoff原代理19452精确TERM1→52817/ctime1792846555.302574，0Native，17150历史及旧namespace/UNKNOWN/writesStopped锁保持。原管理员refresh1+self1实际200，两原引用分别backup/CAS/readback成功非联合原子；manager-ready 12:56:11.037906Z/exp13:56:10Z，不改身份权限。独立auth后17152/get17104/auth15/mut48，见main-auth-current-readback。
+
+真实runtime binder已固定最新21源/Jar e7b970de…/178566385B/DM35/新proxy监听原17150+auth后17152。实际cutover仅1SELECT/1TERM旧81864/1Popen，96参数保持，无Bootstrap；新Atlas PID53275/ctime1792846666.327821于12:57:54.302005Z监听48282并完成5个原定GET200，累计17157。其他服务不改，controller无NativeHTTP，不另猜健康接口/no retry/rollback；服务自身初始化SQL未计量，不将controller1SELECT冒全运行时SQL。
+
+下一步真实S6共享负向检查→原M1.4独立目标路径/原ACK UUID读回→Reviewer具体diff预览，持久授权待动作时真人确认。当前未有M1.5业务Root创建或ReviewerPATCH。早前Main追加读取旧ledger SHA失败，因监督Root在17.87内前向补独审段，失败发生任何写前；本次按真实全prefix CAS追加，不改Root原件或旧历史。
+
+
+### 17.90 M1.5 首次真实共享核验的读取停点（2026-10-24）
+
+真实普通Atlas页面S6/104首次点击“核对Reviewer与就绪”，不是隔离Playwright。17158普通登录200、17159本人GET200、17160共享G首次GET200、17161本人GET200、17162按UUID读User上游200已完整捕获，但代理observer拒收；原row为READ_FAILED/status200，m15Reviewers.stopped=true/stopCode=M15_REQUEST_REJECTED/pending17162保留。累计17162/get17113/auth15/ordinary13/mut49/object20/m15Root0，旧global停止锁不改。UI显示REVIEWER_OPERATION_UNAVAILABLE且撤下当前Reviewer/写条件READY，不把旧证据充当现状。无新目录/ReviewerPATCH，无自动重试。
+
+Main原raw安全投影核UUID/name/false admin/bot/deleted/version0.3均符，唯一email与配置不等；Native作者由当前CodeGraph/source链确认UserResource.get→decryptOrNullify→PIIMasker.maskUser会遮蔽无PII权限的email，而loggedInUser本人路径不同。正准备最小测试代理修正：本人仍严格email核身份，按UUID主体资格使用UUID/name/active/version，不把受遮蔽email当身份凭据。产品源码不因本代理差额放宽权限。
+
+准备同窗前向子scope及独立静审/纯原回执模型，旧namespace/READ_FAILED/pending/raw/累计原样保；不重发17162、不续期/重登录、不扩大原37GET上限或13:40:24.957Z窗口、不重启Atlas，不放ReviewerPATCH。是否能在原剩余预算内完成完整共享检查再原Root预览arm须逐项核后才实际安装；本段记录准备，不冒续接完成。证据real-shared-inspection-stop-r1/main-readback.json。M1.5仍IN_PROGRESS，M2 NOT_GO。
+
+
+### 17.91 M1.5 同窗技术修正、真实独立目录与待真人 Reviewer 预览（2026-10-24）
+
+Main依据真人“非绝对需决策自行通过”与既有同身份续期范围，裁定仅必要104 coldlogin1（ordinary13→14、mutating50→51），原GET17140/auth15/object21/root1/13:40:24.957Z截止保持；不是持久Reviewer授权。具体boundary在real-shared-inspection-stop-r1。Native原200纯重放证实byID邮箱确为公开MASKED_MAIL，self严格email/role/team保持，byID UUID/name/active/version保持；2行代理observer修正，产品权限源码未宽放。新detail子scope/handoff/binder已Main完整读必要差额及helper全文，非作者独审无新阻断；新compound1PASS/23op/21GET为owned fake，不代真实联调。
+
+Main正常approval实际同ledgerhandoff0Native：精确52817 TERM1→56603/ctime1792847705.735553，原窗口不变，新NS=m15PregrantDetailContinuation，原17162 READ_FAILED/status200/pending与整个m15Reviewers stopped树完整hash/语义保持，不改写其失败，不回注Token、不再manager refresh/startup/Atlas重启、不开放ReviewerPATCH。一次正常Broker104登录和真实完整shared inspect九调用17163–17171均200。真实Atlas页面报告该User当前资格VERIFIED/必要原生写条件有效，但G Reviewer空、target未就绪；同时只读AC2共享冲突继续硬阻变更。未将旧G设Reviewer。
+
+随后完全通过原Atlas M1.4流程准备CREATE：实际预览2073f67e-b930-48b1-97a0-ca446b6cacdb/hash51a5eb25…、S6/104/name AtlasM15_S6_20261024_R01、Owner本人、reviewers[]、exp13:31:11.219Z。Main仅1SELECT读精确PREPARED行/整plan hash并exclusive0600写实际arm（两个辅助独审、无hidden browser state/无HTTP）。UI默认取消确认后Main按原范围点击一次创建并绑定；17173原生201 ACK确定新G7daa15c1-5f4b-4272-bdcf-5575cca8ebe9/v0.1，17175独立fullGET200，页面真实显示已独立读回/已本地绑定，S6项目v3，原opkey03ef0697-5ee9-4d6a-b20e-d8dc24b2a4c6。旧G保留/未Native更新，原其他项目不参与这笔绑定。
+
+新G完整inspect8GET及本人prepare2GET均真实200，末17185/get17134/auth15/ordinary14/mutating51/object21/m15Root1；detail无pending/未停，原旧stopped仍完整。实际Reviewer预览078d3616-aa2f-444e-819a-6cee57b88d4a/hashdf4fd7ef…/exp13:33:30.729Z，empty→仅User104，test+replace两op/IfMatch W/0.1，sharedImpact仅S6 v3，Owner/tags/旧G/其他项目不改。Main又1SELECT读精确Reviewer PREPARED行，plan+immutable整体canonical hash等column，17185原User body hash等产品subjectHash；未产生Reviewer operationKey或confirm/NativePATCH。
+
+实际inspection仅120秒TTL，在等待技术接合期间正常过期，UI已撤当前绿并禁保存，计划本身15分钟期限不等于资格仍新鲜。不得以过期obs提交；真人具体授权后须同G/同人通过原UI重新inspect/prepare，实质版本或diff变化即停。正在纯E准备只读刷新接合及未来单PATCH接合；其humanEvidence字段仍None，不合成同意。具体授权与同104/S6映射禁用恢复一次维护验收已合并发真人问题（request_user_input_async已accepted），无凭据轮换。浏览器规则要求新增G级持久权限动作时确认，不能代为自动通过；当前真实ReviewerPATCH=0，M1.5仍IN_PROGRESS/未Root接受/未Git，M2 NOT_GO。导航证据real-isolated-target-reviewer-preview-r1/reviewer-grant-preview.md与main-readback.json；用户审批不代最终业务验收。
+
+
+### 17.92 M1.5 明确权限问题待真人；过期证据不提交（2026-10-24）
+
+本轮已实际推进至独立G和Reviewer预览，当前仍17185/get17134/auth15/ordinary14/mutating51/object21/Root1；再次只读账本无新增调用、detail未停无pending，旧17162/旧stopped保持。单次Reviewer SQL reader真实0，实际plan078d3616…+immutable整canonicalhash已匹配；Native User17185原raw的产品subjectHash也同。real-isolated-target-reviewer-preview-r1/proposal.pending-human.json的humanAuthorizationEvidence仍null，没有将问题工具accepted当真人同意。
+
+具体同G7daa…/账号104唯一Reviewer增补及同映射禁用恢复一次的动作时问题已发，尚未收到回答，不实际confirm/PATCH。原计划13:33:30.729已自然过期/120秒资格早已撤绿，旧原件不回填；回复后必须原UI重新核当前资格/版本/同diff再形成实际新plan，变化停。若届时旧13:40:24.957窗口已过期，现同窗候选不可执行，先按实际状态/会话到期事实正常前向准备，不借旧scope/自动延窗或重放。
+
+剩余技术接合仅E准备：native-reviewer-plan-refresh-candidate-r1的10GET/no login/no写同窗helper（19绑定None）、一compound成功/后台非作者有限独审、handoff f5fbdf3/binder3fdf0b94；Main源码读核确认OLD_CONFIG实际detail、CONFIG才refresh，最初因读旧prepared patch提出的相同路径判断已撤回，无虚构源码修补或实际binder失败。future native-reviewer-grant-candidate-r1/revision-r3的18项仍None；handoff candidate a886f283/binder4772a6a2仍缺真正direct-user raw与Main精确作用域核验、最新actualplan/parent/opening等，缺项在P写/现场前停。只有未来真人明确授权才可能绑定单test+replace PATCH、独立读回/必要原维护尾读，至多900秒，不动旧失败/账户权限/其他G、不管理refresh/startup/Root/轮换。Main已读新helper全文、grant父全文+r3整差额、两binder全文及关键控制门，8Python AST核；准备与纯模型不代实际运行/Root验收。
+
+最新Main官方套餐13:34 used57/余43、ordinarytrue/spendfalse/limitnull，仅套餐，无credits/reset/account/key。M1.5仍IN_PROGRESS/未ROOT_ACCEPTED/未Git，M2 NOT_GO。原Atlas53275及proxy56603保当前正常运行，未为等待答复做额外业务动作；页面按待办handoff保留。
+
+
+### 17.93 真人明确授权本次Reviewer及同映射维护，按当前证据续接（2026-10-24）
+
+真人最新直接回复已官方read_thread亲读：本Work thread01a1618d-a3be-7c91-96a7-74a0f95a979f/turn01a16e27-03d4-7ea3-99ae-8f594b6dba7d/userMessage01a16e27-0407-7311-8069-d568b6ade19c，原call_2b18953…问题完整作用域与回答“允许这笔Reviewer授权及同映射维护验收（推荐）”保存human-reviewer-grant-20261024-r1/direct-user-message.json。Main确认仅G7daa15c1…、User104、om-p1-isolated唯一Reviewer及同104/S6映射禁用恢复一次，无轮换/原共享G/OM策略/他人变更。此为明确权限授权，不代业务验收或Root接受；未来真actualplan会按同diff附该直接原件pin，不合成同意。
+
+FIRST Main官方13:43:45套餐used57/余43、ordinarytrue/spendfalse/limitnull，仅套餐。13:44:08只读state仍17185/get17134/auth15/ordinary14/mut51/object21/Root1，old/detail原样、无INTENT/新pending；Atlas53275/proxy56603 ctime仍同，21源/19原WIP/两HEAD原branch逐项保持。原b8窗13:40:24.957已过期不复用；17163原ordinary session实际expiry14:15:38.455，仅RAM核expiry不输出token。正前向E只读刷新r2：明确新≤900秒窗口、0login/0写/10GET/currentG0.1及User0.3，保持旧窗口和所有namespace/prefix/失败/累计完整。准备与非作者必要差额核闭后由Main正常审批实际切换，只读检查与新预览之后才可能单PATCH。
+
+Reviewer reader r2已仅E javac0：保原单SELECT+全部plan/immutable/subjectCut/CAS校验，新增从实际UI取得的expiry PreparedStatement条件精确选择新计划，不改旧过期行或原reader。当前尚无新窗口/新inspect/新plan/ReviewerPATCH；M1.5仍IN_PROGRESS，M2 NOT_GO，Root技术验收与Git仍待。
+
+
+### 17.94 M1.5 真实Reviewer增补及同映射禁用恢复验收（2026-10-24）
+
+Main已按17.93直接真人授权完成同G/同104精确差额，没有再次索批或扩大权限。原b8窗过期后明确新只读窗d4e037b3（13:50:27.616–14:05:27.616Z），新fresh ordinary quota>0、真实同账handoff原56603→64426/ctime1792850067.201543，官方末1fc5f0 exit0；只切本任务代理、0Native/0SQL/0Atlas重启。10个新GET17186–17195全200，固定G仍0.1/User仍0.3，同项目cut3/4/9/2与唯一S6共享影响不变。旧namespace、17162 READ_FAILED/RAW200/pending、全局UNKNOWN/latch与累计精确保留，不重放。原bind poll跨压缩失去session，未冒其outer0；物理bindingproof与实际handoff另已完整核闭。
+
+新Atlas UI Reviewer预览309706cd-7494-45a7-8b59-c709c4784d36/hash63fd4c82924e8ac6e07675b61499958b8c61b6c359d8526370379414d89d9747、exp14:10:39.454Z，仅[]→User104本人，test+replace/If-Match W/0.1；Main单SELECT读取精确新expiry的PREPARED行、plan+immutable canonicalhash等column，未改旧078d过期原件。Main亲核直接user原文与同G/User/版本/共享影响后前向human-verification绑定新计划。grant新窗9f3045d0（13:56:14.473–14:11:14.473Z）和原作用域单PATCH及可选维护尾读，normal审批handoff64426→64803/ctime1792850186.022683、官方末d51dc1 exit0/0Native。
+
+Atlas默认取消确认后Main只提交一次。17196–17211共16调用=15GET+唯一PATCH17201/HTTP200，版本0.1→0.2；17203独立fullGET及17205/17211检查读回同0.2。原Reviewer intent保持309706cd…，operationKey d24a8e23-5bf7-4de0-bd95-cd8d137fee17，DISPATCHED/ACKNOWLEDGED/VERIFIED，页面13:57:01显示REVIEWER_TARGET_READY。Main及非作者分别读原Native ACK/独立GET，只有本人User Reviewer，所有fullGET的非变更字段与原before逐值同（Owner/tags/description/termCount等保持）；PATCH ACK缺GET专属字段不能拿其wholeobject硬比，本次只读reader初断言失败及前向校准保留，不冒产品缺陷或再次PATCH。
+
+已通过原Atlas M1.2 UI对同104/S6映射禁用一次intent12b11c34-349c-4201-86c6-d3247decad4e，再恢复一次a37e3594-bfe4-42e9-8532-2e68404d8fa0。两个本地任务完成；禁用后目标页重新读到MODELING_IDENTITY_NOT_READY/目标未就绪、检查禁用，原Reviewer成功历史保留，期间Native新增0。恢复原映射后先显示待当前核验，未沿用旧绿色；随后唯一一轮8GET17212–17219全200，14:00:26.616Z重新CURRENT_REVIEWER_TARGET_PREREQUISITES_VERIFIED。未调用轮换/新身份/旧G/策略/其他人员，尾段无新登录。两个维护任务提交初瞬态未找到→正常持久结果到达，未重复提交。
+
+末账17219/GET17167/auth15/ordinary14/mut52/object22/M15Root1/ReviewerGrant1；本新授权后共34GET+1PATCH，无新login/auth/Root。grant completed/raw24、pendingnull/stoppedfalse；原stop/pending/history保持。窗口与observation120秒到期仍按产品正常撤绿，不为材料再发GET补绿；14:00成功是实际固定cut，不冒当前永久有效或完整模型同步。Team资格、Term/完整模型同步资格仍NOT_VERIFIED，原模型同步UNKNOWN及业务/人工验收PENDING不销项。
+
+证据见evidence/reviewer-authorized-proposal-r1下实际预览、Main直接授权核验、6份AX/PNG及Native主段/维护尾段摘要，grant-readonly-receipt-check-r1原raw/prefix独审；21当前源码与19原WIP末逐SHA/size全同，Cloud/React HEAD/branch保持，无Work Git写。现整理最终有限交付与终末本地只读证明，仍M1.5 IN_PROGRESS/未Root接受/未Git，M2 NOT_GO。
+
+
+### 17.95 M1.5 Work材料就绪，交监督Root独验与精确Git（2026-10-24）
+
+前向校准17.94文字计数：17185→17219共34调用，实际为33GET＋1PATCH（10＋15＋8 GET），不是34GET＋1PATCH；末GET17167及其它累计本来正确。现场材料为6份AX＋3份PNG共9份，不是笼统6个文件。旧原段原样保留，以此精确口径为准。
+
+Main终末本地reader已全文及末44B安全输出差额亲读，非作者独立静审，编译0；14:09:35.289556–.440961Z实际固定5条SELECT exit0/stderr空/DML0/DDL0/HTTP0，无重试、无跨语句联合快照声明。Reviewer intent309706cd…SUCCEEDED/v6、原opkey d24a8e23…、activeSlot空/同G活动写意图0，RAW ACK哈希、0.2/本人唯一Reviewer及独立读回匹配。S6项目v3、配置4→5→6，绑定v9/凭据epoch2/desiredRevision3保持BOUND/IN_SYNC；AC2仍旧G/项目v2/配置1/enabled，两旧Root历史SUCCEEDED/v10与v5和原key保持。末observation确在恢复后14:00:26.616产生、配置6与当前cut匹配、snapshot/report hash同；14:09只读时已过14:02:26.616 TTL，当前保守NOT_VERIFIED/NOT_READY，不为归档再发Native补绿；实际14:00恢复成功固定cut成立，完整模型同步仍NOT_VERIFIED。
+
+最终本地材料见m1-5/README.md、manual-review.md（人工项全PENDING）及evidence-index.json。该索引对2312个实体原件/58399343B逐SHA/size及精确集闭合，另列2907个本机执行symlink脚手架的link文本，不跟随外部目标/不冒冻结历史依赖；index自身除外。21当前代码及19保护WIP再次逐项同，Cloud/React HEAD仍2e6f0bcd/bd8ac636同原codex/atlas-om-semantica；Work无Git/index写。M1.5-publication-r1另存本次唯一账before/addition/append回执和Ready导航，不回填旧原件或索引。
+
+本Work实施与原四卡有限验证材料状态为READY_FOR_ROOT_REVIEW，M1.5整体仍IN_PROGRESS，监督Root独立技术验收及精确Git/remote尚未发生；M2 NOT_GO，最终真人PENDING。充分旧组件/隔离浏览器/完整构建切片不重跑，本轮新增真人限定Reviewer及维护事实与未知历史均分别呈现。原审批边界、Team与完整模型同步未验、旧UNKNOWN/stop/17162/不自动重放保留。无当前自动审批拒绝，无新人工问题。最新14:11:23UTC普通套餐used58/余42，ordinarytrue/spendfalse/limitnull，仅套餐，未credits/reset/account/key。grant900秒受控窗14:11:14.473已自然结束；无新Native业务动作，后续任何真实核验需按当前环境有限条件重新准备，不借旧窗口重发。
+
+
+### 17.96 Root退回M1.5身份修复出口，Only必要前端差额（2026-10-24）
+
+Root14:10轮已核真实Reviewer、维护Native0、恢复8GET和终末5SELECT，无新增现场效果阻断；指出原卡3仍有具体导航缺口：Panel把MODELING_IDENTITY_NOT_READY也一概指向/target#result准备独立目标，实际disabled AX缺身份映射修复入口。按原前端授权只准备最小修正，身份/映射不可用时去既有本项目modeling-access，携当前account/instance并保原Reviewer任务可返回；共享目标确无法保护时仍保独立目标出口。既有ModelingContent已按URL account/instance初始化，不扩大旧M1.2业务实现。
+
+旧17.95 Ready/索引是修正前固定cut历史，保原件；当前M1.5 IN_PROGRESS/修后有限检查与构建待完成，仍未ROOT_ACCEPTED/未Git，M2 NOT_GO。真实单PATCH及禁用恢复结果充分复用，不重发、不创建、不维护、不新开Native窗口或补绿。先E候选/精确两原文件before/完整差额与独审，再正常审批安装，只核受影响导航上下文与原共享负例、必要构建。CodeGraph首读仍返回旧Vue未覆盖本React，因此定点实际源码，不自行重建。FIRST普通used59/余41、ordinarytrue/spendfalse/limitnull，仅套餐。
+
+
+### 17.97 M1.5身份修复出口已关闭，修后材料重新交Root（2026-10-24）
+
+17.96具体缺口已按原范围修正，仅原Panel与原Panel.test两文件。当前identity为null时优先去既有本项目modeling-access#modeling-identity；URL保已有query并按当前selection写account/instance，原reviewerIntent/Rootintent/其它query保。只有显式sharedImpacts且canApply=false才给原独立目标出口；!unresolved及原owner/API/UNKNOWN/权限/confirm/focus不变。不扩ModelingAccessPage，实际源原本已按params初始化并校验人员/实例，普通用户仍强制本人。Main与非作者完整patch/整文正逆/再生diff均准确。
+
+真实安装14:25:26仅Panel dd9bc51f…/32493B、test e48f8862…/30619B，原before/逐笔意图与读回齐；其它38代码及WIP输入保持，顺序非原子无自动回滚或重试。定向方法14:26:36–40实际2pass/0fail、另7skipped：身份Link点击→目的路由stub→Back保原URL/人员/实例/Root及Reviewer原任务/pending，继而原任务UNKNOWN仍无修复Link/全owned请求GET；旧shared负例仍硬阻并显示独立目标。该方法不冒真实M1.2页面E2E，实际params消费另经源码核。原controller.filtered=0仅统计pending，report真实2passed7skipped由report-count-clarification前向澄清，未改原结果/重跑。
+
+必要前端完整build-r6 14:27:16.051171–40.046153Z exit0，production gate/fulltsc--noEmit/Vite0，1050before/after/current全SHA/size同，Vite8267modules/10.96s另列；stderr332B仅原>750KB警告。后台14与前端其余5未变，旧充分后台构建/浏览器/Native维护全复用，不重跑。新final-source-cut-r2实际21+19保护精确，21副本齐，仅两差额，HEAD/branch保持；本轮Native账仍17219/get17167/auth15/login14/mut52/object22/grant1、pending空/未停，原stop/失败保留，无新Native窗口或业务效果。
+
+前向交付见m1-5/frontend-navigation-forward-review.md、新FE7 final-seven-source-map及final-source-cut-r2。新evidence-index-r2覆盖2374实体/61648734B和2907个仅link文本执行alias，逐SHA/size/精确集闭合；旧index及全部2312实体/2907alias完整保持，旧Ready按其固定cut保历史。本新Ready导航m1-5-ready-for-root-review-r2.json重新交监督Root，不跨会话回复、不另设常规许可门。当前Work READY_FOR_ROOT_REVIEW，M1.5仍IN_PROGRESS/未ROOT_ACCEPTED/未Git，M2 NOT_GO，真人PENDING。原Reviewer持久授权、14:00实际READY固定cut、TTL过期保守状态、Team/完整模型同步未验、UNKNOWN与不自动重放全部保持。最新普通used61/余39、ordinarytrue/spendfalse/limitnull，仅套餐，未点数/reset/account/key。
