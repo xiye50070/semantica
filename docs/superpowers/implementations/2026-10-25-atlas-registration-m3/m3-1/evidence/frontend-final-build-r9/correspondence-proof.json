@@ -1,0 +1,48 @@
+{
+  "kind": "M31_FINAL_R9_FRONTEND_BUILD_CORRESPONDENCE_ROOT_REVIEW_PENDING",
+  "at": "2026-10-25T03:58:06.932369+00:00",
+  "receipt": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-final-build-r9/receipt.json",
+    "sha256": "ca106e1b0cc61dbb42d5245318ab835813a8abf7f83c5dbce563d72a4b08df4c",
+    "bytes": 2273
+  },
+  "sourceManifest": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/source-install-r3/manifest.json",
+    "sha256": "7d225f6a62012d86c87f8012ba91b09280ec782c28cadd75f79a28906ef18de5",
+    "bytes": 18858
+  },
+  "sourceInstallation": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/source-install-r3/actual-r1/result.json",
+    "sha256": "932f9bbdf9d9181a35e8f9dde25616219c9c14f944688c1c8d4d0de8682ac28c",
+    "bytes": 544
+  },
+  "actualCurrentInputs": 1067,
+  "stageInputs": 1067,
+  "actualPrePostStagePrePostAndLateCurrentAllIdentical": true,
+  "frontendSixMatchesInstalledManifest": true,
+  "buildControls": 6,
+  "viteWholeInverseEqualsActual": true,
+  "publicAssets": 1,
+  "publicAssetsPrePostStageEqual": true,
+  "historical1068Explanation": "R8 isolated stage included one supplemental Java-wire compatibility test. Final R9 uses 1067 actual repo inputs only, separate stage; old stage/probe/maps retained.",
+  "oldProbePin": {
+    "path": "/private/tmp/M31-r8-finite-rdt99zeh/apps/console-react/tests/m31-java-wire.test.ts",
+    "sha256": "eed23618e833072be8845fdb490f5df54bac2c2e8fb9d9d46b00e0a38bb64a7a",
+    "bytes": 2090
+  },
+  "noSupplementInFinalStage": true,
+  "finalDistFiles": 238,
+  "chunkSizeWarning750KBRetained": true,
+  "productWrites": 0,
+  "privateReads": 0,
+  "privateWrites": 0,
+  "GitWrites": 0,
+  "HTTP": 0,
+  "SQL": 0,
+  "services": 0,
+  "testReruns": 0,
+  "browserReruns": 0,
+  "sourceScanReplays": 0,
+  "RootAccepted": false,
+  "UserAcceptance": "PENDING"
+}

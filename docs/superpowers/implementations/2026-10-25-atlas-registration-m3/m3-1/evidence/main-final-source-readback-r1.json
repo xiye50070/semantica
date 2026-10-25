@@ -1,0 +1,21 @@
+{
+  "kind": "M31_MAIN_FINAL_INSTALLED23_R9_AND_PROTECTED19_READBACK",
+  "at": "2026-10-25T03:59:35.841148+00:00",
+  "sources": 23,
+  "productPaths": 19,
+  "checkPaths": 4,
+  "allCurrentEqualsFinalR3": true,
+  "protected19Unchanged": true,
+  "realGitIndicesUnchanged": true,
+  "heads": {
+    "atlas-cloud": "a0754ada3e04e60c7e0ddf6392da267d014e83ff",
+    "atlas-ui-admin-react": "47bba3150f7eb7ebaa92d4f53454a4cfae64c24e"
+  },
+  "RootGitDelivery": false,
+  "r9WholePanelInverseEqualsR8": true,
+  "roleCutoverWasHistoricalR2Cut": true,
+  "workerAndBackend17UnchangedSinceRoleCutover": true,
+  "SourceSQLByThisRead": 0,
+  "NativeHTTPByThisRead": 0,
+  "servicesByThisRead": 0
+}

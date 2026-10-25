@@ -2473,3 +2473,197 @@ Work提交READY_FOR_ROOT_REVIEW；M2.2总体仍IN_PROGRESS，Root独验/精确Gi
 到期后同一id/key只读明确expired/不作当前通过，Native状态整SHA及17263不增，无新提交或源复跑。原b337 FAILED/key和所有UNKNOWN不回填。20:26:25终末Worker1+DM1显式只读核15项active/lease/未分类UNKNOWN全0，268a74e3过期只读inspection仍UNKNOWN，旧global2/qualification1保持。末态30源/19保护、6进程7端口及3HEAD均核相同，Work无Git/index写或部署后源码追加。
 
 有限样例/分时构建按充分cut复用，不重跑全矩阵：新HTTP502分类仅受影响1例通过；Java完整R3包与最终源对应，FE r8 parser/选择/当前性及真实报告两屏/到期证据分层保。未冒所有模式现场、M3登记/业务取数建图或真人验收。所有早期准备/夹具/断言/启动失败与原预算/审计/停止锁留原。当前普通套餐used80/余20、ordinary=true/spend=false/limit=null，仅套餐；后继开工仍实时重核，不用点数/reset/account/key。
+
+### 17.113 真人续推 M3/M4，原 Work 从 M3.1 开工（2026-10-25 10:38 北京时间）
+
+真人在 Root 明确指示“继续推进M3和M4”。Root 已亲读原 §7/§8 和样本边界，并正常把新授权及逐节点范围发送唯一 Work `01a1618d-a3be-7c91-96a7-74a0f95a979f`。这解除旧 M1/M2 范围下的 M3 NOT_GO；旧记录不回填。M1 与整 M2 已有限技术独验并精确 Git 远端交付，真人最终验收仍 PENDING；充分旧证据不重开。
+
+顺序为 **M3.1 → M3.2 → 整 M3 → M4.1 → M4.2 → M4.3 → 整 M4**，每节点先独验及精确 Git 再续下节点，M5 NOT_GO。M3 仅元数据发现、精确选择、不可变差异计划与 Atlas 确认记录，Native 写 0、源业务行读取 0；M4.1 仅隔离适配器，M4.2 才按当前合法 Atlas ∩ 普通 OM 权限向批准 S1/S2/S7 隔离目标基本登记，M4.3 验原意图部分成功与 UNKNOWN 安全续接。M2 conditionalAllow、过期报告或旧窗口不作为 M4 写入资格；不提前取数、建图、约束闭合或模型发布。
+
+Root 继续节点独立验收，不成为例行读取/安装/验证的逐步许可前门。常规最小修复、必要有限验证和可逆隔离调整按新授权自主推进；重大范围/隔离扩张、新敏感权限、不可恢复破坏、必要业务选择或实际审批阻断才提具体最小决定。原凭据轮换、Reviewer 授权及维护已完成不重演；旧 ACK、UNKNOWN、原键、失败、审计与停止锁保留。Root 不执行产品测试、SQL、HTTP、浏览器或服务操作。
+
+交付父基线：Cloud `a0754ada3e04e60c7e0ddf6392da267d014e83ff`、React `47bba3150f7eb7ebaa92d4f53454a4cfae64c24e`，均在 `codex/atlas-om-semantica`；文档 `codex/atlas-registration-m1-docs` 为 `0c202dbb2d9403c0592fb88a79d73598c6b1f60a`。Cloud 3 / React 16 旧 tracked WIP、Semantica 本地 main `315216c6808c99542ac912a0a2f26bef7b988346`、347 个无关提交及真实 index 保持；后续只交本节点 hunk 和必要公开安全证据。
+
+**Root M3/M4 当前检查点（2026-10-25 23:11监督轮，截至23:28北京时间；当前授权M3→M9，后续前向替换本块）：**
+
+**M3.1已独立有限技术接受，代码Git已远端核同，文档Git收尾中。** Root于15:18UTC完成非作者验收，报告见[本节点Root独立验收](../implementations/2026-10-25-atlas-registration-m3/m3-1/m3-1-root-acceptance.md)，状态ROOT_ACCEPTED_FINITE_TECHNICAL。S1真实28表254列28PK26FK23UNIQUE25CHECK、S7独立3表13列3PK2FK；全部字段/类型/默认值/可空/注释、约束有序列/FK逐对目标与既有公开物理副本逐项一致，25CHECK均UNSUPPORTED。Root亲读原结果/AX/两张截图，两有界非作者分别核全结构和23源Git范围，均收束；原S4分页/取消/上限、失效/漂移及有限构建证据复用，不重复整套测试。
+
+S1发现66a1ea11-12b9-4eaa-a0a0-b6be6f899316，hash d0c218b1…，15:03:22.766UTC完成；真实20+8分页、跨页保reg_equity_holding并加入7张fin_表，v2精确8张。S7发现cd405b8a-1b9d-41d8-89f8-9ba9c924ed98，hash b734e7d3…，15:12:02.085完成；v1 sales_order→v2 payment+sales_order。两份固定应用DM回读于15:12:58–59UTC核完整快照hash/名单及两版，Root另核公开物理字段一致；未选reg_legal_entity/customer仍为依赖，不自动扩选。账号可发现范围、expected缺项、allPhysicalMetadataVerified=false保持。DM回读configCurrentness=false、连接关联依据浏览器请求回执，不能单独冒当前授权；Root结合本次普通104 login/SELF和页面核定。S1/S7到期15:18:22.889660/15:27:02.142638，现均到期，保原历史，后继不得借到期发现或窗口直接派发。
+
+**代码交付已完成。** 原Work官方两仓commit/push结果及Root独立ls-remote一致：Cloud17路径a97844ca4452afda81b236da9f178dca02d91c99，React6路径cbd9a7712b00be52332722b1eb95017a076a2774，均codex/atlas-om-semantica。23路径与最终manifest逐字一致；5旧HEAD=current-before、18新此前无blob，Cloud3/React16旧WIP及范围外索引/untracked保持、staged为空。Semantica仍在main315216c6…且真实index SHA00a8fcd2…不变；Root正以独立index从docs父0c202dbb…仅交精选公开文件，不pushmain/整E/PR/合main。三仓Git全部远端核同才放行M3.2；当前代码完成不冒文档Git已完成。Work新turn01a173a6-00a4-7ea0-a762-b6bbad22cb1b active，自1792941621，已读cursor67；Root承担Semantica Git，避免并发写。
+
+本轮套餐首读used8/余92，续核used9/余91，ordinary=true/spend=false/limit=null，仅套餐，无credits/reset/account/key。当前真人M3→M9与委托审批授权userMessage01a1737f-3eca-7e62-b8af-b044631217c2保持；原M3/M4/M5 NOT_GO旧限制不再阻挡，常规最小修复/有限验证/既定隔离测试及必要预算窗口差额由Root按具体方案审定，不重复问离线真人。实际工具本人要求/自动审批拒绝不能绕过；不扩无关生产权限、不可恢复破坏或付费。8小时汇总点2026-10-26 06:38北京时间（22:38:01UTC），checkpointReportDelivered=false，届时如实报告并继续目标，最终只READY_FOR_USER_ACCEPTANCE，真人PENDING。
+
+本次Native安全投影2d2f714f…于15:13:57UTC记录17275→17287，12次200：管理2/启动5/普通104 login+SELF4共5；对象写仍22，原prefix/namespace/latch保持，pending=null/stopped=false，发现Native增0。原新Web20877与Native20390已合法采用，Worker未重启；原两catalog/registry CAS成功。Native a2f0窗15:07:50.455截止，global b759窗15:17:59.044639截止，均现过期，不复用为后继许可。应用启动初始化SQL未量测，源码双读上限28源metadata SQL不冒wire实测。源业务行0、OM对象登记0，S7六行留后继对应节点。
+
+Source原66写ACK/两reader凭据保，23只读尾段成功，累计55读6连接66原写ACK；r1/r2 UNKNOWN、r3本地CHECK_STOP unknown=false仅当次，所有原件/失败/键/意图/ACK/stop与latch不改，不重写DDL/GRANT/RNG/改名/DROP/清理。55/6/66仅M3准备累计，不是M3–M9总预算。TLS仅证加密1.2/1.3，非CA/hostname；物理副本与driver计数非全网抓包。Root本轮无产品测试/SQL/HTTP/浏览器操作/服务；只读独核、验收文档与精确Git。M1/M2接受/Git及原M0充分证据复用。
+
+后继仍按M3.2→M4.1/4.2/4.3→M5.1/5.2→M6.1/6.2/6.3→M7.1/7.2→M8.1/8.2/8.3→M9.1/9.2/9.3逐节点实证独验和Git，完整要求遵本账§7–13；不可用技术试验委托伪造最终人类签核。监督ACTIVE，原atlas/atlas-p1 PAUSED、atlas-m1不恢复；M9技术独验及精确Git全部完成后报告删除本监督。下一步完成Semantica精选文档交付并放行M3.2；无新增不反复索批/唤醒或堆材料。
+
+
+### 17.114 M3.1精确23源登记与候选复核（2026-10-25北京时间）
+
+原§17.113直接授权下，仅M3.1继续。实际范围登记为23路径＝19产品＋4检查，5旧＋18新；Cloud后台12（8新Java、原WorkerClient、MySQL/DM38两文及1检查）、同仓Worker5、React6。只有5旧文件与本阶段hunk相关，逐字同当前已交付HEAD；Cloud3/React16原WIP和真实index保持、无重叠。精确路径与before字节见2026-10-25-atlas-registration-m3/m3-1/evidence/scope-registry-r1/scope.json（b78a89b9ac916dba76006539e35a1db964bbdfe610d2fcc7c9d53f026a10f299）。候选版本在实际安装时单独固定，不篡改before。
+
+已形成源metadata-only双扫描、持久快照、服务端分页搜索、精确选择CAS与显式Aham8页面候选；S1形状28/254及独立S7三表13列/3PK/2FK仅有限合成证明。实际批准源目前仍两表8列；未据离线样本自行建库/改GRANT或读取业务行。结构指纹限返回字段，不冒全DDL、事务原子/持续无漂移。
+
+非作者发现真实回调columns重名解析缺陷，已最小按SourceTable/Constraint上下文区分，新实际MockMVC回调200表400列成功持久化，错误约束数组仍400。部分可见列物理位置1/3不应重编号或拒绝，候选已按严格递增前向修正；约束涉及不可见本地列须安全失败，不能伪造完整约束。旧源码/失败/构建cut保持。前端搜索旧计数可点击及隔离mock ALL_MATCHING误用替换（真实服务为集合并入）已在必要前向校准，未把错误mock冒真实功能通过。
+
+普通完整Java R6候选包实际2026-10-25T02:53:42.071442→02:53:58.846424Z exit0/20reactor，2698输入及12overlay前后稳定，tests明确skip（有限检查另记），Jar4a7b7346…/178866486；较早r4成功包保历史不作最终修后包。此时产品安装0、真实DM38/源SQL/HTTP0、服务0、Git0；浏览器及运行采用尚待实际证据。后继先按真实最终cut安装和正常有限验证，再交Root独验/精确Git，M3.2/M4仍等待前序。最新普通套餐used82/余18、ordinarytrue/spendfalse/limitnull，主要批次继续实时核，仅套餐。
+
+
+### 17.115 M3.1 前端失效修复、真实源码安装及运行前绑定（2026-10-25北京时间）
+
+本节点仍 IN_PROGRESS，尚未 ROOT_ACCEPTED；M3.2 未放行，真人 PENDING。r8 关闭读取/详情/分页/集合异常后仍沿用旧可用性的问题，并显式比较当前选择身份配置版本；原服务端 state/id/key/history 保留。cold 仅 start 真实 HTTP409/business409/ORDINARY_SESSION_REQUIRED 后一次原key读空，先耐久保存 LOCAL_NOT_ACCEPTED 再释放本地预约；未知ACK、403及受理后同码不释放。14项当前性/历史恢复与后加4项cold检查分时通过；03:32 UTC最终前端完整gate/tsc/Vite0，非新现场浏览器证明。非作者随后发现切scope且storage异常时旧LOCAL_NOT_ACCEPTED呈现残留，已交原FE仅setter及单项回归前向修，r8原件不改。
+
+Main实际 source-install-r2/actual-r1/result.json 于03:41:04.452678Z记录23源完整cut、仅5处FE前向写入，原r1清单和旧源备份保持；19保护及两个真实Git索引不变，SQL/HTTP/服务信号/Git写0。manifest09303eea…/17707、actual0a173edb…/519、Main逐23及5backup读回已保存。此为源码安装，非服务已采用。
+
+Worker112 public输入已实际绑定，verify-only返回 INPUTS_VERIFIED_NOT_STARTED/factoryInvoked=false/legacyScope4；runtimePin e8ddc067…。03:41:33.182071Z仅原节点registry runtimePin一处CAS、旧私有备份及读回，未改原8键/4scope、凭据或权限；未发服务信号。role runtime-bindings.final-r1.json仅准备当前真实pins，仍未执行Worker/Web切换。DM38本轮实际3CREATE及7显式SELECT成功原件已在dm38-preparation-r1，不重复迁移。
+
+原Chrome页面当前显式选择104/config6；旧M2诊断44579eeb…/31c8cd72…仍到期且conditionalAllow未通过，不作为M3源发现资格。03:42:50Z新只读metadata观察Native原账17263项/object_writes22、业务stop UPSTREAM_OR_ACK_UNKNOWN与所有旧namespace保持，新M31 namespace尚不存在；原6进程7端口未切换。全局psutil枚举曾碰无关pid AccessDenied，未输出/写文件，后缩到批准7端口lsof核闭；非自动审批拒绝。
+
+后续仅同映射安全DM投影→独立新12次Native只读采用purpose→原Worker/Web正常版本单角色采用→现有批准两表八列源只读发现。尚无本轮源SQL/新Native请求/会话续期或服务切换；S1/S7真实源资格仍未验证，200表及S1/S7合成证据不冒真实源。保旧UNKNOWN、停止闩、历史ACK/key，不重放业务，不创建OM资源，不扩M3.2或M5/P2。
+
+
+### 17.116 M3.1真实两表发现、运行采用与最终构建交接（2026-10-25北京时间）
+
+M3.1实现与有界验证已交Root独立复核，节点仍IN_PROGRESS/未ROOT_ACCEPTED/未本节点Git；M3.2未放行，真人PENDING。当前完整交接入口为2026-10-25-atlas-registration-m3/m3-1/README.md；本条不把有限或小样本替换原§7的S1/S7真实栏。
+
+03:47:07 UTC，Main固定1条应用DM只读SELECT核同104/S6当前配置6、binding9、epoch2及原USER映射，与原Chrome明确选择相符，无Native/源SQL/修正。随后独立新Native窗口d82a4e4c-1145-4f0b-a254-f6fbfd8ff8f8（03:47:41.772至04:02:41.772UTC）实际同账采用，原18587代理44828仅1TERM/1Popen到17749。同管理员refresh/self2次及原两引用CAS/备份读回成功；Worker18031与Web18199分别核17类idle历史cut及原精确UNKNOWN后各1TERM/1Popen正常采用，Web原102args仅附发现开关成103。无bootstrap/classoverlay/healthHTTP/自动重试回滚。总新Native12次HTTP200＝refresh1+self1+startup5GET+ordinarylogin1+warm4SELF；GET+10、auth+1、login+1、认证mutating+2，对象写22/原17263前缀及全部旧namespace/业务stop保持。04:02非作者RAM原账核17275，源扫描后Native0新增；新purpose无diagnostics容量，窗口不复用。
+
+实际浏览器显式选择104/config6后，仅点击发现一次，原id a6f5118c-5453-42df-ac93-b30d20856d1b、keye3700d5d-1852-4106-9f07-4b2c001d33e6；03:51:53.286UTC成功，快照04:06:53.357523到期。既有批准M0只读库发现child_pair/parent_pair共2表8列，复合FK顺序正确，复合UNIQUE及字段/精度/null原文读回；预期m31_expected_absent提示缺项。v1只选child并列未选parent依赖，不自动补选；搜索parent后ALL_MATCHING增量加入，v2精确child+parent，恢复空搜索仍2表选中。03:59 Main单条DM只读SELECT独立核原SUCCEEDED/FINISHED、完整纯元数据快照、重新计算7e16fcdf…hash及v1/v2持久历史；无capture_json/源业务行/Native/数据写。本轮没有独立源SQL wire或全部AtlasHTTP抓包，固定元数据代码上限14显式源语句不冒实际抓包计数。旧M2到期/conditionalAllow不通过及原M21默认禁用接入KEEP不改，不冒全项目来源就绪。
+
+r8后窄owner历史呈现残留由r9唯一setter+1RTL修复，定向检查0，初断言误期望不存在按钮disabled的失败保原。r3实际两笔仅Panel/test，最终23路径/19保护/真实Git索引/两HEAD仍原cloud a0754ada…、react47bba315…；角色实际守护在此前r2/R8 cut执行，不回填为r3。03:57:10.449920至34.771055UTC最终正常前端gate/fulltsc/Vite全0，真实1067输入＝新stage1067，Main逐当前/前后及22原件索引亲核。旧r8“1068”含唯一隔离stage兼容探针，保旧stage/probe/map，最终排除该补充。最终Jar仍原正常2698输入/20模块package0及9族47类对应，未为FE重复Javabuild。
+
+非作者r8/current/cold和实际运行/r9两份有界报告均完成，Main完整读MD、关键semanticJSON/实际源与字节对应、原结果及三张真实截图；无未了代理。真实S1的28表254列/28PK26FK23UNIQUE25CHECK、独立S7三表业务样本仍NOT_VERIFIED_ENVIRONMENT，有限合成与本次真实2/8分层；S4为200表隔离mock/有限层，未冒真实200表。按原计划不可擅自扩源GRANT/建库或混读S7/昨日业务行；Root需独立裁定节点通过范围后Git才续M3.2，M4尚未放行、M5/P2 NOT_GO。未触0停线、无当前自动审批拒绝，仅普通套餐正额。
+
+
+### 17.117 M3.1 S1/S7真实发现前置资格核定（2026-10-25北京时间）
+
+按Root新复核要求保原§7卡1，不将已通过2/8或合成形状降格替代整节点。Main沿明确公开/既有批准引用完成一次有界资格核定，两名分工只读代理已收束；S1/S7仍NOT_VERIFIED_ENVIRONMENT，M3.1 IN_PROGRESS/未ROOT_ACCEPTED/未Git、M3.2 NOT_GO。
+
+S1公开结构28/254/28PK26FK23UNIQUE25CHECK及历史物理证据均指atlas_demo_cross_system_20261021，历史principal为root@%；事务read_only=1不构成受限账号。公开工作流和登记代码指Docker MYSQL_ROOT_PASSWORD机制，无独立批准RO引用。未执行Docker或历史登记入口，也未连接源；不推断当前物理库不存在。S7仅有M0离线3表13列/3PK2FK合同，fixture未写库、oracle sourceDatabaseRead=false，未找到明确物理库/合法RO引用。
+
+当前Web18199实际policy-file安全投影只允许m0-isolated-mysql-3307、127.0.0.1:3307、DB atlas_m0_reg_20261022_r01、TLS REQUIRED；node14985/instance om-p1-isolated和e8ddruntimePin吻合。现存明确M0 reader私有文件及密钥/两个service token只stat owned0600/nlink1，未读/复制/哈希秘密正文；旧原生GRANT仅两表SELECT，不能扩到S1/S7，未借旧P1其他项目sourceCredentials。没有合格输入，故没有发起额外SQL/HTTP/Native/业务行读取。
+
+具体缺项和最小必要决定见m3-1/evidence/s1-s7-qualification-r1/minimum-decision.md及两报告：若无可采纳现成批准引用，需要补齐独立S1/S7物理测试库和各表级RO、受控秘密输入和精确Atlas admission；建议新隔离名字只是可审范围，未碰撞检查或执行DDL/新账号/GRANT/policy修改。新增持久权限不从旧M0两表准备或技术验收推定，不要求降原验收、不要求聊天给密码；Root继续处理这一必要准备范围。所有旧UNKNOWN/ACK/key/停止闩/已到期Native12保持，不重扫充分2/8主线。
+
+前向澄清UI证据层级：所存real-final-selection.ax/JPG属于parent_pair筛选(匹配1/已选2)截面；后来清空搜索恢复(匹配2/已选2)由Main原CUA动作输出与action-readback支持，未另存该新AX/JPG，不把它们冒同图，也未为补图重扫。已封834项evidence-index-r1保持548f6139…/155295，新资格材料另前向索引，不回填旧原件。
+
+
+### 17.118 M3.1 S1/S7一次准备卡完成，待真人明确批准（2026-10-25北京时间）
+
+按Root当前继续指令，Main已把需要新资源/GRANT/精确admission的范围汇合成一次具体执行卡：m3-1/evidence/s1-s7-preparation-proposal-r1/execution-card.md及execution-plan.pending.json。不是执行放行，不把准备/审查数量算功能进度；M3.1仍IN_PROGRESS/未ROOT_ACCEPTED/无本节点Git，M3.2 NOT_GO，真人最终PENDING。Root主动读取后发一次具体批准问题，Work不另发跨会话消息或重复索技术许可。
+
+固定新S1库atlas_m31_s1_20261025_r01和新S7库atlas_m31_s7_20261025_r01；对应独立m31_s1_20261025_r01_ro / m31_s7_20261025_r01_ro，精确来源host172.16.239.1待当前资格核定，两个账号均拟REQUIRE SSL、逐表SELECT。S1沿原28表254列/28PK26FK23UNIQUE25CHECK全结构；S7三表13列/3PK2FK的VARCHAR64/255、DECIMAL20,2、BOOLEAN、noteNULL、InnoDB/utf8mb4_bin及RESTRICT为本次明确待采纳物理选择，不冒旧合同冻结。两库均只建空结构，0业务行DML/读取，不取历史2232或S7六行。
+
+真实作者清单汇合66潜在持久SQL＝2DB+31TABLE+2USER+31逐表SELECT；48前置读＝admin13+17、两RO各9。114仅这两类显式语句算术和，驱动/后续发现/Atlas内部SQL另分。拟采用原RequiredTlsConnection/PyMySQL1.1.2无初始化SQL路径，当前无执行测量；获批新版本须封当前输入、合法私有引用、UUID/version/sql_mode/Host/TLS及无碰撞条件。无自动重连/重试/改名/DROP/清理或原子DDL声明，partial/UNKNOWN保原ACK/意图/凭据引用。
+
+精确catalog和registry各仅加两个新库target/network，原M0/node/runtimePin/instances/token引用对象逆换保持；采用需原Web一次reload，Worker不重启。新独立Native最多12call仅同身份refresh/self/startup/login/warm，必要同两管理引用CAS明列、对象/权限写0；不借原耗尽过期窗口、不解除全局旧STOP。正常Atlas create两次可附各初始密码，不另replace-secret；两新连接各一次发现、源固定SQL合计≤28，选择CAS及有限UI/DM元数据读回另列。原M21默认KEEP禁用、旧M0连接/业务/成员/OM权限不改。
+
+非作者S1/controls复核原两缺口已由r2在原48条内补3个session sql_mode字段及5个FK UPDATE/DELETE_RULE精确JOIN闭合。另一非作者S7复核确认8操作范围及13类纯负向变体；Main所写S7 TLS r2的05语句摘要尾LF定义错误由r3只更正单个摘要，模板无错，旧件/reader断言保留。Main最终reader初猜授权枚举导致断言在任何公文写前停，r2按真实GRANT_SELECT_TABLE_TEMPLATE校准后汇合通过；另stdin只读schema打印int迭代错误保诊断，不冒产品/SQL失败。没有重复既有产品test/build、源发现或充分旧证据树全hash。
+
+本轮Source连接/SQL/HTTP/Native/秘密读取或生成/实际policy配置/服务/产品/Git动作均0。当前仅公开离线SQL/文档/索引及本账前向追加。所有历史原件、834项evidence-index-r1及资格索引不回填；套餐实时used88/余12、ordinarytrue/spendfalse/limitnull，仅普通套餐>0，未credits/reset/account/key动作。旧UNKNOWN/ACK/key/latch/预算及所有阶段顺序保持。
+
+
+### 17.119 M3.1 获批执行版本已备，Source启动被自动审批阻止（2026-10-25北京时间）
+
+Root正常续接已到本Work，Main官方read_thread亲读Root真人userMessage 01a171d9-c25a-7ab3-bbe2-c8aa22c31d35“继续”，并随后补读原具体批准问题msg_05fec3bbb45d4821016add8ca9591087d0a4cda4a5d1d64859；同card7e74…/13887，两原记录分别保存authorization-root-readback.json、approval-paired-context-official-r2.json。Root的批准映射及本条不代自动审批放行或M3.1验收。
+
+当前Source执行器已完整准备、Main亲读原617行和最终全部必要差额，非作者静态闭合：source_once.py5bf67e9b…/38179、prepared manifest6d18efb9…/3814、review40228fdb…/17139及MD a9ec6ed5…/3365。固定3连接/48读/66写、Q13资格通过后才RNG/owned0600密码、单armed COM_QUERY、强制TLS、旧结构/grants保护、PID摘要仅private stdin、已ACK warning与真正未ACK的UNKNOWN分开；safe物理Q20–25及统一sourceResult路径/refDTO已接合。原Path拼接、Source无psutil、宽PENDING匹配及模型失败均在执行前最小闭合并保原，不冒实际SQL失败。两policy CAS/Web单次reload、新Native12/900秒内嵌Source60min的准备和非作者增量复核亦已完成，仍无实际采用。
+
+Main仅对明确旧容器openmetadata_mysql作一次安全配置元数据读取，同ID1b9f1025c54b…、3306→3307、Running和原root密码存在；secret只入私有RAM，不输出/写/摘要，无Source连接。固定repo Source Python3.12.7/PyMySQL1.1.2与Framework只读PID helper可用；当前真实UUID/sql_mode/TLS/host/碰撞仍未查询，不能用旧容器观察代替。
+
+两次本人exec_command正常审批均在CreateProcess前被拒绝。第一次理由：可信用户消息未明确覆盖此M3建库/用户/GRANT/凭据范围，批准只见于不可信助手上下文。Main按工具允许只补官方原问题+真人答复配对的新直接上下文，再由本人/同工具/同已封Source runner、同范围走正常审批（仅新wrapper增加该证据与fresh单独quota），第二次仍拒绝：跨会话tool输出被视为不可信，真人“继续”上下文不足。两份rejection原件保留，绝不换工具、执行者、API或间接执行绕过，不在同旧依据继续尝试。首拒记录atUTC为事后估计事件位置，不是独立采样的精确工具时刻，后续以官方command记录为准。
+
+因此global-window.actual-r1.json及source-actual-r1均不存在；Source连接/SQL/库表账号GRANT/新密码与私有binding/Native/policy/服务动作全部0，连本次idle两查询也尚未启动。原管理秘密仅上段已有配置RAM读取，不写成“所有秘密读取0”。所有旧业务、UNKNOWN/ACK/key/latch/窗口/默认KEEP保持，未消耗获批Source SQL预算或开启新总窗。
+
+Main已在本Work发出一条完整具体范围的确认问题，明确两库31空表、两REQUIRE SSL逐表SELECT账号、66/48、两Atlas连接/精确admission/Web一次及Native最多12；这是解除实际自动审批阻断所需，不是重复索Root技术许可。等待该本会话直接明确答复期间，当前效果分支保持停止，仅完成无Source/私密IO的既有离线接合。Root主动读即可，不另发跨会话报信，也请勿由另一执行者接管这条被拒分支。
+
+M3.1仍IN_PROGRESS/未ROOT_ACCEPTED/无Git，原S1/S7真实验收未通过、M3.2 NOT_GO，真人最终PENDING；实现/材料/静态审查数量不作为功能进度。末套餐used1/余99、ordinarytrue/spendfalse/limitnull，只普通套餐；没有credits/reset/account/key动作。旧834索引/原pending卡及历史root授权记录不回填。
+
+
+### 17.120 M3.1本会话明确批准后首条只读资格失败，最小补充范围待答复（2026-10-25北京时间）
+
+本会话真人已直接答复call_ac6d0f7344af41a8973e01c3702e05f9，允许按S1/S7原执行卡创建并接入隔离资源；官方本Work turn01a1727f-14f5-70d1-a3ea-1323bdfa7edb/userMessage01a1727f-154b-7e32-9b27-0866ffef2365已亲读，authorization-work-direct-r3.json保存578bf176…/原字节。此次本人同exec工具正常审批通过，原§17.119两次CreateProcess拒绝保持历史，不再把它们描述为当前阻断。
+
+唯一global窗口4584b9b4-f5bd-466d-9662-26647f97f125于09:59:24.857675UTC实际开启，截止10:59:24.857675UTC（北京时间17:59:24至18:59:24），绝不新开或延长。原local idle实际一SQLite SELECT及一应用DM SELECT、17类空闲条件通过，与Source预算分列。本人原command exec-931163d0-2c90-4ffb-901c-d5e5c7def448退出2/939ms；Source原ledger实际09:59:25.659357至25.824302UTC，1个admin连接、Q01只读派发1次后ProgrammingError，SOURCE_PREPARATION_UNKNOWN。结果未记录errno，不把历史M0的1064冒作本次实测。原连接finally关闭，写reserved/ACK均0，没有到达密码生成、库表/账号/GRANT、policy CAS、Native或Web重载。
+
+原public-result.json 8c1ba91c…/257及ledger.jsonl d08f9e91…/2130完整保留；START/CONNECTION_INTENT/ACK/Q01_INTENT/STOP/FINAL_STOP链明确只有一次未知读，无SQL ACK、密码或写。离线查原Q01用未引用current_user别名；旧M0公开诊断和MySQL8官方保留词规则支持此兼容性原因，但不虚构本次驱动errno。静态复核漏掉该问题，已前向修正Q01/Q31/Q40各九个别名加反引号，函数/字段/数据范围、其余45读和全部66写/31表不变。source_once-r2.py dfcb8c4b…/42192与新plan4b66204d…/180825、完整8574B差额及非作者review f89322cf…已有限离线核闭；不代真实SQL通过、不回填原失败。
+
+原卡3连接/48读已消耗1/1，完整新资格及原读回还需3/48，故严格累计应为4连接/49读，66持久写不增加。已在本Work发出call_469344d9c9b447fc816983616e42600d，按continuation-card-r2.md 6db54e10…/3128请求这两项最小数值补充及跨该只读停点续接。当前尚无真人答复、无补批record，source-actual-r2不存在。原48/3及异常停线是需补批的具体来源，不从用户常规自主推进授权推定扩额。依赖分支保持停止；没有新SQL、凭据、服务、Native或配置效果。
+
+新离线接合只允许原global窗口、新Source r2完整成功与真实同Work补批后采用，分别列本次48/3/66和累计49/4/66，绑定原UNKNOWN两文件SHA与原窗，不采用旧失败为成功。source-pre-idle-r2只在获批后重新取得同两local SELECT/17idle；原09:59idle不能复用。latest runtime-continuation-r3及Native r4只是同成功DTO/补批门的离线接合，未执行；原一Web/最多12 Native/两个Atlas连接/两发现及业务数据0边界不变。窗口不足或过期即保留停点，不自动补新窗。
+
+M3.1继续IN_PROGRESS/未ROOT_ACCEPTED/未本节点Git；S1/S7真实栏未通过，M3.2/M5/P2 NOT_GO、真人最终PENDING。原834索引548f6139…/155295与旧pending/拒绝/UNKNOWN不回填；没有重复旧产品测试、build或旧证据树全hash。最近实时普通套餐used2/余98、ordinarytrue/spendfalse/limitnull，未credits/reset/account/key动作。Main前向记账时刻：2026-10-25T10:24:37.933684+00:00。
+
+
+### 17.121 M3.1数额补批已到，原截止已过，未执行续接（2026-10-25北京时间）
+
+本Work真人对call_469344d9c9b447fc816983616e42600d直接答复“允许同窗口累计49读、4连接继续，写仍66”。Main官方read_thread亲读本Work turn01a172f3-465a-7ba0-b803-97a2e5382efd/userMessage01a172f3-46bd-7b83-8789-58bf3c6888fd；数额批准及原问题完整保存在authorization-source-continuation-r2-expired.json，明确当前不可执行，不制造旧同窗可执行授权。
+
+FIRST实时普通套餐used3/余97、ordinarytrue/spendfalse/limitnull。实际clock为2026-10-25 12:05:20UTC（北京时间20:05:20），原global09:59:24.857675至10:59:24.857675UTC已经结束。新答复明确同窗、不延长，因此Main没有启动r3薄入口、新idle、Source连接或任何写。原1连接/1未知读/0写0密码保持，原r1 result8c1ba91c…/257和ledger d08f9e91…/2130未变；global-window.actual-r2/source-actual-r2/新time批准均不存在。未取消、重放或重置原任务、UNKNOWN、账或窗口。
+
+前一停点离线接合已充分：runtime r3/Native r4非作者44公开输入、6组整patch正逆/9内存门，报告runtime-continuation-independent-review-r1；Main完整亲读两patch/报告并逐44 SHA读回。薄入口r2曾存在未pin pending模板的P2，r3仅加一行d4b26…/2355强pin，原r2保留；Main与非作者整逆、7literalpins和schema已核，r3 092ea2e6…/7670。均未执行，不能用它们改写旧真实失败/Source栏。上轮handoff-source-readonly-stop-r2.json cd1fb310…/10274保留当时补批待答截面，不回填。
+
+唯一需要新增决定为时间：source-preparation/continuation-window-card-r3.md申请全部准备及非作者复核完成后，仅一次新60分钟实际窗口，独立新ID和global-window.actual-r2.json；保留旧窗口及原r1 prior校验常量，新增本次执行时间绑定，不替换历史窗、不自动再开或延窗。已批49读/4连接/66写不再索数额许可，累计账不重置；新窗口最多新增48准备读/3连接/原66写、两原reader密码。原SQL/目标/空表/逐表SELECT/TLS/旧M0保护与两个policyCAS、最多12 Native/≤900秒内嵌、一个Web重载、两个Atlas连接/两发现及选择范围不变，0业务行和OM权限写。窗口批准前只做必要离线时间差额接合，不开窗/Source/私有或秘密IO/服务；不把准备数量当功能进度。
+
+M3.1仍IN_PROGRESS/未ROOT_ACCEPTED/无本节点Git，S1/S7真实栏待完成，M3.2/M5/P2 NOT_GO、最终真人PENDING；没有credits/reset/account/key动作、没有新产品build或旧证据树全扫描，没有给Root/其他用户会话发信。前向记账时刻：2026-10-25T12:09:23.740531+00:00。
+
++
+### 17.122 M3.1新时间批准、真实开窗与第6条只读安全拒绝停点（2026-10-25北京时间）
+
+真人本Work新message01a172fc-cc65-71b2-946b-70940c868b29明确允许全部准备完成后一次新60分钟，累计仍49读/4连接/66写；Main官方亲读并保authorization-source-window-r3.json 4dd624d0…/3016，4个authority pins核定。原17.121时间待批已由该直接批准解除，不再索旧时间或数额49/4范围。
+
+所有必要Source时间包、Runtime/Native时间包、开窗器和单次Source薄入口有限审查已完成；Main完整亲读新binder/patch/关键guards并对照原字节。Source时间包363bca8f…/4587，原45函数保持；runtime e365f52c…/6373及非作者334536b1…/17843，6组整逆/24公开输入；开窗器原r3缺ctime双核由r4闭合，9c4e2d66…/6592/非作者524be699…/8317；单次入口0e9667ac…/12697由Main非作者全文与5literal pins核闭。ready bb50622e…/18286只封53项必要公开文件，不重扫原834树，不把静态数量当功能进度。
+
+Main本人正常exec开窗成功（chunk1d5477/exit0，chunk非commandID），实际新bc600580-0c01-4698-85df-21a84c433612为12:35:03.599010至13:35:03.599010UTC，北京时间20:35:03至21:35:03，global-r2 d2cd644d…/160。原4584…global完整保持。Source及Runtime公开binder随后各0，只生成公开时间绑定；Main亲核Source3 literal整逆、完整plan除continuation/pins逆回r2及旧pins保持，无SQL/privates效果。新Source f8c9faa7…/48400/plan4ae45b75…/183679/pending a195a40e…/4065；Runtime manifest d2e6b754…/7314，Native仅公开时间稿，未actualbind。
+
+本人单次真实Source执行官方command exec-c58f5a48-700f-4ed8-8ae4-74caa166a5ea failed2/1189ms，unified初chunk2d9eba/session30770、末b20188分列不拼造耗时；official metadata另存source-second-attempt-official-command-readback-r2.json，完整safe stdout在source-main-new-window-original-command-r4.json 62d8d323…/2216。先新local idle一SQLite+一DM/17项0，再新owned0600私有binding；argv摘要只private，不公开内容或摘要。
+
+Source实际12:36:12.510258至12.902450UTC，admin连接1、driver initialization SQL0。Q01–05有原ACK，Q06 SHOW GRANTS在fetchall后的本地grant_lines、原响应持久化/ACK之前停，SOURCE_PREPARATION_UNKNOWN/UNEXPECTED_SENSITIVE_GRANT_RESPONSE。本次6读/1连接/0写reserved或ACK，与原r1合累计7读/2连接/0写；未到Q13/新密码生成，没有库表/账号GRANT、policy CAS、Native、Web重载或Atlas新连接。source-actual-r2 result d0a87720…/1342、ledger02e937a7…/6866全部原样保留，Main逐完整hashchain核5ACK及未知Q06；原r1未知亦保，不重放。
+
+该错误码合并了非字符串值与IDENTIFIED|PASSWORD|AUTHENTICATION子串检测；未保存命中内容，因此不能说此次现场已确诊为合法权限名、不能把原UNKNOWN销项，也不为补历史去读原GRANT或追加探针。只源码/官方MySQL8规范层面确认，合法APPLICATION_PASSWORD_ADMIN/PASSWORDLESS_USER_ADMIN/AUTHENTICATION_POLICY_ADMIN会被旧子串误拒。当前仅做最小词边界修正及无原文的类型/敏感命中错误分离、受影响纯检查；shape、sort、exact_grants和原比较不改，未新Source/SQL或私有读取。
+
+当前49/4上限实际剩42读/2连接，不足完整重新资格的48读/3连接。若后续具体一次方案采用完整资格，累计应为55读/5连接，66写及原新窗口截止保持，须处理该新增差额和跨新停点许可，不能清累计/默认当旧上限内。Root已正常主动读该停点并指继续最小根因修正，Root技术复核不作为常规逐步许可前门；Main不向Root回发跨会话消息。
+
+M3.1仍IN_PROGRESS/未ROOT_ACCEPTED/无本节点Git，S1/S7真实验收未完成、M3.2/M5/P2 NOT_GO、最终真人PENDING。最新实际普通套餐97余/used3，ordinarytrue/spendfalse/limitnull；无credits/reset/account/key动作，无当前自动审批拒绝，无服务或产品新动作。记录时间：2026-10-25T12:45:58.130483+00:00。
+
+
+### 17.123 M3.1隔离资源66笔ACK，CHECK本地解析停点及只读尾段待补充（2026-10-25北京时间）
+
+本Work真人已直接答复call_76300f8dee084cf9aaba1fee6ac748a4，允许同BC窗口累计55读/5连接/66写；原问题和userMessage01a17326-1962-7893-9e96-0a8176da7e50存authorization-source-grant-continuation-r4.json 235d1cb0…/4608。该补批已采用，不再索旧55/5许可。Main本人同exec工具正常审批执行，无当前审批拒绝；原BC仍12:35:03.599010至13:35:03.599010UTC，不自动延长。
+
+Source第三次实际13:14:12.134843至13:14:16.459827UTC，原source-actual-r3/public-result.json d7fe6f68…/2294、ledger a2ef12a1…/80639保持。188行链内91意图均有ACK＝25读取+66持久SQL，warning全部0；66写精确2DB+31TABLE+2USER+31逐表SELECT，两原256bit reader密码已生成并保存owned0600原引用。不能再称“尚无资源或密码”，禁止重放已ACK创建/授权、换名或删除重建、重新生成密码。Q01–25已ACK，但Q25后的原validate_structure本地CHECK_TOKEN_UNSUPPORTED停止，unknown=false；不是Q25 SQL未知，也不把ACK冒完整语义验证成功。当前attempt25读/1连接/66写，与前两UNKNOWN的7读/2连接合累计32读/3连接/66写。Q26–48未派发，admin finally已关闭。policy CAS、Native接入、Web重载及两个Atlas新连接/发现尚未执行。
+
+Main只从已捕获新库Q20–25定点复制安全结构，新增Source读0。实际三条currency CHECK有_utf8mb4及成对反斜杠quote包装；其余22条可被旧parser解析。最小2434B候选fbe56318…只增加一行窄包装归一化，不全局去反斜杠、不放宽语法或跳过token。Main及FE非作者用原完整validate_structure纯内存复核，31表/267列/107约束/92键列对/25CHECK全部精确等冻结计划，25actual AST等旧parser frozen oracle；未配对包装与USD负例不采用。报告source-check-normalization-minimal-main-r1/non-author-review-r1.md及JSON 3518baa2…/8183。原纯harness首漏Decimal导致NameError留诊断，候选未变、r2显式Decimal后通过；无runner导入/新SQL/私有秘密/服务/实际安装。此为捕获结构离线语义结论，不代reader实时资格或Atlas发现。
+
+剩余固定Q26–30需新admin5读，Q31–48两原reader各9读，共23读/3新连接/0写。完成后准备周期是跨切片48读/4连接/66写，全程55读/6连接/66写，不能伪装一次48/3或压在旧5连接内。Main准备check-readonly-tail-and-adoption-card-r5.md 7c7b1a99…/4287，仅请求连接5→6及全部准备/独复核后一次新45分钟窗；准备读55/持久写66和已创建对象/两原密码均不增加，原BC及两旧UNKNOWN/本次STOP保留。该新卡当前待独立范围复核和真人明确批准，尚无新窗口、Source续验或接入效果。只读指Source尾段，原已批catalog/registry两CAS、最多12Native/900秒内嵌、Web一次、Atlas两创建两发现及选择边界仍明列，Worker不重启、M21默认KEEP禁用不变。
+
+M3.1仍IN_PROGRESS/未ROOT_ACCEPTED/无本节点Git，S1/S7真实栏未完成，M3.2/M5/P2 NOT_GO、真人最终PENDING。FIRST及主要批次套餐used5/余95、ordinarytrue/spendfalse/limitnull，仅普通套餐，无credits/reset/account/key动作；不重扫旧834证据树或复跑旧产品build，不向Root另发跨会话消息。Root主动读取独验；材料和准备数量不计功能完成。
+
+
+### 17.124 M3.1 只读尾段及真实 S1/S7 完成，交 Root 独验（2026-10-25北京时间）
+
+本Work真人userMessage01a1736f-66a4-70e2-bbc9-5bfaaf2721db对call_df3bff88efa14505856d352a33cb2601直接批准r5补充卡。全部准备后实际global b759cc6c-4391-44c1-99f5-861f9b2b2053窗为14:32:59.044639至15:17:59.044639UTC；旧窗/原UNKNOWN不改。R5启动在Source输出/连接之前exit1且未导出safe stdout，原件保留，不臆造当时stderr。仅离线旧程序控制流及historical-clock复现定位固定Q32/Q41 SHOW SESSION STATUS被本地SELECT/SHOW GRANTS guard误拒；新Root已官方亲读本轮真人持续到M9/八小时委托，同次技术批准仅恢复该0-Source效果停点。r6只精确增加这两条原TLS语句谓词，23原语句/驱动围栏不变；非作者纯模型与Main逐差额核闭，未重放任何ACK创建/GRANT/密码。
+
+Main同执行者/正常审批R6于14:49:19.943399UTC完成尾段23读/3连接/0写/0新密码，23意图全ACK且warning0/driver初始化0。原ABI路径source-readonly-tail-r5/public-result.json bbd50739…/10303；本次准备周期48读4连接66写，含原两UNKNOWN累计55读6连接66写。S1 28/254/28PK26FK23UNIQUE25CHECK、S7 3/13/3PK2FK物理结构及两原RO资格通过；这是空结构，不读历史2232或S7业务行。原66写及两原密码完整保留。
+
+原catalog/registry各仅两新target/network采用并CAS读回；旧M0/node/runtime/秘密引用保持。Native同账从17749到20390，一次TERM/一次Popen；同管理员refresh/self2及原两引用CAS/备份读回。Web从18199到20877一次正常重载，正常Jar/103args保持，startup5GET；Worker18031不重启。Atlas显式104/config6的只读检查完成模型客户端/Worker双消费，Native原12上限恰好12全HTTP200＝auth2+startup5+ordinarylogin1+SELF4；15:13:57.770342安全RAM投影17287、旧17275前缀/全部旧namespace/业务STOP保持，对象写仍22、发现后Native0。该a2f0窗已过期，不再利用。
+
+S1连接1dd0d13c-5198-4f7e-bc89-1dcb23cc912f，受理发现66a1ea11-12b9-4eaa-a0a0-b6be6f899316/key885328f3-1c44-4c1d-b01f-7ae4d9fc3716，15:03:22.766UTC完成，TTL15:18:22.889660。真实分页20+8；v1第二页reg_equity_holding，搜索fin_后v2增量加入7财务表成为8表；两个reg_legal_entity FK依赖未自动补选。原首次请求明确NOT_ACCEPTED及local历史保持，104会话准备后才人工新点击，非自动重放。S7连接90e0dc65-fd95-4b11-b546-36f222059b85，发现cd405b8a-1b9d-41d8-89f8-9ba9c924ed98/key97e6152d-2e54-4f91-8e24-3726166242ef，15:12:02.085完成，TTL15:27:02.142638；v1 sales_order，搜索payment后v2 payment+sales_order，customer仍未补选。两者预期m31_expected_absent均报告缺项，不推定物理不存在。S1快照25CHECK均UNSUPPORTED。原M21默认KEEP禁用未改。
+
+Main15:12:58.943812至15:12:59.363967UTC对各来源执行1固定应用DM Prepared SELECT，均exit0/stderr0，独立重算原snapshot hash并核SUCCEEDED/FINISHED与恰好v1/v2精确名单。Atlasactor1和所选OM104分层；不读取capture_json、源秘密/业务行，不把该DM投影冒连接关联或当前权限独立证明。源发现双读实现每源最多14显式metadata语句，两源合计上限28；没有独立Source SQL wire/全部AtlasHTTP抓包，不写成实际抓包计数。所有准确hash、名单、完成/TTL、原命令、AX/PNG与Native投影集中m3-1/evidence/s1-s7-approved-execution-r1/m31-s1-s7-functional-handoff-r1.json/md。
+
+M3.1当前READY_FOR_ROOT_INDEPENDENT_REVIEW，仍未ROOT_ACCEPTED/无本节点Git；M3.2等待Root独验与精确Git。原最终R9完整build/Java正常包和充分有限检查不重跑，本轮产品源码未新增；旧834索引及所有失败/UNKNOWN/ACK/key/latch/windows保持，不递归归档。后继按真人新M9委托顺序推进，不将旧M5 NOT_GO当永久禁入，未到本节点前序不预做。真人最终PENDING/P2范围不扩，最新套餐used8/余92、ordinarytrue/spendfalse/limitnull，无credits/reset/account/key动作。本段仅前向更新本唯一进度账。
+
+
+### 17.125 M3.1 Root有限技术接受与两代码仓精确Git交付（2026-10-25北京时间）
+
+Root于15:18UTC独立判ROOT_ACCEPTED_FINITE_TECHNICAL，报告m3-1/m3-1-root-acceptance.md；Root亲读物理结构/原snapshot与选表/AX和两图，并独核23源及保护。Main按Root本次明确委托完成Cloud17/React6代码交付，不以Worker自审代Root接受。Cloud新a97844ca4452afda81b236da9f178dca02d91c99，父a0754ada3e04e60c7e0ddf6392da267d014e83ff；React新cbd9a7712b00be52332722b1eb95017a076a2774，父47bba3150f7eb7ebaa92d4f53454a4cfae64c24e。两仓均原codex/atlas-om-semantica，正常commit/push/ls-remote各exit0，远端逐字新HEAD；无force/PR/合main。
+
+精确17/6changedset及全部commitblobSHA等scope b78/最终r3manifest7d225f6a…；19产品4检查、5旧18新。临时index构造提交，实际index仅这17/6条记录同步新HEAD，outside原entries不变、提交后staged空；旧index字节只备份/private/tmp，不恢复为反向暂存。19旧WIP字节及范围外untracked路径集前后保持，不声明全untracked内容重hash。独立脚本静审无阻断，Main亲读该报告与两实际commit/push/remote原结果。
+
+本节点README已将当前Root技术接受、S1/S7真实28/254和3/13以及两代码仓交付前向更新；旧04:02正文完整保历史。已封m31-s1-s7-handoff-closeout-r1中的旧README hash/PENDING保当时截面，本次evidence/git-delivery-main-r1/m31-code-delivery-final.md/json为当前交付入口。Semantica精选docs由Root负责，Main未执行该仓Git；三仓远端齐全后Root再放行M3.2，目前不提前实施。真人最终PENDING。
+
+本次无产品改动/重跑旧测试build/SourceSQL/NativeHTTP/服务动作，没有新自动审批拒绝。普通套餐used9/余91、ordinarytrue/spendfalse/limitnull；无credits/reset/account/key动作。Main一次只读ps诊断在默认sandbox被EPERM，未换执行者绕过、未影响Git；原实际Git均正常本人exec审批通过。记录时间2026-10-25T15:27:08.100287+00:00。

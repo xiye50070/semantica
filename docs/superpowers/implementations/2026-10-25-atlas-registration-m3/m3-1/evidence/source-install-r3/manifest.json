@@ -1,0 +1,311 @@
+{
+  "kind": "M31_EXACT23_FORWARD_R9_OWNER_HISTORY_CAS_PREPARED",
+  "at": "2026-10-25T03:46:25.323715+00:00",
+  "scope": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/scope-registry-r1/scope.json",
+    "sha256": "b78a89b9ac916dba76006539e35a1db964bbdfe610d2fcc7c9d53f026a10f299",
+    "bytes": 11510
+  },
+  "candidateManifests": [
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/source-map-final-r6.json",
+      "sha256": "54a6fd6839e5aab71db6c4fe6cbcbe62830fe4805c9c701b39f675f707f7cc7f",
+      "bytes": 5073
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/worker-candidate-r1/source-manifest-r5.json",
+      "sha256": "46e4a351e29e199a95ed63f5a13245c04558f82f348ea386986ae70b70bf2be8",
+      "bytes": 7133
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/source-map-final.json",
+      "sha256": "363e05da4b8f444c76161715ca019d368134153b0d8666f530a383d7bfa1ec4c",
+      "bytes": 1095
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r8-cut-currentness/source-map-final.json",
+      "sha256": "4c4036ecc95de2eff7051daa3bde473344749c51ecc463fa79a09243aa6f7c06",
+      "bytes": 921
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r9-owner-local-history/source-map-final.json",
+      "sha256": "37098b9aede0c96251dea5f51a25b59327e7e2664f56d3cafb4de4562f915cd8",
+      "bytes": 370
+    }
+  ],
+  "paths": [
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyMetadataDiscoveryStore.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/JdbcOntologyMetadataDiscoveryStore.java",
+      "candidate": {
+        "sha256": "e81993be4fd1861061bc3bc64a7c777ba1459a9b9a35ebec549d709c83cb9d0f",
+        "bytes": 5769
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryConfiguration.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryConfiguration.java",
+      "candidate": {
+        "sha256": "3e2e45fb31b0fc68e268bed56b0ab838eac2b456ef2e2ee8503cb7cbf67195a4",
+        "bytes": 1041
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryContracts.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryContracts.java",
+      "candidate": {
+        "sha256": "107ed0c21242d1f82255962f42ea7af484b74709157e855882cb4f655cb5e0d1",
+        "bytes": 6384
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryController.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryController.java",
+      "candidate": {
+        "sha256": "061b1ae94f5195497b94b5423d6ee690459b66d7fcd9ac20f8ebd966ce0f1f84",
+        "bytes": 7105
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryExceptionAdvice.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryExceptionAdvice.java",
+      "candidate": {
+        "sha256": "c9dbff08a18c33e7ecffef4a828f2a287757d812cb145d0470e221c645abf630",
+        "bytes": 1241
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryInternalController.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryInternalController.java",
+      "candidate": {
+        "sha256": "d8977152275ebde7b8bfd28953d92dc015a2bc192901440b1e56e1ffca3a3986",
+        "bytes": 3059
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryProjection.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryProjection.java",
+      "candidate": {
+        "sha256": "369b980c2c921dd6a6ec691ac2d36fcdfcec797e35b725ffb3f1f008f411e752",
+        "bytes": 7345
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryService.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryService.java",
+      "candidate": {
+        "sha256": "3886e2ad35f5900cac5c42303731ce4d0329b8607ef08bb368cbd08f8258cf6b",
+        "bytes": 19331
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyWorkerClient.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/main/java/cn/iocoder/atlas/module/infra/ontology/OntologyWorkerClient.java",
+      "candidate": {
+        "sha256": "769b66782f96d8d44d9121cd8ee6ac7347e1993e9b446615d5fc3e0f6e50caa6",
+        "bytes": 21715
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryApiTest.java",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/atlas-module-infra/atlas-module-infra-server/src/test/java/cn/iocoder/atlas/module/infra/ontology/OntologyMetadataDiscoveryApiTest.java",
+      "candidate": {
+        "sha256": "95012dc5516ac957ac392669b4f746c6bd7b6f35aac39860fd77d2882139cc66",
+        "bytes": 20547
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "sql/ontology/V20261025_38__ontology_metadata_discovery.sql",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/sql/ontology/V20261025_38__ontology_metadata_discovery.sql",
+      "candidate": {
+        "sha256": "19ff7274a50ebb92c6586403fe7b6fb242cc9b3a4a46559132bb693e92e55d8e",
+        "bytes": 1521
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "sql/ontology/dm8/V20261025_38__ontology_metadata_discovery.sql",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/backend-candidate-r1/candidate/sql/ontology/dm8/V20261025_38__ontology_metadata_discovery.sql",
+      "candidate": {
+        "sha256": "61bf817caf6a1f3f75c10743fe4fd9d8132b2110895f8ea3b80af60f1027e7e7",
+        "bytes": 1509
+      },
+      "area": "backend"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "integrations/ontology-worker/src/atlas_ontology_worker/metadata_discovery.py",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/worker-candidate-r1/candidate/integrations/ontology-worker/src/atlas_ontology_worker/metadata_discovery.py",
+      "candidate": {
+        "sha256": "86bd800181fa9a2a2e80936cef51712775c8d953a41fbabf94afbc1c031cbd98",
+        "bytes": 22994
+      },
+      "area": "worker"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "integrations/ontology-worker/src/atlas_ontology_worker/http.py",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/worker-candidate-r1/candidate/integrations/ontology-worker/src/atlas_ontology_worker/http.py",
+      "candidate": {
+        "sha256": "1df48fbbc5dce96eabeec23c04ee6782936baebc857f69990f20cd1c0312fbb9",
+        "bytes": 13927
+      },
+      "area": "worker"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "integrations/ontology-worker/src/atlas_ontology_worker/runtime.py",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/worker-candidate-r1/candidate/integrations/ontology-worker/src/atlas_ontology_worker/runtime.py",
+      "candidate": {
+        "sha256": "1c67d187a50c95ef34a53a804115699189773df43d5f89e555bf969757e0a674",
+        "bytes": 1764
+      },
+      "area": "worker"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "integrations/ontology-worker/src/atlas_ontology_worker/deployment.py",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/worker-candidate-r1/candidate/integrations/ontology-worker/src/atlas_ontology_worker/deployment.py",
+      "candidate": {
+        "sha256": "86341b851b5e5b716318380e096b8bb178825953118baa5eeb72eee78360e647",
+        "bytes": 14296
+      },
+      "area": "worker"
+    },
+    {
+      "repository": "atlas-cloud",
+      "relativePath": "integrations/ontology-worker/tests/test_metadata_discovery.py",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/worker-candidate-r1/candidate/integrations/ontology-worker/tests/test_metadata_discovery.py",
+      "candidate": {
+        "sha256": "a256ab8023302712ba77058176a44a848837d97382a67af0d17003aff7f7c958",
+        "bytes": 25623
+      },
+      "area": "worker"
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.tsx",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r8-cut-currentness/candidate/apps/console-react/src/features/ontology/OntologyMetadataConnectionsPage.tsx",
+      "candidate": {
+        "sha256": "6e12f8362d1e12c0292a2814053110f5e4b505e74c73097d10afa0adb3f9d873",
+        "bytes": 59709
+      },
+      "area": "frontend"
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/metadataDiscovery.css",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/candidate/apps/console-react/src/features/ontology/metadataDiscovery.css",
+      "candidate": {
+        "sha256": "2dec9c177b4bd57cf683fec279351a78389ad24b162f1024ea4e5ac5b3c03db4",
+        "bytes": 4232
+      },
+      "area": "frontend"
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/metadataDiscoveryApi.test.ts",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r8-cut-currentness/candidate/apps/console-react/src/features/ontology/metadataDiscoveryApi.test.ts",
+      "candidate": {
+        "sha256": "0c3154ac4223c2a6ee3efa5c023331e99c2f1326a877740cf10e60734bdd9030",
+        "bytes": 15005
+      },
+      "area": "frontend"
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/MetadataDiscoveryPanel.test.tsx",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r9-owner-local-history/candidate/apps/console-react/src/features/ontology/MetadataDiscoveryPanel.test.tsx",
+      "candidate": {
+        "sha256": "44e3517c5f87403f0bbac43bb60313ac3052bde577f9fdbbdd1ee825c53db1fa",
+        "bytes": 25513
+      },
+      "area": "frontend"
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/MetadataDiscoveryPanel.tsx",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r9-owner-local-history/candidate/apps/console-react/src/features/ontology/MetadataDiscoveryPanel.tsx",
+      "candidate": {
+        "sha256": "c5708d70dcbe111499d32e8492565ac03b3a8bc494c4615038cf1cd2bf8a45d5",
+        "bytes": 27503
+      },
+      "area": "frontend"
+    },
+    {
+      "repository": "atlas-ui-admin-react",
+      "relativePath": "apps/console-react/src/features/ontology/metadataDiscoveryApi.ts",
+      "candidatePath": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r8-cut-currentness/candidate/apps/console-react/src/features/ontology/metadataDiscoveryApi.ts",
+      "candidate": {
+        "sha256": "2363b61b12f7d64f5a23afdfbe641296b7f2e8701335426c8132c31ece980be6",
+        "bytes": 29647
+      },
+      "area": "frontend"
+    }
+  ],
+  "buildJava": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/full-build-r2/receipt.json",
+    "sha256": "a2afb3e72bc083da891e5c602116dc91bf3caf85b4a26b115c66c599b60e3789",
+    "bytes": 837
+  },
+  "buildFrontend": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r8-cut-currentness/full-build-r2-currentness-cold/receipt.json",
+    "sha256": "e3f120f4bc595cf6d486d351fcc9b99e5415c31c7f75f9fd05707397c1c04680",
+    "bytes": 1120
+  },
+  "sourceCount": 23,
+  "productCount": 19,
+  "checkCount": 4,
+  "SourceBeforeMatches": true,
+  "protected19Current": true,
+  "NoSourceWritesYet": true,
+  "MainReview": "Whole r9 Panel 21B setter inverse equals r8, old test complete prefix plus one method. New one RTL pass/target typecheck0, first wrong test expectation preserved. Prepared only; install after normal role adoption to retain its R2 guard cut.",
+  "parentSourceManifest": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/source-install-r2/manifest.json",
+    "sha256": "09303eeaddef3f807fef83f31e8e5ee286b4762a5f5b6c7aa3afc748740da54c",
+    "bytes": 17707
+  },
+  "frontendForwardHandoff": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r8-cut-currentness/handoff.json",
+    "sha256": "1820d260ae4dd5fdd7a3201b88d9180057819534da585c0784fd4fd34d9d59b3",
+    "bytes": 1612
+  },
+  "frontendForwardProof": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r8-cut-currentness/final-proof.json",
+    "sha256": "5d8fda054a9064d7c8660a35dfbaba3d2ebeb648abbf86587723430e82c47659",
+    "bytes": 5080
+  },
+  "frontendForwardHandoffR9": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r9-owner-local-history/handoff.json",
+    "sha256": "516b89dfa6a3f495182c6b32269ce08c5d4c22b9eb82c63cbcbe62dfbdf81e69",
+    "bytes": 2884
+  },
+  "frontendForwardProofR9": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/frontend-candidate-r1/revision-r9-owner-local-history/final-proof.json",
+    "sha256": "e347128dc7db8c75f5025bb958f2aaa4ceed770f2541abf7d5b385a51a6f9fd0",
+    "bytes": 3451
+  },
+  "buildFrontendScope": "R8 complete production build; R9 single setter affected regression and targeted typecheck; no claim full R9 build"
+}

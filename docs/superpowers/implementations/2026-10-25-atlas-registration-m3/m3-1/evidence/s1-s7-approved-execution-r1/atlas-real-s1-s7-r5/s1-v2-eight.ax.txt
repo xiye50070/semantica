@@ -1,0 +1,353 @@
+Browser tab: 979676260, Title: "Atlas · 管理工作台", URL: "http://127.0.0.1:5188/next/ontology/data-sources/1dd0d13c-5198-4f7e-bc89-1dcb23cc912f?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6".
+1 AXWebArea Atlas · 管理工作台, URL: 127.0.0.1:5188/next/ontology/data-sources/1dd0d13c-5198-4f7e-bc89-1dcb23cc912f?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6
+	2 container
+		3 container root
+			4 link Description: 跳转到主要内容, Value: 127.0.0.1:5188/next/ontology/data-sources/1dd0d13c-5198-4f7e-bc89-1dcb23cc912f?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6#main-content
+			5 container 主导航
+				6 link Description: Atlas, Value: 127.0.0.1:5188/next
+				7 text 企业管理空间
+				8 container
+					9 text 管理控制台
+					10 menu
+						11 (collapsed) appstore 系统管理, Secondary Actions: Expand
+							12 image appstore
+							13 text 系统管理
+						14 (collapsed) appstore 基础设施, Secondary Actions: Expand
+							15 image appstore
+							16 text 基础设施
+						17 (collapsed) appstore 工作流程, Secondary Actions: Expand
+							18 image appstore
+							19 text 工作流程
+						20 (expanded) appstore 本体管理, Secondary Actions: Collapse
+							21 image appstore
+							22 text 本体管理
+						23 menu rc-menu-uuid-_r_2_-ontology:management-popup
+							24 apartment 知识空间
+								25 image apartment
+								26 link Description: 知识空间, Value: 127.0.0.1:5188/next/ontology/spaces
+							27 apartment 本体项目
+								28 image apartment
+								29 link Description: 本体项目, Value: 127.0.0.1:5188/next/ontology/projects
+							30 apartment 数据源接入
+								31 image apartment
+								32 link Description: 数据源接入, Value: 127.0.0.1:5188/next/ontology/data-sources
+						33 search 知识查询
+							34 image search
+							35 link Description: 知识查询, Value: 127.0.0.1:5188/next/ontology/query
+				36 button 账户菜单
+					37 image
+					38 text 管理员
+					39 text admin
+					40 image down
+			41 container
+				42 button (expanded) Description: 收起导航, Secondary Actions: Collapse
+					43 container menu-fold
+				44 text 工作空间
+				45 text 本体管理
+				46 button 访问租户
+				47 button 搜索页面
+					48 text 搜索页面
+					49 text ⌘ K
+				50 button 我的消息，1 条未读
+					51 container bell
+				52 text 1
+			53 container
+				54 text 本体管理
+				55 heading 数据源接入, Value: 1
+					56 text 数据源接入
+				57 text 保存当前项目的源连接与目标服务配置；保存配置不会创建原生服务，也不会检查连接或登记元数据。
+				58 text 当前项目
+				59 container
+					60 text M1 S6身份准备验证
+					61 combo box (collapsed) Description: 当前项目, Secondary Actions: Expand
+					62 image down
+				63 container M31 S1 结构发现 20261025 R01
+					64 heading M31 S1 结构发现 20261025 R01, Value: 2, ID: metadata-workspace-title
+						65 text M31 S1 结构发现 20261025 R01
+					66 link Description: 返回项目准备, Value: 127.0.0.1:5188/next/ontology/projects/3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6/readiness#source
+					67 link Description: 返回接入列表, Value: 127.0.0.1:5188/next/ontology/data-sources?projectId=3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6
+					68 definition list
+						69 container 配置状态
+							70 text 配置状态
+						71 container
+							72 text 配置已保存，尚未检查
+						73 container 配置 / 秘密版本
+							74 text 配置 / 秘密版本
+						75 container
+							76 text 1  /  1  ·  秘密已配置
+						77 container 目标状态
+							78 text 目标状态
+						79 text 计划新建服务，尚未创建
+						80 container 目标实例
+							81 text 目标实例
+						82 text om-p1-isolated
+						83 container 目标服务
+							84 text 目标服务
+						85 container
+							86 text AtlasM31_S1_20261025_R01  ·  AtlasM31_S1_20261025_R01
+					87 container
+						88 heading 源连接配置, Value: 2
+							89 text 源连接配置
+						90 definition list
+							91 container MySQL 主机与端口
+								92 text MySQL 主机与端口
+							93 container
+								94 text 127.0.0.1 : 3307
+							95 container 数据库范围
+								96 text 数据库范围
+							97 text atlas_m31_s1_20261025_r01
+							98 container 源账号
+								99 text 源账号
+							100 text m31_s1_20261025_r01_ro
+							101 container TLS
+								102 text TLS
+							103 text REQUIRED
+							104 container 执行节点
+								105 text 执行节点
+							106 container
+								107 text atlas-local-worker-14985  · 仅已配置，未验证
+						108 text Atlas 源参数独立保存；复用原生服务不读取或覆盖其连接秘密。本页没有密码回显、原生令牌或秘密文件路径。
+					109 button 编辑接入配置
+					110 button 替换秘密
+					111 button 设为本项目元数据接入连接
+					112 button 查看禁用影响
+					113 container 连接与权限诊断
+						114 heading 连接与权限诊断, Value: 2, ID: metadata-diagnostic-heading
+							115 text 连接与权限诊断
+						116 button 运行诊断
+						117 text 诊断使用的 OM 身份
+						118 container
+							149 text 账号 104 · 104 · 配置 v6
+							120 combo box (collapsed) Description: 诊断使用的 OM 身份, Secondary Actions: Expand
+							121 image down
+						123 text 尚无已读取的诊断结果；保存配置不代表网络、TLS 或权限通过。
+						124 text 仅检查网络、身份和元数据可见范围；未读取业务行，未创建或登记 OM 来源。诊断不授予建模写权。
+					125 container 发现元数据与精确选表
+						126 heading 发现元数据与精确选表, Value: 2
+							127 text 发现元数据与精确选表
+						128 button 重新扫描元数据
+						129 text 仅从批准的执行节点读取当前账号可见的表、列与约束；不会读取业务行，也不会创建或登记OM对象。
+						150 container
+							151 button (expanded) 核对预期表名单（可选）, Secondary Actions: Collapse
+								152 text 核对预期表名单（可选）
+							153 text 预期表名单
+							154 text entry area (settable) 预期表名单, Value: atlas_m31_s1_20261025_r01.m31_expected_absent
+							155 text 仅用于报告当前可见范围的缺项，不扩大数据库权限、不自动补选。
+						133 container
+							134 text 元数据快照当前有效
+						319 text 服务端已保存精确选择，共8表；尚未生成登记计划。
+						135 container 本地未受理历史
+							136 button (collapsed) 原请求未受理（本地核对事实）, Secondary Actions: Expand
+								137 text 原请求未受理（本地核对事实）
+						158 button 读取原扫描
+						159 text 同一编号与操作键；此动作不重新扫描源数据库。
+						163 container
+							164 button (expanded) 扫描记录与版本, Secondary Actions: Collapse
+								165 text 扫描记录与版本
+							166 definition list
+								167 container 扫描编号
+									168 text 扫描编号
+								169 text 66a1ea11-12b9-4eaa-a0a0-b6be6f899316
+								170 container 原操作键
+									171 text 原操作键
+								172 text 885328f3-1c44-4c1d-b01f-7ae4d9fc3716
+								173 container 接入 / 秘密版本
+									174 text 接入 / 秘密版本
+								175 container
+									176 text 1  /  1
+								177 container 完成 / 到期
+									178 text 完成 / 到期
+								179 container
+									180 text 2026-10-25T15:03:22.766Z  /  2026-10-25T15:18:22.889660Z
+						181 container
+							182 text 账号可发现范围： 28 表 /  254 列。只包含本接入配置的数据库，不证明全部物理元数据可见。
+						183 content list
+							184 container
+								185 AXListMarker • 
+								186 text atlas_m31_s1_20261025_r01  ·  当前账号可见  ·  28 表 /  254 列
+						187 heading 预期名单缺项, Value: 3
+							188 text 预期名单缺项
+						189 text 以下名称来自填写的预期名单，未在本次账号可见范围发现；不把缺项当不存在。
+						190 content list
+							191 container
+								192 AXListMarker • 
+								193 text atlas_m31_s1_20261025_r01.m31_expected_absent
+						194 text 搜索可见表
+						195 text field (settable) 搜索可见表, Value: fin_
+						196 text 搜索只筛选本次快照，已选集合跨页保留。选择“全部匹配”时由服务端展开精确名单。
+						197 container
+							198 text 匹配7表  ·  已选8表
+						199 button 选择本页
+						200 button 选择全部匹配 7 表
+						201 button 清除选择
+						207 container 发现的元数据表
+							208 table
+								209 row
+									210 cell
+										211 text 选择
+									212 cell
+										213 text 数据库与表
+									214 cell
+										215 text 说明
+									216 cell
+										217 text 列
+									218 cell
+										219 text PK / UNIQUE / FK
+									220 cell
+										221 text CHECK
+								222 row
+									223 cell
+										224 checkbox (settable, integer) Description: 选择 atlas_m31_s1_20261025_r01.fin_bank_account, Value: 1
+									225 cell
+										226 button atlas_m31_s1_20261025_r01.fin_bank_account
+									227 cell
+										228 text 模拟银行流水的账户主体核定；账户均为MOCK令牌
+									229 cell
+										230 text 8
+									231 cell
+										232 text 1  /  1  /  0
+									233 cell
+										234 text 0
+								235 row
+									236 cell
+										237 checkbox (settable, integer) Description: 选择 atlas_m31_s1_20261025_r01.fin_customer, Value: 1
+									238 cell
+										239 button atlas_m31_s1_20261025_r01.fin_customer
+									240 cell
+										241 text 财务客户辅助核算档案，编号与CRM/ERP不同
+									242 cell
+										243 text 7
+									244 cell
+										245 text 1  /  2  /  0
+									246 cell
+										247 text 0
+								248 row
+									249 cell
+										250 checkbox (settable, integer) Description: 选择 atlas_m31_s1_20261025_r01.fin_invoice, Value: 1
+									251 cell
+										252 button atlas_m31_s1_20261025_r01.fin_invoice
+									253 cell
+										254 text 财务发票原件；VOID作废单保留但不计入有效金额
+									255 cell
+										256 text 14
+									257 cell
+										258 text 1  /  1  /  1
+									259 cell
+										260 text 3
+										261 text 不支持登记
+								262 row
+									263 cell
+										264 checkbox (settable, integer) Description: 选择 atlas_m31_s1_20261025_r01.fin_invoice_line, Value: 1
+									265 cell
+										266 button atlas_m31_s1_20261025_r01.fin_invoice_line
+									267 cell
+										268 text 发票产品行；通过独立分配记录对应一个或多个ERP订单行
+									269 cell
+										270 text 10
+									271 cell
+										272 text 1  /  1  /  1
+									273 cell
+										274 text 2
+										275 text 不支持登记
+								276 row
+									277 cell
+										278 checkbox (settable, integer) Description: 选择 atlas_m31_s1_20261025_r01.fin_invoice_order_allocation, Value: 1
+									279 cell
+										280 button atlas_m31_s1_20261025_r01.fin_invoice_order_allocation
+									281 cell
+										282 text 发票行↔ERP订单行多对多分配，防止JOIN重复计数
+									283 cell
+										284 text 7
+									285 cell
+										286 text 1  /  1  /  1
+									287 cell
+										288 text 2
+										289 text 不支持登记
+								290 row
+									291 cell
+										292 checkbox (settable, integer) Description: 选择 atlas_m31_s1_20261025_r01.fin_receipt, Value: 1
+									293 cell
+										294 button atlas_m31_s1_20261025_r01.fin_receipt
+									295 cell
+										296 text 模拟银行入账回款，付款主体来自账户核定而非复制合同客户
+									297 cell
+										298 text 13
+									299 cell
+										300 text 1  /  1  /  2
+									301 cell
+										302 text 2
+										303 text 不支持登记
+								304 row
+									305 cell
+										306 checkbox (settable, integer) Description: 选择 atlas_m31_s1_20261025_r01.fin_receipt_allocation, Value: 1
+									307 cell
+										308 button atlas_m31_s1_20261025_r01.fin_receipt_allocation
+									309 cell
+										310 text 回款↔发票多对多核销；未核销预收款不强行配票
+									311 cell
+										312 text 7
+									313 cell
+										314 text 1  /  1  /  2
+									315 cell
+										316 text 1
+										317 text 不支持登记
+						318 text 1–7  · 每页 20 表
+						202 button (disabled) 上一页
+						203 button (disabled) 下一页
+						204 button 读取当前集合
+						205 button 核对所选表
+							320 text 核对所选表
+						206 text 选表只保存Atlas精确名单；尚未生成登记计划或登记元数据。
+						321 container 所选表精确集合
+							322 heading 所选表精确集合 · 8表, Value: 3
+								323 text 所选表精确集合 · 
+								324 text 8
+								325 text 表
+							326 button 关闭所选集合
+							327 container
+								328 text 集合版本 2  · 结构指纹 sha256:d0c218b147804d332f5ddf9c396405aa370b563c22f65ddf2f81bfcbd027d75c
+							329 content list 全部所选表
+								330 container
+									331 AXListMarker 1. 
+									332 text atlas_m31_s1_20261025_r01.fin_bank_account
+								333 container
+									334 AXListMarker 2. 
+									335 text atlas_m31_s1_20261025_r01.fin_customer
+								336 container
+									337 AXListMarker 3. 
+									338 text atlas_m31_s1_20261025_r01.fin_invoice
+								339 container
+									340 AXListMarker 4. 
+									341 text atlas_m31_s1_20261025_r01.fin_invoice_line
+								342 container
+									343 AXListMarker 5. 
+									344 text atlas_m31_s1_20261025_r01.fin_invoice_order_allocation
+								345 container
+									346 AXListMarker 6. 
+									347 text atlas_m31_s1_20261025_r01.fin_receipt
+								348 container
+									349 AXListMarker 7. 
+									350 text atlas_m31_s1_20261025_r01.fin_receipt_allocation
+								351 container
+									352 AXListMarker 8. 
+									353 text atlas_m31_s1_20261025_r01.reg_equity_holding
+							354 heading 未选外键依赖, Value: 4
+								355 text 未选外键依赖
+							356 content list
+								357 container
+									358 AXListMarker • 
+									359 text atlas_m31_s1_20261025_r01.reg_equity_holding  ·  fk_reg_equity_holding_1  →  atlas_m31_s1_20261025_r01.reg_legal_entity 。未自动补选。
+								360 container
+									361 AXListMarker • 
+									362 text atlas_m31_s1_20261025_r01.reg_equity_holding  ·  fk_reg_equity_holding_2  →  atlas_m31_s1_20261025_r01.reg_legal_entity 。未自动补选。
+							363 container
+								364 text 预期名单仍有 1 项未发现；不自动补选或登记。
+					138 container project-configuration
+						139 heading 本项目元数据接入配置, Value: 2
+							140 text 本项目元数据接入配置
+						141 container
+							142 text M21 本地配置验收 20261025 R01 KEEP  · 配置版本  1  · 接入版本  3
+						143 text 选择的接入已禁用，不能新使用。
+						144 text 此配置独立于项目业务来源绑定，不会启用业务取数或发布。
+
+The focused UI element is 322 heading 所选表精确集合 · 8表, Value: 3

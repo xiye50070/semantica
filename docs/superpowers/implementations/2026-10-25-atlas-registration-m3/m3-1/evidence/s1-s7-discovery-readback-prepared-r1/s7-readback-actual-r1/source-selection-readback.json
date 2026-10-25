@@ -1,0 +1,311 @@
+{
+  "kind" : "M31_S1_S7_REAL_DISCOVERY_SELECTION_PERSISTENCE_READBACK",
+  "state" : "ORIGINAL_SOURCE_AND_V1_V2_VERIFIED_FROM_APPLICATION_STORE",
+  "discovery" : {
+    "discoveryId" : "cd405b8a-1b9d-41d8-89f8-9ba9c924ed98",
+    "operationKey" : "97e6152d-2e54-4f91-8e24-3726166242ef",
+    "tenantId" : "1",
+    "spaceId" : "1447855d-bf9e-41d7-a9b3-ed641290d6a7",
+    "projectId" : "3f10ce21-57fe-4efe-91c6-c9a3e4cf04f6",
+    "actorId" : "1",
+    "state" : "SUCCEEDED",
+    "phase" : "FINISHED",
+    "reasonCode" : null,
+    "CREATED_AT" : "2026-10-25T15:12:01.723276Z",
+    "DEADLINE_AT" : "2026-10-25T15:22:01.723276Z",
+    "COMPLETED_AT" : "2026-10-25T15:12:02.085Z",
+    "EXPIRES_AT" : "2026-10-25T15:27:02.142638Z"
+  },
+  "sourceSnapshot" : {
+    "schemaVersion" : 1,
+    "coverage" : "CONFIGURED_DATABASES_VISIBLE_TO_CURRENT_ACCOUNT_ONLY",
+    "allPhysicalMetadataVerified" : false,
+    "databases" : [ {
+      "database" : "atlas_m31_s7_20261025_r01",
+      "visibility" : "VISIBLE",
+      "tables" : [ {
+        "name" : "customer",
+        "tableType" : "BASE TABLE",
+        "comment" : "",
+        "columns" : [ {
+          "name" : "customer_id",
+          "ordinal" : 1,
+          "dataType" : "varchar",
+          "columnType" : "varchar(64)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : "64",
+          "numericPrecision" : null,
+          "numericScale" : null,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "name",
+          "ordinal" : 2,
+          "dataType" : "varchar",
+          "columnType" : "varchar(255)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : "255",
+          "numericPrecision" : null,
+          "numericScale" : null,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "active",
+          "ordinal" : 3,
+          "dataType" : "tinyint",
+          "columnType" : "tinyint(1)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : null,
+          "numericPrecision" : 3,
+          "numericScale" : 0,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "credit_limit",
+          "ordinal" : 4,
+          "dataType" : "decimal",
+          "columnType" : "decimal(20,2)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : null,
+          "numericPrecision" : 20,
+          "numericScale" : 2,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "note",
+          "ordinal" : 5,
+          "dataType" : "text",
+          "columnType" : "text",
+          "nullable" : true,
+          "defaultValue" : null,
+          "characterMaximumLength" : "65535",
+          "numericPrecision" : null,
+          "numericScale" : null,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        } ],
+        "constraints" : [ {
+          "name" : "PRIMARY",
+          "type" : "PRIMARY KEY",
+          "columns" : [ "customer_id" ],
+          "referencedDatabase" : null,
+          "referencedTable" : null,
+          "referencedColumns" : [ ],
+          "referenceVisibility" : null,
+          "checkClause" : null,
+          "registrationSupport" : "SUPPORTED"
+        } ]
+      }, {
+        "name" : "payment",
+        "tableType" : "BASE TABLE",
+        "comment" : "",
+        "columns" : [ {
+          "name" : "payment_id",
+          "ordinal" : 1,
+          "dataType" : "varchar",
+          "columnType" : "varchar(64)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : "64",
+          "numericPrecision" : null,
+          "numericScale" : null,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "order_id",
+          "ordinal" : 2,
+          "dataType" : "varchar",
+          "columnType" : "varchar(64)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : "64",
+          "numericPrecision" : null,
+          "numericScale" : null,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "amount",
+          "ordinal" : 3,
+          "dataType" : "decimal",
+          "columnType" : "decimal(20,2)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : null,
+          "numericPrecision" : 20,
+          "numericScale" : 2,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "reconciled",
+          "ordinal" : 4,
+          "dataType" : "tinyint",
+          "columnType" : "tinyint(1)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : null,
+          "numericPrecision" : 3,
+          "numericScale" : 0,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        } ],
+        "constraints" : [ {
+          "name" : "fk_payment_sales_order",
+          "type" : "FOREIGN KEY",
+          "columns" : [ "order_id" ],
+          "referencedDatabase" : "atlas_m31_s7_20261025_r01",
+          "referencedTable" : "sales_order",
+          "referencedColumns" : [ "order_id" ],
+          "referenceVisibility" : "IN_SCOPE",
+          "checkClause" : null,
+          "registrationSupport" : "SUPPORTED"
+        }, {
+          "name" : "PRIMARY",
+          "type" : "PRIMARY KEY",
+          "columns" : [ "payment_id" ],
+          "referencedDatabase" : null,
+          "referencedTable" : null,
+          "referencedColumns" : [ ],
+          "referenceVisibility" : null,
+          "checkClause" : null,
+          "registrationSupport" : "SUPPORTED"
+        } ]
+      }, {
+        "name" : "sales_order",
+        "tableType" : "BASE TABLE",
+        "comment" : "",
+        "columns" : [ {
+          "name" : "order_id",
+          "ordinal" : 1,
+          "dataType" : "varchar",
+          "columnType" : "varchar(64)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : "64",
+          "numericPrecision" : null,
+          "numericScale" : null,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "customer_id",
+          "ordinal" : 2,
+          "dataType" : "varchar",
+          "columnType" : "varchar(64)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : "64",
+          "numericPrecision" : null,
+          "numericScale" : null,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "amount",
+          "ordinal" : 3,
+          "dataType" : "decimal",
+          "columnType" : "decimal(20,2)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : null,
+          "numericPrecision" : 20,
+          "numericScale" : 2,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        }, {
+          "name" : "confirmed",
+          "ordinal" : 4,
+          "dataType" : "tinyint",
+          "columnType" : "tinyint(1)",
+          "nullable" : false,
+          "defaultValue" : null,
+          "characterMaximumLength" : null,
+          "numericPrecision" : 3,
+          "numericScale" : 0,
+          "datetimePrecision" : null,
+          "extra" : "",
+          "comment" : ""
+        } ],
+        "constraints" : [ {
+          "name" : "fk_sales_order_customer",
+          "type" : "FOREIGN KEY",
+          "columns" : [ "customer_id" ],
+          "referencedDatabase" : "atlas_m31_s7_20261025_r01",
+          "referencedTable" : "customer",
+          "referencedColumns" : [ "customer_id" ],
+          "referenceVisibility" : "IN_SCOPE",
+          "checkClause" : null,
+          "registrationSupport" : "SUPPORTED"
+        }, {
+          "name" : "PRIMARY",
+          "type" : "PRIMARY KEY",
+          "columns" : [ "order_id" ],
+          "referencedDatabase" : null,
+          "referencedTable" : null,
+          "referencedColumns" : [ ],
+          "referenceVisibility" : null,
+          "checkClause" : null,
+          "registrationSupport" : "SUPPORTED"
+        } ]
+      } ]
+    } ],
+    "structureHash" : "sha256:b734e7d3a22014f7ee2586e2fdd27cc705bed5817f007597cde19f754af2860c",
+    "visibleTableCount" : 3,
+    "visibleColumnCount" : 13
+  },
+  "sourceSnapshotJSON" : "{\"allPhysicalMetadataVerified\":false,\"coverage\":\"CONFIGURED_DATABASES_VISIBLE_TO_CURRENT_ACCOUNT_ONLY\",\"databases\":[{\"database\":\"atlas_m31_s7_20261025_r01\",\"tables\":[{\"columns\":[{\"characterMaximumLength\":\"64\",\"columnType\":\"varchar(64)\",\"comment\":\"\",\"dataType\":\"varchar\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"customer_id\",\"nullable\":false,\"numericPrecision\":null,\"numericScale\":null,\"ordinal\":1},{\"characterMaximumLength\":\"255\",\"columnType\":\"varchar(255)\",\"comment\":\"\",\"dataType\":\"varchar\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"name\",\"nullable\":false,\"numericPrecision\":null,\"numericScale\":null,\"ordinal\":2},{\"characterMaximumLength\":null,\"columnType\":\"tinyint(1)\",\"comment\":\"\",\"dataType\":\"tinyint\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"active\",\"nullable\":false,\"numericPrecision\":3,\"numericScale\":0,\"ordinal\":3},{\"characterMaximumLength\":null,\"columnType\":\"decimal(20,2)\",\"comment\":\"\",\"dataType\":\"decimal\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"credit_limit\",\"nullable\":false,\"numericPrecision\":20,\"numericScale\":2,\"ordinal\":4},{\"characterMaximumLength\":\"65535\",\"columnType\":\"text\",\"comment\":\"\",\"dataType\":\"text\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"note\",\"nullable\":true,\"numericPrecision\":null,\"numericScale\":null,\"ordinal\":5}],\"comment\":\"\",\"constraints\":[{\"checkClause\":null,\"columns\":[\"customer_id\"],\"name\":\"PRIMARY\",\"referenceVisibility\":null,\"referencedColumns\":[],\"referencedDatabase\":null,\"referencedTable\":null,\"registrationSupport\":\"SUPPORTED\",\"type\":\"PRIMARY KEY\"}],\"name\":\"customer\",\"tableType\":\"BASE TABLE\"},{\"columns\":[{\"characterMaximumLength\":\"64\",\"columnType\":\"varchar(64)\",\"comment\":\"\",\"dataType\":\"varchar\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"payment_id\",\"nullable\":false,\"numericPrecision\":null,\"numericScale\":null,\"ordinal\":1},{\"characterMaximumLength\":\"64\",\"columnType\":\"varchar(64)\",\"comment\":\"\",\"dataType\":\"varchar\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"order_id\",\"nullable\":false,\"numericPrecision\":null,\"numericScale\":null,\"ordinal\":2},{\"characterMaximumLength\":null,\"columnType\":\"decimal(20,2)\",\"comment\":\"\",\"dataType\":\"decimal\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"amount\",\"nullable\":false,\"numericPrecision\":20,\"numericScale\":2,\"ordinal\":3},{\"characterMaximumLength\":null,\"columnType\":\"tinyint(1)\",\"comment\":\"\",\"dataType\":\"tinyint\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"reconciled\",\"nullable\":false,\"numericPrecision\":3,\"numericScale\":0,\"ordinal\":4}],\"comment\":\"\",\"constraints\":[{\"checkClause\":null,\"columns\":[\"order_id\"],\"name\":\"fk_payment_sales_order\",\"referenceVisibility\":\"IN_SCOPE\",\"referencedColumns\":[\"order_id\"],\"referencedDatabase\":\"atlas_m31_s7_20261025_r01\",\"referencedTable\":\"sales_order\",\"registrationSupport\":\"SUPPORTED\",\"type\":\"FOREIGN KEY\"},{\"checkClause\":null,\"columns\":[\"payment_id\"],\"name\":\"PRIMARY\",\"referenceVisibility\":null,\"referencedColumns\":[],\"referencedDatabase\":null,\"referencedTable\":null,\"registrationSupport\":\"SUPPORTED\",\"type\":\"PRIMARY KEY\"}],\"name\":\"payment\",\"tableType\":\"BASE TABLE\"},{\"columns\":[{\"characterMaximumLength\":\"64\",\"columnType\":\"varchar(64)\",\"comment\":\"\",\"dataType\":\"varchar\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"order_id\",\"nullable\":false,\"numericPrecision\":null,\"numericScale\":null,\"ordinal\":1},{\"characterMaximumLength\":\"64\",\"columnType\":\"varchar(64)\",\"comment\":\"\",\"dataType\":\"varchar\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"customer_id\",\"nullable\":false,\"numericPrecision\":null,\"numericScale\":null,\"ordinal\":2},{\"characterMaximumLength\":null,\"columnType\":\"decimal(20,2)\",\"comment\":\"\",\"dataType\":\"decimal\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"amount\",\"nullable\":false,\"numericPrecision\":20,\"numericScale\":2,\"ordinal\":3},{\"characterMaximumLength\":null,\"columnType\":\"tinyint(1)\",\"comment\":\"\",\"dataType\":\"tinyint\",\"datetimePrecision\":null,\"defaultValue\":null,\"extra\":\"\",\"name\":\"confirmed\",\"nullable\":false,\"numericPrecision\":3,\"numericScale\":0,\"ordinal\":4}],\"comment\":\"\",\"constraints\":[{\"checkClause\":null,\"columns\":[\"customer_id\"],\"name\":\"fk_sales_order_customer\",\"referenceVisibility\":\"IN_SCOPE\",\"referencedColumns\":[\"customer_id\"],\"referencedDatabase\":\"atlas_m31_s7_20261025_r01\",\"referencedTable\":\"customer\",\"registrationSupport\":\"SUPPORTED\",\"type\":\"FOREIGN KEY\"},{\"checkClause\":null,\"columns\":[\"order_id\"],\"name\":\"PRIMARY\",\"referenceVisibility\":null,\"referencedColumns\":[],\"referencedDatabase\":null,\"referencedTable\":null,\"registrationSupport\":\"SUPPORTED\",\"type\":\"PRIMARY KEY\"}],\"name\":\"sales_order\",\"tableType\":\"BASE TABLE\"}],\"visibility\":\"VISIBLE\"}],\"schemaVersion\":1,\"structureHash\":\"sha256:b734e7d3a22014f7ee2586e2fdd27cc705bed5817f007597cde19f754af2860c\",\"visibleColumnCount\":13,\"visibleTableCount\":3}",
+  "selections" : [ {
+    "createdAt" : "2026-10-25T15:12:17.965038Z",
+    "selectionVersion" : 1,
+    "tablesJSON" : "[{\"database\":\"atlas_m31_s7_20261025_r01\",\"table\":\"sales_order\"}]",
+    "tables" : [ {
+      "database" : "atlas_m31_s7_20261025_r01",
+      "table" : "sales_order"
+    } ]
+  }, {
+    "createdAt" : "2026-10-25T15:12:39.317713Z",
+    "selectionVersion" : 2,
+    "tablesJSON" : "[{\"database\":\"atlas_m31_s7_20261025_r01\",\"table\":\"payment\"},{\"database\":\"atlas_m31_s7_20261025_r01\",\"table\":\"sales_order\"}]",
+    "tables" : [ {
+      "database" : "atlas_m31_s7_20261025_r01",
+      "table" : "payment"
+    }, {
+      "database" : "atlas_m31_s7_20261025_r01",
+      "table" : "sales_order"
+    } ]
+  } ],
+  "structureHashRecomputed" : true,
+  "sourceVisibleTables" : 3,
+  "sourceVisibleColumns" : 13,
+  "sample" : "S7",
+  "connectionIdExpectedFromBrowser" : "90e0dc65-fd95-4b11-b546-36f222059b85",
+  "connectionAssociationBasis" : "BROWSER_REQUEST_AND_RECEIPT_NOT_CAPTURE_READ",
+  "modelingAccountIdExpectedFromBrowser" : 104,
+  "omConfigVersionExpectedFromBrowser" : 6,
+  "scopeMeaning" : "One fixed S1 or S7 discovery snapshot and exactly two selection revisions; no current authorization or business-row assertion",
+  "configurationCurrentnessEvaluated" : false,
+  "timeExpiredAtRead" : false,
+  "queryStartedAt" : "2026-10-25T15:12:59.308947Z",
+  "queryCompletedAt" : "2026-10-25T15:12:59.363967Z",
+  "explicitSELECTs" : 1,
+  "DDL" : 0,
+  "DML" : 0,
+  "NativeHTTP" : 0,
+  "sourceSQL" : 0,
+  "businessRowsRead" : false,
+  "captureJSONRead" : false,
+  "automaticRetry" : false
+}

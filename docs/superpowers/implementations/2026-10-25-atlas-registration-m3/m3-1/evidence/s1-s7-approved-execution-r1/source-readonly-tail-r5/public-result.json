@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "status": "SOURCE_PREPARATION_COMPLETE_READONLY_TAIL",
+  "explicitReads": 23,
+  "connectionsOpened": 3,
+  "writesAcked": 0,
+  "readerPasswordGenerations": 0,
+  "cycleExplicitReads": 48,
+  "cycleConnectionsOpened": 4,
+  "cycleWritesAcked": 66,
+  "cumulativeExplicitReads": 55,
+  "cumulativeConnectionsOpened": 6,
+  "cumulativeWritesAcked": 66,
+  "protectedOldMetadataAndGrantsEqual": true,
+  "readersVerified": 2,
+  "unknown": false,
+  "driverInitializationSql": 0,
+  "packetSqlDispatches": 23,
+  "schemas": [
+    {
+      "tableCount": 28,
+      "columnCount": 254,
+      "primaryKeyCount": 28,
+      "foreignKeyCount": 26,
+      "uniqueCount": 23,
+      "checkCount": 25,
+      "database": "atlas_m31_s1_20261025_r01",
+      "readerUsername": "m31_s1_20261025_r01_ro",
+      "readerHost": "172.16.239.1",
+      "readerPrivatePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m3-20261025/private/s1-source-reader.private.json"
+    },
+    {
+      "tableCount": 3,
+      "columnCount": 13,
+      "primaryKeyCount": 3,
+      "foreignKeyCount": 2,
+      "uniqueCount": 0,
+      "checkCount": 0,
+      "database": "atlas_m31_s7_20261025_r01",
+      "readerUsername": "m31_s7_20261025_r01_ro",
+      "readerHost": "172.16.239.1",
+      "readerPrivatePath": "/Users/wangmingzhang/atlas-cloud/.local/ontology-p1/atlas-registration-m3-20261025/private/s7-source-reader.private.json"
+    }
+  ],
+  "windowId": "b759cc6c-4391-44c1-99f5-861f9b2b2053",
+  "startedAt": "2026-10-25T14:32:59.044639+00:00",
+  "deadlineAt": "2026-10-25T15:17:59.044639+00:00",
+  "completedAt": "2026-10-25T14:49:19.943399+00:00",
+  "sourceCreationAttemptRef": {
+    "publicResult": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r3/public-result.json",
+      "sha256": "d7fe6f680607aa56508da1a321d2bf393a82969e5fd3411e1ced17fef1c7aca1",
+      "bytes": 2294
+    },
+    "ledger": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r3/ledger.jsonl",
+      "sha256": "a2ef12a1d0a779441856adf5c560c70179c4252acb78457db01283c049040328",
+      "bytes": 80639
+    }
+  },
+  "priorAttemptRef": {
+    "publicResult": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r1/public-result.json",
+      "sha256": "8c1ba91c339ad01003d69697f55b6228e402b2f8d6ee37b5537aa8b74727fb8c",
+      "bytes": 257
+    },
+    "ledger": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r1/ledger.jsonl",
+      "sha256": "d08f9e915a9726490953922dc8d9f4dbb92d2812e86e5a0dcaf6bb11fb821efc",
+      "bytes": 2130
+    },
+    "status": "SOURCE_PREPARATION_UNKNOWN",
+    "explicitReadsReserved": 1,
+    "connectionsReserved": 1,
+    "writesAcked": 0,
+    "writesReserved": 0,
+    "readerPasswordGenerationReached": false,
+    "readUnknownPreserved": true
+  },
+  "additionalPriorAttemptRef": {
+    "publicResult": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r2/public-result.json",
+      "sha256": "d0a877206caafec01422e29802ede6222e95413823b12bc666bb5225d576dd20",
+      "bytes": 1342
+    },
+    "ledger": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r2/ledger.jsonl",
+      "sha256": "02e937a76f75d2d7d3db2c167bed4eca13ef4c85fb06dd0e0c8b53bc0a241d64",
+      "bytes": 6866
+    },
+    "status": "SOURCE_PREPARATION_UNKNOWN",
+    "explicitReadsReserved": 6,
+    "connectionsReserved": 1,
+    "writesAcked": 0,
+    "writesReserved": 0,
+    "readerPasswordGenerationReached": false,
+    "readUnknownPreserved": true
+  },
+  "priorReadUnknownPreserved": true,
+  "additionalReadUnknownPreserved": true,
+  "readonlyTailApprovalRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/authorization-source-readonly-tail-r5.json",
+    "sha256": "b57f02c498ea822bc3158d4a1524cfc83ab2722f9759cf90370c62a6fc807c66",
+    "bytes": 5815
+  },
+  "readonlyTailCardRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-preparation/check-readonly-tail-and-adoption-card-r5.md",
+    "sha256": "7c7b1a994864d0c30f6cd28e8cc6df1c72a913f49a14382e6be6bfa27cd1de4d",
+    "bytes": 4287
+  },
+  "globalWindowRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/global-window.actual-r3.json",
+    "sha256": "352d41c8082945491c9fc23396ce1d2bca9793d681f471d4056c7b20d2850ee5",
+    "bytes": 160
+  },
+  "originalWindowRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/global-window.actual-r2.json",
+    "sha256": "d2cd644dc30235cc5ba5a57fbe413cc78a142bb4d58afe888fe82df249ee740f",
+    "bytes": 160
+  },
+  "priorGlobalWindowRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/global-window.actual-r1.json",
+    "sha256": "6eeb81bfe5654bfb4ef3696d20a95cf78862e334df51394879d84c76923a2f26",
+    "bytes": 160
+  },
+  "authorizationRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/authorization-root-readback.json",
+    "sha256": "dfc7c641a7499c68df8f5a75ff28cbdeaa4aed579c9ae42697395c9d8b96df61",
+    "bytes": 859
+  },
+  "executionCardRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-preparation-proposal-r1/execution-card.md",
+    "sha256": "7e74a2dff7b95d78a0a90b1a9168e5943cdeb00a14e2c2eb74559a17a6d6f2c1",
+    "bytes": 13887
+  },
+  "grantGuardContinuationApprovalRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/authorization-source-grant-continuation-r4.json",
+    "sha256": "235d1cb006aa625dfff323bcbc58fa9852c05c5155268c0793534017e43a5411",
+    "bytes": 4608
+  },
+  "grantGuardContinuationCardRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-preparation/grant-guard-continuation-card-r4.md",
+    "sha256": "bc15d8385c97a99a0c8e3a856216e46476c91ceeb645980a42758e3a6504ac7f",
+    "bytes": 3845
+  },
+  "timeSupplementApprovalRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/authorization-source-window-r3.json",
+    "sha256": "4dd624d079fe41b5618c9d2ba713f3c3e507254eac72ad2a4f6d87833bf81967",
+    "bytes": 3016
+  },
+  "timeSupplementCardRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-preparation/continuation-window-card-r3.md",
+    "sha256": "834c39a308264e4aaba7f3f5db00a5e00c64b48b929d25bf0d22a1b80d36dc6b",
+    "bytes": 3525
+  },
+  "supplementApprovalRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/authorization-source-continuation-r2-expired.json",
+    "sha256": "abe3a9e035eed673170ce9f91c518cb1ed299f77be9a35b042ac9e20506d75a7",
+    "bytes": 1724
+  },
+  "supplementCardRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-preparation/continuation-card-r2.md",
+    "sha256": "6db54e109cef9a063445d6eaba4ac8126c354e38526d678a822e609e4ecd1024",
+    "bytes": 3128
+  },
+  "statementManifestRef": {
+    "S1": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-preparation-proposal-r1/s1/revision-r2-tls-and-sqlmode/sql-statement-manifest.json",
+    "S7": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-preparation-proposal-r1/s7/revision-r3-trimmed-statement-hash/sql-manifest.pending.json"
+  },
+  "readQueryPlanRef": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-preparation/read-only-query-plan-r2.json",
+  "sourceBusinessRowsReadOrWritten": 0,
+  "noAutomaticRetryOrRollback": true,
+  "baselineBindingBoundary": "Q01-Q19_OWNED_ORIGINAL_AUDIT_PATH_STABLE_FD_NO_ORIGINAL_ACK_RAW_HASH;Q20-Q25_EXACT_PUBLIC_CAPTURE_BYTES",
+  "protectedOldMetadataBoundary": "Q08-Q13_EQUALS_Q14-Q19_AT_CREATION_CUT;Q26-Q28_CURRENT_GRANTS_PRINCIPALS_ONLY",
+  "tlsEvidenceBoundary": "REQUIRED_TLS12_OR_13_CIPHER_NO_CA_OR_HOSTNAME_AUTHENTICATION_CLAIM",
+  "sqlEvidenceBoundary": "GUARDED_DRIVER_COM_QUERY_DISPATCHES_NOT_INDEPENDENT_WIRE_CAPTURE",
+  "ledgerRef": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-readonly-tail-r5/ledger.jsonl",
+  "physicalStructuresRef": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-readonly-tail-r5/physical-structures.safe.json",
+    "sha256": "c59264a929b6be978d008bc07cb2cfd3fddd530f6e618a07e9b7739bc72047c6",
+    "bytes": 253227
+  }
+}

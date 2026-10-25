@@ -1,0 +1,189 @@
+{
+  "status": "READONLY_SAME_CUT_RESULTS_VERIFIED_NO_NEW_RUNTIME",
+  "scope": "existing Main actual receipts/specs/full available AX files only; no new SQL/network/private/product writes",
+  "results": [
+    {
+      "sample": "S1",
+      "discoveryId": "66a1ea11-12b9-4eaa-a0a0-b6be6f899316",
+      "connectionIdBrowserContext": "1dd0d13c-5198-4f7e-bc89-1dcb23cc912f",
+      "structureHash": "sha256:d0c218b147804d332f5ddf9c396405aa370b563c22f65ddf2f81bfcbd027d75c",
+      "tables": 28,
+      "columns": 254,
+      "constraintCounts": {
+        "FOREIGN KEY": 26,
+        "PRIMARY KEY": 28,
+        "UNIQUE": 23,
+        "CHECK": 25
+      },
+      "selection1": [
+        "reg_equity_holding"
+      ],
+      "selection2": [
+        "fin_bank_account",
+        "fin_customer",
+        "fin_invoice",
+        "fin_invoice_line",
+        "fin_invoice_order_allocation",
+        "fin_receipt",
+        "fin_receipt_allocation",
+        "reg_equity_holding"
+      ],
+      "v2UnselectedDependenciesVisible": [
+        {
+          "table": "reg_equity_holding",
+          "constraint": "fk_reg_equity_holding_1",
+          "target": "reg_legal_entity"
+        },
+        {
+          "table": "reg_equity_holding",
+          "constraint": "fk_reg_equity_holding_2",
+          "target": "reg_legal_entity"
+        }
+      ],
+      "DMselects": 1,
+      "DMqueryStartedAt": "2026-10-25T15:12:58.943812Z",
+      "DMqueryCompletedAt": "2026-10-25T15:12:59.044304Z",
+      "BrowserAXAndStoreExactSameIdKeyHashSelections": true,
+      "AtlasActorId": "1",
+      "OMIdentityBrowserOnly": 104,
+      "OMConfigVersionBrowserOnly": 6
+    },
+    {
+      "sample": "S7",
+      "discoveryId": "cd405b8a-1b9d-41d8-89f8-9ba9c924ed98",
+      "connectionIdBrowserContext": "90e0dc65-fd95-4b11-b546-36f222059b85",
+      "structureHash": "sha256:b734e7d3a22014f7ee2586e2fdd27cc705bed5817f007597cde19f754af2860c",
+      "tables": 3,
+      "columns": 13,
+      "constraintCounts": {
+        "PRIMARY KEY": 3,
+        "FOREIGN KEY": 2
+      },
+      "selection1": [
+        "sales_order"
+      ],
+      "selection2": [
+        "payment",
+        "sales_order"
+      ],
+      "v2UnselectedDependenciesVisible": [
+        {
+          "table": "sales_order",
+          "constraint": "fk_sales_order_customer",
+          "target": "customer"
+        }
+      ],
+      "DMselects": 1,
+      "DMqueryStartedAt": "2026-10-25T15:12:59.308947Z",
+      "DMqueryCompletedAt": "2026-10-25T15:12:59.363967Z",
+      "BrowserAXAndStoreExactSameIdKeyHashSelections": true,
+      "AtlasActorId": "1",
+      "OMIdentityBrowserOnly": 104,
+      "OMConfigVersionBrowserOnly": 6
+    }
+  ],
+  "inputs": [
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-discovery-readback-prepared-r1/s1-spec.actual-r1.json",
+      "sha256": "345f3ef1e9bf042006c08f1f9ff98666d8c475a86bb7a1d86044ac461b6834f5",
+      "bytes": 587
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-discovery-readback-prepared-r1/s1-original-execution-r1.json",
+      "sha256": "153bd3a12b7f7409a5b4860686cd6ec0fcef117eaa737102ca5e466e65986afb",
+      "bytes": 1611
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-discovery-readback-prepared-r1/s1-readback-actual-r1/source-selection-readback.json",
+      "sha256": "3b917b7e9164cb248ebd11472e034d0485d0e7539fb67a66c308092c9df30c20",
+      "bytes": 269627
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s1-v1-verification.ax.txt",
+      "sha256": "c711747f441ba093aaa94aff74a1c81455d7b2871409e0c84e1cddfa51773fa8",
+      "bytes": 14580
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s1-v2-eight.ax.txt",
+      "sha256": "b832f21533b78cdc80b76d26944ec4749e00295d8e642b3a8541981086efc252",
+      "bytes": 15127
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-discovery-readback-prepared-r1/s7-spec.actual-r1.json",
+      "sha256": "e3c52858bfc68ec2e27ec509e478ef76fbf3445b28b929405ffc4a6d3b4225d9",
+      "bytes": 416
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-discovery-readback-prepared-r1/s7-original-execution-r1.json",
+      "sha256": "51827d6a7d6b7a7387599171cfda5db23649a30cb28e67de589bf391edc91080",
+      "bytes": 1611
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-discovery-readback-prepared-r1/s7-readback-actual-r1/source-selection-readback.json",
+      "sha256": "817ac82dba48ffb1f34a44282f87196749f6e187267243defa96fbd6df43de30",
+      "bytes": 15961
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s7-v1-child.ax.txt",
+      "sha256": "9a8c80ce427fa0a69801842c3c094ffa5c6a5ef3ae8c2317fa1c2fd33175cb89",
+      "bytes": 10966
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s7-v2-two.ax.txt",
+      "sha256": "2955ffbb7eca690dcdb746915ec863c4315e0a6e9de97b2f6722b4e8f04cf160",
+      "bytes": 10920
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/current104-consumers.ax.txt",
+      "sha256": "e266eb90b631a0b78aafaa4465998775264f869695b808fc229f3365d4deff1e",
+      "bytes": 548
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s1-discovered.ax.txt",
+      "sha256": "8ee350a9660d83f162ee50b7cebdcaf99fb86fdd9b4e5ce8b07af44567aa9098",
+      "bytes": 11350
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s1-first-unaccepted.ax.txt",
+      "sha256": "58848fe01a8fc93dc4a79147aa8f1ee21ab1648a7faa73d532e9027f2f9bf33e",
+      "bytes": 446
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s1-v1-child.ax.txt",
+      "sha256": "a72a41bf9f1b66e9322009b73dfe0e274d8893cc1518043d4bd7491ac63e3efc",
+      "bytes": 13505
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s1-v1-verification.ax.txt",
+      "sha256": "c711747f441ba093aaa94aff74a1c81455d7b2871409e0c84e1cddfa51773fa8",
+      "bytes": 14580
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s1-v2-eight.ax.txt",
+      "sha256": "b832f21533b78cdc80b76d26944ec4749e00295d8e642b3a8541981086efc252",
+      "bytes": 15127
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s7-v1-child.ax.txt",
+      "sha256": "9a8c80ce427fa0a69801842c3c094ffa5c6a5ef3ae8c2317fa1c2fd33175cb89",
+      "bytes": 10966
+    },
+    {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/atlas-real-s1-s7-r5/s7-v2-two.ax.txt",
+      "sha256": "2955ffbb7eca690dcdb746915ec863c4315e0a6e9de97b2f6722b4e8f04cf160",
+      "bytes": 10920
+    }
+  ],
+  "explicitDMSELECTsObserved": 2,
+  "SourceSQLExecutedByThisReview": 0,
+  "SQLExecutedByThisReview": 0,
+  "networkCallsByThisReview": 0,
+  "privateReadsByThisReview": 0,
+  "limits": [
+    "Browser connectionId/OM104/config6 relationship is observed context; no DM capture_json read/currentness qualification.",
+    "Coverage remains current account configured-database visibility; allPhysicalMetadataVerified=false retained.",
+    "Original first unaccepted/no-change AX files preserved; not counted as accepted scans.",
+    "Screenshots present but not pixel-reviewed by this task; no visual geometry claim.",
+    "No OM registration, M3.2 plan, business-row graph/query or user final acceptance asserted."
+  ]
+}

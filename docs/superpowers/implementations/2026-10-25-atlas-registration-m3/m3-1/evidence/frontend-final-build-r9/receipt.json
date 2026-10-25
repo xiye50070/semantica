@@ -1,0 +1,75 @@
+{
+  "kind": "M31_FINAL_INSTALLED_R9_NORMAL_FULL_FRONTEND_BUILD_ISOLATED_STAGE",
+  "startedAt": "2026-10-25T03:57:10.449920+00:00",
+  "completedAt": "2026-10-25T03:57:34.771055+00:00",
+  "steps": [
+    {
+      "name": "production-gate",
+      "argv": [
+        "node",
+        "scripts/check-build-mode.mjs"
+      ],
+      "startedAt": "2026-10-25T03:57:10.449920+00:00",
+      "completedAt": "2026-10-25T03:57:10.602235+00:00",
+      "exitCode": 0
+    },
+    {
+      "name": "full-tsc",
+      "argv": [
+        "node",
+        "node_modules/typescript/bin/tsc",
+        "--noEmit",
+        "--pretty",
+        "false"
+      ],
+      "startedAt": "2026-10-25T03:57:10.602244+00:00",
+      "completedAt": "2026-10-25T03:57:22.868891+00:00",
+      "exitCode": 0
+    },
+    {
+      "name": "vite",
+      "argv": [
+        "node",
+        "node_modules/vite/bin/vite.js",
+        "build"
+      ],
+      "startedAt": "2026-10-25T03:57:22.868909+00:00",
+      "completedAt": "2026-10-25T03:57:34.466921+00:00",
+      "exitCode": 0
+    }
+  ],
+  "exitCode": 0,
+  "sourceInstallation": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/source-install-r3/actual-r1/result.json",
+    "sha256": "932f9bbdf9d9181a35e8f9dde25616219c9c14f944688c1c8d4d0de8682ac28c",
+    "bytes": 544
+  },
+  "sourceManifest": {
+    "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/source-install-r3/manifest.json",
+    "sha256": "7d225f6a62012d86c87f8012ba91b09280ec782c28cadd75f79a28906ef18de5",
+    "bytes": 18858
+  },
+  "inputs": 1067,
+  "actualInputsUnchanged": true,
+  "stageInputsUnchanged": true,
+  "currentActualEqualsStage": true,
+  "buildControlsActualUnchanged": true,
+  "buildControlsStageUnchanged": true,
+  "frontendSixMatched": true,
+  "historicalR8StageSupplementExcluded": true,
+  "independentStage": "/private/tmp/M31-final-r9-og78xkue",
+  "distFiles": 238,
+  "distDeployed": false,
+  "unitTestRuns": 0,
+  "browserReruns": 0,
+  "sourceScanReplays": 0,
+  "productWrites": 0,
+  "privateReads": 0,
+  "privateWrites": 0,
+  "GitWrites": 0,
+  "HTTP": 0,
+  "SQL": 0,
+  "services": 0,
+  "RootAccepted": false,
+  "UserAcceptance": "PENDING"
+}

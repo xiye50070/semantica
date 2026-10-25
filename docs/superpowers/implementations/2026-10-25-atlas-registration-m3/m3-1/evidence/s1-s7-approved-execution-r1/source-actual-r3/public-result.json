@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "status": "SOURCE_PREPARATION_STOPPED",
+  "reason": "CHECK_TOKEN_UNSUPPORTED",
+  "unknown": false,
+  "writesAcked": 66,
+  "writesReserved": 66,
+  "explicitReadsReserved": 25,
+  "connectionsReserved": 1,
+  "noAutomaticRetryOrRollback": true,
+  "attempt": 3,
+  "priorAttemptRef": {
+    "publicResult": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r1/public-result.json",
+      "sha256": "8c1ba91c339ad01003d69697f55b6228e402b2f8d6ee37b5537aa8b74727fb8c",
+      "bytes": 257
+    },
+    "ledger": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r1/ledger.jsonl",
+      "sha256": "d08f9e915a9726490953922dc8d9f4dbb92d2812e86e5a0dcaf6bb11fb821efc",
+      "bytes": 2130
+    },
+    "status": "SOURCE_PREPARATION_UNKNOWN",
+    "explicitReadsReserved": 1,
+    "connectionsReserved": 1,
+    "writesAcked": 0,
+    "writesReserved": 0,
+    "readerPasswordGenerationReached": false,
+    "readUnknownPreserved": true
+  },
+  "cumulativeExplicitReadsReserved": 32,
+  "cumulativeConnectionsReserved": 3,
+  "cumulativeWritesAcked": 66,
+  "priorReadUnknownPreserved": true,
+  "additionalPriorAttemptRef": {
+    "publicResult": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r2/public-result.json",
+      "sha256": "d0a877206caafec01422e29802ede6222e95413823b12bc666bb5225d576dd20",
+      "bytes": 1342
+    },
+    "ledger": {
+      "path": "/Users/wangmingzhang/Env/semantica/docs/superpowers/implementations/2026-10-25-atlas-registration-m3/m3-1/evidence/s1-s7-approved-execution-r1/source-actual-r2/ledger.jsonl",
+      "sha256": "02e937a76f75d2d7d3db2c167bed4eca13ef4c85fb06dd0e0c8b53bc0a241d64",
+      "bytes": 6866
+    },
+    "status": "SOURCE_PREPARATION_UNKNOWN",
+    "explicitReadsReserved": 6,
+    "connectionsReserved": 1,
+    "writesAcked": 0,
+    "writesReserved": 0,
+    "readerPasswordGenerationReached": false,
+    "readUnknownPreserved": true
+  },
+  "additionalReadUnknownPreserved": true
+}

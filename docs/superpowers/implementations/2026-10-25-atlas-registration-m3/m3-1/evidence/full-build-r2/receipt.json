@@ -1,0 +1,28 @@
+{
+  "startedAt": "2026-10-25T02:53:42.071442+00:00",
+  "completedAt": "2026-10-25T02:53:58.846424+00:00",
+  "exitCode": 0,
+  "inputCount": 2698,
+  "overlayCount": 12,
+  "candidateDrift": [],
+  "stageDrift": [],
+  "stdout": {
+    "sha256": "3953c33c0c1b78a644742df67185b73914c6cb8aa9a24b5a325d32a858adf01c",
+    "bytes": 40917
+  },
+  "stderr": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  "artifact": {
+    "path": "/private/tmp/atlas-m31-full-build-r2-source/atlas-module-infra/atlas-module-infra-server/target/atlas-module-infra-server.jar",
+    "sha256": "4a7b7346ac315f2f56a9bb6f5ecec4150f316e91cfb8e3470d595fd54adfa00a",
+    "bytes": 178866486
+  },
+  "sourceWrites": 0,
+  "GitWrites": 0,
+  "HTTP": 0,
+  "SQL": 0,
+  "serviceActions": 0,
+  "tests": "SKIPPED_PACKAGE_ONLY"
+}
