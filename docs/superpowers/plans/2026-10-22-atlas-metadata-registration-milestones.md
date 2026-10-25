@@ -2484,13 +2484,13 @@ Root 继续节点独立验收，不成为例行读取/安装/验证的逐步许�
 
 交付父基线：Cloud `a0754ada3e04e60c7e0ddf6392da267d014e83ff`、React `47bba3150f7eb7ebaa92d4f53454a4cfae64c24e`，均在 `codex/atlas-om-semantica`；文档 `codex/atlas-registration-m1-docs` 为 `0c202dbb2d9403c0592fb88a79d73598c6b1f60a`。Cloud 3 / React 16 旧 tracked WIP、Semantica 本地 main `315216c6808c99542ac912a0a2f26bef7b988346`、347 个无关提交及真实 index 保持；后续只交本节点 hunk 和必要公开安全证据。
 
-**Root M3/M4 当前检查点（2026-10-25 23:11监督轮，截至23:28北京时间；当前授权M3→M9，后续前向替换本块）：**
+**Root M3/M4 当前检查点（2026-10-25 23:11监督轮，截至23:32北京时间；当前授权M3→M9，后续前向替换本块）：**
 
-**M3.1已独立有限技术接受，代码Git已远端核同，文档Git收尾中。** Root于15:18UTC完成非作者验收，报告见[本节点Root独立验收](../implementations/2026-10-25-atlas-registration-m3/m3-1/m3-1-root-acceptance.md)，状态ROOT_ACCEPTED_FINITE_TECHNICAL。S1真实28表254列28PK26FK23UNIQUE25CHECK、S7独立3表13列3PK2FK；全部字段/类型/默认值/可空/注释、约束有序列/FK逐对目标与既有公开物理副本逐项一致，25CHECK均UNSUPPORTED。Root亲读原结果/AX/两张截图，两有界非作者分别核全结构和23源Git范围，均收束；原S4分页/取消/上限、失效/漂移及有限构建证据复用，不重复整套测试。
+**M3.1已独立有限技术接受，三仓产品与验收载荷Git已远端核同，回执收尾中。** Root于15:18UTC完成非作者验收，报告见[本节点Root独立验收](../implementations/2026-10-25-atlas-registration-m3/m3-1/m3-1-root-acceptance.md)，状态ROOT_ACCEPTED_FINITE_TECHNICAL。S1真实28表254列28PK26FK23UNIQUE25CHECK、S7独立3表13列3PK2FK；全部字段/类型/默认值/可空/注释、约束有序列/FK逐对目标与既有公开物理副本逐项一致，25CHECK均UNSUPPORTED。Root亲读原结果/AX/两张截图，两有界非作者分别核全结构和23源Git范围，均收束；原S4分页/取消/上限、失效/漂移及有限构建证据复用，不重复整套测试。
 
 S1发现66a1ea11-12b9-4eaa-a0a0-b6be6f899316，hash d0c218b1…，15:03:22.766UTC完成；真实20+8分页、跨页保reg_equity_holding并加入7张fin_表，v2精确8张。S7发现cd405b8a-1b9d-41d8-89f8-9ba9c924ed98，hash b734e7d3…，15:12:02.085完成；v1 sales_order→v2 payment+sales_order。两份固定应用DM回读于15:12:58–59UTC核完整快照hash/名单及两版，Root另核公开物理字段一致；未选reg_legal_entity/customer仍为依赖，不自动扩选。账号可发现范围、expected缺项、allPhysicalMetadataVerified=false保持。DM回读configCurrentness=false、连接关联依据浏览器请求回执，不能单独冒当前授权；Root结合本次普通104 login/SELF和页面核定。S1/S7到期15:18:22.889660/15:27:02.142638，现均到期，保原历史，后继不得借到期发现或窗口直接派发。
 
-**代码交付已完成。** 原Work官方两仓commit/push结果及Root独立ls-remote一致：Cloud17路径a97844ca4452afda81b236da9f178dca02d91c99，React6路径cbd9a7712b00be52332722b1eb95017a076a2774，均codex/atlas-om-semantica。23路径与最终manifest逐字一致；5旧HEAD=current-before、18新此前无blob，Cloud3/React16旧WIP及范围外索引/untracked保持、staged为空。Semantica仍在main315216c6…且真实index SHA00a8fcd2…不变；Root正以独立index从docs父0c202dbb…仅交精选公开文件，不pushmain/整E/PR/合main。三仓Git全部远端核同才放行M3.2；当前代码完成不冒文档Git已完成。Work新turn01a173a6-00a4-7ea0-a762-b6bbad22cb1b active，自1792941621，已读cursor67；Root承担Semantica Git，避免并发写。
+**代码交付已完成。** 原Work官方两仓commit/push结果及Root独立ls-remote一致：Cloud17路径a97844ca4452afda81b236da9f178dca02d91c99，React6路径cbd9a7712b00be52332722b1eb95017a076a2774，均codex/atlas-om-semantica。23路径与最终manifest逐字一致；5旧HEAD=current-before、18新此前无blob，Cloud3/React16旧WIP及范围外索引/untracked保持、staged为空。Semantica仍在main315216c6…且真实index SHA00a8fcd2…不变；Root已以独立index从docs父0c202dbb…交精选23份公开文件，载荷6a1ef6aca90ecf6df370f9ffe3c7aafa79c4628f于15:30:59UTC正常push/remote核同，未pushmain/整E/PR/合main。首次CreateProcess被自动审批拒绝后，Root只读核具体origin、当前用户对本docs分支的明确Git授权及敏感内容范围，硬锁目的地，同入口正常重审通过；没有绕过。见本节点Git交付回执。此后继回执只改四份文档，remote核同后正式放行M3.2，不在自身记录自身hash。Work turn01a173a6-00a4-7ea0-a762-b6bbad22cb1b completed/error=null，自1792941621至1792942041，cursor68，当前idle；Root文档Git完成后正常协调原Work继续。
 
 本轮套餐首读used8/余92，续核used9/余91，ordinary=true/spend=false/limit=null，仅套餐，无credits/reset/account/key。当前真人M3→M9与委托审批授权userMessage01a1737f-3eca-7e62-b8af-b044631217c2保持；原M3/M4/M5 NOT_GO旧限制不再阻挡，常规最小修复/有限验证/既定隔离测试及必要预算窗口差额由Root按具体方案审定，不重复问离线真人。实际工具本人要求/自动审批拒绝不能绕过；不扩无关生产权限、不可恢复破坏或付费。8小时汇总点2026-10-26 06:38北京时间（22:38:01UTC），checkpointReportDelivered=false，届时如实报告并继续目标，最终只READY_FOR_USER_ACCEPTANCE，真人PENDING。
 
@@ -2498,7 +2498,7 @@ S1发现66a1ea11-12b9-4eaa-a0a0-b6be6f899316，hash d0c218b1…，15:03:22.766UT
 
 Source原66写ACK/两reader凭据保，23只读尾段成功，累计55读6连接66原写ACK；r1/r2 UNKNOWN、r3本地CHECK_STOP unknown=false仅当次，所有原件/失败/键/意图/ACK/stop与latch不改，不重写DDL/GRANT/RNG/改名/DROP/清理。55/6/66仅M3准备累计，不是M3–M9总预算。TLS仅证加密1.2/1.3，非CA/hostname；物理副本与driver计数非全网抓包。Root本轮无产品测试/SQL/HTTP/浏览器操作/服务；只读独核、验收文档与精确Git。M1/M2接受/Git及原M0充分证据复用。
 
-后继仍按M3.2→M4.1/4.2/4.3→M5.1/5.2→M6.1/6.2/6.3→M7.1/7.2→M8.1/8.2/8.3→M9.1/9.2/9.3逐节点实证独验和Git，完整要求遵本账§7–13；不可用技术试验委托伪造最终人类签核。监督ACTIVE，原atlas/atlas-p1 PAUSED、atlas-m1不恢复；M9技术独验及精确Git全部完成后报告删除本监督。下一步完成Semantica精选文档交付并放行M3.2；无新增不反复索批/唤醒或堆材料。
+后继仍按M3.2→M4.1/4.2/4.3→M5.1/5.2→M6.1/6.2/6.3→M7.1/7.2→M8.1/8.2/8.3→M9.1/9.2/9.3逐节点实证独验和Git，完整要求遵本账§7–13；不可用技术试验委托伪造最终人类签核。监督ACTIVE，原atlas/atlas-p1 PAUSED、atlas-m1不恢复；M9技术独验及精确Git全部完成后报告删除本监督。下一步完成四份文档回执remote核同并放行M3.2；无新增不反复索批/唤醒或堆材料。
 
 
 ### 17.114 M3.1精确23源登记与候选复核（2026-10-25北京时间）

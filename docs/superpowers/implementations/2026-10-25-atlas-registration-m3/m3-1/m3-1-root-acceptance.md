@@ -1,6 +1,6 @@
 # M3.1 Root 独立技术验收
 
-结论：**ROOT_ACCEPTED_FINITE_TECHNICAL**，2026-10-25 15:18 UTC（北京时间23:18）。M3.1 的可见元数据发现和精确选择通过原操作卡的分层验收。Git 交付尚待单独回执；三仓精确提交、push 与 remote 核同完成后才能进入 M3.2。真人最终验收仍为 PENDING，不代表整个 M3、M4–M9 或业务全流程已完成。
+结论：**ROOT_ACCEPTED_FINITE_TECHNICAL**，2026-10-25 15:18 UTC（北京时间23:18）。M3.1 的可见元数据发现和精确选择通过原操作卡的分层验收。验收时Git待交付；15:30:59 UTC三仓产品与公开验收载荷已commit/push/remote核同，具体提交和后续回执见[m3-1-git-delivery.md](m3-1-git-delivery.md)，回执完成后进入M3.2。真人最终验收仍为 PENDING，不代表整个 M3、M4–M9 或业务全流程已完成。
 
 授权依据为唯一进度账 §17.113 当前 Root 块所记录的真人 M3→M9 连续推进与委托审批指令（官方 userMessage `01a1737f-3eca-7e62-b8af-b044631217c2`）。Root 本次承担非作者验收，未执行产品测试、SQL、HTTP、浏览器操作或服务切换。
 

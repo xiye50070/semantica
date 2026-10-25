@@ -1,6 +1,6 @@
 # M3.1 发现元数据与精确选表
 
-当前结论：**ROOT_ACCEPTED_FINITE_TECHNICAL**，Root于2026-10-25 15:18 UTC（北京时间23:18）完成独立验收。Cloud17与React6的精确代码提交、push及远端核同已完成，见[Git回执](evidence/git-delivery-main-r1/m31-code-delivery-final.md)。Semantica精选文档交付由Root执行；三仓远端核同后才进入M3.2。真人最终验收仍PENDING。
+当前结论：**ROOT_ACCEPTED_FINITE_TECHNICAL**，Root于2026-10-25 15:18 UTC（北京时间23:18）完成独立验收。Cloud17与React6的精确代码提交、push及远端核同已完成，见[Git回执](evidence/git-delivery-main-r1/m31-code-delivery-final.md)。Semantica精选23份文档载荷6a1ef6ac已远端核同，见[三仓交付](m3-1-git-delivery.md)；本次回执完成后进入M3.2。真人最终验收仍PENDING。
 
 S1已由Atlas真实发现28表254列、28PK/26FK/23UNIQUE/25CHECK，S7独立真实发现3表13列、3PK/2FK。S1全部25CHECK明确UNSUPPORTED；两来源各两版精确选表及一次固定应用DM回读均通过，未选FK目标未自动补选。源业务行读取0、OM对象登记0。
 
